@@ -1,0 +1,14 @@
+http:// {
+bind 0.0.0.0
+gzip
+    root
+
+    git {
+        repo ssh://git@docs.greenitglobe.com:10022/gig/www_gig.tech2.0.git
+        branch master
+        interval 300
+        key
+        path
+        then hugo -s 
+    }
+}
