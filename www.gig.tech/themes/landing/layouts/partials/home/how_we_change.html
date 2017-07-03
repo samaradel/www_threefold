@@ -1,0 +1,12 @@
+{{ range $element :=  .Data.Pages }}
+  {{ if eq .Section "home" }}
+    {{ if eq .Title "how we change" }}
+      <div class="sqs-block markdown-block sqs-block-markdown" data-block-type="44" id="block-yui_3_17_2_2_1498747640142_50996">
+         <div class="sqs-block-content">
+            <h2 id="with-this-we-will-radically-change-the-internet">{{ .Params.header }}</h2>
+            <p>{{ .Content }}</p>
+         </div>
+      </div>
+    {{end}}
+  {{end}}
+{{end}}

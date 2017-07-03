@@ -1,0 +1,30 @@
+{{ range $element :=  .Data.Pages }}
+  {{ if eq .Section "header" }}
+    {{ if eq .Title "header" }}
+      <header class="Header Header--top">
+         <div class="Header-inner Header-inner--top" data-nc-group="top">
+            <div data-nc-container="top-left">
+               <nav class="Header-nav Header-nav--secondary" data-nc-element="secondary-nav" data-content-field="navigation">
+               </nav>
+            </div>
+            <div data-nc-container="top-center">
+               <nav class="Header-nav Header-nav--primary" data-nc-element="primary-nav" data-content-field="navigation">
+                  <div class="Header-nav-inner">
+                    {{ range .Site.Menus.main }}
+                    <a title="{{ .URL }}" href="{{ .URL | relLangURL }}" class="Header-nav-item" ata-test="template-nav" {{ if $.IsHome }} data-target="{{ .URL }}" class="Header-nav-item--active" {{ end }}>
+                      {{ .Name }}
+                    </a>
+                    {{end}}
+                  </div>
+               </nav>
+               <a href="/" class="Header-branding" data-nc-element="branding" data-content-field="site-title">
+               <img src="img/{{ .Params.branding_logo }}" alt="GIG.tech" class="Header-branding-logo">
+               </a>
+            </div>
+            <div data-nc-container="top-right">
+            </div>
+         </div>
+      </header>
+    {{end}}
+  {{end}}
+{{end}}

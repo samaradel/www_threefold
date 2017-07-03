@@ -1,0 +1,86 @@
+{{ range $element :=  .Data.Pages }}
+  {{ if eq .Section "home" }}
+    {{ if eq .Title "how do we do this" }}
+      <div class="sqs-block markdown-block sqs-block-markdown" data-block-type="44" id="block-yui_3_17_2_2_1498747640142_57328">
+         <div class="sqs-block-content">
+            <h2 id="how-do-we-do-this">{{ .Params.header }}</h2>
+         </div>
+      </div>
+      <div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="0.08849557522123894" data-block-type="21" id="block-yui_3_17_2_10_1498555190027_78496">
+         <div class="sqs-block-content sqs-intrinsic" style="padding-bottom: 0.0884956%;" id="yui_3_17_2_1_1498864945728_176">&nbsp;</div>
+      </div>
+      <div class="row sqs-row" id="yui_3_17_2_1_1498864945728_71">
+         <div class="col sqs-col-4 span-4" id="yui_3_17_2_1_1498864945728_70">
+            <div class="sqs-block image-block sqs-block-image sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_6_1498555190027_52892">
+               <div class="sqs-block-content" id="yui_3_17_2_1_1498864945728_69">
+                  <div class="image-block-outer-wrapper layout-caption-below design-layout-inline sqs-narrow-width" id="yui_3_17_2_1_1498864945728_68">
+                     <div class="intrinsic" style="max-width:91.0px;" id="yui_3_17_2_1_1498864945728_67">
+                        <div style="padding-bottom:98.9011001586914%;" class="image-block-wrapper   has-aspect-ratio" data-description="" id="yui_3_17_2_1_1498864945728_66">
+                           <noscript>
+                             <img src="img/{{ .Params.first_sec_img }}"  /></noscript>
+                           <img class="thumb-image loaded" data-src="img/{{ .Params.first_sec_img }}" data-image="img/{{ .Params.first_sec_img }}" data-image-dimensions="91x90" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5952715fe3df282d2a6a1c43" data-type="image" style="top: 0%; left: 0%; width: 100%; height: 100%; position: absolute;" src="img/{{ .Params.first_sec_img }}" data-image-resolution="100w">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col sqs-col-4 span-4" id="yui_3_17_2_1_1498864945728_97">
+            <div class="sqs-block image-block sqs-block-image sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_6_1498555190027_54858">
+               <div class="sqs-block-content" id="yui_3_17_2_1_1498864945728_96">
+                  <div class="image-block-outer-wrapper layout-caption-below design-layout-inline sqs-narrow-width" id="yui_3_17_2_1_1498864945728_95">
+                     <div class="intrinsic" style="max-width:91.0px;" id="yui_3_17_2_1_1498864945728_94">
+                        <div style="padding-bottom:98.9011001586914%;" class="image-block-wrapper   has-aspect-ratio" data-description="" id="yui_3_17_2_1_1498864945728_93">
+                           <noscript><img src="img/{{ .Params.second_sec_img }}"  /></noscript>
+                           <img class="thumb-image loaded" data-src="img/{{ .Params.second_sec_img }}" data-image="img/{{ .Params.second_sec_img }}" data-image-dimensions="91x90" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="59527169414fb50870dea840" data-type="image" style="top: 0%; left: 0%; width: 100%; height: 100%; position: absolute;" src="img/{{ .Params.second_sec_img }}" data-image-resolution="100w">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col sqs-col-4 span-4" id="yui_3_17_2_1_1498864945728_115">
+            <div class="sqs-block image-block sqs-block-image sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_6_1498555190027_56250">
+               <div class="sqs-block-content" id="yui_3_17_2_1_1498864945728_114">
+                  <div class="image-block-outer-wrapper layout-caption-below design-layout-inline sqs-narrow-width" id="yui_3_17_2_1_1498864945728_113">
+                     <div class="intrinsic" style="max-width:90.0px;" id="yui_3_17_2_1_1498864945728_112">
+                        <div style="padding-bottom:100.0%;" class="image-block-wrapper   has-aspect-ratio" data-description="" id="yui_3_17_2_1_1498864945728_111">
+                           <noscript><img src="img/{{ .Params.third_sec_img }}"  /></noscript>
+                           <img class="thumb-image loaded" data-src="img/{{ .Params.third_sec_img }}" data-image="img/{{ .Params.third_sec_img }}" data-image-dimensions="90x90" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="595271776b8f5bdb8bd53594" data-type="image" style="top: 0%; left: 0%; width: 100%; height: 100%; position: absolute;" src="img/{{ .Params.third_sec_img }}" data-image-resolution="100w">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="row sqs-row">
+         <div class="col sqs-col-4 span-4">
+            <div class="sqs-block markdown-block sqs-block-markdown" data-block-type="44" id="block-yui_3_17_2_2_1498812532174_28422">
+               <div class="sqs-block-content">
+                  <h3 id="zero-os">{{ .Params.first_sec_header }}</h3>
+                  <p>{{ .Params.first_sec_content }}</p>
+               </div>
+            </div>
+         </div>
+         <div class="col sqs-col-4 span-4">
+            <div class="sqs-block markdown-block sqs-block-markdown" data-block-type="44" id="block-yui_3_17_2_2_1498812532174_29835">
+               <div class="sqs-block-content">
+                  <h3 id="artificial-intelligence">{{ .Params.second_sec_header }}</h3>
+                  <p>{{ .Params.second_sec_content }}</p>
+               </div>
+            </div>
+         </div>
+         <div class="col sqs-col-4 span-4">
+            <div class="sqs-block markdown-block sqs-block-markdown" data-block-type="44" id="block-yui_3_17_2_2_1498812532174_31275">
+               <div class="sqs-block-content">
+                  <h3 id="blockchain">{{ .Params.third_sec_header }}</h3>
+                  <p>{{ .Params.third_sec_content }}</p>
+               </div>
+            </div>
+         </div>
+         <div class="col sqs-col-0 span-0"></div>
+      </div>
+    {{end}}
+  {{end}}
+{{end}}
