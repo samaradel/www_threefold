@@ -1,5 +1,6 @@
-{{ range $element :=  .Data.Pages }}
+{{ range $element :=  $.Site.Pages }}
   {{ if eq .Section "footer" }}
+      {{ if eq .Title "footer" }}
     <footer class="Footer" role="contentinfo" data-controller="FooterBreakpoints" id="yui_3_17_2_1_1498864945728_155" data-controllers-bound="FooterBreakpoints">
        <div class="Footer-inner clear" id="yui_3_17_2_1_1498864945728_154">
           <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--top sqs-alternate-block-style-container" data-layout-label="Footer Top Blocks" data-type="block-field" data-updated-on="1498551701121" id="footerBlocksTop">
@@ -10,8 +11,13 @@
                          <div class="image-block-outer-wrapper layout-caption-below design-layout-inline" id="yui_3_17_2_1_1498864945728_150">
                             <div class="intrinsic" style="max-width:69.0px;" id="yui_3_17_2_1_1498864945728_149">
                                <div style="padding-bottom:44.92753601074219%;" class="image-block-wrapper   has-aspect-ratio" data-description="" id="yui_3_17_2_1_1498864945728_148">
+                                 {{ if eq .Section "home" }}
                                   <noscript><img src="img/{{ .Params.image }}"  /></noscript>
                                   <img class="thumb-image loaded" data-src="img/{{ .Params.image }}" data-image="img/{{ .Params.image }}" data-image-dimensions="69x31" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5952157cccf210222f4d0676" data-type="image" style="top: 0%; left: 0%; width: 100%; height: 100%; position: absolute;" src="img/{{ .Params.image }}" data-image-resolution="100w">
+                                  {{else}}
+                                  <noscript><img src="../img/{{ .Params.image }}"  /></noscript>
+                                  <img class="thumb-image loaded" data-src="../img/{{ .Params.image }}" data-image="../img/{{ .Params.image }}" data-image-dimensions="69x31" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5952157cccf210222f4d0676" data-type="image" style="top: 0%; left: 0%; width: 100%; height: 100%; position: absolute;" src="../img/{{ .Params.image }}" data-image-resolution="100w">
+                                  {{end}}
                                </div>
                             </div>
                          </div>
@@ -43,4 +49,5 @@
        </div>
     </footer>
   {{end}}
+{{end}}
 {{end}}

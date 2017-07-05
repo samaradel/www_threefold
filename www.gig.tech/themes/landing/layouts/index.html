@@ -1,94 +1,54 @@
-<!DOCTYPE html>
-<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:website="http://ogp.me/ns/website" itemscope="" itemtype="http://schema.org/WebPage" data-authenticated-account="" class="yui3-js-enabled js flexbox canvas canvastext webgl no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms no-csstransforms3d csstransitions video audio svg inlinesvg svgclippaths wf-proximanova-n3-active wf-proximanova-n4-active wf-proximanova-n6-active wf-proximanova-n7-active wf-proximanova-i3-active wf-proximanova-i7-active wf-dincondensedweb-n4-active wf-active" style="" id="yui_3_17_2_1_1498864945728_79" lang="en-US">
-   <div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important"></div>
    {{ partial "head.html" . }}
    {{ partial "mobile-bar.html" . }}
-      <div class="Parallax-host-outer">
-         <div class="Parallax-host" data-parallax-host="">
-         </div>
-      </div>
-      <div class="Site loaded" data-nc-base="header" data-controller="AncillaryLayout" id="yui_3_17_2_1_1498864945728_78" data-controllers-bound="AncillaryLayout">
-         <div class="sqs-announcement-bar-dropzone">
-            <div class="sqs-announcement-bar-custom-location">
-               <div id="yui_3_17_2_1_1498864945728_198" class="yui3-widget sqs-widget sqs-announcement-bar sqs-announcement-bar-hidden" style="height: 21px;">
-                  <div id="yui_3_17_2_1_1498864945728_200" class="sqs-announcement-bar-content">
-                     <div class="sqs-announcement-bar-text">
-                        <span class="sqs-announcement-bar-close"></span>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
+      {{ partial "parallax.html" . }}
           {{ partial "header.html" . }}
-         <div class="Site-inner" id="yui_3_17_2_1_1498864945728_77">
-            <header class="Header Header--bottom">
-               <div class="Header-inner Header-inner--bottom" data-nc-group="bottom">
-                  <div data-nc-container="bottom-left">
-                  </div>
-                  <div data-nc-container="bottom-center">
-                  </div>
-                  <div data-nc-container="bottom-right">
-                     <div class="Header-search" data-nc-element="search">
-                        <form class="Header-search-form" action="/search" method="get">
-                           <input class="Header-search-form-input" name="q" spellcheck="false" autocomplete="off" placeholder="Search" type="text">
-                           <button class="Header-search-form-submit" type="submit" data-test="template-search">
-                              <svg class="Icon Icon--search--small" viewBox="0 0 15 15">
-                                 <use xlink:href="#search-icon--small"></use>
-                              </svg>
-                              <svg class="Icon Icon--search" viewBox="0 0 20 20">
-                                 <use xlink:href="#search-icon"></use>
-                              </svg>
-                           </button>
-                        </form>
-                     </div>
-                  </div>
-               </div>
-            </header>
-            <div class="Content-outer" id="yui_3_17_2_1_1498864945728_76">
-               <main class="Main Main--page" id="yui_3_17_2_1_1498864945728_75">
-                  <section class="Main-content" data-content-field="main-content" id="yui_3_17_2_1_1498864945728_74">
-                     <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1498812672771" id="page-595210a21e5b6cb1b7ef56ce">
+         <div class="Site-inner">
+            {{ partial "header-search.html" . }}
+            <div class="Content-outer">
+               <main class="Main Main--page">
+                  <section class="Main-content" data-content-field="main-content">
+                     <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1498812672771">
                         <div class="row sqs-row">
                            <div class="col sqs-col-2 span-2">
-                              <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-856cc10402ee15f903a8">
+                              <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21">
                                  <div class="sqs-block-content">&nbsp;</div>
                               </div>
                            </div>
 
                            <div class="col sqs-col-8 span-8">
-                              <div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_2_1498555190027_18826">
+                              <div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47">
                                  <div class="sqs-block-content">
                                     <hr>
                                  </div>
                               </div>
                               {{ partial "home/edge_cloud.html" . }}
-                              <div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="16.307277628032345" data-block-type="21" id="block-yui_3_17_2_4_1498555190027_16124">
-                                 <div class="sqs-block-content sqs-intrinsic" style="padding-bottom: 16.3073%;" id="yui_3_17_2_1_1498864945728_170">&nbsp;</div>
+                              <div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="16.307277628032345" data-block-type="21">
+                                 <div class="sqs-block-content sqs-intrinsic" style="padding-bottom: 16.3073%;">&nbsp;</div>
                               </div>
                               {{ partial "home/how_we_change.html" . }}
                            </div>
                            <div class="col sqs-col-2 span-2">
-                              <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-78a899b3762efec4df2e">
+                              <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21">
                                  <div class="sqs-block-content">&nbsp;</div>
                               </div>
                            </div>
                         </div>
-                        <div class="row sqs-row" id="yui_3_17_2_1_1498864945728_73">
-                           <div class="col sqs-col-12 span-12" id="yui_3_17_2_1_1498864945728_72">
+                        <div class="row sqs-row">
+                           <div class="col sqs-col-12 span-12">
                               <div class="row sqs-row">
                                  <div class="col sqs-col-6 span-6">
-                                    <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_2_1498555190027_6474">
+                                    <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21">
                                        <div class="sqs-block-content">&nbsp;</div>
                                     </div>
                                  </div>
                                  <div class="col sqs-col-6 span-6">
-                                    <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_2_1498555190027_8065">
+                                    <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21">
                                        <div class="sqs-block-content">&nbsp;</div>
                                     </div>
                                  </div>
                               </div>
-                              <div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="14.690265486725664" data-block-type="21" id="block-yui_3_17_2_6_1498555190027_67798">
-                                 <div class="sqs-block-content sqs-intrinsic" style="padding-bottom: 14.6903%;" id="yui_3_17_2_1_1498864945728_173">&nbsp;</div>
+                              <div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="14.690265486725664" data-block-type="21">
+                                 <div class="sqs-block-content sqs-intrinsic" style="padding-bottom: 14.6903%;">&nbsp;</div>
                               </div>
                               {{ partial "home/how_do_we_do_this.html" . }}
                               {{ partial "home/bigger_picture.html" . }}
