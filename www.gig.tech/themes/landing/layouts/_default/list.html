@@ -9,6 +9,8 @@
                <div class="Content-outer">{{ .Render "tech" }}</div>
                {{ else if eq .Section "blog"}}
                <div class="Content-outer">{{ .Render "blog" }}</div>
+               {{ else if eq .Section "gig-people" }}
+               <div class="Content-outer">{{ .Render "gig-people" }}</div>
             {{end}}
           {{end}}
       </div>
