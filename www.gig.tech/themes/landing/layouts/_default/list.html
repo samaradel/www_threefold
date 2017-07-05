@@ -11,6 +11,8 @@
                <div class="Content-outer">{{ .Render "blog" }}</div>
                {{ else if eq .Section "gig-people" }}
                <div class="Content-outer">{{ .Render "gig-people" }}</div>
+               {{ else if eq .Section "contact-foster" }}
+               <div class="Content-outer">{{ .Render "contact-foster" }}</div>
             {{end}}
           {{end}}
       </div>
