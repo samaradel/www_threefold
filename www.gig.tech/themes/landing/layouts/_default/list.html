@@ -6,9 +6,9 @@
          {{ partial "header-search.html" . }}
          {{ range .Data.Pages }}
 						 {{ if eq .Section "tech" }}
-							 {{ if eq .Title "tech" }}
                <div class="Content-outer">{{ .Render "tech" }}</div>
-              {{end}}
+               {{ else if eq .Section "blog"}}
+               <div class="Content-outer">{{ .Render "blog" }}</div>
             {{end}}
           {{end}}
       </div>
