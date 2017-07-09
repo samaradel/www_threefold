@@ -4,17 +4,19 @@
        {{ partial "header.html" . }}
       <div class="Site-inner">
          {{ partial "header-search.html" . }}
-         {{ range .Data.Pages }}
-						 {{ if eq .Section "tech" }}
-               <div class="Content-outer">{{ .Render "tech" }}</div>
-               {{ else if eq .Section "blog"}}
-               <div class="Content-outer">{{ .Render "blog" }}</div>
-               {{ else if eq .Section "gig-people" }}
-               <div class="Content-outer">{{ .Render "gig-people" }}</div>
-               {{ else if eq .Section "contact-foster" }}
-               <div class="Content-outer">{{ .Render "contact-foster" }}</div>
-            {{end}}
-          {{end}}
+          {{ range $p := (.Paginate .Data.Pages).Pages }}
+          	{{ if eq .Section "tech" }}
+        		  <div class="Content-outer">{{ $p.Render "tech" }}</div>
+        	  {{else if eq .Section "blog" }}
+            <div class="Content-outer">{{ $p.Render "blog" }}</div>
+                {{ else if eq .Section "gig-people" }}
+                <div class="Content-outer">{{ $p.Render "gig-people" }}</div>
+                {{ else if eq .Section "contact-foster" }}
+                <div class="Content-outer">{{ $p.Render "contact-foster" }}</div>
+                {{else}}
+  						<div class="Content-outer">{{ $p.Render "summary" }}</div>
+        	  {{end}}
+          {{ end }}
       </div>
        {{ partial "footer.html" . }}
    </div>
