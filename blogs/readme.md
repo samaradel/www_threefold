@@ -4,4 +4,4 @@ is markdown only format !!!
 
 follow our writing rules
 
-[Blog](www.gig.tech/content/blog)
+[Blog](src/www.gig.tech/content/blog)
