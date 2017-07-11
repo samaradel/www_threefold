@@ -29,4 +29,4 @@ In conclusion:
 > 
 > **Accountability in a decentralized setting leads us to the blockchain**
 
-Each of the parts of this story will be a blogpost of its own. 
+Each of the parts of this story will be a blogpost of its own.
