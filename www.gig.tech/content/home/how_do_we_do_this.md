@@ -6,7 +6,7 @@ header = "HOW DO WE DO THIS"
 
 first_sec_img = "a_004.png"
 first_sec_header = "ZERO-OS"
-first_sec_content = "Microservices are the future - IOT requires information to be sensed, processed and stored in the same location.  We need pervasive capacity to do this this and this is impossible to achieve using distributed hardware operating bulky host operating systems.  We need a minimal operating systems, exposing all the hardware peripheals in the local hardware to the hypervisors of local containers with zero local footprint in terms of file or state storage.  ZERO-OS is a stateless minimal Operating System, securely booted from a central hub."
+first_sec_content = "To create pervasive distributed capacity is not viable by using bulky statefull host operating systems.  We need a minimal operating system with zero local footprint for file or state storage.  ZERO-OS is a stateless minimal Operating System, container enabled, securely booted from a central hub."
 
 second_sec_img = "a_0033.png"
 second_sec_header = "ARTIFICIAL INTELLIGENCE"
