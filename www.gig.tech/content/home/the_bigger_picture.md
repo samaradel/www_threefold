@@ -13,6 +13,6 @@ The Internet is a global network comprising many voluntarily [interconnected aut
 GIG.tech aspires to change this by creating and distributing technology that provides neutral, private and secure internet capacity for _everyone_ in the world.  This capacity is generated near actual endusers in a very efficient manner using standard (hardware) and opensource software where possible.
 
 GIG.tech  creates technology supporting three main streams of innovation
-- zero-os.  A stateless  operating system enabling distributed hardware to form a grid of capacity that fuels the neutral, private and secure internet.
-- Artificial Intelligence  controls and operates the distributed capacity and reserves, procures, distributes and actuates workloads on the grid capacity created by zero-os. It creates an autoscaling and self healing capacity pool for Information Technology workloads to exists and to be cared for by non-human workers eg. software robots.
-- Identity Management for all users to have supplier independent authentication and authorisation means by using a decentralised data store based on blockchain technology.
+- ZERO-OS.  A stateless  operating system enabling distributed hardware to form a grid of capacity that fuels the neutral, private and secure internet.
+- AI - Artificial Intelligence controls and operates the distributed capacity and reserves, procures, distributes and actuates workloads on the grid capacity created by zero-os. It creates an autoscaling and self healing capacity pool for Information Technology workloads to exists and to be cared for by non-human workers eg. software robots.
+- IM - Identity Management for all users to have supplier independent authentication and authorisation means by using a decentralised data store based on blockchain technology.
