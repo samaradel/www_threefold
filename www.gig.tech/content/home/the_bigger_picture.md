@@ -16,9 +16,8 @@ GIG.tech aspires to change all of this by creating and distributing technology t
 
 GIG.tech  creates technology supporting three main streams of innovation
 
-- - ZERO-OS.  A stateless  operating system enabling distributed hardware to form a grid of capacity that fuels the neutral, private and secure internet.
-- AI - Artificial Intelligence controls and operates the distributed capacity and reserves, procures, distributes and actuates workloads on the grid capacity created by zero-os. It creates an autoscaling and self healing capacity pool for Information Technology workloads to exists and to be cared for by non-human workers eg. software robots.
-- IM - Identity Management for all users to have supplier independent authentication and authorisation means by using a decentralised data store based on blockchain technology.
-
+- ZERO-OS.  A stateless  operating system enabling distributed hardware to form a grid of capacity that fuels the neutral, private and secure internet.
+- AI. Artificial Intelligence controls and operates the distributed capacity and reserves, procures, distributes and actuates workloads on the grid capacity created by zero-os. It creates an autoscaling and self healing capacity pool for Information Technology workloads to exists and to be cared for by non-human workers eg. software robots.
+- IM. Identity Management for all users to have supplier independent authentication and authorisation means by using a decentralised data store based on blockchain technology.
 
 These three elements are the foundation of a pervasive, neutral, private and affordable internet that operates and delivers withough a central governing body.
