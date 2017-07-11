@@ -17,4 +17,4 @@ GIG.tech  creates technology supporting three main streams of innovation
 - AI - Artificial Intelligence controls and operates the distributed capacity and reserves, procures, distributes and actuates workloads on the grid capacity created by zero-os. It creates an autoscaling and self healing capacity pool for Information Technology workloads to exists and to be cared for by non-human workers eg. software robots.
 - IM - Identity Management for all users to have supplier independent authentication and authorisation means by using a decentralised data store based on blockchain technology.
 
-These three elements are the foundation of a pervasice, neutral, private and affordable internet that operates and delivers withough a central governing body.
+These three elements are the foundation of a pervasive, neutral, private and affordable internet that operates and delivers withough a central governing body.
