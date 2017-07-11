@@ -1,8 +1,8 @@
 +++
 #Don't remove name!
-title = "how do we do this"
+title = "this is how we do it"
 
-header = "HOW DO WE DO THIS"
+header = "THIS IS HOW WE DO IT"
 
 first_sec_img = "a_004.png"
 first_sec_header = "ZERO-OS"
