@@ -14,5 +14,5 @@ second_sec_content = "Orchestrating pervasive distributed capacity cannot be don
 
 third_sec_img = "a_005.png"
 third_sec_header = "BLOCKCHAIN"
-third_sec_content = "Private and neutral pervasive, distributed capacity requires a different approach for Identity Management. End user information should be controlled by endusers instead of being stored and controlled in a central database.  The blockchain technology makes this a reality"
+third_sec_content = "Private and neutral pervasive, distributed capacity requires a different approach for Identity Management. End user information should be controlled by endusers instead of being stored and controlled in a central database.  Blockchain technology makes this a reality"
 +++
