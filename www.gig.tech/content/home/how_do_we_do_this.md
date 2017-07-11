@@ -10,9 +10,9 @@ first_sec_content = "To create pervasive distributed capacity is not viable by u
 
 second_sec_img = "a_0033.png"
 second_sec_header = "ARTIFICIAL INTELLIGENCE"
-second_sec_content = "At Your Service / Jumpscale is our artificial intelligent software capable of configuring and maintaining over 1 million nodes with 0 people involved. In a comprehensive fashion and  readable / easy to learn format.This enables anyone to design and deploy virtual datacenters in a matter of minutes."
+second_sec_content = "Orchestrating pervasive distributed capacity cannot be done by humans.  Efficient operations requires actors and software robots to automate maintenance and operational tasks.  At You Service implements a framework for artificial intelligence for managing distributed IT workloads."
 
 third_sec_img = "a_005.png"
 third_sec_header = "BLOCKCHAIN"
-third_sec_content = "Our proof of stake blockchain technology (Rivine) &amp; blockchain powered Identity Management System (Itsyou.online) keep our distributed cloud 100% neutral and private. With no mining needed also our blockchain is over a 10x more sustainable than others."
+third_sec_content = "Private and neutral pervasive, distributed capacity requires a different approach for Identity Management. End user information should be controlled by endusers instead of being stored and controlled in a central database.  The blockchain technology makes this a reality"
 +++
