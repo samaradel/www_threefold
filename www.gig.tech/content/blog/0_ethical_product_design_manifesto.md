@@ -1,27 +1,19 @@
-+++
-# Don't remove name!
-title = "blog"
-header = "Ethical Product Design Manifesto"
-thumbnail = "stephanie-krist-72013.jpg"
-image = "stephanie-krist-72013.jpg"
-author = "Roel van Sabben"
-subtitle = "Respect Human Rights, Human Effort & Human Experience"
 
-content_image  = "download.png"
-+++
 
 ## RESPECT HUMAN RIGHTS
+
+Everything we work on has to be:
 
 - Sustainable = green (our world needs some help)
 - Available for all: which also means affordable, not owned by a big company with as purpose greed.
 - Decentralized: make sure technology is available everywhere
-- Open & interoperable: allow techno to work together in open way
-- Accessible: easy to access, fast enough, everywhere in the world
-- Secure & private: your privacy is a right
+- Open & inter-operable: allow technology to work together in an open way
+- Accessible: easy to access, fast and everywhere in the world
+- Secure & private: your privacy is a [Human Right](http://www.ohchr.org/EN/Issues/DigitalAge/Pages/DigitalAgeIndex.aspx)
 
 ## RESPECT HUMAN EFFORT
 
-- Make sure technology is reliable and lasts longer (no need to replace in 5 years).
+- Make sure technology is reliable and lasts longer (break the 5 years technology renewal cycle).
 - Avoid complexity (KIS): no unnecessary complexity.
 - LESS = MORE (do less to achieve more)
 - Let people/companies work together in a 100% transparent way.
