@@ -3,7 +3,7 @@
 title = "blog"
 header = "The technology stack"
 thumbnail = "to-be-defined.jpg"
-image = "to-be-defined".jpg"
+image = "to-be-defined.jpg"
 author = "Weynand Kuijpers"
 subtitle = "The future INTERNET will employ software agents"
 
