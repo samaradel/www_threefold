@@ -5,4 +5,4 @@ title = "edge cloud"
 header_1 = "WE ARE GIG.TECH"
 header_2 = "BUILDERS OF THE EDGE CLOUD"
 +++
-GIG Technology started a couple of years ago as Green IT Globe. A diverse group of like-minded entrepreneurs and engineers formed a new **software company** with a common belief to create a green and democratised Internet with freedom of choice and privacy for all of our users.
+GIG.tech is creating technology enabling a neutral, private and green internet. A **software company** formed by a diverse group of like-minded entrepreneurs and engineers chasing a common goal.  GIG.tech will seek a number of different channels to market by operating a dual license strategy enabling both commercial partners and not-for-profit organisations.
