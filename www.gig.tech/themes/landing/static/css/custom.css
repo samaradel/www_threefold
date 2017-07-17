@@ -1,3 +1,9 @@
 .Site-inner {
   background-color: #fff;
 }
+.tweak-blog-list-style-grid .BlogList-item {
+  float: none;
+}
+.clear-fix {
+  clear: both;
+}
