@@ -11,27 +11,32 @@
    <meta charset="utf-8">
    <title>GIG.tech</title>
    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
-   <link rel="canonical" href="https://roel-vansabben-4fxm.squarespace.com/">
    <meta property="og:site_name" content="GIG.tech">
    <meta property="og:title" content="Home">
-   <meta property="og:url" content="https://roel-vansabben-4fxm.squarespace.com/">
    <meta property="og:type" content="website">
    <meta property="og:image" content="img/GIG.Techlogo.CMYK.png">
    <meta property="og:image:width" content="354">
    <meta property="og:image:height" content="191">
    <meta itemprop="name" content="Home">
-   <meta itemprop="url" content="https://roel-vansabben-4fxm.squarespace.com/">
    <meta itemprop="thumbnailUrl" content="img/GIG.Techlogo.CMYK.png">
    <link rel="image_src" href="img/GIG.Techlogo.CMYK.png">
    <meta itemprop="image" content="img/GIG.Techlogo.CMYK.png">
    <meta name="twitter:title" content="Home">
    <meta name="twitter:image" content="img/GIG.Techlogo.CMYK.png">
-   <meta name="twitter:url" content="https://roel-vansabben-4fxm.squarespace.com/">
    <meta name="twitter:card" content="summary">
    <meta name="description" content="">
    {{ if eq .Section "home" }}
+     <link rel="stylesheet" href="css/bootstrap.min.css">
+   {{else}}
+   <link rel="stylesheet" href="../../css/bootstrap.min.css">
+   {{end}}
+   {{ if eq .Section "home" }}
+   <script src="js/jquery.min.js"></script>
+     <script src="js/bootstrap.min.js"></script>
      <script type="text/javascript" src="js/CgSepo3jw0mg0xzetWH1-x79OTX9Xtmf7HCWyGc2OY9feTSffFHN4UJLFRbh5.js"></script>
    {{else}}
+     <script src="../../js/jquery.min.js"></script>
+     <script src="js/bootstrap.min.js"></script>
      <script type="text/javascript" src="../../js/CgSepo3jw0mg0xzetWH1-x79OTX9Xtmf7HCWyGc2OY9feTSffFHN4UJLFRbh5.js"></script>
    {{end}}
    <style type="text/css">@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/b87a4f/00000000000000003b9aefbc/27/l?subset_id=2&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/b87a4f/00000000000000003b9aefbc/27/d?subset_id=2&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/b87a4f/00000000000000003b9aefbc/27/a?subset_id=2&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/1e35e2/00000000000000003b9aefc0/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/1e35e2/00000000000000003b9aefc0/27/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/1e35e2/00000000000000003b9aefc0/27/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/57efac/00000000000000003b9aefc2/27/l?subset_id=2&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/57efac/00000000000000003b9aefc2/27/d?subset_id=2&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/57efac/00000000000000003b9aefc2/27/a?subset_id=2&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/be3421/00000000000000003b9aefb8/27/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/be3421/00000000000000003b9aefb8/27/d?subset_id=2&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/be3421/00000000000000003b9aefb8/27/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/c55c4b/00000000000000003b9aefbd/27/l?subset_id=2&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/c55c4b/00000000000000003b9aefbd/27/d?subset_id=2&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/c55c4b/00000000000000003b9aefbd/27/a?subset_id=2&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/1fcc39/00000000000000003b9aefb9/27/l?subset_id=2&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/1fcc39/00000000000000003b9aefb9/27/d?subset_id=2&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/1fcc39/00000000000000003b9aefb9/27/a?subset_id=2&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;}@font-face{font-family:din-condensed-web;src:url(https://use.typekit.net/af/7ae656/0000000000000000000146b3/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/7ae656/0000000000000000000146b3/27/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/7ae656/0000000000000000000146b3/27/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}</style>
@@ -88,8 +93,10 @@
    <!--[if !IE]> -->
    {{ if eq .Section "home" }}
    <link rel="stylesheet" type="text/css" href="css/site.css">
+   <link rel="stylesheet" type="text/css" href="css/custom.css">
    {{else}}
    <link rel="stylesheet" type="text/css" href="../../css/site.css">
+   <link rel="stylesheet" type="text/css" href="../../css/custom.css">
     {{end}}
    <!-- <![endif]-->
    <!-- End of Squarespace Headers -->

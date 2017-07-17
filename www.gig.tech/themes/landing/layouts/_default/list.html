@@ -2,21 +2,23 @@
 {{ partial "mobile-bar.html" . }}
    {{ partial "parallax.html" . }}
        {{ partial "header.html" . }}
-      <div class="Site-inner">
+      <div class="container Site-inner">
          {{ partial "header-search.html" . }}
-          {{ range $p := (.Paginate .Data.Pages).Pages }}
-          	{{ if eq .Section "tech" }}
-        		  <div class="Content-outer">{{ $p.Render "tech" }}</div>
-        	  {{else if eq .Section "blog" }}
-            <div class="Content-outer">{{ $p.Render "blog" }}</div>
-                {{ else if eq .Section "gig-people" }}
-                <div class="Content-outer">{{ $p.Render "gig-people" }}</div>
-                {{ else if eq .Section "contact-foster" }}
-                <div class="Content-outer">{{ $p.Render "contact-foster" }}</div>
-                {{else}}
-  						<div class="Content-outer">{{ $p.Render "summary" }}</div>
-        	  {{end}}
-          {{ end }}
+          <div class="row">
+            {{ range $p := (.Paginate .Data.Pages).Pages }}
+            	{{ if eq .Section "tech" }}
+          		  <div class="Content-outer">{{ $p.Render "tech" }}</div>
+          	  {{else if eq .Section "blog" }}
+                <div class="col-sm-4 col-xs-12">{{ $p.Render "blog" }}</div>
+                  {{ else if eq .Section "gig-people" }}
+                  <div class="Content-outer">{{ $p.Render "gig-people" }}</div>
+                  {{ else if eq .Section "contact-foster" }}
+                  <div class="Content-outer">{{ $p.Render "contact-foster" }}</div>
+                  {{else}}
+    						<div class="Content-outer">{{ $p.Render "summary" }}</div>
+          	  {{end}}
+            {{ end }}
+          </div>
       </div>
        {{ partial "footer.html" . }}
    </div>
