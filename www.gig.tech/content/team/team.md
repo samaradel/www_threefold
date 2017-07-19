@@ -1,6 +1,6 @@
 +++
 #Don't remove name!
-title = "gig people"
+title = "team"
 
 first_block_img = "kristof.jpg"
 first_block_url = "https://www.linkedin.com/in/despiegk/"

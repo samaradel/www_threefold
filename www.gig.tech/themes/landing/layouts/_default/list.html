@@ -10,8 +10,8 @@
           		  <div class="Content-outer">{{ $p.Render "tech" }}</div>
           	  {{else if eq .Section "blog" }}
                 <div class="col-sm-4 col-xs-12">{{ $p.Render "blog" }}</div>
-                  {{ else if eq .Section "gig-people" }}
-                  <div class="Content-outer">{{ $p.Render "gig-people" }}</div>
+                  {{ else if eq .Section "team" }}
+                  <div class="Content-outer">{{ $p.Render "team" }}</div>
                   {{ else if eq .Section "contact-foster" }}
                   <div class="Content-outer">{{ $p.Render "contact-foster" }}</div>
                   {{else}}
