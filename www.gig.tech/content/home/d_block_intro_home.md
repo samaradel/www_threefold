@@ -1,6 +1,6 @@
 +++
 #Don't remove name!
-title = "this is how we do it"
+title = "d"
 
 header_1 = "Disruptive Innovation"
 header_2 = "based on open-source software"
