@@ -7,7 +7,7 @@
           <div class="row clear-fix">
             {{ range $p := (.Paginate .Data.Pages).Pages }}
             	{{ if eq .Section "tech" }}
-          		  <div class="Content-outer">{{ $p.Render "tech" }}</div>
+          		  <div class="col-sm-4 col-xs-12">{{ $p.Render "tech" }}</div>
           	  {{else if eq .Section "blog" }}
                 <div class="col-sm-4 col-xs-12">{{ $p.Render "blog" }}</div>
                   {{ else if eq .Section "team" }}
