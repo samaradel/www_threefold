@@ -10,9 +10,11 @@ header_1 = "From Evolution to Revolution"
 The Internet started as global network comprising many voluntarily interconnected autonomous networks. It operated without a central governing body. Universities, research institutions and governments agreed to collaborate on projects and share information.
 
 **Today**
-The Internet reaches to billions of people and serves as global sharing and collaborative platform for business and personal use. But 80% of all of the global internet capacity is created by a handful of giant companies concentrated in and around the US, Europe and some Asian countries.  Also it is no longer operating without a central governing body as large multinational organisations now control and dominate.
+The Internet reaches to billions of people and serves as global sharing and collaborative platform for business and personal use. But 80% of all of the internet capacity is created by a handful of giant companies concentrated in and around the US, Europe and China.
 
 **Tomorrow**
-GIG aspires to change all of this by creating and distributing technology that provides neutral, private and secure internet capacity for everyone in the world. This capacity is generated with our partners situated all over the world.
+GIG aspires to change all of this by creating and distributing technology that provides secure, scalable and self-healing Internet capacity for everyone. This capacity is generated with our partners that are situated in following locations on this map.
+
+![image](/img/partnerworld.png)
 
 ***
