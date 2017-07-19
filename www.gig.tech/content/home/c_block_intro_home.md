@@ -15,12 +15,4 @@ header_1 = "From Evolution to Revolution"
 >>> Tomorrow
 >>> GIG aspires to change all of this by creating and distributing technology that provides neutral, private and secure internet capacity for everyone in the world.  This capacity is generated near actual endusers in a very efficient manner using standard of the shelf hardware and open-source software.
 
-### How is GIG going to realize that? ###
-
-GIG creates technology supporting three main streams of innovation
-
-- **Stateless Computing:** a stateless operating system enabling distributed hardware to form a grid of capacity that fuels the neutral, private and secure internet.
-- **Artificial Intelligence** controls and operates the distributed capacity and reserves, procures, distributes and actuates workloads on the grid capacity created by zero-os. It creates an autoscaling and self-healing capacity pools for any kind of IT workload.
-- **Blockchain Technology** and identity management for all users to have supplier independent authentication and authorisation means by using a scalable distributed ledger.
-
-These three elements are the foundation of a pervasive, neutral, private and affordable internet that operates and delivers withough a central governing body.
+***
