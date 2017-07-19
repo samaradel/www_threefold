@@ -1,6 +1,6 @@
 +++
 #Don't remove name!
-title = "d"
+title = "edge cloud"
 
 header_1 = "Disruptive Innovation"
 header_2 = "based on open-source software"
