@@ -1,9 +1,9 @@
 +++
 #Don't remove name!
 title = "edge cloud"
+weight = 3
 
-header_1 = "The history"
-header_2 = "where did it all go wrong?"
+header_1 = "From Evolution to Revolution"
 +++
 
 ### Yesterday: Internet 1.0 ###
