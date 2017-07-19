@@ -10,3 +10,7 @@ This repo has the website content:
 
 - has all markdown content
 - also prio's & tasks are defined on our issues in this repo
+
+Staging can be found here:
+
+- http://gigtech2.aydo.com:6060/
