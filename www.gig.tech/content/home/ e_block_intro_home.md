@@ -1,4 +1,4 @@
-+++ #Don't remove name! title = "Geographies" weight = 4
++++ #Don't remove name! title = "edge cloud" weight = 4
 
 header_1 = "GIG Geographies" +++
 
