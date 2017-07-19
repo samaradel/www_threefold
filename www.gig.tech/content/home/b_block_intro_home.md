@@ -1,6 +1,6 @@
 +++
 #Don't remove name!
-title = "how we change"
+title = "b"
 
 header_1 = "GIG is"
 header_2 = "radically changing the Internet"
