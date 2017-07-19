@@ -1,9 +1,9 @@
 +++
 #Don't remove name!
-title = "bigger picture"
+title = "edge cloud"
 
-image = ""
-header = "THE BIGGER PICTURE"
+header_1 = "The problem"
+header_2 = "where did it all go wrong?"
 +++
 
 ### The bigger picture ###
