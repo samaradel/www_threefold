@@ -1,14 +1,18 @@
 +++
 title = "tech"
 
-header = "Stateless Computing"
+header = "Stateless Computing - Technology for the Edge Cloud"
 thumbnail = "download3.jpg"
 image = "myth-big.jpg"
 author = "Sacha Vekeman"
-subtitle = "the 4 big myths about data centers"
+subtitle = "Software to run applications as close as possible to its users"
 
 +++
 
-### Myth 1: big data centers are more efficient than small ones.
+### What is Stateless Computing?
 
-There are advantages in building large scale data centers like economies of scale and shear bulk buying power compared to small ones but these are not as big as people think. The average cost per rack in a hyper scale data center is 20-35K USD including all energy &amp; safety systems. The cost of the hardware per rack is around the 200-300k USD mark.
+GIG develops open-source software, Zero-OS, for the deployment of bare machines functioning as Internet nodes and application hosts.
+
+Zero-OS creates the ideal compute platform to run containerized applications and software code on secure and high-available IT infrastructure.
+
+Zero-OS can be deployed by anyone that is willing to make server and storage capacity available in their markets and within the GIG network.
