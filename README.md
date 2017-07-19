@@ -1,7 +1,7 @@
 # new gig website
 ## New gig.tech website
 
-The new gig.tech website is being created.  Input for this site is being collected in two documents that server as content primer:
+The new gig.tech website is being created.  Input for this site is being collected in two documents that serve as content primer:
 
 - [word document](https://docs.google.com/document/d/16KMjNss4gSKNvVk3O6EuI2e4A6Zmsg_hf0SmPRrVKlI/edit)
 - [presentation](https://docs.google.com/presentation/d/10uq3bVa4uf14BJJl6t25WiL2ARYeufHgeKRn5PHYcjw/edit)
