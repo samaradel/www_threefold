@@ -1,6 +1,7 @@
 +++
 #Don't remove name!
-title = "GIG Technology"
+title = "edge cloud"
+weight = 2
 
 header_1 = "GIG is"
 header_2 = "radically changing the Internet"
