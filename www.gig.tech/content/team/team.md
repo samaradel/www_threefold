@@ -4,7 +4,7 @@ title = "team"
 
 first_block_img = "kristof.jpg"
 first_block_header = "KRISTOF THE SPIEGELEER"
-first_block_btn_txt = "Kristof is a humanist & motivated entrepreneur, passionate to help make the world a better place. He has been at the forefront of cloud computing and enjoys long standing relationships with investors and industry leaders. Kristof holds a M.Sc. in electrotechnical engineering from Ghent University in Belgium and a postgraduate in management and economics from University of Leuven, Belgium. Kristof has successfully built and sold 6 companies in a time period of 15 years. Kristof’s companies have been acquired by companies such as Western Digital Symantec, Western Digital / Hitachi, Sun Microsystems and Oracle. Currently Kristof is the investor, founder & chairman of GreenITGlobe, ThreeFold & Itsyou.Online."
+first_block_content = "Kristof is a humanist & motivated entrepreneur, passionate to help make the world a better place. He has been at the forefront of cloud computing and enjoys long standing relationships with investors and industry leaders. Kristof holds a M.Sc. in electrotechnical engineering from Ghent University in Belgium and a postgraduate in management and economics from University of Leuven, Belgium. Kristof has successfully built and sold 6 companies in a time period of 15 years. Kristof’s companies have been acquired by companies such as Western Digital Symantec, Western Digital / Hitachi, Sun Microsystems and Oracle. Currently Kristof is the investor, founder & chairman of GreenITGlobe, ThreeFold & Itsyou.Online."
 first_block_content = " kristof bio"
 first_block_linkedin_url = "https://www.linkedin.com/in/despiegk/"
 first_block_linkedin_url_txt = "Link with Kristof"
