@@ -1,6 +1,6 @@
 +++
 #Don't remove name!
-title = "edge cloud"
+title = "c"
 
 header_1 = "The problem"
 header_2 = "where did it all go wrong?"
