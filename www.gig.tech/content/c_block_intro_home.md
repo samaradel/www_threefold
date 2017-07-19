@@ -2,7 +2,7 @@
 #Don't remove name!
 title = "bigger picture"
 
-image = "a.jpeg"
+image = ""
 header = "THE BIGGER PICTURE"
 +++
 
