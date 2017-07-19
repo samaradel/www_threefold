@@ -15,6 +15,6 @@ The Internet reaches to billions of people and serves as global sharing and coll
 **Tomorrow**
 GIG aspires to change all of this by creating and distributing technology that provides secure, scalable and self-healing Internet capacity for everyone. This capacity is generated with our partners that are situated in following locations on this map.
 
-![image](/img/partnerworld.png)
+![GIG technology belgium partners worldmap edge cloud blockchain](/img/partnerworld.png)
 
 ***
