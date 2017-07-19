@@ -6,4 +6,6 @@ weight = 1
 header_1 = "Technology for a new Internet"
 +++
 
-GIG is a technology company that empowers a secure, scalable and self-healing Internet. We are formed by a diverse group of like-minded entrepreneurs and engineers chasing a common goal: realizing a green and neutral Internet. GIG seeks different channels to market by operating a dual license strategy enabling both commercial partners and not-for-profit organisations using our open-source software.
+GIG is a technology company that powers a secure, scalable and self-healing Internet. We were formed by a diverse group of like-minded entrepreneurs and engineers chasing a single goal: building a green and neutral Internet with open-source technology. 
+
+We seek different channels to market and operate a flexible dual-license strategy. This allows us to enable both commercial partners with technology integration and professional services, while nonprofit organisations can freely use our open-source software.
