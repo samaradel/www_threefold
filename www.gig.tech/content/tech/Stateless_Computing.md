@@ -2,8 +2,8 @@
 title = "tech"
 
 header = "Stateless Computing - Technology for the Edge Cloud"
-thumbnail = "download3.jpg"
-image = "myth-big.jpg"
+thumbnail = ""
+image = ""
 author = "Sacha Vekeman"
 subtitle = "Software to run applications as close as possible to its users"
 
