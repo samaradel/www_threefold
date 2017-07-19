@@ -1,7 +1,11 @@
-+++ #Don't remove name! title = "edge cloud" weight = 4
++++
+#Don't remove name!
+title = "edge cloud"
+weight = 2
 
-header_1 = "Role of disruptive innovation" +++
+header_1 = "Radically changing the Internet"
++++
 
-##GIG Geographies##
+GIG Geographies
 
 ![image](/img/partnerworld.png)
