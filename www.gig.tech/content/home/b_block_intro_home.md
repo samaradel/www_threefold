@@ -12,4 +12,12 @@ Together with our partners we are building a green and neutral Internet for 100 
 >> Artificial Intelligence
 >>> Blockchain Technologies
 
+
+- **Stateless Computing:** a stateless operating system enabling distributed hardware to form an Internet grid of IT capacity that fuels the neutral, private and secure Internet.
+- **Artificial Intelligence** controls and operates the distributed capacity and reserves, procures, distributes and actuates workloads on the grid capacity created by zero-os. It creates an autoscaling and self-healing capacity pools for any kind of IT workload.
+- **Blockchain Technology** and identity management for all users to have supplier independent authentication and authorisation means by using a scalable distributed ledger.
+
+These three elements are the foundation of a pervasive, neutral, private and affordable internet that operates and delivers withough a central governing body.
+
+
 ***
