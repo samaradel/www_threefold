@@ -3,14 +3,19 @@
 title = "team"
 
 first_block_img = "kristof.jpg"
-first_block_url = "https://www.linkedin.com/in/despiegk/"
-first_block_btn_txt = "Link with Kristof"
+second_block_header = "KRISTOF THE SPIEGELEER"
+first_block_btn_txt = "Kristof is a humanist & motivated entrepreneur, passionate to help make the world a better place.
+He has been at the forefront of cloud computing and enjoys long standing relationships with investors and industry leaders. Kristof holds a M.Sc. in electrotechnical engineering from Ghent University in Belgium and a postgraduate in management and economics from University of Leuven, Belgium. Kristof has successfully built and sold 6 companies in a time period of 15 years. Kristof’s companies have been acquired by companies such as Western Digital Symantec, Western Digital / Hitachi, Sun Microsystems and Oracle. Currently Kristof is the investor, founder & chairman of GreenITGlobe, ThreeFold & Itsyou.Online."
+first_block_content = " kristof bio"
+first_block_linkedin_url = "https://www.linkedin.com/in/despiegk/"
+first_block_linkedin_url_txt = "Link with Kristof"
+
 
 second_block_img = "willem.jpg"
 second_block_header = "WILLEM HENDRICKX"
 second_block_btn_txt = "Link with Kristof"
 second_block_content = "Willem has over 20 years of experience in sales and management roles at global ICT firms and has held key executive positions in commercial management as well as corporate marketing, including Alcatel-Lucent where he was President EMEA, Riverbed where he was SVP EMEA, Tieto where he was EVP Global Accounts and Customer Market Operations and EMC where he served as SVP Global Channels. Willem has a track record of success in growing businesses through the development and execution of new business models, expanding distribution channels and executing global go-to-market strategies. Willem has a degree in Commercial Sciences and holds a Master’s degree in Economics from the European Institute of Higher Education (EHSAL) in Brussels, Belgium."
-   second_block_linkedin_url = "https://www.linkedin.com/in/willemhendrickx/"
+second_block_linkedin_url = "https://www.linkedin.com/in/willemhendrickx/"
 second_block_linkedin_url_txt = "Link with Willem"
 
 third_block_img = "download5.jpg"
