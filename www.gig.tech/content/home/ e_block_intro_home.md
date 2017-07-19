@@ -4,4 +4,4 @@ header_1 = "GIG Geographies" +++
 
 ##GIG Geographies##
 
-![](http://)
+![image](img/partnerworld.png)
