@@ -6,7 +6,7 @@ weight = 2
 header_1 = "Radically changing the Internet"
 +++
 
-Together with our partners we dare to be different and break with the traditional IT model. The old IT school is too complex. Building the next Internet for 100 millions of users using 100 thousands of edge nodes needs a different set of technologies. Our open-source tech addresses all scalability, security, storage, energy and operating issues without the need for any 3rd party software and without any complexity at all. This is driving down the cost and accessibility of Internet applications and infrastructure.
+Together with our partners we dare to be different and break with the traditional IT model. The old IT school is too complex. Building the next Internet for 100 millions of users using 100 thousands of edge nodes needs a different set of technologies. Our open-source tech addresses all scalability, security, storage, energy and operating issues without the need for any 3rd party software and without any complexity at all. This is driving down the cost, while providing better accessibility of Internet applications and infrastructure to more users.
 
 > **Stateless Computing:** Software to run applications as close as possible to its end-users, also called edge computing or edge cloud.
 
