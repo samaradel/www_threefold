@@ -2,12 +2,13 @@
 # Don't remove name!
 title = "blog"
 header = ""
-image = "../img/download.jpg"
+image = "download.png"
 author = ""
 subtitle = ""
 weight = 1
-content_image  = "../img/download.png"
+
 +++
+
 
 ## RESPECT HUMAN RIGHTS
 

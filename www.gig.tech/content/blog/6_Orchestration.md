@@ -2,7 +2,7 @@
 # Don't remove name!
 title = "blog"
 header = ""
-image = "../img/download.jpg"
+image = "download.jpg"
 author = ""
 subtitle = ""
 weight = 6
