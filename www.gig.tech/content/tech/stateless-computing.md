@@ -31,6 +31,10 @@ GIG has developed the open-source components, [Zero-OS](https://github.com/Zero-
 * **Secure**: open-source distributed software with transparent code and no security backdoors
 * **Green**: lightweight OS with nearly no overhead, resulting in very low power consumption
 
-### Download the Code
+### Build on GitHub
 
-> Find Zero-OS by GIG at Github: https://github.com/zero-os
+> Find Zero-OS by GIG at Github: https://github.com/zero-os includes
+> > 0-Core
+> > > 0-Stor
+> > > > 0-Disk
+> > > > 0-Orchestrator
