@@ -47,6 +47,18 @@ h3 {
   font-size: 15px;
   line-height: 1.2em;
 }
+.sqs-block-content {
+  text-align: justify;
+}
+.sqs-block-content h3 {
+  float: left !important;
+}
+.sqs-block-button .sqs-block-button-element--small {
+  letter-spacing: 0.1em;
+}
+footer .sqs-block-content h3 {
+  float: none !important;
+}
 /* Media Queries */
 @media only screen and (max-width: 767px) {
   .Header-branding {
