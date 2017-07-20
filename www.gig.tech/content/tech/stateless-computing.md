@@ -22,14 +22,14 @@ GIG has developed the open-source components, [Zero-OS](https://github.com/Zero-
 
 ### Benefits of Stateless Computing
 
-* **Performance**: lightweight OS with lowest possible overhead for running bare-metal machines
-* **Free**: finds the optimal performance of your server & storage nodes at no additional cost 
-* **Privacy**: no data footprint is left on the nodes while workloads move from one node to another
-* **Distributed**: capacity can be generated without the need for large datacenters: *At The Edge* 
-* **High-available**: easy creation of clustered nodes while applications can run in fragmented segments
-* **Portability**: moving software from one node to another node within the grid is instant and fast 
-* **Secure**: open-source distributed software with transparent code and no security backdoors
-* **Green**: lightweight OS with nearly no overhead, resulting in very low power consumption
+* **Performance**: lightweight OS without overhead for running bare-metal machines
+* **Free**: finds the optimal performance of server & storage nodes at no cost 
+* **Privacy**: no data footprint remains while workloads move from one node to another
+* **Distributed**: capacity is generated without the need for datacenters: *At The Edge* 
+* **High-available**: easy creation of clusters while applications run in fragmented segments
+* **Portability**: moving software from one node to another within the grid is instant 
+* **Secure**: open-source distributed software with transparent code. No security backdoors
+* **Green**: energy-efficient OS resulting in very low node power consumption
 
 ### Build on GitHub
 
