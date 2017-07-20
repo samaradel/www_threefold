@@ -34,7 +34,7 @@ GIG has developed the open-source components, [Zero-OS](https://github.com/Zero-
 ### Build on GitHub
 
 ```
-Find Zero-OS by GIG at Github: https://github.com/zero-os includes
+Find [Zero-OS](https://github.com/zero-os) by GIG at [Github](https://github.com/zero-os)
 * 0-Core Repo
 * 0-Stor Repo
 * 0-Disk Repo
