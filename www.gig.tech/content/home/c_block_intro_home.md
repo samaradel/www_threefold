@@ -10,10 +10,10 @@ header_1 = "From Evolution to Revolution"
 The Internet started as global network comprising many voluntarily interconnected autonomous networks. It operated without a central governing body. Universities, research institutions and governments agreed to collaborate on projects and share information.
 
 **Today**
-The Internet reaches to billions of people and serves as global sharing and collaborative platform for business and personal use. But 80% of all of the internet capacity is created by a handful of giant companies concentrated in and around the US, Europe and China.
+The Internet reaches billions of people and serves as global collaborative platform for business and personal benefit. But 80% of all of the internet capacity is created by a handful of giant companies concentrated in and around the US, Europe and China. Monopolies arise.
 
 **Tomorrow**
-GIG aspires to change all of this by creating and distributing technology that provides secure, scalable and self-healing Internet capacity for everyone. This capacity is generated with our partners that are situated in following locations on this map.
+GIG drives net-neutrality by creating and distributing technology that enables a secure, scalable and self-healing Internet for everyone. This capacity is generated with our partners that are situated in following locations on this map.
 
 ![GIG technology belgium partners worldmap edge cloud blockchain](/img/partnerworld.png)
 
