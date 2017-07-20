@@ -3,7 +3,7 @@
 title = "tech"
 
 header = "Stateless Computing: Technology for the Edge Cloud"
-image = "https://www.future-processing.com/blog/wp-content/uploads/2017/05/blog_serverless_computing.png"
+image = ""
 author = "Sacha Vekeman"
 subtitle = "Software to run applications as close as possible to its users"
 weight = 1
