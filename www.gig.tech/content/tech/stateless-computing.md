@@ -37,4 +37,4 @@ GIG has developed the open-source components, [Zero-OS](https://github.com/Zero-
 > > 0-Core
 > > > 0-Stor
 > > > > 0-Disk
-> > > > 0-Orchestrator
+> > > > > 0-Orchestrator
