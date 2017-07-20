@@ -10,7 +10,7 @@ Together with our partners we dare to be different and break with traditional te
 
 > **Stateless Computing:** Software to run applications as close as possible to its end-users, also called edge computing or edge cloud.
 
-> > **Artificial Intelligence:** Intellgent agents taking care of your total IT infrastructure making it autoscaling and self-healing.
+> > **Artificial Intelligence:** Intelligent agents taking care of your total IT infrastructure making it autoscaling and self-healing.
 
 > > > **Blockchain Technologies:** Distributed systems to generate a neutral and secure Internet using tokens and smart contracts.
 
