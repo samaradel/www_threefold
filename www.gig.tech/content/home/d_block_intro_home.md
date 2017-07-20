@@ -1,7 +1,7 @@
 +++
 #Don't remove name!
 title = "edge cloud"
-weight = 3
+weight = 4
 
 header_1 = "From Evolution to Revolution"
 +++
