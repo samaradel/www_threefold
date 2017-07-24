@@ -56,10 +56,6 @@ h3 {
 .sqs-block-content {
   text-align: justify;
 }
-.sqs-block-content h3 {
-  /*float: left !important;*/
-}
-
 .sqs-block-team h3 {
   float: left !important;
 }
