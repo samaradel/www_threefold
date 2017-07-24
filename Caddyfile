@@ -11,7 +11,7 @@ http://gigtech2.aydo.com:6060 {
         path ../..
         then hugo -s www.gig.tech
     }
-    errors ../error.log {
+    errors {
     	404 404.html # Not Found
     }
 }
