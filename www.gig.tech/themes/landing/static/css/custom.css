@@ -1,4 +1,4 @@
-.Site-inner, header, .navbar-toggle .icon-bar {
+.Site-inner, header, .navbar-toggle .icon-bar, .content-404 {
   background-color: #fff;
 }
 .tweak-blog-list-style-grid .BlogList-item {
@@ -56,19 +56,18 @@ h3 {
   text-align: justify;
 }
 .sqs-block-content h3 {
-  /*float: left !important;*/
-}
-.sqs-block-team h3 {
   float: left !important;
 }
-
 .sqs-block-button .sqs-block-button-element--small {
   letter-spacing: 0.1em;
 }
 footer .sqs-block-content h3 {
   float: none !important;
 }
-
+.content-404 p{
+  margin: 59px auto;
+  text-align: center;
+}
 /*header style*/
 .Site header {
   background: url('../img/main.jpg');
