@@ -18,7 +18,10 @@
 .navbar-toggle, .nav>li>a:hover {
   background-color: #022f3b;
 }
-.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item , .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover {
+.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item {
+  color: #003944;
+}
+.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover {
   color: #fff;
 }
 .Header-branding-logo {
