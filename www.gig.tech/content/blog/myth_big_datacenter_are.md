@@ -1,12 +1,11 @@
 +++
 # Don't remove name!
-title = "tech"
-
-header = "Myth: Big Data centers Are Efficient"
+title = "blog"
+header = "Datacenter Myths"
 image = "myth-big.jpg"
 author = "Roel van Sabben"
-subtitle = "he 4 big myths about data centers"
-weight = 2
+subtitle = "Hyperscale realities"
+weight = 4
 
 +++
 
