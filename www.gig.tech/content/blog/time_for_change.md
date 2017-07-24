@@ -36,6 +36,6 @@ The spectacular growth and advances of cloud computing that occurred over the la
 
 Together with our partners we are building the edge cloud, using the software components that are made available by GIG. Edge computing which is realized through
 
-* serverless and stateless computing based on [Zero-OS](https://github.com/zero-os) - most lightweith operating system to run a computer grid
+* serverless and stateless computing based on [Zero-OS](https://github.com/zero-os) - most lightweight operating system to run a computer grid
 * artificial intelligence based on [Jumpscale](https://github.com/jumpscale) - autonomous agents delivering a reliable and high-available cloud
 * blockchain technology based in [Rivine](https://github.com/rivine) and [Itsyou.online](https://github.com/itsyouonline) - for a secure access to a neutral grid of capacity.  
