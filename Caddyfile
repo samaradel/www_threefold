@@ -1,4 +1,4 @@
-http://gigtech2.aydo.com:6060/ {
+http://gigtech2.aydo.com:6060 {
     bind 0.0.0.0
     gzip
     root  www.gig.tech/en
