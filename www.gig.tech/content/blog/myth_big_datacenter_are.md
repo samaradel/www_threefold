@@ -12,6 +12,7 @@ weight = 2
 
 ### Myth 1: big data centers are more efficient than small ones.
 
+
 There are advantages in building large scale data centers like economies of scale and shear bulk buying power compared to small ones but these are not as big as people think. The average cost per rack in a hyper scale data center is 20-35K USD including all energy &amp; safety systems. The cost of the hardware per rack is around the 200-300k USD mark.
 
 What is often forgotten is that anything that is of enormous scale and therefore highly concentrated or dense brings complexity and a specific set of problems to deal with. This adds resource requirements like investment, operational costs, knowledge and people.

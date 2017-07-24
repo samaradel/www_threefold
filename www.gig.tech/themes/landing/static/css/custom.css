@@ -53,8 +53,12 @@ h3 {
   text-align: justify;
 }
 .sqs-block-content h3 {
+  /*float: left !important;*/
+}
+.sqs-block-team h3 {
   float: left !important;
 }
+
 .sqs-block-button .sqs-block-button-element--small {
   letter-spacing: 0.1em;
 }
