@@ -1,4 +1,5 @@
-.Site-inner, header, .navbar-toggle .icon-bar {
+
+.Site-inner, header, .navbar-toggle .icon-bar, .content-404 {
   background-color: #fff;
 }
 .tweak-blog-list-style-grid .BlogList-item {
@@ -18,7 +19,10 @@
 .navbar-toggle, .nav>li>a:hover {
   background-color: #022f3b;
 }
-.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item , .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover {
+.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item {
+  color: #003944;
+}
+.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover {
   color: #fff;
 }
 .Header-branding-logo {
@@ -53,6 +57,10 @@ h3 {
   text-align: justify;
 }
 .sqs-block-content h3 {
+  /*float: left !important;*/
+}
+
+.sqs-block-team h3 {
   float: left !important;
 }
 .sqs-block-button .sqs-block-button-element--small {
@@ -61,7 +69,10 @@ h3 {
 footer .sqs-block-content h3 {
   float: none !important;
 }
-
+.content-404 p{
+  margin: 59px auto;
+  text-align: center;
+}
 /*header style*/
 .Site header {
   background: url('../img/main.jpg');
@@ -98,4 +109,9 @@ footer .sqs-block-content h3 {
     header {
       text-align: left;
     }
+}
+@media (min-width: 768px) {
+  .navbar {
+    border-radius: 0px;
+  }
 }
