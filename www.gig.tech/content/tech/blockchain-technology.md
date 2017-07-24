@@ -3,7 +3,7 @@
 title = "tech"
 
 header = "Blockchain Technology: Token Distribution and Smart Contracts"
-image = ""
+image = "anonymous.png"
 author = "Sacha Vekeman"
 subtitle = "Distributed systems generate a neutral and secure Internet"
 weight = 3
@@ -27,9 +27,9 @@ Last but not least, Rivine is also the blockchain platform for our identity and 
 
 * **Green:** our algorithms to reach consensus use a minimal amount of energy and electricity compared to other blockchain software and networks
 * **Lowest possible** cost of transactions make it an efficient and fast payment system
-* **Neutral:** state of the network and applications are recorded in a transparent and immutable manner 
+* **Neutral:** state of the network and applications are recorded in a transparent and immutable manner
 * **Payment fulfillment:** transactions are automatically paid using ThreeFold Tokens.
-* **Smart Contracts:** fully automated execution of contracts from customers buying IT capacity. 
+* **Smart Contracts:** fully automated execution of contracts from customers buying IT capacity.
 
 ### Build on GitHub
 

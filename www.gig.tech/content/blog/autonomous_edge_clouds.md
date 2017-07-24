@@ -2,7 +2,7 @@
 # Don't remove title!
 title = "blog"
 header = "Autonomous"
-image = "../img/download.jpg"
+image = "../img/anonymous.png"
 author = "Weynand Kuijpers"
 subtitle = "Yes, a 100% self-healing cloud"
 weight = 3

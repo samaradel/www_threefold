@@ -3,7 +3,7 @@
 title = "tech"
 
 header = "Stateless Computing: Technology for the Edge Cloud"
-image = ""
+image = "anonymous.png"
 author = "Sacha Vekeman"
 subtitle = "Software to run applications as close as possible to its users"
 weight = 1
@@ -12,7 +12,7 @@ weight = 1
 
 ### Why Stateless Computing?
 
-The creation of a new Internet based on hundred of thousands of smaller and larger edge nodes needs a complete new operating system and a totally holistic approach to the functioning of the server and storage infrastructure. 
+The creation of a new Internet based on hundred of thousands of smaller and larger edge nodes needs a complete new operating system and a totally holistic approach to the functioning of the server and storage infrastructure.
 
 GIG has developed the open-source components, [Zero-OS](https://github.com/Zero-OS), for the deployment of bare machines functioning as Internet nodes and application hosts.
 
@@ -23,11 +23,11 @@ GIG has developed the open-source components, [Zero-OS](https://github.com/Zero-
 ### Benefits of Stateless Computing
 
 * **Performance**: lightweight OS without overhead for running bare-metal machines
-* **Free**: finds the optimal performance of server & storage nodes at no cost 
+* **Free**: finds the optimal performance of server & storage nodes at no cost
 * **Privacy**: no data footprint remains while workloads move from one node to another
-* **Distributed**: capacity is generated without the need for datacenters: *At The Edge* 
+* **Distributed**: capacity is generated without the need for datacenters: *At The Edge*
 * **High-available**: easy creation of clusters while applications run in fragmented segments
-* **Portability**: moving software from one node to another within the grid is instant 
+* **Portability**: moving software from one node to another within the grid is instant
 * **Secure**: open-source distributed software with transparent code. No security backdoors
 * **Green**: energy-efficient OS resulting in very low node power consumption
 
