@@ -6,7 +6,6 @@ image = "../img/download.jpg"
 author = ""
 subtitle = ""
 weight = 4
-content_image = "../img/download.jpg"
 +++
 The zero-OS future: a 100% self healing cloud
 ------------------------------------------------

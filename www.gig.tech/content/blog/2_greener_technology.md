@@ -6,5 +6,4 @@ image = "../img/download.jpg"
 author = "Weynand Kuijpers"
 subtitle = "Green, Greener, Greenest"
 weight = 3
-content_image  = "../img/download.jpg"
 +++
