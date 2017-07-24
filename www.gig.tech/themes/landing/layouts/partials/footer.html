@@ -1,53 +1,56 @@
 {{ range $element :=  $.Site.Pages }}
   {{ if eq .Section "footer" }}
-      {{ if eq .Title "footer" }}
-    <footer class="Footer" role="contentinfo" data-controller="FooterBreakpoints" data-controllers-bound="FooterBreakpoints">
-       <div class="Footer-inner clear">
-          <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--top sqs-alternate-block-style-container" data-layout-label="Footer Top Blocks" data-type="block-field" data-updated-on="1498551701121" id="footerBlocksTop">
-             <div class="row sqs-row">
-                <div class="col sqs-col-12 span-12">
-                   <div class="sqs-block image-block sqs-block-image sqs-text-ready" data-block-type="5">
-                      <div class="sqs-block-content">
-                         <div class="image-block-outer-wrapper layout-caption-below design-layout-inline">
-                            <div class="intrinsic" style="max-width:69.0px;">
-                               <div style="padding-bottom:44.92753601074219%;" class="image-block-wrapper   has-aspect-ratio" data-description="">
-                                 {{ if eq .Section "home" }}
-                                  <noscript><img src="img/{{ .Params.image }}"  /></noscript>
-                                  <img class="thumb-image loaded" data-src="img/{{ .Params.image }}" data-image="img/{{ .Params.image }}" data-image-dimensions="69x31" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5952157cccf210222f4d0676" data-type="image" style="top: 0%; left: 0%; width: 100%; height: 100%; position: absolute;" src="img/{{ .Params.image }}" data-image-resolution="100w">
-                                  {{else}}
-                                  <noscript><img src="../img/{{ .Params.image }}"  /></noscript>
-                                  <img class="thumb-image loaded" data-src="../img/{{ .Params.image }}" data-image="../img/{{ .Params.image }}" data-image-dimensions="69x31" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5952157cccf210222f4d0676" data-type="image" style="top: 0%; left: 0%; width: 100%; height: 100%; position: absolute;" src="../../img/{{ .Params.image }}" data-image-resolution="100w">
-                                  {{end}}
-                               </div>
-                            </div>
-                         </div>
-                      </div>
-                   </div>
+    {{ if eq .Title "footer" }}
+      <footer class="Footer">
+        <div class="clear">
+          <div class="sqs-layout container">
+             <div class="row">
+                <div class="col-sm-2 "></div>
+                <div class="col-xs-6 col-sm-2">
+                  <ul class="list">
+                    <li><h4>Stateless computing</h4></li>
+                    <li><img src="http://via.placeholder.com/100x100"></li>
+                    <li><a href="#">Zero-os</a></li>
+                    <li><a href="#">Zero-stor</a></li>
+                  </ul>
                 </div>
+                <div class="col-xs-6 col-sm-2">
+                  <ul class="list">
+                    <li><h4>Artificial Intelligence</h4></li>
+                    <li><img src="http://via.placeholder.com/100x100"></li>
+                    <li><a href="#">Jumpscale</a></li>
+                    <li><a href="#">At Your Service</a></li>
+                  </ul>
+                </div>
+                <div class="col-xs-6 col-sm-2">
+                  <ul class="list">
+                    <li><h4>Blockchain Technology</h4></li>
+                    <li><img src="http://via.placeholder.com/100x100"></li>
+                    <li><a href="#">Rivine</a></li>
+                    <li><a href="#">itsyou.online</a></li>
+                  </ul>
+                </div>
+                <div class="col-xs-6 col-sm-3">
+                  <ul class="list">
+                    <li><img src="/img/Icons-05 copy.png" class="logo"></li>
+                    <li style="margin-top: 15px;">GIG Technology</li>
+                    <li style="margin-bottom: 30px;">Antwerpsesteenweg 19 <br/> 9080-Lochristi-Belgium</li>
+                    <li><a href="#" class="linked">Follow us on Linkedin</a></li>
+                  </ul>
+                </div>
+                <div class="col-xs-6 col-sm-1"></div>
              </div>
           </div>
-          <div class="Footer-middle">
-             <div class="Footer-business">
-             </div>
-             <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--middle sqs-alternate-block-style-container empty" data-layout-label="Footer Middle Blocks" data-type="block-field" data-updated-on="1452386857557" id="footerBlocksMiddle">
-                <div class="row sqs-row">
-                   <div class="col sqs-col-12 span-12"></div>
-                </div>
-             </div>
+          <div class="copyright">
+            <div class="container">
+              <div class="row">
+                <p>sitemap / privacy statment / terms &amp; conditions</p>
+                <p class="copy">&copy; copyright gig technology n.v</p>
+              </div>
+            </div>
           </div>
-          <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--bottom sqs-alternate-block-style-container" data-layout-label="Footer Bottom Blocks" data-type="block-field" data-updated-on="1498560447356" id="footerBlocksBottom">
-             <div class="row sqs-row">
-                <div class="col sqs-col-12 span-12">
-                   <div class="sqs-block html-block sqs-block-html" data-block-type="2">
-                      <div class="sqs-block-content">
-                         <h3 class="text-align-center">{{ .Params.footer_txt }} <a target="_blank" href="{{ .Params.footer_link }}">{{ .Params.company }}</a></h3>
-                      </div>
-                   </div>
-                </div>
-             </div>
-          </div>
-       </div>
-    </footer>
+        </div>
+      </footer>
+    {{end}}
   {{end}}
-{{end}}
 {{end}}
