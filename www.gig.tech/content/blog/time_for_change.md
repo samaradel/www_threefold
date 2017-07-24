@@ -6,7 +6,6 @@ image = "../img/change.jpg"
 author = "Sacha Vekeman"
 subtitle = "The need for a neutral Internet"
 weight = 1
-content_image  = "../img/change.jpg"
 
 +++
 
