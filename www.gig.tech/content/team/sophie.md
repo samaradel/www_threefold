@@ -2,20 +2,18 @@
 #Don't remove name!
 title = "team"
 
-image = "../img/sachasquare.jpg"
+image = "../img/Sophiesquare.jpg"
 name = "SOPHIE DE MAESSCHALCK"
 
-linkedin = "https://www.linkedin.com/in/svekeman/"
+linkedin = "https://www.linkedin.com/in/sophiedemaesschalck/"
 linkedin_txt = "View my profile"
 
-twitter = "https://twitter.com/svekeman"
-twitter_txt = "Follow Sacha"
+twitter = ""
+twitter_txt = ""
 
-telegram = "https://t.me/svekeman"
-telegrem_txt = "Chat With sacha"
+telegram = ""
+telegrem_txt = ""
 
-weight = 3
+weight = 10
 +++
-Nearly two decades of experience in large multinational and telecom corporations such as NTT Communications, technology startups and high-growth companies. Lived in Brussels, Dubai, London, Amsterdam, Rotterdam and Paris. Supporting technology companies to productize, scale-out and execute a solid go-to-market strategy via international business development and technology marketing.
-
-Drove fundraising and the sale of Mobiya Ltd., Camargus NV, Qamira NV, Planzone SA, Scense BV, CoreDataCloud Ltd., since 2010. Designing, executing and delivering revenue from global technology partnerships. Sacha is currently Head of Marketing and Communications at GIG Technology.
+Sophie is group CFO of GIG Technology after the merger of Incubaid and GIG, where she was managing director. She has a wealth of experience in international financing, mergers and acquisitions and technology incubation. Incubaid was a disruptor in the tech scene after having successfully exited a portfolio of 6 high-value exits. Currently Sophie also serves as CFO of Awingu.com, a global cloud workspace software company.
