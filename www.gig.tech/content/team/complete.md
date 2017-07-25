@@ -67,10 +67,47 @@ software_adbulrahmanh_url = "https://linkedin.com/in/arahmanhamdy"
 software_abdulrahmanhg_name = "Abdulrahman Ghanem"
 software_adbulrahmanhg_url = "https://www.linkedin.com/in/abdelrahman-ghanem-41a31815/"
 
+software_mohameda_name = "Mohamed Azmy"
+software_mohameda_url = "https://www.linkedin.com/in/muhamadazmy/"
 
+software_ramez_name = "Ramez Saeed"
+software_ramez_url = "https://www.linkedin.com/in/ramez-saeed-a9801819/"
 
+software_peter_name = "Peter Nashaat"
+software_peter_url = "https://www.linkedin.com/in/peter-nashaat-33966831/"
 
+software_ahmed_name = "Ahmed Thabet"
+software_ahmed_url = "https://www.linkedin.com/in/ahmed-thabet-54a227129/"
 
+software_samar_name = "Samar Adel"
+software_samar_url = "https://www.linkedin.com/in/samaradel"
+
+software_ehab_name = "Ehab Hassan"
+software_ehab_url = "www.linkedin.com/in/ehab-hassan-a00897116"
+
+software_hamdy_name = "Hamdy Farag"
+software_hamdy_url = "https://www.linkedin.com/in/hamdy/"
+
+software_ashraf_name = "Ashraf Fouda"
+software_ashraf_url = "https://www.linkedin.com/in/ashraffouda/"
+
+software_sarah_name = "Sarah Boctor"
+software_sarah_url = "https://www.linkedin.com/in/sarah-boctor-23582834/"
+
+software_evon_name = "Evon Yacoub"
+software_evon_url = "https://www.linkedin.com/in/evon-yacoub-phri-b6028025/"
+
+software_dina_name = "Dina Magdy"
+software_dina_url = "https://www.linkedin.com/in/dina-magdy"
+
+software_nayer_name = "Nayer Sobhy"
+software_nayer_url = "https://www.linkedin.com/in/nayer-sobhy-1bb15855/"
+
+software_dinae_name = "Dina Abdel Rahman"
+software_dinae_url = "https://www.linkedin.com/in/dina-abd-el-rahman-el-sayed-4869189b/"
+
+software_ali_name = "Ali Chaddad"
+software_ali_url = "https://www.linkedin.com/in/ali-chaddad-4a5b56b8/"
 
 # Section - MARKETING -
 marketing_header = "MARKETING & PRODUCT MANAGEMENT"
