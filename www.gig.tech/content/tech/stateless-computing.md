@@ -3,7 +3,7 @@
 title = "tech"
 
 header = "Stateless Computing: Technology for the Edge Cloud"
-image = "anonymous.png"
+image = "trianglesplit-02.png"
 author = "Sacha Vekeman"
 subtitle = "Software to run applications as close as possible to its users"
 weight = 1
