@@ -6,7 +6,7 @@ image = "../img/sachasquare.jpg"
 name = "SACHA VEKEMAN"
 
 linkedin = "https://www.linkedin.com/in/svekeman/"
-linkedin_txt = "Link with Sacha"
+linkedin_txt = "View my profile"
 
 twitter = "https://twitter.com/svekeman"
 twitter_txt = "Follow Sacha"

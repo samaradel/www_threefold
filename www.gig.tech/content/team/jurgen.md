@@ -5,14 +5,14 @@ title = "team"
 image = "../img/Jurgensquare.jpg"
 name = "JURGEN HOFKENS"
 
-linkedin = "https://www.linkedin.com/in/svekeman/"
-linkedin_txt = "Link with Sacha"
+linkedin = "https://www.linkedin.com/in/jurgenhofkens/"
+linkedin_txt = "View my profile"
 
-twitter = "https://twitter.com/svekeman"
-twitter_txt = "Follow Sacha"
+twitter = ""
+twitter_txt = ""
 
-telegram = "https://t.me/svekeman"
-telegrem_txt = "Chat With sacha"
+telegram = ""
+telegrem_txt = ""
 
 weight = 3
 +++

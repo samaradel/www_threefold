@@ -6,7 +6,7 @@ image = "../img/kristof.jpg"
 name = "KRISTOF THE SPIEGELEER"
 
 linkedin = "https://www.linkedin.com/in/despiegk/"
-linkedin_txt = "Link with Kristof"
+linkedin_txt = "View my profile"
 
 #twitter = ""
 #twitter_txt = ""
