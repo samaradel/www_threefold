@@ -20,7 +20,7 @@
     						<div class="Content-outer">{{ $p.Render "summary" }}</div>
           	  {{end}}
             {{ end }}
-            {{ range $element :=  $.Site.Pages }}
+            {{ range .Data.Pages }}
               {{ if eq .Section "team" }}
                 {{ if eq .Title "complete" }}
                     <div class="Content-outer">{{ .Render "complete" }}</div>
