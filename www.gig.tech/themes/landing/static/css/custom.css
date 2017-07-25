@@ -1,6 +1,9 @@
 .Site-inner, header, .navbar-toggle .icon-bar, .content-404 {
   background-color: #fff;
 }
+.Site-inner {
+  padding-bottom: 40px;
+}
 .tweak-blog-list-style-grid .BlogList-item {
   float: none;
 }
@@ -62,7 +65,7 @@ h3 {
   letter-spacing: 0.1em;
 }
 .Footer {
-  background-color: #22505E;
+  background-color: #699EE2;
   padding-top: 40px;
 }
 footer .sqs-block-content h3 {
@@ -75,15 +78,22 @@ footer .sqs-block-content h3 {
   margin: 0px;
 }
 .list {
-  color: #fff;
+  color: #fff !important;
 }
 .list h4 {
   text-transform: none;
   font-weight: 800;
   line-height: 1.2em;
 }
+.list img {
+  height: 50px;
+  width: 50px;
+}
 .list a {
   text-decoration: underline;
+}
+.list a:hover {
+  color: #fff;
 }
 .content-404 p{
   margin: 59px auto;
@@ -110,6 +120,7 @@ footer .sqs-block-content h3 {
 .Footer .logo {
   position: static;
   margin-top: 5px;
+  width: 100px;
 }
 .Footer .linked {
   background-color: #fff;
@@ -119,8 +130,11 @@ footer .sqs-block-content h3 {
   text-decoration: none;
   font-size: 12px;
 }
+.Footer .linked:hover {
+  color: #000;
+}
 .copyright {
-  background-color: #153038;
+  background-color: #546A86;
   padding: 20px 0;
   margin-top: 40px;
   text-align: center;
@@ -130,6 +144,9 @@ footer .sqs-block-content h3 {
 }
 .copyright .copy {
   text-transform: uppercase;
+}
+.fa-3 {
+  font-size: 4em;
 }
 /* Media Queries */
 @media only screen and (max-width: 767px) {
