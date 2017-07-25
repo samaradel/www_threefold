@@ -19,7 +19,7 @@
   text-align: center;
 }
 .navbar-toggle, .nav>li>a:hover {
-  background-color: #022f3b;
+  background-color: #699ee2;
 }
 .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item {
   color: #003944;
@@ -101,7 +101,8 @@ footer .sqs-block-content h3 {
 }
 /*header style*/
 .Site header {
-  background: url('../img/main.jpg');
+  /*background: url('../img/main.jpg');*/
+  background-color: #699ee2 ;
   background-repeat: no-repeat;
   background-size: cover;
   height: 500px;
