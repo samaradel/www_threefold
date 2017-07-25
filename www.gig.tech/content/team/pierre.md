@@ -1,0 +1,19 @@
++++
+#Don't remove name!
+title = "team"
+
+image = "../img/Pierresquare.jpg"
+name = "PIERRE VAN HOOREBEKE"
+
+linkedin = "https://www.linkedin.com/in/pierre-van-hoorebeke-5958343/"
+linkedin_txt = "View my profile"
+
+twitter = ""
+twitter_txt = ""
+
+telegram = ""
+telegrem_txt = ""
+
+weight = 8
++++
+Pierre is our group legal counsel at GIG Technology since 2016 and was before working at Incubaid as independent legal consultant. He assists the founders, investors and private companies on corporate, commercial and IP matters. He is specialized in venture capital and private equity transactions, and helps mergers & acquisitions and corporate transactions, during complex negotiations and drafting of contracts.
