@@ -43,6 +43,12 @@ software_iwan_url = "https://www.linkedin.com/in/iwanbk/"
 software_yves_name = "Yves Kerwyn"
 software_yves_url = "https://www.linkedin.com/in/yveskerwyn/"
 
+software_mohamed_name = "Mohamed Elawadi"
+software_mohamed_url = "https://www.linkedin.com/in/mie00/"
+
+software_abdulrahman_name = "Abdulrahman Khalifa"
+software_adbulrahman_url = "linkedin.com/in/abdulrahmantkhalifa-b19223119"
+
 
 # Section - MARKETING -
 marketing_header = "MARKETING & PRODUCT MANAGEMENT"
