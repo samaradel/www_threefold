@@ -2,10 +2,10 @@
 #Don't remove name!
 title = "team"
 
-image = "../img/Geertsquare.jpg"
-name = "GEERT AUDENAERT"
+image = "../img/Jansquare.jpg"
+name = "JAN DE LANDTSHEER"
 
-linkedin = "https://www.linkedin.com/in/geertaudenaert/"
+linkedin = "https://www.linkedin.com/in/jand2/"
 linkedin_txt = "View my profile"
 
 twitter = ""

@@ -8,11 +8,11 @@ name = "WEYNAND KUIJPERS"
 linkedin = "https://www.linkedin.com/in/weynandkuijpers/"
 linkedin_txt = "View my profile"
 
-twitter = "https://twitter.com/weynandkuijpers"
-twitter_txt = "Follow Weynand"
+twitter = ""
+twitter_txt = ""
 
-telegram = "https://t.me/weynandkuijpers"
-telegrem_txt = "Chat With Weynand"
+telegram = ""
+telegrem_txt = ""
 
 weight = 11
 +++
