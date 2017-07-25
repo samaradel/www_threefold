@@ -2,7 +2,7 @@
 # Don't remove title!
 title = "blog"
 header = "Autonomous"
-image = "../img/anonymous.png"
+image = "../img/Jakob-Owens.jpg"
 author = "Weynand Kuijpers"
 subtitle = "Yes, a 100% self-healing cloud"
 weight = 3
@@ -29,3 +29,6 @@ In conclusion:
 > **Accountability in a decentralized setting leads us to the blockchain**
 
 Each of the parts of this story will be a blogpost of its own.
+
+
+Photo by Jakob Owens on Unsplash

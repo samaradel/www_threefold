@@ -16,4 +16,4 @@ telegrem_txt = ""
 
 weight = 8
 +++
-Pierre is our group legal counsel at GIG Technology since 2016 and was before working at Incubaid as independent legal consultant. He assists the founders, investors and private companies on corporate, commercial and IP matters. He is specialized in venture capital and private equity transactions, and helps mergers & acquisitions and corporate transactions, during complex negotiations and drafting of contracts.
+Pierre is group legal counsel at GIG Technology since 2016. Prior to GIG he worked at Incubaid as independent legal consultant. He assists the founders, investors and private companies on corporate, commercial and IP matters. He is specialized in venture capital and private equity transactions, and helps mergers & acquisitions and corporate transactions, during complex negotiations and drafting of contracts.
