@@ -14,6 +14,6 @@ twitter_txt = ""
 telegram = ""
 telegrem_txt = ""
 
-weight = 10
+weight = 5
 +++
 Sophie is group CFO of GIG Technology after the merger of Incubaid and GIG, where she was managing director. She has a wealth of experience in international financing, mergers and acquisitions and technology incubation. Incubaid was a disruptor in the tech scene after having successfully exited a portfolio of 6 high-value exits. Currently Sophie also serves as CFO of Awingu.com, a global cloud workspace software company.
