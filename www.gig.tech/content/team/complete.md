@@ -49,6 +49,28 @@ software_mohamed_url = "https://www.linkedin.com/in/mie00/"
 software_abdulrahman_name = "Abdulrahman Khalifa"
 software_adbulrahman_url = "linkedin.com/in/abdulrahmantkhalifa-b19223119"
 
+software_kaled_name = "Kaled Karam"
+software_kaled_url = "https://www.linkedin.com/in/khaled-karam-44b45972"
+
+software_mohamedg_name = "Mohamed Galal"
+software_mohemdg_url = "https://www.linkedin.com/in/mohamed-ahmed-galal-baa8b452/"
+
+software_bishoy_name = "Bishoy AbdelMassieh"
+software_bishoy_url = "https://www.linkedin.com/in/bishoy-michael/"
+
+software_samir_name = "Samir Hosny"
+software_samir_url = "https://www.linkedin.com/in/samir-hosny-58b81394/"
+
+software_abdulrahmanh_name = "Abdulrahman Hamdy"
+software_adbulrahmanh_url = "https://linkedin.com/in/arahmanhamdy"
+
+software_abdulrahmanhg_name = "Abdulrahman Ghanem"
+software_adbulrahmanhg_url = "https://www.linkedin.com/in/abdelrahman-ghanem-41a31815/"
+
+
+
+
+
 
 # Section - MARKETING -
 marketing_header = "MARKETING & PRODUCT MANAGEMENT"
