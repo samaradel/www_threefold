@@ -47,7 +47,7 @@ software_mohamed_name = "Mohamed Elawadi"
 software_mohamed_url = "https://www.linkedin.com/in/mie00/"
 
 software_abdulrahman_name = "Abdulrahman Khalifa"
-software_adbulrahman_url = "linkedin.com/in/abdulrahmantkhalifa-b19223119"
+software_adbulrahman_url = "https://linkedin.com/in/abdulrahmantkhalifa-b19223119"
 
 software_kaled_name = "Kaled Karam"
 software_kaled_url = "https://www.linkedin.com/in/khaled-karam-44b45972"

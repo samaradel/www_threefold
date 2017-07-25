@@ -13,8 +13,6 @@
                   {{ else if eq .Section "team" }}
                     {{ if eq .Title "team"}}
                       <div class="Content-outer">{{ $p.Render "team" }}</div>
-                      {{ else if eq .Title "complete" }}
-                      <div class="Content-outer">{{ $p.Render "complete" }}</div>
                       {{end}}
                   {{ else if eq .Section "contact-foster" }}
                   <div class="Content-outer">{{ $p.Render "contact-foster" }}</div>
@@ -22,6 +20,13 @@
     						<div class="Content-outer">{{ $p.Render "summary" }}</div>
           	  {{end}}
             {{ end }}
+            {{ range $element :=  $.Site.Pages }}
+              {{ if eq .Section "team" }}
+                {{ if eq .Title "complete" }}
+                    <div class="Content-outer">{{ .Render "complete" }}</div>
+                {{end}}
+              {{end}}
+            {{end}}
           </div>
       </div>
        {{ partial "footer.html" . }}
