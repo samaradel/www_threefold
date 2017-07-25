@@ -2,7 +2,7 @@
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
 html {
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
 }
@@ -101,7 +101,7 @@ code,
 kbd,
 pre,
 samp {
-    font-family: monospace, monospace;
+    font-family: 'Open Sans', sans-serif;
     font-size: 1em
 }
 button,
@@ -235,7 +235,7 @@ th {
     height: 300px !important
 }
 .squarespace-signup-text {
-    font-family: 'proxima-nova', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #fff;
     width: 300px;
     text-align: center;
@@ -2211,7 +2211,7 @@ html.squarespace-damask.is-expanded .sqs-blockStatus {
     border: 1px solid #d0d0d0;
     border-radius: 4px;
     color: #3e3e3e;
-    font-family: 'Gotham SSm A', 'Gotham SSm B', 'Proxima Nova', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     line-height: 1em;
     font-weight: normal;
     letter-spacing: normal;
@@ -2363,7 +2363,7 @@ html.blogapp .sqs-blockStatus--overlayMode .sqs-blockStatus-box {
     background: #f0523d;
     border-radius: 100%;
     color: #fff;
-    font-family: 'Gotham SSm A', 'Gotham SSm B', 'Proxima Nova', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 11px;
     line-height: 22px;
     font-weight: 700;
@@ -2675,14 +2675,14 @@ body.sqs-dragging .sqs-layout .sqs-content-overlay {
     width: 100%
 }
 @font-face {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     src: url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.eot');
     src: url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.eot?#iefix') format('embedded-opentype'), url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.svg#squarespace-ui-font') format('svg'), url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.woff') format('woff'), url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.ttf') format('truetype');
     font-weight: normal;
     font-style: normal
 }
 .sqs-ui-font-family {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -2690,14 +2690,14 @@ body.sqs-dragging .sqs-layout .sqs-content-overlay {
 }
 [class^="sqs-ui-font-"]:before,
 [class*=" sqs-ui-font-"]:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
     -webkit-font-smoothing: antialiased
 }
 [data-icon]:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -2738,7 +2738,7 @@ body.sqs-dragging .sqs-layout .sqs-content-overlay {
     left: 0px
 }
 .sqs-gallery-controls .previous:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -2758,7 +2758,7 @@ body.sqs-dragging .sqs-layout .sqs-content-overlay {
     right: 0px
 }
 .sqs-gallery-controls .next:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -2884,7 +2884,7 @@ body.sqs-dragging .sqs-layout .sqs-content-overlay {
     cursor: pointer
 }
 .sqs-gallery-design-carousel .sqs-gallery-controls .next:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -2910,7 +2910,7 @@ body.sqs-dragging .sqs-layout .sqs-content-overlay {
     margin-right: 10px
 }
 .sqs-gallery-design-carousel .sqs-gallery-controls .previous:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -3124,7 +3124,7 @@ body.sqs-dragging .sqs-layout .sqs-content-overlay {
     right: 2%
 }
 .yui3-lightbox2 .sqs-lightbox-next:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -3144,7 +3144,7 @@ body.sqs-dragging .sqs-layout .sqs-content-overlay {
     left: 2%
 }
 .yui3-lightbox2 .sqs-lightbox-previous:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -3171,7 +3171,7 @@ body.sqs-dragging .sqs-layout .sqs-content-overlay {
     text-align: right
 }
 .yui3-lightbox2 .sqs-lightbox-close:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -3204,14 +3204,14 @@ body.sqs-lightbox-open {
     opacity: 0
 }
 @font-face {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     src: url('//static.squarespace.com/universal/fonts/squarespace-ui-font.eot');
     src: url('//static.squarespace.com/universal/fonts/squarespace-ui-font.eot?#iefix') format('embedded-opentype'), url('//static.squarespace.com/universal/fonts/squarespace-ui-font.svg#squarespace-ui-font') format('svg'), url('//static.squarespace.com/universal/fonts/squarespace-ui-font.woff') format('woff'), url('//static.squarespace.com/universal/fonts/squarespace-ui-font.ttf') format('truetype');
     font-weight: normal;
     font-style: normal
 }
 .sqs-ui-font-family {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -3219,14 +3219,14 @@ body.sqs-lightbox-open {
 }
 [class^="sqs-ui-font-"]:before,
 [class*=" sqs-ui-font-"]:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
     -webkit-font-smoothing: antialiased
 }
 [data-icon]:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -3239,7 +3239,7 @@ body.sqs-lightbox-open {
 }
 #list-paging a.newer .pagination-icon:before,
 #item-paging a.newer .pagination-icon:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -3265,7 +3265,7 @@ body.sqs-lightbox-open {
 }
 #list-paging a.older .pagination-icon:after,
 #item-paging a.older .pagination-icon:after {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -3648,7 +3648,7 @@ body.sqs-lightbox-open {
     display: none
 }
 .tweak-blog-list-title-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 22px;
@@ -3657,7 +3657,7 @@ body.sqs-lightbox-open {
     text-transform: none
 }
 .tweak-blog-item-title-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 32px;
@@ -3666,7 +3666,7 @@ body.sqs-lightbox-open {
     text-transform: none
 }
 .tweak-blog-meta-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -3674,7 +3674,7 @@ body.sqs-lightbox-open {
     text-transform: none
 }
 .tweak-blog-list-excerpt-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 14px;
@@ -3683,7 +3683,7 @@ body.sqs-lightbox-open {
     text-transform: none
 }
 .tweak-blog-list-readmore-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 14px;
@@ -3691,7 +3691,7 @@ body.sqs-lightbox-open {
     text-transform: none
 }
 .tweak-blog-pagination-label-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -3705,12 +3705,12 @@ body.sqs-lightbox-open {
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 12px;
     letter-spacing: 0em;
     text-transform: none;
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 900;
     font-style: normal;
     font-size: 10px;
@@ -3948,13 +3948,13 @@ body.sqs-lightbox-open {
 .BlogList-item-title {
     display: none;
     margin-bottom: 11px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-size: 22px;
     letter-spacing: 0em;
     line-height: 1em;
     text-transform: none;
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 16px;
@@ -3984,7 +3984,7 @@ body.sqs-lightbox-open {
 .BlogList-item-excerpt {
     display: none;
     margin-bottom: 11px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     letter-spacing: 0em;
     line-height: 1.6em;
@@ -4039,7 +4039,7 @@ body.sqs-lightbox-open {
 }
 .BlogList-item-readmore {
     vertical-align: baseline;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-family: din-condensed-web;
     font-weight: 400;
     font-style: normal;
@@ -4167,13 +4167,13 @@ body.sqs-lightbox-open {
 }
 .BlogList-pagination-link-label {
     display: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 12px;
     letter-spacing: 0em;
     line-height: 1.6em;
     text-transform: none;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 9.75px;
@@ -4378,13 +4378,13 @@ body.sqs-lightbox-open {
 }
 .BlogItem-title {
     margin: 0 0 8px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-size: 32px;
     letter-spacing: 0em;
     line-height: 1em;
     text-transform: none;
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 25px;
@@ -4573,13 +4573,13 @@ body.sqs-lightbox-open {
 .BlogItem-pagination-link-label {
     display: none;
     padding: 4px 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 12px;
     letter-spacing: 0em;
     line-height: 1.6em;
     text-transform: none;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 9.75px;
@@ -4595,13 +4595,13 @@ body.sqs-lightbox-open {
     display: none;
     margin: 0;
     padding: 4px 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-size: 22px;
     letter-spacing: 0em;
     line-height: 1em;
     text-transform: none;
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 16px;
@@ -4616,12 +4616,12 @@ body.sqs-lightbox-open {
 .BlogItem-pagination-link-meta {
     display: block;
     padding: 4px 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 12px;
     letter-spacing: 0em;
     text-transform: none;
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 900;
     font-style: normal;
     font-size: 10px;
@@ -4900,7 +4900,7 @@ body:not(.event-list-show-cats) .eventlist-cats {
     left: -2px
 }
 .event-icons .eventlist-meta-item.eventlist-meta-date:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -4917,7 +4917,7 @@ body:not(.event-list-show-cats) .eventlist-cats {
     line-height: 16px
 }
 .event-icons .eventlist-meta-item.eventlist-meta-time:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -4934,7 +4934,7 @@ body:not(.event-list-show-cats) .eventlist-cats {
     line-height: 16px
 }
 .event-icons .eventlist-meta-item.eventlist-meta-address:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -5033,7 +5033,7 @@ body:not(.event-list-like-and-share-buttons) .eventlist-actions {
     margin-right: 1.2em
 }
 .eventlist-actions .sqs-simple-like .like-count:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -5064,7 +5064,7 @@ body:not(.event-list-like-and-share-buttons) .eventlist-actions {
     display: none
 }
 .eventlist-actions .ss-social-button:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -5210,7 +5210,7 @@ body:not(.event-icalgcal-links) .event-meta-addtocalendar-container {
     margin-right: 1.2em
 }
 .event-meta-socialicon-container .sqs-simple-like .like-count:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -5241,7 +5241,7 @@ body:not(.event-icalgcal-links) .event-meta-addtocalendar-container {
     display: none
 }
 .event-meta-socialicon-container .ss-social-button:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -5481,7 +5481,7 @@ body:not(.event-like-and-share-buttons) .event-meta-socialicon-container {
     display: inline
 }
 .collection-type-gallery:not(.gallery-design-grid) .arrow.previous-slide:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -5504,7 +5504,7 @@ body:not(.event-like-and-share-buttons) .event-meta-socialicon-container {
     line-height: 40px
 }
 .collection-type-gallery:not(.gallery-design-grid) .arrow.next-slide:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -5931,7 +5931,7 @@ body:not(.event-like-and-share-buttons) .event-meta-socialicon-container {
     font-size: 13px;
     letter-spacing: 0px;
     text-transform: none;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -6014,7 +6014,7 @@ body:not(.event-like-and-share-buttons) .event-meta-socialicon-container {
     box-sizing: border-box
 }
 .ProductList-filter-dropdownToggle-label-icon:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -6202,7 +6202,7 @@ body:not(.event-like-and-share-buttons) .event-meta-socialicon-container {
     letter-spacing: 0px;
     line-height: 1.2em;
     text-transform: none;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 11px;
@@ -6221,7 +6221,7 @@ body:not(.tweak-product-list-show-title) .ProductList h1.ProductList-title {
     font-size: 13px;
     letter-spacing: 0px;
     line-height: 1.4em;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 11px;
@@ -6346,7 +6346,7 @@ body:not(.tweak-product-list-show-price) .ProductList .product-price {
         margin-bottom: 5px
     }
     .ProductList-filter-dropdownToggle-checkbox:checked~.ProductList-filter-dropdownToggle-label .ProductList-filter-dropdownToggle-label-icon:before {
-        font-family: 'squarespace-ui-font';
+        font-family: 'Open Sans', sans-serif;
         font-style: normal;
         speak: none;
         font-weight: normal;
@@ -6688,7 +6688,7 @@ body:not(.tweak-product-list-show-price) .ProductList .product-price {
     font-weight: normal;
     font-size: 12px;
     letter-spacing: 1px;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 9px;
@@ -7064,7 +7064,7 @@ body:not(.tweak-product-list-show-price) .ProductList .product-price {
     font-weight: bold;
     font-size: 14px;
     letter-spacing: 0px;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 13px;
@@ -7092,7 +7092,7 @@ body:not(.tweak-product-list-show-price) .ProductList .product-price {
     font-size: 14px;
     letter-spacing: 0px;
     line-height: 1.6em;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 13px;
@@ -7142,7 +7142,7 @@ body:not(.tweak-product-list-show-price) .ProductList .product-price {
     font-size: 14px;
     letter-spacing: 0px;
     line-height: 1.6em;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 13px;
@@ -7173,7 +7173,7 @@ body:not(.tweak-product-list-show-price) .ProductList .product-price {
     font-weight: normal;
     font-size: 11px;
     letter-spacing: 1px;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 10px;
@@ -7211,7 +7211,7 @@ body:not(.tweak-product-list-show-price) .ProductList .product-price {
     font-weight: bold;
     letter-spacing: 0px;
     text-transform: none;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -7354,7 +7354,7 @@ body:not(.tweak-product-list-show-price) .ProductList .product-price {
     font-size: 16px;
     letter-spacing: 1px;
     text-transform: none;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 10px;
@@ -7500,7 +7500,7 @@ body:not(.tweak-product-list-show-price) .ProductList .product-price {
     font-family: Helvetica, Arial, sans-serif;
     font-weight: bold;
     letter-spacing: 1px;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 10px;
@@ -8837,7 +8837,7 @@ body:not(.tweak-product-list-show-price) .ProductList .product-price {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 12px;
     letter-spacing: 1px;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-size: 9px;
     font-weight: 600;
     font-style: normal;
@@ -8857,7 +8857,7 @@ body:not(.tweak-product-list-show-price) .ProductList .product-price {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 15px;
     letter-spacing: 1px;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-size: 10px;
     font-weight: 600;
     font-style: normal;
@@ -8877,7 +8877,7 @@ body:not(.tweak-product-list-show-price) .ProductList .product-price {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 20px;
     letter-spacing: 1px;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-size: 12px;
     font-weight: 600;
     font-style: normal;
@@ -12527,7 +12527,7 @@ body:not(.image-block-stack-dynamic-font-sizing) .sqs-block-image .design-layout
     display: block
 }
 .sqs-block-archive .archive-block-setting-layout-dropdown .archive-dropdown-toggle-checkbox:checked~.archive-dropdown-toggle-label .archive-dropdown-toggle-icon:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -12579,7 +12579,7 @@ body:not(.image-block-stack-dynamic-font-sizing) .sqs-block-image .design-layout
     box-sizing: border-box
 }
 .sqs-block-archive .archive-block-setting-layout-dropdown .archive-dropdown-toggle-icon:before {
-    font-family: 'squarespace-ui-font';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     speak: none;
     font-weight: normal;
@@ -13188,7 +13188,7 @@ body:not(.image-block-stack-dynamic-font-sizing) .sqs-block-image .design-layout
 }
 .sqs-block-opentable-v2 .oc-loading {
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
     line-height: 180px
 }
 .sqs-block-opentable-v2 a {
@@ -13327,7 +13327,7 @@ body:not(.image-block-stack-dynamic-font-sizing) .sqs-block-image .design-layout
     border: 1px solid #ccc;
     background: #fafafa;
     color: #000;
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 12px;
     line-height: normal;
     box-sizing: border-box;
@@ -13351,7 +13351,7 @@ body:not(.image-block-stack-dynamic-font-sizing) .sqs-block-image .design-layout
     bottom: 16px;
     left: 8px;
     color: #aaa;
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 13px;
     line-height: 16px
 }
@@ -14090,7 +14090,7 @@ html.sqs-modal-lightbox-open body {
     visibility: hidden
 }
 .tweak-share-buttons-label-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -14111,8 +14111,8 @@ html.sqs-modal-lightbox-open body {
     white-space: nowrap;
     border-radius: 3px;
     padding: 0 6px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -14448,7 +14448,7 @@ body:not(.button-style-default) .sqs-editable-button,
 body:not(.button-style-default) .sqs-editable-button-font {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     letter-spacing: 1px;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     text-transform: uppercase;
@@ -14604,7 +14604,7 @@ body:not(.button-style-default).button-style-raised .sqs-alternate-block-style-c
 body:not(.button-style-default) .opentable-block .OT_Find_a_Table {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     letter-spacing: 1px;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     text-transform: uppercase;
@@ -14651,7 +14651,7 @@ body:not(.button-style-default).button-corner-style-pill .opentable-block .OT_Fi
     padding: .8em 3em;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     letter-spacing: 1px;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-size: 13px;
     font-weight: 300;
     font-style: normal;
@@ -14664,7 +14664,7 @@ body:not(.button-style-default).button-corner-style-pill .opentable-block .OT_Fi
     margin: 0;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     letter-spacing: 1px;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-size: 13px;
     font-weight: 300;
     font-style: normal;
@@ -14729,7 +14729,7 @@ body:not(.button-style-default).button-corner-style-pill .opentable-block .OT_Fi
     font-family: Helvetica, Arial, sans-serif;
     font-weight: normal;
     letter-spacing: 1px;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -15794,11 +15794,11 @@ body.tweak-site-width-option-full-background.tweak-footer-show:not(.tweak-site-b
     animation: anim-opacity-full 480ms ease-out
 }
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     letter-spacing: 0em;
     line-height: 1.6em;
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 14px;
@@ -15835,13 +15835,13 @@ h3:last-child {
     margin-bottom: 0
 }
 h1 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-size: 32px;
     letter-spacing: 0em;
     line-height: 1em;
     text-transform: none;
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 38px;
@@ -15856,12 +15856,12 @@ h1 {
     }
 }
 h2 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     letter-spacing: 0em;
     line-height: 1.2em;
     text-transform: none;
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 24px;
@@ -15870,13 +15870,13 @@ h2 {
     text-transform: uppercase
 }
 h3 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-size: 18px;
     letter-spacing: 0em;
     line-height: 1.2em;
     text-transform: none;
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 13px;
@@ -16407,7 +16407,7 @@ a:focus {
 }
 .sqs-block-quote {
     padding-bottom: .5em;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     letter-spacing: 0em;
     line-height: 1.6em;
@@ -16431,13 +16431,13 @@ a:focus {
 }
 .sqs-block-quote .source {
     padding-top: .5em;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 14px;
     letter-spacing: 0em;
     line-height: 1.6em;
     text-transform: none;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 10px;
@@ -18084,10 +18084,10 @@ a:focus {
     display: block
 }
 .Header .Cart {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     letter-spacing: 0em;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 10px;
@@ -18455,10 +18455,10 @@ a:focus {
     color: #fff
 }
 .Mobile-bar .Cart {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-size: 14px;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -18828,10 +18828,10 @@ a:focus {
 }
 .Footer-business-info {
     display: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     letter-spacing: 0em;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -18844,10 +18844,10 @@ a:focus {
     display: block
 }
 .Footer-business-info-item--name {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     letter-spacing: 0em;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -18873,10 +18873,10 @@ a:focus {
 }
 .Footer-business-hours {
     display: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     letter-spacing: 0em;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -18889,10 +18889,10 @@ a:focus {
     display: block
 }
 .Footer-business-hours-heading {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     letter-spacing: 0em;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -18902,13 +18902,13 @@ a:focus {
     color: #000
 }
 .Footer-nav {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-size: 18px;
     letter-spacing: 0em;
     line-height: 1em;
     text-transform: none;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 9.75px;
@@ -18932,9 +18932,9 @@ a:focus {
 }
 .Footer-nav-folder-heading {
     display: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -19372,7 +19372,7 @@ body:not(.tweak-header-bottom-overlay-on-index-gallery) .Header--index-gallery .
     width: 100%
 }
 .has-site-title .Header-branding {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-size: 27px;
     letter-spacing: 0em;
@@ -19395,7 +19395,7 @@ body:not(.tweak-header-bottom-overlay-on-index-gallery) .Header--index-gallery .
 }
 .Header-tagline {
     max-width: 40em;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 12px;
     letter-spacing: 0em;
     text-transform: none;
@@ -19483,11 +19483,11 @@ body:not(.tweak-header-bottom-overlay-on-index-gallery) .Header--index-gallery .
     transition: left 0s linear, transform .2s ease-out, opacity .2s ease-out
 }
 .Header-nav {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-size: 14px;
     letter-spacing: 0em;
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 15px;
@@ -20120,8 +20120,8 @@ body:not(.tweak-header-bottom-overlay-on-index-gallery) .Header--index-gallery .
     box-shadow: 0 1px 0 0 #ebebeb
 }
 body:not(.tweak-header-secondary-nav-inherit-styles) .Header-nav--secondary {
-    font-family: Arial, Helvetica, sans-serif;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -20626,9 +20626,9 @@ body:not(.tweak-header-search-placeholder-show) .Header-search:-ms-input-placeho
     height: 21px
 }
 .Header-search {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     letter-spacing: 0em;
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -20941,7 +20941,7 @@ body:not(.tweak-header-search-placeholder-show) .Header-search:-ms-input-placeho
     line-height: 12px;
     -webkit-font-smoothing: subpixel-antialiased;
     -moz-osx-font-smoothing: auto;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -21311,7 +21311,7 @@ body:not(.tweak-header-search-placeholder-show) .Header-search:-ms-input-placeho
 .Index-page-scroll-indicator-text {
     display: none;
     margin-bottom: 16px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -21705,12 +21705,12 @@ body:not(.tweak-index-gallery-layout-slideshow):not(.tweak-index-gallery-spacing
 }
 .Index-gallery-item-content-heading {
     margin-bottom: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 24px;
     letter-spacing: 0em;
     line-height: 1em;
     text-transform: none;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 10px;
@@ -21733,11 +21733,11 @@ body:not(.tweak-index-gallery-layout-slideshow):not(.tweak-index-gallery-spacing
     color: rgba(34, 34, 34, .2)
 }
 .Index-gallery-item-content-body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     letter-spacing: 0em;
     line-height: 1.6em;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 10px;
@@ -22522,7 +22522,7 @@ body:not(.tweak-index-gallery-layout-slideshow):not(.tweak-index-gallery-spacing
 }
 .has-site-title .Mobile-bar-branding {
     text-rendering: optimizeLegibility;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-size: 27px;
     letter-spacing: 0em;
@@ -22780,7 +22780,7 @@ body:not(.tweak-index-gallery-layout-slideshow):not(.tweak-index-gallery-spacing
 }
 .Mobile-overlay-nav-item--folder:after {
     content: '\00BB';
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: rgba(82, 82, 82, .7)
 }
 .Mobile-overlay-nav--secondary .Mobile-overlay-nav-item:first-child {
@@ -22822,16 +22822,16 @@ body:not(.tweak-index-gallery-layout-slideshow):not(.tweak-index-gallery-spacing
 }
 .Mobile-overlay-folder-item--toggle:before {
     content: '\00AB';
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: rgba(82, 82, 82, .7)
 }
 .Mobile-overlay-folder-item {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 16px;
     letter-spacing: 0em;
     line-height: 1em;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 13px;
@@ -22843,12 +22843,12 @@ body:not(.tweak-index-gallery-layout-slideshow):not(.tweak-index-gallery-spacing
     color: rgba(82, 82, 82, .7)
 }
 body:not(.tweak-mobile-overlay-menu-secondary-inherit) .Mobile-overlay-folder-item--toggle {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 16px;
     letter-spacing: 0em;
     line-height: 1em;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 13px;
@@ -22860,12 +22860,12 @@ body:not(.tweak-mobile-overlay-menu-secondary-inherit) .Mobile-overlay-folder-it
     color: rgba(82, 82, 82, .7)
 }
 body:not(.tweak-mobile-overlay-menu-primary-style-button) .Mobile-overlay-nav .Mobile-overlay-nav-item {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 16px;
     letter-spacing: 0em;
     line-height: 1em;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 13px;
@@ -22875,7 +22875,7 @@ body:not(.tweak-mobile-overlay-menu-primary-style-button) .Mobile-overlay-nav .M
     color: rgba(82, 82, 82, .7)
 }
 .tweak-mobile-overlay-menu-primary-style-button:not(.tweak-mobile-overlay-menu-secondary-inherit) .Mobile-overlay-nav--primary .Mobile-overlay-nav-item {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -22926,7 +22926,7 @@ body:not(.tweak-mobile-overlay-menu-primary-style-button) .Mobile-overlay-nav .M
     box-shadow: 0 1px 0 0 #000
 }
 .tweak-mobile-overlay-menu-primary-style-button.tweak-mobile-overlay-menu-secondary-inherit .Mobile-overlay-nav .Mobile-overlay-nav-item {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -22977,12 +22977,12 @@ body:not(.tweak-mobile-overlay-menu-primary-style-button) .Mobile-overlay-nav .M
     box-shadow: 0 1px 0 0 #000
 }
 body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-overlay-menu-secondary-inherit) .Mobile-overlay-nav--secondary .Mobile-overlay-nav-item {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 16px;
     letter-spacing: 0em;
     line-height: 1em;
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 13px;
@@ -22992,7 +22992,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     color: rgba(82, 82, 82, .7)
 }
 .tweak-mobile-overlay-menu-secondary-style-button:not(.tweak-mobile-overlay-menu-secondary-inherit) .Mobile-overlay-nav--secondary .Mobile-overlay-nav-item {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -23043,7 +23043,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     box-shadow: 0 1px 0 0 #000
 }
 .tweak-header-branding-site-title-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 27px;
@@ -23052,7 +23052,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-header-tagline-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -23061,7 +23061,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-header-primary-nav-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 14px;
@@ -23069,7 +23069,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-header-secondary-nav-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -23077,7 +23077,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-header-search-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -23085,7 +23085,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-header-cart-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 14px;
@@ -23093,7 +23093,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-index-nav-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -23101,7 +23101,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-index-page-scroll-indicator-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -23109,7 +23109,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-index-gallery-content-heading-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 24px;
@@ -23118,7 +23118,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-index-gallery-content-body-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 14px;
@@ -23127,7 +23127,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-body-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -23136,7 +23136,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-h1-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 32px;
@@ -23145,7 +23145,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-h2-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 24px;
@@ -23154,7 +23154,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-h3-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 18px;
@@ -23163,7 +23163,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-footer-business-name-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 18px;
@@ -23172,7 +23172,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-footer-business-info-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 18px;
@@ -23181,7 +23181,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-footer-business-hours-heading-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 18px;
@@ -23190,7 +23190,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-footer-business-hours-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 18px;
@@ -23199,7 +23199,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-footer-nav-heading-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 18px;
@@ -23208,7 +23208,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-footer-nav-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 18px;
@@ -23217,7 +23217,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-mobile-bar-branding-site-title-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 27px;
@@ -23226,7 +23226,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-mobile-bar-cart-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 14px;
@@ -23234,7 +23234,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-mobile-overlay-menu-primary-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -23243,7 +23243,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-mobile-overlay-menu-primary-button-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -23252,7 +23252,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-mobile-overlay-menu-secondary-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -23261,7 +23261,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-mobile-overlay-menu-secondary-button-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -23270,7 +23270,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-quote-block-quote-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 14px;
@@ -23279,7 +23279,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-quote-block-source-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 14px;
@@ -23629,7 +23629,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-header-primary-nav-font {
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 15px;
@@ -23637,7 +23637,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-header-secondary-nav-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -23645,7 +23645,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-header-search-font {
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -23653,7 +23653,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-header-cart-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 10px;
@@ -23661,7 +23661,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-index-nav-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -23669,7 +23669,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-index-page-scroll-indicator-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -23677,7 +23677,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-index-gallery-content-heading-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 10px;
@@ -23686,7 +23686,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-index-gallery-content-body-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 10px;
@@ -23695,7 +23695,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-body-font {
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 14px;
@@ -23704,7 +23704,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-h1-font {
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 38px;
@@ -23713,7 +23713,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-h2-font {
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 24px;
@@ -23722,7 +23722,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-h3-font {
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 13px;
@@ -23731,7 +23731,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-footer-business-name-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -23740,7 +23740,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-footer-business-info-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -23749,7 +23749,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-footer-business-hours-heading-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -23758,7 +23758,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-footer-business-hours-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -23767,7 +23767,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-footer-nav-heading-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -23776,7 +23776,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-footer-nav-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 9.75px;
@@ -23794,7 +23794,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-mobile-bar-cart-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -23802,7 +23802,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-mobile-overlay-menu-primary-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 13px;
@@ -23811,7 +23811,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-mobile-overlay-menu-primary-button-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -23820,7 +23820,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-mobile-overlay-menu-secondary-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 13px;
@@ -23829,7 +23829,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-mobile-overlay-menu-secondary-button-font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -23847,7 +23847,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-quote-block-source-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 10px;
@@ -23856,7 +23856,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-blog-list-title-font {
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 16px;
@@ -23865,7 +23865,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-blog-item-title-font {
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 25px;
@@ -23874,7 +23874,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-blog-meta-font {
-    font-family: Lato;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 900;
     font-style: normal;
     font-size: 10px;
@@ -23899,7 +23899,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-blog-pagination-label-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 9.75px;
@@ -23908,7 +23908,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-product-list-title-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 11px;
@@ -23917,7 +23917,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-product-list-price-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 11px;
@@ -23926,7 +23926,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-product-list-filter-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -23935,7 +23935,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-product-item-nav-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 9px;
@@ -23952,7 +23952,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-product-item-details-price-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 13px;
@@ -23960,7 +23960,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-product-item-details-excerpt-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 13px;
@@ -23969,7 +23969,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-product-item-details-options-label-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 10px;
@@ -23977,7 +23977,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-product-item-details-options-content-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -23985,7 +23985,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-product-item-details-add-to-cart-button-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 10px;
@@ -23993,7 +23993,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-product-badge-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 10px;
@@ -24001,7 +24001,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .small-button-block-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-size: 9px;
     font-weight: 600;
     font-style: normal;
@@ -24009,7 +24009,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     letter-spacing: .2em
 }
 .medium-button-block-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-size: 10px;
     font-weight: 600;
     font-style: normal;
@@ -24017,7 +24017,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     letter-spacing: .2em
 }
 .large-button-block-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-size: 12px;
     font-weight: 600;
     font-style: normal;
@@ -24160,14 +24160,14 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .system-button-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
     text-transform: uppercase;
     letter-spacing: .1em
 }
 .announcement-bar-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-size: 13px;
     font-weight: 300;
     font-style: normal;
@@ -24175,7 +24175,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: none
 }
 .tweak-product-quick-view-button-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
@@ -24183,7 +24183,7 @@ body:not(.tweak-mobile-overlay-menu-secondary-style-button):not(.tweak-mobile-ov
     text-transform: uppercase
 }
 .tweak-share-buttons-label-font {
-    font-family: proxima-nova;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 12px;
