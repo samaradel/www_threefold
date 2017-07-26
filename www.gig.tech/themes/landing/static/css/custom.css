@@ -37,23 +37,30 @@ body {
 .clear-fix {
   clear: both;
 }
-.navbar .navbar-nav {
+/*.navbar .navbar-nav {
   display: inline-block;
   float: none;
   vertical-align: top;
 }
 .navbar .navbar-collapse, header {
   text-align: center;
-}
-.navbar-toggle, .nav>li>a:hover {
-  background-color: #699ee2;
-}
+}*/
 .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item {
-  color: #003944;
-}
-.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover {
   color: #fff;
 }
+.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover {
+  color: #757575;
+}
+.nav>li>a:hover {
+  background-color: transparent;
+}
+.header-image {
+  display: block;
+  padding: 75px 0;
+  margin: auto;
+  height: 415px;
+}
+/*
 .Header-branding-logo {
   margin: 50px 10px 15px;
 }
@@ -63,7 +70,7 @@ body {
   position: absolute;
   width: 100%;
   bottom: 0px;
-}
+}*/
 .smallScreen {
   display: none;
 }
@@ -128,15 +135,33 @@ footer .sqs-block-content h3 {
 }
 /*header style*/
 .Site header {
-  /*background: url('../img/main.jpg');*/
   background-color: #699ee2 ;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 500px;
+  height: 415px;
   position: relative;
 }
-.Site header img {
-  margin-top: 40px;
+.logo-container {
+  background-color: #fff;
+}
+.logo-container img {
+  display: block;
+  max-width: 240px;
+  margin: auto;
+}
+.navbar {
+  margin-bottom: 0px;
+}
+.navbar-fixed-top {
+  margin-top: 100px;
+  float: right;
+}
+.navbar-brand {
+  padding: 0 15px;
+}
+.navbar-brand img {
+  width: 125px;
+  margin: 10px;
 }
 .logo {
   position: absolute;
@@ -176,10 +201,31 @@ footer .sqs-block-content h3 {
 .fa-3 {
   font-size: 4em;
 }
+.navbar-container {
+    padding: 20px 0;
+}
+.navbar.navbar-fixed-top.fixed-theme {
+    background-color: #699ee2;
+    margin-top: 0px;
+}
+.navbar-container.fixed-theme {
+    padding: 0;
+}
+.navbar-brand.fixed-theme,
+.navbar-container.fixed-theme,
+.navbar.navbar-fixed-top.fixed-theme,
+.navbar-brand,
+.navbar-container{
+    transition: 0.8s;
+    -webkit-transition:  0.8s;
+}
 /* Media Queries */
 @media only screen and (max-width: 767px) {
   .Header-branding {
     display: none;
+  }
+  .navbar-brand img {
+    width: 100px;
   }
   .smallScreen {
     display: block;
@@ -189,7 +235,7 @@ footer .sqs-block-content h3 {
         margin: 25px 10px 20px;
     }
     .navbar-toggle {
-      margin-top: 40px;
+      margin-top: 30px;
     }
     header {
       text-align: left;
@@ -198,5 +244,11 @@ footer .sqs-block-content h3 {
 @media (min-width: 768px) {
   .navbar {
     border-radius: 0px;
+  }
+  .navbar-nav {
+    float: right;
+  }
+  .navbar-nav>li {
+    margin: 15px 0;
   }
 }

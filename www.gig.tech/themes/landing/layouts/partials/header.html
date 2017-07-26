@@ -1,24 +1,25 @@
+<div class="logo-container">
+  <a href="/"><img src="/img/GIG_tech.png" alt="GIG Tech"></a>
+</div>
 <header class="header">
-  <img src="/img/Icons-05 copy.png" class="logo" alt="">
-  <img src="/img/triangle.png" alt="triangle">
-  <nav class="navbar Header-nav">
-    <div class="container-fluid">
+  <nav class="navbar navbar-fixed-top Header-nav" id="header">
+    <div id="header-container" class="container navbar-container">
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
           <span class="sr-only">Toggle navigation</span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a href="/" class="Header-branding smallScreen" >
-          <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" class="Header-branding-logo">
+        <a href="/" class="navbar-brand" >
+          <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
         </a>
       </div>
       <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
-          <li class="active"><a href="/" class="Header-nav-item" data-test="template-nav">Home <span class="sr-only">(current)</span></a></li>
+          <li><a href="/" class="Header-nav-item" data-test="template-nav">Home <span class="sr-only">(current)</span></a></li>
           <li><a href="/tech" class="Header-nav-item" data-test="template-nav">Tech</a></li>
           <li><a href="/blog" class="Header-nav-item" data-test="template-nav">Blog</a></li>
           <li><a href="/team" class="Header-nav-item" data-test="template-nav">Team</a></li>
@@ -27,4 +28,5 @@
       </div>
     </div>
   </nav>
+  <img src="/img/triangle.png" alt="triangle" class="header-image">
 </header>

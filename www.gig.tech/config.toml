@@ -10,7 +10,7 @@ pluralizeListTitles = false
 uglyURLs = false
 
 [Params]
-  logo = "img/a_003.png"
+  logo = "img/Icons-05 copy.png"
   favicon = "img/favicon.ico"
 
 [permalinks]
