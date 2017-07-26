@@ -38,6 +38,9 @@ body.tweak-site-width-option-constrained-width {
 .tweak-blog-list-style-grid .BlogList-item {
   float: none;
 }
+.tweak-site-border-show .Site {
+  border: none;
+}
 .clear-fix {
   clear: both;
 }
