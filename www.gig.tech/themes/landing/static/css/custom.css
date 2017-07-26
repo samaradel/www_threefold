@@ -38,14 +38,13 @@ body {
 .clear-fix {
   clear: both;
 }
-/*.navbar .navbar-nav {
+.navbar .navbar-nav {
   display: inline-block;
   float: none;
-  vertical-align: top;
 }
 .navbar .navbar-collapse, header {
   text-align: center;
-}*/
+}
 .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item {
   color: #fff;
 }
@@ -250,7 +249,7 @@ footer .sqs-block-content h3 {
     border-radius: 0px;
   }
   .navbar-nav {
-    float: right;
+    float: none;
   }
   .navbar-nav>li {
     margin: 5px 0;
