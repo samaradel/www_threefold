@@ -25,6 +25,9 @@
 body {
   font-family: 'Open Sans', sans-serif;
 }
+body.tweak-site-width-option-constrained-width {
+  background-color: #fafafa;
+}
 .Site-inner, header, .navbar-toggle .icon-bar, .content-404 {
   background-color: #fff;
 }
@@ -208,7 +211,7 @@ footer .sqs-block-content h3 {
     padding: 20px 0;
 }
 .navbar.navbar-fixed-top.fixed-theme {
-    background-color: #91C1FF;
+    background-color: #699EE2;
     margin-top: 0px;
 }
 .navbar-container.fixed-theme {
