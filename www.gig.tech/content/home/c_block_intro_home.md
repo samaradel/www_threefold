@@ -3,14 +3,13 @@
 title = "edge cloud"
 weight = 3
 
-header_1 = "GIG Technology Toolbox"
+header_1 = "Open-Source Technology Toolbox"
 +++
 
-- **Stateless Computing:** a stateless operating system, [Zero-OS](https://github.com/zero-os), enabling distributed hardware to form an Internet grid of IT capacity that fuels a cost-effective, neutral and secure Internet of the future, powered by edge computing.
-- **Artificial Intelligence** controls and operates a distributed cloud and reserves, procures and executes workloads on the grid using [Jumpscale](https://github.com/Jumpscale). It delivers autoscaling and self-healing capacity pools for any kind of IT workload.
-- **Blockchain Technology** for access control, [itsyou.online](https://github.com/itsyouonline), distribution of tokens and execution of smart contract, [Threefold Token](http://www.threefoldtoken.com/), build on top of a secure and scalable ledger, [Rivine](https://github.com/rivine/rivine).
+- **Stateless Computing:** is based on our unique operating system, [Zero-OS](https://github.com/zero-os), that enables commodity hardware to generate a grid of IT capacity. This results into cost-effective, decentralized and highly-secure IT infrastructure, powered by edge computing.
+- **Artificial Intelligence** controls and operates the distributed edge cloud and reserves, procures and executes workloads on the grid using [Jumpscale](https://github.com/Jumpscale). It drives self-healing and autoscaling capacity pools for any kind of IT workload.
+- **Blockchain Technology** protects identity and access control with [itsyou.online](https://github.com/itsyouonline), but also distributes our [Threefold Tokens](http://www.threefoldtoken.com/) to execute smart contracts on top of our own secure and scalable ledger, [Rivine](https://github.com/rivine/rivine).
 
-These three elements are the foundation of a pervasive, neutral, private and affordable internet that operates and delivers withough a central governing body.
-
+These three connecting elements are the foundation of a pervasive, neutral, private and affordable internet that operates and delivers without any central governing body or large corporate company.
 
 ***
