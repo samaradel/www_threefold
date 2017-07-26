@@ -133,6 +133,9 @@ footer .sqs-block-content h3 {
   margin: 59px auto;
   text-align: center;
 }
+.Main-content p {
+  line-height: 1.7em;
+}
 /*header style*/
 .Site header {
   background-color: #699ee2 ;
