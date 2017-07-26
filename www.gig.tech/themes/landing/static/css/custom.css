@@ -122,7 +122,8 @@ footer .sqs-block-content h3 {
 }
 .list h4 {
   text-transform: none;
-  font-weight: 600;
+  font-weight: 400;
+  font-size: 15px;
   line-height: 1em;
 }
 .list img {
