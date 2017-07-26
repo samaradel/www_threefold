@@ -30,6 +30,7 @@ body {
 }
 .Site-inner {
   padding-bottom: 40px;
+  min-height: 133px;
 }
 .tweak-blog-list-style-grid .BlogList-item {
   float: none;
