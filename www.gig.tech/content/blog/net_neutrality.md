@@ -2,12 +2,14 @@
 # Don't remove title!
 title = "blog"
 header = "NET NEUTRALITY"
-image = "../img/autonomous.jpg"
+image = "../img/neutralnet.jpg"
 author = "Weynand Kuijpers"
 subtitle = "HOW WE DROVE EVOLUTION INTO REVOLUTION"
 weight = 5
 
 +++
+
+![alt text](/img/partnerworld.png "Worldwide Net Neutrality By GIG Technologies")
 
 **Yesterday**
 The Internet started as global network comprising many voluntarily interconnected autonomous networks. It operated without a central governing body. Universities, research institutions and governments agreed to collaborate on projects and share information.
