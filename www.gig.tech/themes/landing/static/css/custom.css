@@ -253,6 +253,14 @@ footer .sqs-block-content h3 {
   padding-top: 0px;
   padding-bottom: 0px;
 }
+.BlogList-item-excerpt p, .BlogList-item-title {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    letter-spacing: 0em;
+    line-height: 1.6em;
+    text-transform: none;
+}
 /* Media Queries */
 @media only screen and (max-width: 767px) {
   .Header-branding {

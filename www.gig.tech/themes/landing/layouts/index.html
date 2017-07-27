@@ -5,14 +5,20 @@
             <div class="Content-outer">
                <main class="Main Main--page">
                   <section class="Main-content">
-                     <div class="sqs-layout sqs-grid-12 columns-12" >
-                        <div class="row sqs-row">
-                           <div class="col sqs-col-2 span-2">
+                     <div class="sqs-layout container" >
+                       <div class="row">
+                        {{ partial "home/description.html" . }}
+                        </div>
+                        <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
+                           <div class="sqs-block-content">&nbsp;</div>
+                        </div>
+                        <div class="row">
+                           <div class="col-sm-2">
                               <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
                                  <div class="sqs-block-content">&nbsp;</div>
                               </div>
                            </div>
-                           <div class="col sqs-col-8 span-8">
+                           <div class="col-sm-8">
                               {{ partial "home/edge_cloud.html" . }}
                            </div>
                         </div>
