@@ -12,9 +12,9 @@ weight = 1
 
 ### Why Stateless Computing?
 
-The creation of a new Internet based on hundred of thousands of smaller and larger edge nodes needs a complete new operating system and a totally holistic approach to the functioning of the server and storage infrastructure.
+The creation of a new Internet based on 100 of thousands of smaller and larger edge nodes needs a complete new operating system that lowers the cost to operate computer nodes, while getting the max performance out of it. GIG took a complete new approach to the activation of bare-metal servers and storage systems in function of a green and neutral Internet platform with the use of a complete new operating system, extremely lightweight and highly distributed.
 
-GIG has developed the open-source components, [Zero-OS](https://github.com/Zero-OS), for the deployment of bare machines functioning as Internet nodes and application hosts.
+GIG developed all open-source components, [Zero-OS](https://github.com/Zero-OS) needed for the deployment of bare machines functioning as Internet nodes and application hosts, in relation to building a gigantic edge cloud.
 
 [Zero-OS](https://github.com/Zero-OS) creates the ideal compute platform to run containerized applications and software code on secure and high-available IT infrastructure.
 
@@ -22,9 +22,9 @@ GIG has developed the open-source components, [Zero-OS](https://github.com/Zero-
 
 ### Benefits of Stateless Computing
 
-* **Performance**: lightweight OS without overhead for running bare-metal machines
-* **Free**: finds the optimal performance of server & storage nodes at no cost
-* **Privacy**: no data footprint remains while workloads move from one node to another
+* **Performance**: lightweight OS with a minimal overhead, for extreme performance
+* **Free**: finds the optimal performance configuration of server & storage nodes at no extra cost
+* **Privacy**: no data footprint remains in place while workloads move from one node to another
 * **Distributed**: capacity is generated without the need for datacenters: *At The Edge*
 * **High-available**: easy creation of clusters while applications run in fragmented segments
 * **Portability**: moving software from one node to another within the grid is instant
@@ -33,11 +33,9 @@ GIG has developed the open-source components, [Zero-OS](https://github.com/Zero-
 
 ### Build on GitHub
 
-```
-Find [Zero-OS](https://github.com/zero-os) by GIG at [Github](https://github.com/zero-os)
+### Find *[Zero-OS](https://github.com/zero-os)* at *[Github](https://github.com/zero-os)*
 * 0-Core Repo
 * 0-Stor Repo
 * 0-Disk Repo
 * 0-Orchestrator Repo
-* and much more...
-```
+* ...

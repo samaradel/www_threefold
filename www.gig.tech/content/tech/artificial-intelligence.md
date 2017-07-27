@@ -27,8 +27,8 @@ Robots are constantly checking the health and uptime of the infrastructure and r
 
 ### Build on GitHub
 
-#### Find [Jumpscale](https://github.com/jumpscale) by GIG at [Github](https://github.com/jumpscale)
-* AYS9 At Your Service
+### Find *[Jumpscale](https://github.com/jumpscale)* by GIG at *[Github](https://github.com/jumpscale)*
+* At Your Service
 * Cockpit
 * Core9
-* and much more...
+* ...
