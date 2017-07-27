@@ -103,6 +103,10 @@ h3 {
   letter-spacing: 0em;
 }
 
+.sqs-block-content h3{
+  text-align: left;
+}
+
 .sqs-block-team h3 {
   float: left !important;
 }
