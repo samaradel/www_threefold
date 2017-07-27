@@ -14,6 +14,8 @@
                       {{end}}
                   {{ else if eq .Section "contact-foster" }}
                   <div class="Content-outer">{{ $p.Render "contact-foster" }}</div>
+                  {{ else if eq .Section "token" }}
+                  <div class="Content-outer">{{ $p.Render "token" }}</div>
                   {{else}}
     						<div class="Content-outer">{{ $p.Render "summary" }}</div>
           	  {{end}}

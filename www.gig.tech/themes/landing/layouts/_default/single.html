@@ -2,16 +2,17 @@
    {{ partial "parallax.html" . }}
        {{ partial "header.html" . }}
       <div class="Site-inner">
-           {{ if eq .Section "blog" }}
+           {{ if  eq .Section "blog" }}
              <div class="Content-outer">
                 <main class="Main Main--blog-item">
                    <section class="Main-content sqs-frontend-overlay-editor-widget-host" data-content-field="main-content">
                       <article class="BlogItem hentry author-roel-van-sabben post-type-text sqs-frontend-overlay-editor-widget-host" data-item-id="595247876b8f5b75fd238eb9">
-                         <h1 class="BlogItem-title" data-content-field="title">{{ .Params.header }}</h1>
+
                          <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1498564505529">
                             <div class="row">
                             <div class="col-sm-2 col-xs-12"></div>
                                <div class="col-sm-8 col-xs-12">
+                                 <h1 class="BlogItem-title" data-content-field="title">{{ .Params.header }}</h1>
                                   <!-- <div class="image-block-outer-wrapper layout-caption-below design-layout-inline">
                                            <div class="intrinsic" style="max-width:900.0px;">
                                               <div style="padding-bottom:5%;" class="image-block-wrapper has-aspect-ratio" data-description="">
@@ -126,11 +127,12 @@
                 <main class="Main Main--blog-item">
                    <section class="Main-content sqs-frontend-overlay-editor-widget-host" data-content-field="main-content">
                       <article class="BlogItem hentry author-roel-van-sabben post-type-text sqs-frontend-overlay-editor-widget-host" data-item-id="595247876b8f5b75fd238eb9">
-                         <h1 class="BlogItem-title" data-content-field="title">{{ .Params.header }}</h1>
+
                          <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1498564505529">
                             <div class="row">
                             <div class="col-sm-2 col-xs-12"></div>
                                <div class="col-sm-8 col-xs-12">
+                                  <h1 class="BlogItem-title" data-content-field="title">{{ .Params.header }}</h1>
                                   <!-- <div class="image-block-outer-wrapper layout-caption-below design-layout-inline">
                                            <div class="intrinsic" style="max-width:900.0px;">
                                               <div style="padding-bottom:5%;" class="image-block-wrapper has-aspect-ratio" data-description="">

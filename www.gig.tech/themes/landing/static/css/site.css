@@ -4372,7 +4372,7 @@ body.sqs-lightbox-open {
     text-align: left
 }
 .tweak-blog-item-alignment-center .BlogItem .mixin-blog-item-alignment {
-    text-align: center
+    text-align: left
 }
 .tweak-blog-item-alignment-right .BlogItem .mixin-blog-item-alignment {
     text-align: right
@@ -4403,7 +4403,7 @@ body.sqs-lightbox-open {
     text-align: left
 }
 .tweak-blog-item-alignment-center .BlogItem-title {
-    text-align: center
+    text-align: left
 }
 .tweak-blog-item-alignment-right .BlogItem-title {
     text-align: right
@@ -4497,7 +4497,7 @@ body.sqs-lightbox-open {
     text-align: left
 }
 .tweak-blog-item-alignment-center .BlogItem-share {
-    text-align: center
+    text-align: left
 }
 .tweak-blog-item-alignment-right .BlogItem-share {
     text-align: right

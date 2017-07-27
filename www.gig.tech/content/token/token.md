@@ -6,7 +6,6 @@ header = "A safe digital currency backed by a new, neutral and green Internet"
 subtitle = "Threefold Token"
 
 +++
-
 ### Design of new currency backed by real assets
 
 GIG has partnered with the [Threefold Token Foundation](http://www.threefoldtoken.com/) to create a payment mechanism to purchase IT capacity on a neutral and green Internet.
@@ -23,4 +22,4 @@ However, major problems remain such as scalability issues, slow transaction time
 
 ### Find out more
 
-Visit the [Threefold Token](http://www.threefoldtoken.com/) website to buy tokens or become a blockchain hoster. 
+Visit the [Threefold Token](http://www.threefoldtoken.com/) website to buy tokens or become a blockchain hoster.
