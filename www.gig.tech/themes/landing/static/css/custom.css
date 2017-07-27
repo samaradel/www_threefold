@@ -229,6 +229,9 @@ footer .sqs-block-content h3 {
     transition: 0.8s;
     -webkit-transition:  0.8s;
 }
+.BlogList-item-excerpt {
+  color: #546A86;
+}
 /* Media Queries */
 @media only screen and (max-width: 767px) {
   .Header-branding {
