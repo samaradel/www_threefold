@@ -9,7 +9,7 @@ weight = 5
 
 +++
 
-![alt text](partnerworld.png "Worldwide Net Neutrality By GIG Technology")
+![alt text](../../img/partnerworld.png)
 
 **Yesterday**
 The Internet started as global network comprising many voluntarily interconnected autonomous networks. It operated without a central governing body. Universities, research institutions and governments agreed to collaborate on projects and share information.
