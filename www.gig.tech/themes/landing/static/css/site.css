@@ -2044,7 +2044,8 @@ body>.login-wrapper.hidden {
 }
 .sqs-layout > .sqs-row {
     margin-left: -17px;
-    margin-right: -17px
+    margin-right: -17px;
+    margin-top : 35px;
 }
 .sqs-layout:not(.sqs-editing) .sqs-row .sqs-block:not(.float):first-child {
     padding-top: 0
