@@ -4,7 +4,7 @@ title = "tech"
 
 header = "Blockchain Technology: Token Distribution and Smart Contracts"
 image = "trianglesplit-03.png"
-author = "Sacha Vekeman"
+author = ""
 subtitle = "Distributed systems generating a neutral and secure Internet"
 weight = 3
 

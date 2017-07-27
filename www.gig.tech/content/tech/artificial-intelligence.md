@@ -4,7 +4,7 @@ title = "tech"
 
 header = "Artificial Intelligence: Autonomous Agents Healing Your Cloud"
 image = "trianglesplit-01.png"
-author = "Sacha Vekeman"
+author = ""
 subtitle = "Intelligent agents taking care of your total IT infrastructure"
 weight = 2
 
