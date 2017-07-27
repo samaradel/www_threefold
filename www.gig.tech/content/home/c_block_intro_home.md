@@ -1,9 +1,8 @@
 +++
 #Don't remove name!
-title = "edge cloud"
-weight = 3
+title = "how we change"
 
-header_1 = "Open-Source Technology Toolbox"
+header = "Open-Source Technology Toolbox"
 +++
 
 - **Stateless Computing:** is based on our unique operating system, [Zero-OS](https://github.com/zero-os), that enables commodity hardware to generate a grid of IT capacity. This results into cost-effective, decentralized and highly-secure IT infrastructure, powered by edge computing.

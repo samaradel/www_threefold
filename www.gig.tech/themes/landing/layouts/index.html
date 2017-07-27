@@ -6,12 +6,6 @@
                <main class="Main Main--page">
                   <section class="Main-content">
                      <div class="sqs-layout container" >
-                       <div class="row">
-                        {{ partial "home/description.html" . }}
-                        </div>
-                        <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
-                           <div class="sqs-block-content">&nbsp;</div>
-                        </div>
                         <div class="row">
                            <div class="col-sm-2">
                               <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
@@ -22,6 +16,11 @@
                               {{ partial "home/edge_cloud.html" . }}
                            </div>
                         </div>
+                          {{ partial "home/open-source.html" . }}
+                          <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
+                             <div class="sqs-block-content">&nbsp;</div>
+                          </div>
+                          {{ partial "home/how_we_change.html" . }}
                      </div>
                   </section>
                </main>

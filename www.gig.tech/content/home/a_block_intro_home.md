@@ -1,7 +1,6 @@
 +++
 #Don't remove name!
 title = "edge cloud"
-weight = 1
 
 header_1 = "Connecting the Dots to a New Internet"
 

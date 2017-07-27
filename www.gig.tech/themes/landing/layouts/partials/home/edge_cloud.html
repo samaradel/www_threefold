@@ -1,10 +1,9 @@
 {{ range $element :=  .Data.Pages }}
   {{ if eq .Section "home" }}
     {{ if eq .Title "edge cloud" }}
-      <div class="sqs-block markdown-block sqs-block-markdown" data-block-type="44" id="block-yui_3_17_2_2_1498747640142_44959">
+      <div class="sqs-block markdown-block sqs-block-markdown">
          <div class="sqs-block-content-home">
             <h2 id="we-are-gig-tech">{{ .Params.header_1 }}</h2>
-            <h2 id="builders-of-the-edge-cloud">{{ .Params.header_2 }}</h2>
             <p>{{ .Content }}</p>
          </div>
       </div>
