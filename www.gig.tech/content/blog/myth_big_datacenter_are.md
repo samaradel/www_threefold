@@ -29,11 +29,11 @@ So the real improvement lies in deploying technologies that actually consume les
 
 This is how a lot of us have been raised. Systems need redundancy mechanisms to improve their operational uptime and reliability. And to be honest if you look at it (through IT tainted glasses) for a minutes this seems to make a lot of sense…. But what if we translate this to the non IT World:
 
-In order to make your car more reliable we add redundancy (as we do in IT). So for the risk of having a puncture we add one extra tire for all the tires we use continuously. This adds 4 extra tires to the car. Then a decision needs to be made: Do we put those tires in a structure where they are always running along the primary tires or do we chose not to have them "on line" all the time and wearing and tearing as the primary tires? To have them on line continuously is inefficient and wasteful and therefore we need to built a very complicated structure that puts the tires on the road the second (more accurate microsecond) that the car detects a tire puncture. 
+To make a car more reliable we add redundancy (as we do in IT). So for the risk of having a puncture we add one extra tire for all the tires we use continuously. This adds 4 extra tires to the car. Then a decision needs to be made: Do we put those tires in a structure where they are always running along the primary tires or do we chose not to have them "on line" all the time and wearing and tearing as the primary tires?
 
-To build such a system which that would completely change cars as we know them, you would need a large number of engineers. And While they will come up with a solution, would it not be more logic to think outside the box and solve the root of the problem and make tires undeflatable?
+To build such a system which that would change cars as we know them, and it would take a large number of engineers come up with a solution. And while they will come up with a solution, would it not make more sense to think outside the box and solve the root of the problem by making tires undeflatable?
 
-The IT industry has gone overboard  with the concept of everything needs to be built and expanded to create redundancy, it forgot somehow to look  at root causes which helped spawning a whole new industry of itself, that obviously want to keep themselves in the business of creating complicated and expensive redundant system.
+The IT industry has gone overboard  with the concept of redundancy, it forgot somehow to look  at root causes which helped spawning a whole new industry of itself, that obviously want to keep themselves in the business of creating complicated and expensive redundant system.
 
 ### Myth 4: big companies know better how to optimize.
 
