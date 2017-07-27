@@ -2,7 +2,6 @@
    {{ partial "parallax.html" . }}
        {{ partial "header.html" . }}
       <div class="container Site-inner">
-         {{ partial "header-search.html" . }}
           <div class="row clear-fix">
             {{ range $p := (.Paginate .Data.Pages).Pages }}
             	{{ if eq .Section "tech" }}
