@@ -5,7 +5,7 @@
       <article class="BlogList-item clear-fix">
         <div class="BlogList-item-image">
           <a href="{{ .Permalink }}" class="BlogList-item-image-link" style="overflow: hidden;">
-            <img style="top: 0px; left: -77px; width: 465px; height: 270px; position: relative;" title = "{{ .Params.header }}" alt="{{ .Params.header }}" src="../../img/{{ .Params.image }}">
+            <img style="top: 0px;  max-width: 100%; max-height: 100%; position: absolute;" title = "{{ .Params.header }}" alt="{{ .Params.header }}" src="../../img/{{ .Params.image }}">
           </a>
         </div>
         <a href="{{ .Permalink }}" class="BlogList-item-title">{{ .Params.header }}</a>
@@ -54,4 +54,4 @@
         </article>
      </section>
   </section>
-</main> --> 
+</main> -->
