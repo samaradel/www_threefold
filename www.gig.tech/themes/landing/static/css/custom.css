@@ -188,10 +188,14 @@ footer .sqs-block-content h3 {
 .Footer .linked {
   background-color: #fff;
   padding: 5px 10px;
-  color: #000;
+  color: #546A86;
   border-radius: 10px;
   text-decoration: none;
   font-size: 12px;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
 }
 .Footer .linked:hover {
   color: #000;

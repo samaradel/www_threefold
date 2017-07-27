@@ -16,7 +16,7 @@ text_2_link = "#"
 
 header_2    = "Artificial Intelligence"
 text_2_img  ="fa fa-github-square fa-3"
-text_3      = "Jumpscales"
+text_3      = "Jumpscale"
 text_3_link = "#"
 text_4      = "At Your Service"
 text_4_link = "#"
@@ -36,3 +36,4 @@ follow_us ="Follow us on Linkedin"
 follow_us_link ="#"
 
 +++
+site map / privacy statement / terms &amp; conditions
