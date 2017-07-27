@@ -2,8 +2,8 @@
 # Don't remove name!
 title = "blog"
 header = "Datacenter Myths"
-image = "anonymous.png"
-author = "Roel van Sabben"
+image = "datacentermyths.jpg"
+author = "Andreas Hartl"
 subtitle = "Hyperscale realities"
 weight = 4
 
