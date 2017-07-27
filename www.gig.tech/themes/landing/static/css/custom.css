@@ -23,13 +23,14 @@
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(../fonts/OpenSans-Bold.ttf) format('ttf');
 }
 body {
-  font-family: 'Open Sans', sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 14px;
-    letter-spacing: 0em;
-    /*line-height: 1.6em;*/
-    text-transform: none;
+  font-family: Open Sans;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  letter-spacing: 0em;
+  line-height: 1.6em;
+  text-transform: none;
+  color: #757575;
 }
 body.tweak-site-width-option-constrained-width {
   background-color: #fafafa;
@@ -96,14 +97,14 @@ h3 {
 /*
 .Header-branding-logo {
   margin: 50px 10px 15px;
-}
-.Header-nav {
-  margin-bottom: 0px;
-  background-color: rgba(255, 255, 255, 0.46);
-  position: absolute;
-  width: 100%;
-  bottom: 0px;
 }*/
+.Header-nav {
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+}
 .smallScreen {
   display: none;
 }
@@ -125,6 +126,10 @@ h3 {
 .sqs-block-content-home {
   text-align: center;
   letter-spacing: 0em;
+}
+.sqs-block-content-home h1{
+  color: #757575;
+  margin: .67em 0;
 }
 
 .sqs-block-content h3{
@@ -152,6 +157,7 @@ footer .sqs-block-content h3 {
 }
 .list {
   color: #fff !important;
+  line-height: 2.2em;
 }
 .list h4 {
   text-transform: none;
