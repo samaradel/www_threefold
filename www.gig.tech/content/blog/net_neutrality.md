@@ -1,10 +1,15 @@
 +++
-#Don't remove name!
-title = "edge cloud"
-weight = 4
+# Don't remove title!
+title = "blog"
+header = "NET NEUTRALITY"
+image = "../img/neutralnet.jpg"
+author = "Weynand Kuijpers"
+subtitle = "HOW WE DROVE EVOLUTION INTO REVOLUTION"
+weight = 5
 
-header_1 = "How we drove Evolution into Revolution"
 +++
+
+![alt text](.../img/partnerworld.png "Worldwide Net Neutrality By GIG Technology")
 
 **Yesterday**
 The Internet started as global network comprising many voluntarily interconnected autonomous networks. It operated without a central governing body. Universities, research institutions and governments agreed to collaborate on projects and share information.
@@ -15,6 +20,5 @@ The Internet reaches billions of people and serves as global collaborative platf
 **Tomorrow**
 GIG drives net-neutrality by creating and distributing technology that enables a secure, scalable and self-healing Internet for everyone. This capacity is generated with our partners that are distributed in many thousands of locations.
 
-![GIG technology belgium partners worldmap edge cloud blockchain](/img/partnerworld.png)
 
 ***

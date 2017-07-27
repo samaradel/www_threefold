@@ -2,7 +2,7 @@
 # Don't remove name!
 title = "blog"
 header = "Product Design"
-image = "anonymous.png"
+image = "ethicaldesign.jpg"
 author = "Kristof De Spiegeleer"
 subtitle = "Based on Ethical Design and Respect"
 weight = 2
