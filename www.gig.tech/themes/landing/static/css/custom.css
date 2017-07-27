@@ -95,9 +95,9 @@ h3 {
   font-size: 15px;
   line-height: 1.2em;
 }
-/*.sqs-block-content {
-  text-align: justify;
-}*/
+.sqs-block-content {
+  text-align: center;
+}
 .sqs-block-team h3 {
   float: left !important;
 }
