@@ -52,6 +52,7 @@ h3 {
     letter-spacing: .15em;
     line-height: 2em;
     text-transform: none;
+    color: #474747;
 }
 .Site-inner, header, .navbar-toggle .icon-bar, .content-404 {
   background-color: #fff;
@@ -182,10 +183,6 @@ footer .sqs-block-content h3 {
   margin: 59px auto;
   text-align: center;
 }
-.Main-content p {
-  line-height: 1.7em;
-}
-
 /*header style*/
 .Site header {
   background-color: #699ee2 ;

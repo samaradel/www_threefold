@@ -13,7 +13,7 @@ weight = 1
 
 Today cloud computing is a $100+ billion industry powered by circa 100 large datacenters - mostly owned by Amazon, Google, Microsoft and Facebook. Experts such as Bell Labs and Cisco believe the capacity requirement in the next decade will dramatically outstrip existing infrastructure, requiring an additional 400 million servers or approximately 4000 new datacenters, at a cost of $250 million to $1 billion each.
 
-The spectacular growth and advances of cloud computing that occurred over the last decade resulted in large part from “hyperscale” efficiencies, centralising Internet infrastructure in very large $ billion data centers. Today demand for Internet capacity is far outstripping the available infrastructure due to new applications like Big Data, Internet of Things (IoT) and Artificial Intelligence. The existing hyperscale cloud architecture cannot cope with this outsize demand as the requirements for land, power and funding are just too great.
+The spectacular growth and advances of cloud computing that occurred over the last decade resulted in large part from “hyperscale” efficiencies, centralizing Internet infrastructure in very large $ billion data centers. Today demand for Internet capacity is far outstripping the available infrastructure due to new applications like Big Data, Internet of Things (IoT) and Artificial Intelligence. The existing hyperscale cloud architecture cannot cope with this outsize demand as the requirements for land, power and funding are just too great.
 
 > These challenges can only be resolved in taking a complete different approach to technology: Time for change:
 
@@ -26,7 +26,7 @@ The spectacular growth and advances of cloud computing that occurred over the la
 
 ### Problems that GIG Tech are Solving
 
-* Net-neutrality: the Internet is no longer the neutral place it used to be. 80+% of internet IT capacity is delivered by a handful of companies. This results in loss of neutrality and openness and brings inequality.
+* Net-neutrality: the Internet is no longer the neutral place it used to be. 80+% of Internet IT capacity is delivered by a handful of companies. This results in loss of neutrality and openness and brings inequality.
 * Energy consumption: to support the continuous growth of the Internet and connect billions of new Internet Of Things devices, 400 million new servers are needed by 2020. The world needs another 4000 large- scale data centers that each consume 200 MWe of electricity.
 * Networking efficiency: bandwidth does not follow Moore’s law. The growth of bandwidth required is much higher than the speed at which new capacity can be delivered. This is even more important in emerging markets.
 * Cost: 3.2 billion people have no access to Internet due to the high costs of connectivity and capacity. These people have the fundamental right to have low-cost access to digital resources like online education, health information, social media and online communities/ Technology can lower the cost with a factor of 10 are required.

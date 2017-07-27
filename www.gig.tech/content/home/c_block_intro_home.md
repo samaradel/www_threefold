@@ -9,6 +9,6 @@ header = "Open-Source Technology Toolbox"
 - **Artificial Intelligence** controls and operates the distributed edge cloud and reserves, procures and executes workloads on the grid using [Jumpscale](https://github.com/Jumpscale). It drives self-healing and autoscaling capacity pools for any kind of IT workload.
 - **Blockchain Technology** protects identity and access control with [itsyou.online](https://github.com/itsyouonline), but also distributes our [Threefold Tokens](http://www.threefoldtoken.com/) to execute smart contracts on top of our own secure and scalable ledger, [Rivine](https://github.com/rivine/rivine).
 
-These three connecting elements are the foundation of a pervasive, neutral, private and affordable internet that operates and delivers without any central governing body or large corporate company.
+These three connecting elements are the foundation of a pervasive, neutral, private and affordable Internet that operates and delivers without any central governing body or large corporate company.
 
 ***

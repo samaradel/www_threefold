@@ -16,4 +16,4 @@ telegrem_txt = ""
 
 weight = 7
 +++
-Jan is Head of Research & Development at GIG Technology and was working at Incubaid as CTO for the last 15 years. Incubaid was a disruptor in the tech scene after having successfully exited a portfolio of 6 high-value exits. He hacks open-source software and linux operating systems to simply make them different and better.
+Jan is Head of Research & Development at GIG Technology and was working at Incubaid as CTO for the last 15 years. Incubaid was a disruptor in the tech scene after having successfully exited a portfolio of 6 high-value exits. He hacks open-source software and Linux operating systems to simply make them different and better.
