@@ -10,27 +10,25 @@ weight = 2
 
 +++
 
-### Autonomous and Self Healing
+### Autonomous and Self Healing Cloud
 
-GIG uses autonomous agents to identify and prepare resource pools in function of users looking for compute environments and application hosts.
+GIG uses autonomous agents that identify and configure available resource pools for users looking for compute time, storage disks and application hosts.
 
 GIG has developed [Jumpscale](https://github.com/jumpscale) and [At Your Service](https://github.com/Jumpscale/ays9) (AYS) which allows the creation of blueprints to auto-deploy applications within the compute environment.
 
-Robots are constantly checking the health and uptime of the infrastructure and runtime environments, guaranteeing performance & availability of applications.
+Robots are constantly checking the health and uptime of the infrastructure and runtime environments, guaranteeing performance & availability of customer's applications.
 
 ### Artificial Intelligence Benefits
 
-* **Self Healing:** the platform regenerates when health issues are detected that cause downtime for infrastructure and applications  
-* **Intelligence:** agents capture information from the grid and make intelligent decisions to provide an ideal and optimal host environment for software code and containerized applications
-* **Lifecycle Management:** the state of the infrastructure and the lifecycle of running applications are constantly checked and recorded.
-* **Autoscaling:** the platform automatically scales to meet application and infrastructure performance
+* **Self Healing:** the platform regenerates when health issues are detected that cause downtime of the infrastructure and applications  
+* **Intelligence:** agents capture all kinds of grid information in order to make intelligent decisions in provisioning the ideal host platform for software code and containerized applications
+* **Lifecycle Management:** recording of the state of infrastructure and lifecycle management of running applications while robots have the ability to take necessary actions
+* **Autoscaling:** the autonomous agents check performance of your applications and automatically scale accordingly to meet application and infrastructure service levels
 
 ### Build on GitHub
 
-```
-Find [Jumpscale](https://github.com/jumpscale) by GIG at [Github](https://github.com/jumpscale)
+#### Find [Jumpscale](https://github.com/jumpscale) by GIG at [Github](https://github.com/jumpscale)
 * AYS9 At Your Service
 * Cockpit
 * Core9
 * and much more...
-```

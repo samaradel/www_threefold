@@ -11,7 +11,7 @@ We develop different business models based on a flexible dual-license model. Thi
 
 Our open-source tech addresses all scalability, security, storage, energy and operating issues without the need for any 3rd party software and without no complexity at all. This is driving down the cost, while providing better accessibility to Internet applications and cloud infrastructure.
 
-> **Stateless Computing:** Software to run applications as close as possible to the end-user, referred to as edge computing or edge cloud.
+> **Stateless Computing:** Software to run applications as close as possible to the end-user, referred to as edge computing.
 
 > > **Artificial Intelligence:** Autonomous agents taking care of your total self-healing and secure IT infrastructure.
 
