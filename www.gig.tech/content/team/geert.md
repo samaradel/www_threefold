@@ -14,6 +14,6 @@ twitter_txt = ""
 telegram = ""
 telegrem_txt = ""
 
-weight = 6
+weight = 7
 +++
 Geert is head of Engineering at GIG Technology and was the founder of Mobicage, the company behind the successful mobile open-source platform Rogerthat. He is a programming and open-source enthusiast and leads our software development labs in Gent, Cairo and Dubai.  
