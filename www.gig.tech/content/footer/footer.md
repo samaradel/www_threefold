@@ -30,7 +30,7 @@ text_6_link = "#"
 
 gig_logo    ="/img/Icons-05 copy.png"
 company_name = "GIG Technology"
-adrees_p1 = "Antwerpsesteenweg 19"
+adrees_p1 = "Antwerpsesteenweg 19 9080-Lochristi-Belgium"
 adrees_p2 = "9080-Lochristi-Belgium"
 follow_us ="Follow us on Linkedin"
 follow_us_link ="#"
