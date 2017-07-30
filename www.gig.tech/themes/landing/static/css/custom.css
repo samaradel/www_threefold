@@ -317,6 +317,10 @@ footer .sqs-block-content h3 {
     padding: 5px 100px;
     margin-top: 10px;
   }
+  .sqs-block-button .sqs-block-button-element--small {
+    width: 100%;
+    margin-bottom: 10px;
+  }
 }
 @media (min-width: 768px) {
   .navbar {
@@ -328,6 +332,9 @@ footer .sqs-block-content h3 {
   .navbar-nav>li {
     margin: 5px 0;
   }
+  .sqs-block-button .sqs-block-button-element--small {
+    width: 30%;
+  }
 }
 @media only screen and (max-width: 320px) {
   .Footer ul {
@@ -338,5 +345,8 @@ footer .sqs-block-content h3 {
   }
   .Footer .linked {
     padding: 5px 85px;
+  }
+  .sqs-block-button .sqs-block-button-element--small {
+    width: 100%;
   }
 }
