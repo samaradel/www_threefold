@@ -189,6 +189,7 @@ footer .sqs-block-content h3 {
   float: right;
 }
 .navbar-brand {
+  display: none;
   padding: 0 15px;
 }
 .navbar-brand img {
@@ -303,6 +304,12 @@ footer .sqs-block-content h3 {
   .navbar .navbar-nav {
     float: left;
   }
+  .navbar-header {
+    min-height: 60px;
+  }
+  .navbar-toggle {
+    margin-top: 18px;
+  }
   .Footer ul {
     text-align: center;
   }
@@ -320,6 +327,9 @@ footer .sqs-block-content h3 {
   .sqs-block-button .sqs-block-button-element--small {
     width: 100%;
     margin-bottom: 10px;
+  }
+  .navbar-brand {
+    display: block;
   }
 }
 @media (min-width: 768px) {
