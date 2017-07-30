@@ -51,7 +51,7 @@ h3 {
     letter-spacing: .15em;
     line-height: 2em;
     text-transform: none;
-    color: #474747;
+    /*color: #474747;*/
 }
 .left {
   text-align: left;
@@ -109,13 +109,15 @@ h3 {
   letter-spacing: 0.2em;
   line-height: 3.8em;
 }
+a {
+  text-decoration: none;
+}
 .BlogList-item-excerpt{
   font-size: 15px;
   line-height: 1.2em;
 }
 .sqs-block-content-home {
   text-align: center;
-  letter-spacing: 0em;
 }
 .sqs-block-content-home h1{
   margin: .67em 0;
@@ -246,7 +248,7 @@ footer .sqs-block-content h3 {
     transition: 0.8s;
     -webkit-transition:  0.8s;
 }
-.BlogList-item-excerpt, .Footer .linked {
+.Footer .linked {
   color: #546A86;
 }
 /*Sticky navbar*/
@@ -262,6 +264,27 @@ footer .sqs-block-content h3 {
     letter-spacing: 0em;
     line-height: 1.6em;
     text-transform: none;
+}
+.BlogList-item-title {
+    color: #6ca2e7;
+    -webkit-transition: color .15s ease-out;
+    -moz-transition: color .15s ease-out;
+    -ms-transition: color .15s ease-out;
+    -o-transition: color .15s ease-out;
+    transition: color .15s ease-out;
+    padding-bottom: .05em;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(108,162,231,.3);
+    -webkit-transition: border-color .15s ease-out,color .15s ease-out;
+    -moz-transition: border-color .15s ease-out,color .15s ease-out;
+    -ms-transition: border-color .15s ease-out,color .15s ease-out;
+    -o-transition: border-color .15s ease-out,color .15s ease-out;
+    transition: border-color .15s ease-out,color .15s ease-out;
+}
+.BlogList-item-title:hover {
+  color: rgba(108,162,231,.6);
+  border-color: rgba(108,162,231,.15);
 }
 .BlogList-item {
   margin-top: 50px;

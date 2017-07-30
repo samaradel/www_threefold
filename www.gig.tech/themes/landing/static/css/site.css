@@ -3963,7 +3963,7 @@ body.sqs-lightbox-open {
     line-height: 1.2em;
     text-transform: uppercase;
     text-decoration: none;
-    color: #212121;
+    /*color: #212121;*/
     -webkit-box-ordinal-group: 3;
     -moz-box-ordinal-group: 3;
     -ms-flex-order: 3;
@@ -3997,7 +3997,7 @@ body.sqs-lightbox-open {
     letter-spacing: .11em;
     line-height: 2.6em;
     text-transform: uppercase;
-    color: #8cb53c;
+    /*color: #8cb53c;*/
     -webkit-box-ordinal-group: 5;
     -moz-box-ordinal-group: 5;
     -ms-flex-order: 5;
@@ -4392,7 +4392,7 @@ body.sqs-lightbox-open {
     letter-spacing: .075em;
     line-height: 1.5em;
     text-transform: uppercase;
-    color: #212121;
+    /*color: #212121;*/
     -webkit-box-ordinal-group: 2;
     -moz-box-ordinal-group: 2;
     -ms-flex-order: 2;
@@ -15896,9 +15896,9 @@ h3+h2,
 h3+h3 {
     margin-top: 15px
 }
-h1 {
+/*h1 {
     color: #000
-}
+}*/
 h1 a {
     padding-bottom: .05em;
     border-bottom-width: 1px;
@@ -15932,9 +15932,9 @@ h2 a:hover {
     color: rgba(77, 77, 77, .6);
     border-color: rgba(77, 77, 77, .15)
 }
-h3 {
+/*h3 {
     color: #5e5e5e
-}
+}*/
 h3 a {
     padding-bottom: .05em;
     border-bottom-width: 1px;
