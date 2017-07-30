@@ -274,7 +274,7 @@ footer .sqs-block-content h3 {
     transition: color .15s ease-out;
     padding-bottom: .05em;
     border-bottom-width: 1px;
-    border-bottom-style: solid;
+    /*border-bottom-style: solid;*/
     border-bottom-color: rgba(108,162,231,.3);
     -webkit-transition: border-color .15s ease-out,color .15s ease-out;
     -moz-transition: border-color .15s ease-out,color .15s ease-out;
