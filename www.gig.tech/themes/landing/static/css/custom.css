@@ -83,22 +83,9 @@ h3 {
 .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover {
   color: #757575;
 }
-/*.nav>li>a {
-  padding: 0 15px;
-}*/
 .nav>li>a:hover {
   background-color: transparent;
 }
-.header-image {
-  display: block;
-  padding: 75px 0;
-  margin: auto;
-  height: 415px;
-}
-/*
-.Header-branding-logo {
-  margin: 50px 10px 15px;
-}*/
 .Header-nav {
   font-weight: 400;
   font-style: normal;
@@ -186,10 +173,12 @@ footer .sqs-block-content h3 {
 /*header style*/
 .Site header {
   background-color: #699ee2 ;
+  background-image:url(/img/triangle.png);
+  background-size: 50%;
   background-repeat: no-repeat;
-  background-size: cover;
-  height: 415px;
-  position: relative;
+  background-origin: padding-box;
+  background-position:center;
+  height:500px;
 }
 .logo-container {
   background-color: #fff;
@@ -309,16 +298,19 @@ footer .sqs-block-content h3 {
   .smallScreen {
     display: block;
   }
-    .smallScreen img {
-        max-width: 115px;
-        margin: 25px 10px 20px;
-    }
-    .navbar-toggle {
-      margin-top: 30px;
-    }
-    header {
-      text-align: left;
-    }
+  .smallScreen img {
+      max-width: 115px;
+      margin: 25px 10px 20px;
+  }
+  .navbar-toggle {
+    margin-top: 30px;
+  }
+  header {
+    text-align: left;
+  }
+  .Site header {
+    background-size: 100%;
+  }
 }
 @media (min-width: 768px) {
   .navbar {
