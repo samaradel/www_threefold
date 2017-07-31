@@ -162,7 +162,7 @@ footer .sqs-block-content h3 {
 }
 .list a, .info a {
   text-decoration: underline;
-  font-size: 0.813em;
+  /*font-size: 0.813em;*/
   font-weight: 200;
 }
 .content-404 p{
