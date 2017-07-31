@@ -4,7 +4,7 @@ title = "blog"
 header = "NET NEUTRALITY"
 image = "../img/neutralnet.jpg"
 author = "Weynand Kuijpers"
-subtitle = "HOW WE DROVE EVOLUTION INTO REVOLUTION"
+subtitle = "How we drove evolution to revolution"
 weight = 5
 
 +++
