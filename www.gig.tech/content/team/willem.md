@@ -3,7 +3,7 @@
 title = "team"
 
 image = "../img/Willemsquare.jpg"
-name = "WILLEM HENDRICKX"
+name = "Willem Hendrickx"
 
 linkedIn = "https://www.linkedin.com/in/willemhendrickx/"
 linkedIn_txt = "View my profile"
