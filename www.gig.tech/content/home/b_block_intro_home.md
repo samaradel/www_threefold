@@ -11,7 +11,7 @@ author_1 = ""
 subtitle_1 = "Software to run applications as close as possible to its users"
 
 # Second column
-header_2 = "Artificial Intelligence: Autonomous Agents Healing Your Cloud"
+header_2 = "Self-Healing: Autonomous Agents Healing Your Cloud"
 image_2 = "trianglesplit-01.png"
 author_2 = ""
 subtitle_2 = "Intelligent agents taking care of your total IT infrastructure"

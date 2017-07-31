@@ -2,7 +2,7 @@
 # Don't remove name!
 title = "tech"
 
-header = "Artificial Intelligence: Autonomous Agents Healing Your Cloud"
+header = "Self-Healing: Autonomous Agents Healing Your Cloud"
 image = "trianglesplit-01.png"
 author = ""
 subtitle = "Intelligent agents taking care of your total IT infrastructure"
@@ -10,7 +10,7 @@ weight = 2
 
 +++
 
-### Autonomous and Self Healing Cloud
+### Autonomous and Self-Healing Cloud
 
 GIG uses autonomous agents that identify and configure available resource pools for users looking for compute time, storage disks and application hosts.
 
