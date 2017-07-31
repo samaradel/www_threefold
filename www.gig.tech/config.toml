@@ -9,7 +9,7 @@ publishdir = "en"
 pluralizeListTitles = false
 uglyURLs = false
 copyright = "(c) COPYRIGHT GIG TECHNOLOGY N.V"
-
+paginate = 15
 
 [Params]
   logo = "img/Icons-05 copy.png"
