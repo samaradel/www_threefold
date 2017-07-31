@@ -49,7 +49,7 @@ software_mohamed_url = "https://www.linkedin.com/in/mie00/"
 software_abdulrahman_name = "Abdulrahman Khalifa"
 software_adbulrahman_url = "https://linkedin.com/in/abdulrahmantkhalifa-b19223119"
 
-software_kaled_name = "Kaled Karam"
+software_kaled_name = "Khaled Karam"
 software_kaled_url = "https://www.linkedin.com/in/khaled-karam-44b45972"
 
 software_mohamedg_name = "Mohamed Galal"
@@ -64,7 +64,7 @@ software_samir_url = "https://www.linkedin.com/in/samir-hosny-58b81394/"
 software_abdulrahmanh_name = "Abdulrahman Hamdy"
 software_adbulrahmanh_url = "https://linkedin.com/in/arahmanhamdy"
 
-software_abdulrahmanhg_name = "Abdulrahman Ghanem"
+software_abdulrahmanhg_name = "Abdelrahman Ghanem"
 software_adbulrahmanhg_url = "https://www.linkedin.com/in/abdelrahman-ghanem-41a31815/"
 
 software_mohameda_name = "Mohamed Azmy"
