@@ -288,6 +288,9 @@ footer .sqs-block-content h3 {
 .BlogList-item {
   margin-top: 50px;
 }
+.BlogList-item a {
+  text-transform: uppercase;
+}
 .affix, .affix-top, .navbar-fixed, .Footer, .Site header, .navbar.navbar-fixed-top.fixed-theme  {
   background-color: #699ee2;
 }
