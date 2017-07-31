@@ -79,7 +79,7 @@ h3 {
 header {
   text-align: center;
 }
-.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item, .list a:hover {
+.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item, .list a:hover, .info a:hover {
   color: #fff;
 }
 body, .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover, .sqs-block-content-home h1 {
@@ -139,12 +139,13 @@ a {
 footer .sqs-block-content h3 {
   float: none !important;
 }
-.Footer ul {
+.Footer .info {
   list-style-type: none;
   padding: 0px;
   margin: 0px;
 }
-.list {
+.list, .info {
+  list-style-type: none;
   color: #fff !important;
   line-height: 2.5em;
 }
@@ -155,13 +156,13 @@ footer .sqs-block-content h3 {
   line-height: 1.2em;
   width: 115px;
 }
-.list img {
+.info img {
   height: 50px;
   width: 50px;
 }
-.list a {
+.list a, .info a {
   text-decoration: underline;
-  font-size: 13px;
+  font-size: 0.813em;
   font-weight: 200;
 }
 .content-404 p{
@@ -338,15 +339,27 @@ footer .sqs-block-content h3 {
     text-align: center;
     margin-top: 20px;
   }
-  .list li {
+  .list {
+    line-height: 1.6em;
+  }
+  .list li, .info li {
     display: inline-block;
     padding-right: 5px;
   }
-  .list li:last-of-type {
+  .list li {
+    vertical-align: middle;
+  }
+  .list li a {
+    font-size: 0.813em;
+  }
+  .list li:last-of-type, .info li:last-of-type {
     padding-right: 0px;
   }
   .info li {
     display: block;
+  }
+  .info li:last-of-type {
+    margin-top: 15px;
   }
   .Footer .linked {
     padding: 5px 100px;
@@ -375,8 +388,11 @@ footer .sqs-block-content h3 {
   }
 }
 @media only screen and (max-width: 320px) {
-  .list a {
-    font-size: 10px;
+  .list {
+    line-height: 1.6em;
+  }
+  .list a, .info a {
+    font-size: 0.625em;
   }
   .Footer .linked {
     padding: 5px 85px;
