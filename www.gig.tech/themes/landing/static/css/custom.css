@@ -140,14 +140,13 @@ footer .sqs-block-content h3 {
   float: none !important;
 }
 .Footer ul {
-  display: inline-block;
   list-style-type: none;
   padding: 0px;
   margin: 0px;
 }
 .list {
   color: #fff !important;
-  line-height: 2.2em;
+  line-height: 2.5em;
 }
 .list h4 {
   text-transform: none;
@@ -226,7 +225,6 @@ footer .sqs-block-content h3 {
   text-align: center;
   color: #abb7b9;
   line-height: 1.2em;
-  font-size: 10px;
 }
 .copyright .copy {
   text-transform: uppercase;
@@ -303,6 +301,9 @@ footer .sqs-block-content h3 {
 .affix + .row {
     padding-top:73px;
 }
+.info {
+  line-height: 2em;
+}
 /* Media Queries */
 @media only screen and (max-width: 767px) {
   .Header-branding {
@@ -333,8 +334,9 @@ footer .sqs-block-content h3 {
   .navbar-toggle {
     margin-top: 18px;
   }
-  .Footer ul {
+  .Footer .info {
     text-align: center;
+    margin-top: 20px;
   }
   .list li {
     display: inline-block;
@@ -342,6 +344,9 @@ footer .sqs-block-content h3 {
   }
   .list li:last-of-type {
     padding-right: 0px;
+  }
+  .info li {
+    display: block;
   }
   .Footer .linked {
     padding: 5px 100px;
@@ -370,9 +375,6 @@ footer .sqs-block-content h3 {
   }
 }
 @media only screen and (max-width: 320px) {
-  .Footer ul {
-    text-align: left;
-  }
   .list a {
     font-size: 10px;
   }
