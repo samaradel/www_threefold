@@ -9,15 +9,15 @@
           	  {{else if eq .Section "blog" }}
                 <div class="col-sm-4 col-xs-12">{{ $p.Render "blog" }}</div>
                   {{ else if eq .Section "team" }}
-                    {{ if eq .Title "team"}}
+                    {{ if eq .Title "about" }}
+                    <div class="Content-outer">{{ $p.Render "about" }}</div>
+                    {{ else if eq .Title "team"}}
                       <div class="Content-outer">{{ $p.Render "team" }}</div>
                       {{end}}
                   {{ else if eq .Section "contact-foster" }}
                   <div class="Content-outer">{{ $p.Render "contact-foster" }}</div>
                   {{ else if eq .Section "token" }}
                   <div class="Content-outer">{{ $p.Render "token" }}</div>
-                  {{ else if eq .Section "privacy-policy" }}
-                  <div class="Content-outer">{{ $p.Render "privacy-policy" }}</div>
                   {{else}}
     						<div class="Content-outer">{{ $p.Render "summary" }}</div>
           	  {{end}}
