@@ -140,6 +140,7 @@ footer .sqs-block-content h3 {
   float: none !important;
 }
 .Footer .info {
+  text-align: center;
   list-style-type: none;
   padding: 0px;
   margin: 0px;
@@ -147,7 +148,7 @@ footer .sqs-block-content h3 {
 .list, .info {
   list-style-type: none;
   color: #fff !important;
-  line-height: 2.5em;
+  line-height: 2em;
 }
 .list h4 {
   text-transform: none;
@@ -204,7 +205,8 @@ footer .sqs-block-content h3 {
 }
 .Footer .logo {
   margin-top: 5px;
-  width: 100px;
+  width: 117px;
+  height: 117px;
 }
 .Footer .linked {
   padding: 5px 10px;
@@ -218,6 +220,10 @@ footer .sqs-block-content h3 {
 }
 .Footer .linked:hover {
   color: #000;
+}
+.Footer .address {
+  margin-top: 19px;
+  text-align: left;
 }
 .copyright {
   background-color: #546A86;
@@ -361,8 +367,8 @@ footer .sqs-block-content h3 {
   .info li {
     display: block;
   }
-  .info li:last-of-type {
-    margin-top: 15px;
+  .Footer .followBtn {
+    margin-top: 10px;
   }
   .Footer .linked {
     padding: 5px 100px;
