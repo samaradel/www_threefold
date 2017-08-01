@@ -3,6 +3,7 @@
 title = "privacy policy"
 
 +++
+
 ### **Introduction**
 
 This privacy policy (the “Privacy Policy”) is an integral part of the Agreement which governs your access to the Website and use of the Services, each as defined in the Terms and Conditions.Capitalized terms used in this Privacy Policy and not separately defined herein, shall have the meaning ascribed to them in the Terms and Conditions
