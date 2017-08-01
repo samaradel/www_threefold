@@ -5,12 +5,10 @@ title = "how we change"
 header = "GIG Technology Toolbox"
 +++
 
-**Stateless Computing:** is based on our unique operating system, [Zero-OS](https://github.com/zero-os), that enables commodity hardware to generate a grid of IT capacity. This results into cost-effective, decentralized and highly-secure IT infrastructure, powered by edge computing.
+**Stateless Computing:** is based on our own operating system, [Zero-OS](https://github.com/zero-os), a leightweight OS that powers thousands of hardware nodes to form a grid of edge cloud and storage capacity.
 
-**Self-Healing Awareness** controls and operates the distributed edge cloud and reserves, procures and executes workloads on the grid using [Jumpscale](https://github.com/Jumpscale). It drives self-healing and autoscaling capacity pools for any kind of IT workload.
+**Self-Healing Awareness** is needed to have zero manual intervention and only have software automation based on [Jumpscale](https://github.com/Jumpscale). It drives the health and availability of the edge cloud.
 
-**Blockchain Technology** protects identity and access control with [itsyou.online](https://github.com/itsyouonline), but also distributes our [Threefold Tokens](http://www.threefoldtoken.com/) to execute smart contracts on top of our own secure and scalable ledger, [Rivine](https://github.com/rivine/rivine).
+**Blockchain Technology** is used to protect identity and access control via [itsyou.online](https://github.com/itsyouonline). [Threefold Tokens](http://www.threefoldtoken.com/) are distributed to execute smart contracts on top of our own secure and scalable [Rivine](https://github.com/rivine/rivine) ledger.
 
 These three connecting elements are the foundation of a pervasive, neutral, private and affordable Internet that operates and delivers without any central governing body or large corporate company.
-
-***
