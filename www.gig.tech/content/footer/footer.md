@@ -37,4 +37,4 @@ follow_us ="Follow us on Linkedin"
 follow_us_link ="https://www.linkedin.com/company-beta/4864117/"
 
 +++
-site map / privacy statement / terms &amp; conditions
+site map / [../privacy-statement]:/privacy statement / terms &amp; conditions
