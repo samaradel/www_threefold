@@ -2,7 +2,7 @@
 # Don't remove name!
 title = "blog"
 header = "Time for Change"
-image = "../img/timeforchange.jpg"
+image = "../img/use-cases-edge.jpg"
 author = "Sacha Vekeman"
 subtitle = "The need for a neutral Internet"
 weight = 1
