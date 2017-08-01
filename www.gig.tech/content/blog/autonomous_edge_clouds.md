@@ -1,14 +1,14 @@
 +++
 # Don't remove title!
 title = "blog"
-header = "Autonomous"
+header = "Self-healing"
 image = "../img/autonomous.jpg"
 author = "Weynand Kuijpers"
 subtitle = "Yes, a 100% self-healing cloud"
 weight = 3
 +++
 
-## The zero-OS future: a 100% self healing cloud
+## Zero-OS ambition = a 100% self-healing cloud
 
 Why do we set such an ambitious goal? Because it’s a crucial component of a truly secure computing environment.
 
