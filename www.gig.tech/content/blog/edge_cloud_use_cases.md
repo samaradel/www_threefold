@@ -2,7 +2,7 @@
 # Don't remove name!
 title = "blog"
 header = "Edge Cloud Use Cases"
-image = "../img/timeforchange.jpg"
+image = "../img/use-cases-edge.jpg"
 author = "Sacha Vekeman"
 subtitle = "What can I do with the Edge Cloud?"
 weight = 6
