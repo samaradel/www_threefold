@@ -14,8 +14,10 @@
                     {{ else if eq .Title "team"}}
                       <div class="Content-outer">{{ $p.Render "team" }}</div>
                       {{end}}
-                  {{ else if eq .Section "contact-foster" }}
-                  <div class="Content-outer">{{ $p.Render "contact-foster" }}</div>
+                  {{ else if eq .Section "follow" }}
+                  <div class="Content-outer">{{ $p.Render "follow" }}</div>
+                  {{ else if eq .Section "inside" }}
+                  <div class="Content-outer">{{ $p.Render "inside" }}</div>
                   {{ else if eq .Section "token" }}
                   <div class="Content-outer">{{ $p.Render "token" }}</div>
                   {{else}}
