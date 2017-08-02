@@ -37,4 +37,4 @@ follow_us ="Follow us on Linkedin"
 follow_us_link ="https://www.linkedin.com/company-beta/4864117/"
 
 +++
-All rights reserved © 2017 GIG Technology NV. We practice [Ethical Design.](https://ind.ie)[Privacy.](/privacy-policy) 
+All rights reserved © 2017 GIG Technology NV. We practice [Ethical Design.](https://ind.ie) [Privacy.](/privacy-policy) 
