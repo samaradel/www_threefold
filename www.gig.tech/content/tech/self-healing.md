@@ -10,7 +10,7 @@ weight = 2
 
 +++
 
-### Autonomous and Self-Healing Cloud
+### Autonomous and Self-Healing
 
 GIG uses autonomous agents that identify and configure available resource pools for users looking for compute time, storage disks and application hosts.
 
@@ -18,7 +18,7 @@ GIG has developed [Jumpscale](https://github.com/jumpscale) and [At Your Service
 
 Robots are constantly checking the health and uptime of the infrastructure and runtime environments, guaranteeing performance & availability of customer's applications.
 
-### Artificial Intelligence Benefits
+### Benefits of Jumpscale and At Your Service
 
 * **Self Healing:** the platform regenerates when health issues are detected that cause downtime of the infrastructure and applications  
 * **Intelligence:** agents capture all kinds of grid information in order to make intelligent decisions in provisioning the ideal host platform for software code and containerized applications
