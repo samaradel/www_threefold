@@ -13,4 +13,4 @@ This repo has the website content:
 
 Staging can be found here:
 
-- http://gigtech2.aydo.com:6060/
+- http://threefold2.aydo.com:4040/
