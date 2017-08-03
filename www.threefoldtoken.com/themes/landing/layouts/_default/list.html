@@ -6,8 +6,8 @@
             {{ range $p := (.Paginate .Data.Pages).Pages }}
             	{{ if eq .Section "tech" }}
           		  <div class="col-sm-4 col-xs-12">{{ $p.Render "tech" }}</div>
-          	  {{else if eq .Section "blog" }}
-                <div class="col-sm-4 col-xs-12">{{ $p.Render "blog" }}</div>
+          	  {{else if eq .Section "information" }}
+                <div class="col-sm-4 col-xs-12">{{ $p.Render "information" }}</div>
                   {{ else if eq .Section "team" }}
                     {{ if eq .Title "about" }}
                     <div class="Content-outer">{{ $p.Render "about" }}</div>

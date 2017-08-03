@@ -1,6 +1,6 @@
 +++
 # Don't remove name!
-title = "blog"
+title = "information"
 header = "Product Design"
 image = "ethicaldesign.jpg"
 author = "Kristof De Spiegeleer"

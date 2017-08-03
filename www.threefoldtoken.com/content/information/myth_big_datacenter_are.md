@@ -1,6 +1,6 @@
 +++
 # Don't remove name!
-title = "blog"
+title = "information"
 header = "Datacenter Myths"
 image = "datacentermyths.jpg"
 author = "Andreas Hartl"

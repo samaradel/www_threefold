@@ -1,6 +1,6 @@
 +++
 # Don't remove title!
-title = "blog"
+title = "information"
 header = "NET NEUTRALITY"
 image = "../img/neutralnet.jpg"
 author = "Weynand Kuijpers"
