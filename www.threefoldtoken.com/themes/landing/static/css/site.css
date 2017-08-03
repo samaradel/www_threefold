@@ -3947,6 +3947,22 @@ body.sqs-lightbox-open {
 .tweak-blog-list-style-stacked.tweak-blog-list-item-image-aspect-ratio-stacked-auto .BlogList-item-image-link {
     position: relative
 }
+.sqs-block-content-home a {
+  color: #6ca2e7 !important;
+  text-decoration: none;
+  border-bottom-width: 1px !important;
+  border-bottom-style: solid !important;
+  border-bottom-color: rgba(108,162,231,.3) !important;
+
+}
+
+.sqs-block-content-home a:hover {
+  color: rgba(108,162,231,.6) !important;
+  text-decoration: none;
+  border-bottom-width: 1px !important;
+  border-bottom-style: solid !important;
+  border-bottom-color: rgba(108,162,231,.15) !important;
+}
 .BlogList-item-title {
     display: none;
     margin-bottom: 11px;
