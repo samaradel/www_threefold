@@ -5,7 +5,7 @@ title = "faq"
 header = "ThreeFold Technology FAQ"
 image = "trianglesplit-02.png"
 author = ""
-subtitle = "Software to run applications as close as possible to its users"
+subtitle = ""
 weight = 3
 
 +++
