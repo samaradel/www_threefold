@@ -10,7 +10,6 @@ weight = 2
 
 +++
 
-# ThreeFold Global Grid FAQ
 
 ## Grid
 
