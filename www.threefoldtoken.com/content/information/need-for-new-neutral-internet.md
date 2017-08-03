@@ -1,6 +1,6 @@
 +++
 
-Don't remove name! title = "information" header = "BLOG: The need for a new, neutral Internet" image = "../img/timeforchange.jpg" author = "Kristof De Spiegeleer" The internet is growing like crazy. This is a 5 Trillion problem. Together we can build a new internet." weight = 13
+Don't remove name! title = "information" header = "The need for a new, neutral Internet" image = "../img/timeforchange.jpg" author = "Kristof De Spiegeleer" The internet is growing like crazy. This is a 5 Trillion problem. Together we can build a new internet." weight = 13
 
 +++
 
