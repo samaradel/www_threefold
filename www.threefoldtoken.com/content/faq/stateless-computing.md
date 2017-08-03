@@ -6,7 +6,7 @@ header = "Stateless Computing: Technology for the Edge Cloud"
 image = "trianglesplit-02.png"
 author = ""
 subtitle = "Software to run applications as close as possible to its users"
-weight = 1
+weight = 4
 
 +++
 
