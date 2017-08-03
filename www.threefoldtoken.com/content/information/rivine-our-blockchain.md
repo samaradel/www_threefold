@@ -4,7 +4,7 @@ title = "information"
 header = "Rivine: Our Blockchain "
 image = "../img/autonomous.jpg"
 author = "Kristof De Spiegeleer"
-subtitle = ""
+subtitle = "A blockchain suitable for the needs of the Foundation and its mission"
 weight = 3
 +++
 
