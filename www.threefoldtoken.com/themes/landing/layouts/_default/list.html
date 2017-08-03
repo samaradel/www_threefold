@@ -4,8 +4,8 @@
       <div class="container Site-inner">
           <div class="row clear-fix">
             {{ range $p := (.Paginate .Data.Pages).Pages }}
-            	{{ if eq .Section "tech" }}
-          		  <div class="col-sm-4 col-xs-12">{{ $p.Render "tech" }}</div>
+            	{{ if eq .Section "faq" }}
+          		  <div class="col-sm-4 col-xs-12">{{ $p.Render "faq" }}</div>
           	  {{else if eq .Section "information" }}
                 <div class="col-sm-4 col-xs-12">{{ $p.Render "information" }}</div>
                   {{ else if eq .Section "team" }}

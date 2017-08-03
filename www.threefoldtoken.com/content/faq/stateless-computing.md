@@ -1,6 +1,6 @@
 +++
 # Don't remove name!
-title = "tech"
+title = "faq"
 
 header = "Stateless Computing: Technology for the Edge Cloud"
 image = "trianglesplit-02.png"
