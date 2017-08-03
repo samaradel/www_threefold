@@ -1,15 +1,15 @@
 http://gigtech2.aydo.com:6060 {
     bind 0.0.0.0
     gzip
-    root  www.gig.tech/en
+    root   www.threefoldtoken.com/en
 
     git {
-        repo ssh://git@docs.greenitglobe.com:10022/gig/www_gig.tech2.0.git
+        repo ssh://git@docs.greenitglobe.com:10022/gig/www_threefold2.0.git
         branch master
         interval 300
         key ../keys/id_rsa-new
         path ../..
-        then hugo -s www.gig.tech
+        then hugo -s  www.threefoldtoken.com
     }
     errors {
     	404 404.html # Not Found
