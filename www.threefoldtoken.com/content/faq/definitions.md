@@ -10,7 +10,6 @@ weight = 1
 
 +++
 
-# Definitions
 
 ## Grid.TF
 
