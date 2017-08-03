@@ -4,10 +4,10 @@ http://gigtech2.aydo.com:6060 {
     root   www.threefoldtoken.com/en
 
     git {
-        repo ssh://git@docs.greenitglobe.com:10022/gig/www_threefold2.0.git
+        repo ssh://git@docs.greenitglobe.com:10022/gig/www_threefold2.0.git 
         branch master
         interval 300
-        key ../keys/id_rsa-new
+        key ~/.ssh/id_rsa 
         path ../..
         then hugo -s  www.threefoldtoken.com
     }
