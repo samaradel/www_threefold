@@ -6,7 +6,7 @@ header = "Definitions"
 image = "trianglesplit-03.png"
 author = ""
 subtitle = ""
-weight = 3
+weight = 1
 
 +++
 
