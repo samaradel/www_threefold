@@ -56,6 +56,9 @@ h3 {
 .left {
   text-align: left;
 }
+.center {
+  text-align: center;
+}
 .Site-inner, header, .navbar-toggle .icon-bar, .content-404, .logo-container, .Footer .linked  {
   background-color: #fff;
 }
@@ -330,6 +333,22 @@ header .introWords h2 {
 }
 .about {
   padding-top: 20px;
+}
+.our-dream {
+  text-align: center;
+  background-color: #6ba1e3;
+  padding: 65px 25px;
+  color: #fff;
+}
+.our-dream h1 {
+  color: rgba(255,255,255,.7);
+  margin: .67em 0;
+}
+.our-dream p {
+  margin-top: 14px;
+}
+.Main-content {
+  padding: 19px 0;
 }
 /* Media Queries */
 @media only screen and (max-width: 767px) {
