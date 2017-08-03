@@ -1,45 +1,8 @@
-<<<<<<< HEAD
-<div class="logo-container">
-   <a href="/"><img src="/img/threefold.svg" alt="GIG Tech"></a>
-</div>
-<header class="header">
-   <div class="container">
-      <nav class="navbar Header-nav" role="navigation" id="nav" data-spy="affix" data-offset-top="133">
-         <div class="container-fluid">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
-               <span class="sr-only">Toggle navigation</span>
-               <span class="icon-bar"></span>
-               <span class="icon-bar"></span>
-               <span class="icon-bar"></span>
-               </button>
-               <!-- <a href="/" class="navbar-brand" >
-                  <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
-                  </a> -->
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div id="navbar" class="collapse navbar-collapse">
-               <ul class="nav navbar-nav">
-                  <li><a href="/" class="Header-nav-item">IDEA <span class="sr-only">(current)</span></a></li>
-                  <li><a href="/tech" class="Header-nav-item">Tech</a></li>
-                  <li><a href="/blog" class="Header-nav-item">Blog</a></li>
-                  <li><a href="/team" class="Header-nav-item">About</a></li>
-                  <li><a href="/inside" class="Header-nav-item">Inside</a></li>
-                  <li><a href="/token" class="Header-nav-item">Token</a></li>
-                  <li><a href="/follow" class="Header-nav-item">Follow</a></li>
-               </ul>
-            </div>
-         </div>
-      </nav>
-   </div>
-</header>
-=======
 {{ range $element :=  $.Site.Pages }}
   {{ if eq .Section "header" }}
     {{ if eq .Title "header" }}
         <div class="logo-container">
-           <a href="/"><img src="/img/GIG_tech_new.png" alt="GIG Tech"></a>
+           <a href="/"><img src="/img/threefold.svg" alt="GIG Tech"></a>
         </div>
         <header class="header">
            <div class="container">
@@ -83,4 +46,3 @@
     {{end}}
   {{end}}
 {{end}}
->>>>>>> 912e0798617ef7188e5d735d4eb6b4e5a31c65ea
