@@ -4,10 +4,10 @@
       <div class="container Site-inner">
           <div class="row clear-fix">
             {{ range $p := (.Paginate .Data.Pages).Pages }}
-            	{{ if eq .Section "tech" }}
-          		  <div class="col-sm-4 col-xs-12">{{ $p.Render "tech" }}</div>
-          	  {{else if eq .Section "blog" }}
-                <div class="col-sm-4 col-xs-12">{{ $p.Render "blog" }}</div>
+            	{{ if eq .Section "faq" }}
+          		  <div class="col-sm-4 col-xs-12">{{ $p.Render "faq" }}</div>
+          	  {{else if eq .Section "information" }}
+                <div class="col-sm-4 col-xs-12">{{ $p.Render "information" }}</div>
                   {{ else if eq .Section "team" }}
                     {{ if eq .Title "about" }}
                     <div class="Content-outer">{{ $p.Render "about" }}</div>
@@ -18,8 +18,8 @@
                   <div class="Content-outer">{{ $p.Render "follow" }}</div>
                   {{ else if eq .Section "inside" }}
                   <div class="Content-outer">{{ $p.Render "inside" }}</div>
-                  {{ else if eq .Section "token" }}
-                  <div class="Content-outer">{{ $p.Render "token" }}</div>
+                  {{ else if eq .Section "pto" }}
+                  <div class="Content-outer">{{ $p.Render "pto" }}</div>
                   {{else}}
     						<div class="Content-outer">{{ $p.Render "summary" }}</div>
           	  {{end}}

@@ -2,7 +2,7 @@
    {{ partial "parallax.html" . }}
        {{ partial "header.html" . }}
       <div class="Site-inner">
-           {{ if  eq .Section "blog" }}
+           {{ if  eq .Section "information" }}
              <div class="Content-outer">
                 <main class="Main Main--blog-item">
                    <section class="Main-content sqs-frontend-overlay-editor-widget-host" data-content-field="main-content">
@@ -122,7 +122,7 @@
                    </section>
                 </main>
              </div>
-             {{ else if eq .Section "tech" }}
+             {{ else if eq .Section "faq" }}
              <div class="Content-outer">
                 <main class="Main Main--blog-item">
                    <section class="Main-content sqs-frontend-overlay-editor-widget-host" data-content-field="main-content">

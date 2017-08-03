@@ -1,6 +1,6 @@
 +++
 # Don't remove name!
-title = "blog"
+title = "information"
 header = "Time for Change"
 image = "../img/timeforchange.jpg"
 author = "Sacha Vekeman"

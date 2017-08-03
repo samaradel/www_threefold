@@ -1,6 +1,6 @@
 +++
 # Don't remove name!
-title = "tech"
+title = "faq"
 
 header = "Blockchain Technology: Token Distribution and Smart Contracts"
 image = "trianglesplit-03.png"

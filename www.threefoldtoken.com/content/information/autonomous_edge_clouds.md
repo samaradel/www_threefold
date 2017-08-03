@@ -1,6 +1,6 @@
 +++
 # Don't remove title!
-title = "blog"
+title = "information"
 header = "Self-healing"
 image = "../img/autonomous.jpg"
 author = "Weynand Kuijpers"

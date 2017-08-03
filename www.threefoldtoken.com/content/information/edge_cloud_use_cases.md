@@ -1,6 +1,6 @@
 +++
 # Don't remove name!
-title = "blog"
+title = "information"
 header = "Edge Cloud Use Cases"
 image = "../img/use-cases-edge.jpg"
 author = "Sacha Vekeman"

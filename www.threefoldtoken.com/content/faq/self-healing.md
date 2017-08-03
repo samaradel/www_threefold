@@ -1,6 +1,6 @@
 +++
 # Don't remove name!
-title = "tech"
+title = "faq"
 
 header = "Self-Healing: Autonomous Agents Healing Your Cloud"
 image = "trianglesplit-01.png"
