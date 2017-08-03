@@ -1,6 +1,6 @@
 +++
 
-Don't remove name! title = "information" header = "BLOG: Threefold Token?  What is it?" image = "../img/timeforchange.jpg" author = "Baker Yanicelli" subtitle = "What is our ThreeFold Token, how to buy, is it an investment instrument, how safe is it, how is it backed?" weight = 11
+Don't remove name! title = "information" header = "Threefold Token?  What is it?" image = "../img/timeforchange.jpg" author = "Baker Yanicelli" subtitle = "What is our ThreeFold Token, how to buy, is it an investment instrument, how safe is it, how is it backed?" weight = 11
 
 +++
 
