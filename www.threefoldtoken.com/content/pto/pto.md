@@ -2,11 +2,10 @@
 #Don't remove title!
 
 title = "pto"
-header = "A safe digital currency backed by a new, neutral and green Internet"
+header = "PTO - SUMMARY OFFERING TERMS"
 subtitle = "Threefold Token"
 
 +++
-# PTO - SUMMARY OFFERING TERMS
 
 ## TFT = ThreeFold Token
 
