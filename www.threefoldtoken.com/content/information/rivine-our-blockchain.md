@@ -2,7 +2,7 @@
 # Don't remove title!
 title = "information"
 header = "Rivine: Our Blockchain "
-image = "../img/autonomous.jpg"
+image = "our-blockchain.png"
 author = "Kristof De Spiegeleer"
 subtitle = "A blockchain suitable for the needs of the Foundation and its mission"
 weight = 3
@@ -37,7 +37,7 @@ So, what is the solution? An option would be to use an existing, public chain to
 
 While leveraging an existing public chain would be the simplest thing to do, the base currency would be the one of that chain. Using Ethereum and creating the extra functionality in smart contracts there would still require Eth to be used as gas when interacting with the smart contract. Next to having a limit of 20 transactions/second for the entire global Ethereum network, syncing and having a copy of the entire Ethereum chain while we are only interested in the interactions with our own contracts is quite the overhead, especially during initial block download. Forking such a general platform is no option either, especially not if they are POW based like current Ethereum. It’s not green and it would require a tremendous amount of mining power to secure such a fork. One can argue that even though this doesn’t overcome the POW issue, it’s still moderately green since the mining power is there anyway. We would however still end up contributing to transaction fees and stimulate more mining capacity to be deployed.  
 
-General purpose blockchain platforms are complex. Smart contracts are written in higher level languages like Solidity, compiled to some sort of bytecode and executed in sandboxes. Mistakes can happen everywhere, even with people that know the system very well, like the well known DAO hack proved. 
+General purpose blockchain platforms are complex. Smart contracts are written in higher level languages like Solidity, compiled to some sort of bytecode and executed in sandboxes. Mistakes can happen everywhere, even with people that know the system very well, like the well known DAO hack proved.
 Some of the goals like authorized addresses, hierarchical deterministic wallets, notary, micropayments... are simple to accomplish when entering the blockchain code itself but would require custom wallet implementations that handle both the more complex blockchain and the smart contract interaction levels. Hence, we need a different blockchain. We proposed our own to meet these needs. Enter the Rivine blockchain.
 
 Basic Rivine concepts

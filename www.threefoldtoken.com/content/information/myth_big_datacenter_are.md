@@ -2,7 +2,7 @@
 # Don't remove name!
 title = "information"
 header = "Datacenter Myths"
-image = "datacentermyths.jpg"
+image = "myth-big-datacenters-are-efficient.jpg"
 author = "Andreas Hartl"
 subtitle = "Hyperscale realities"
 weight = 4

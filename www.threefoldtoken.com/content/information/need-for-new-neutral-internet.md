@@ -3,9 +3,9 @@
 #Don't remove name!
 title = "information"
 header = "The need for a new, neutral Internet"
-image = "../img/timeforchange.jpg"
+image = "neutral-internet.jpg"
 author = "Kristof De Spiegeleer"
-subtitle = "The internet is growing like crazy. This is a 5 Trillion problem. Together we can build a new internet." 
+subtitle = "The internet is growing like crazy. This is a 5 Trillion problem. Together we can build a new internet."
 weight = 13
 
 +++

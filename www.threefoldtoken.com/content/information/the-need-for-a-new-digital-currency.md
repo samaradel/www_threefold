@@ -3,7 +3,7 @@
 #Don't remove name!
 title = "information"
 header = "The need for a new, backed, green digital currency"
-image = "../img/timeforchange.jpg"
+image = "the_need_for_new.jpg"
 author = "Baker Yanicelli"
 subtitle = "The world needs a new stable, backed & green digital currency, which is backed by real assets, and usable globally."
 weight = 12

@@ -2,7 +2,7 @@
 # Don't remove name!
 title = "information"
 header = "Internet is growing wild"
-image = "ethicaldesign.jpg"
+image = "internet-is-growing.jpg"
 author = "Andreas Hartl"
 subtitle = "Internet is growing in a way which is not sustainable, there needs to be an alternative"
 weight = 2
@@ -12,11 +12,11 @@ weight = 2
 
 ### internet capacity needs to become local
 
-Big majority of users in the world connect to servers not being present in their region and as such experience higher cost & low performance 
+Big majority of users in the world connect to servers not being present in their region and as such experience higher cost & low performance
 
 According to a study of [datacentermap.com][0] 80% of the datacenters of internet service providers are based in the US and Europe. The rest of the world has scarce resources dotted around territories.
 
-As a consequence most internet users use internet based services running on infrastructure which is located far away from their physical point of presence and most likely outside their country borders. This decreases the general end user experience (latency) but also adds unnecessary costs for actually transporting information back and forth and for enterprises it adds legislation and compliance headaches. 
+As a consequence most internet users use internet based services running on infrastructure which is located far away from their physical point of presence and most likely outside their country borders. This decreases the general end user experience (latency) but also adds unnecessary costs for actually transporting information back and forth and for enterprises it adds legislation and compliance headaches.
 
 ### need for education
 
@@ -28,7 +28,7 @@ Compute & Storage vendors create poor performing solutions. We have enjoyed year
 
 The inefficiencies have now lead us to be in a situation where organically grown IT architecture are immensely complex and use a variety of components from different soft and hardware vendors integrates by a so called integrator. The overall effort and cost involved to create, operate and maintain such architectures is growing continuously and requiring an ever increasing budget and resourcing to continue.
 
-If we could go down to the core algorithms and take another looks at these, innovate at the heart of technology instead of applying patches and pain killers we would be able to create a lot more end user capacity that what systems provide today. The result of this is that systems will last longer and do not have to be replaced by faster ones, it will take a lot less engineers to create, operate and maintain these systems and overall they will present a more stable and reliable platform achieving higher levels of uptime. 
+If we could go down to the core algorithms and take another looks at these, innovate at the heart of technology instead of applying patches and pain killers we would be able to create a lot more end user capacity that what systems provide today. The result of this is that systems will last longer and do not have to be replaced by faster ones, it will take a lot less engineers to create, operate and maintain these systems and overall they will present a more stable and reliable platform achieving higher levels of uptime.
 
 Only upsides, right? Well a huge downside of such an approach is that vendors will make less revenue and more importantly less margin as system will run for longer, more stable and requires less updates. Why would vendors innote at the core of their solution…….
 

@@ -3,7 +3,7 @@
 #Don't remove name!
 title = "information"
 header = "Threefold Token?  What is it?"
-image = "../img/timeforchange.jpg"
+image = "threefold_token.jpg"
 author = "Baker Yanicelli"
 subtitle = "What is our ThreeFold Token, how to buy, is it an investment instrument, how safe is it, how is it backed?"
 weight = 11

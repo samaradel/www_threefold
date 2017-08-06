@@ -3876,12 +3876,13 @@ body.sqs-lightbox-open {
 .BlogList-item-image {
     display: none;
     position: relative;
-    margin-bottom: 17.798000000000002px;
+    /*margin-bottom: 17.798000000000002px;*/
     -webkit-box-ordinal-group: 1;
     -moz-box-ordinal-group: 1;
     -ms-flex-order: 1;
     -webkit-order: 1;
-    order: 1
+    order: 1;
+    max-height:200px;
 }
 .tweak-blog-list-item-image-show .BlogList-item-image {
     display: block

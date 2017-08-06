@@ -2,7 +2,7 @@
 # Don't remove title!
 title = "information"
 header = "Technology for a New Internet"
-image = "../img/neutralnet.jpg"
+image = "technology-for-internet.jpg"
 author = "Andreas Hartl"
 subtitle = "Our technology breaks with the traditional IT model. The Edge internet needs a different approach."
 weight = 5
@@ -17,21 +17,21 @@ Our open-source tech addresses the scalability, security, storage, energy and op
 ### What is our Technology Toolbox?
 
 Our technology is based on three primary building blocks:  Stateless Computing, Artificial Intelligence and Blockchain technology - this is the core of our “Technology Toolbox".
-  
+
 - Stateless Computing: a stateless operating system, Zero-OS, enabling distributed hardware to form an Edge Internet grid generating IT storage and compute capacity
 
 - Artificial Intelligence controls and operates a distributed cloud and reserves, procures and executes workloads on the grid using our Jumpscale platform. It delivers autoscaling and automation frameworks that enable self-healing and can be adapted for any kind of IT workload.
 
-- Blockchain Technology, via Rivine.io,  our secure, scalable “proof of stake” blockchain, along with our identity management platform, ItsYou.online. Our blockchain technology enables user authentication, access controls, secure workloads and heightened security. 
+- Blockchain Technology, via Rivine.io,  our secure, scalable “proof of stake” blockchain, along with our identity management platform, ItsYou.online. Our blockchain technology enables user authentication, access controls, secure workloads and heightened security.
 
 
-## Why Stateless Computing? 
+## Why Stateless Computing?
 
 The global Edge internet will be composed of thousands (millions?) of nodes distributed geographically.  This means the Edge internet must be powered by a stateless operating system that can be booted via the Internet (as opposed to living on the node locally). This removes the complexity of upgrades, truck rolls, etc  
 
 We have developed the open-source components, Zero-OS,for the deployment of bare metal machines functioning as Internet nodes and application hosts.  Our Zero-OS platform runs containerized applications and software code on secure and distributed IT infrastructure.  Zero-OS can be deployed on off-the-shelf hardware by anyone that is willing to make server and storage capacity available in their markets and within our network
 
-### The benefits of Stateless Computing are substantial, including: 
+### The benefits of Stateless Computing are substantial, including:
 - Performance: lightweight OS without overhead for running bare-metal machines
 - Free: finds the optimal performance of server & storage nodes at no cost
 - Private: no data footprint remains while workloads move from one node to another
@@ -41,20 +41,20 @@ We have developed the open-source components, Zero-OS,for the deployment of bare
 - Secure: open-source distributed software with transparent code. No security backdoors
 - Green: energy-efficient OS resulting in very low node power consumption.
 
-## Artificial Intelligence: Self healing and self driving 
+## Artificial Intelligence: Self healing and self driving
 
 GIG has developed Jumpscale and At Your Service (AYS) which allows the creation of blueprints to auto-deploy applications within the compute environment.
 
 Our robots are constantly checking the health and uptime of the infrastructure and runtime environments, guaranteeing performance & availability of applications.
 
-### The benefits of our Artificial Intelligence protocols include the following: 
+### The benefits of our Artificial Intelligence protocols include the following:
 
 - Self Healing: the platform regenerates when health issues are detected that cause downtime for infrastructure and applications
 - Intelligence: agents capture information from the grid and make intelligent decisions to provide an ideal and optimal host environment for software code and containerized applications
 - Lifecycle Management: the state of the infrastructure and the lifecycle of running applications are constantly checked and recorded
 - Autoscaling: the platform automatically scales to meet application and infrastructure performance.
 
-## Blockchain Technology: Executing workloads and applications via smart contracts using new consensus algorithms 
+## Blockchain Technology: Executing workloads and applications via smart contracts using new consensus algorithms
 
 Our engineers developed new blockchain algorithms based on proof of stake for validation purposes and turned this into our Rivine.io open-source blockchain software
 
@@ -76,4 +76,3 @@ All of our technology is open-source and can be accessed in the following Github
 * Jumpscale: 			    https://github.com/jumpscale
 * At Your Service (AYS): 	https://github.com/Jumpscale/ays9
 * Rivine: 			    https://github.com/rivine/rivine
-

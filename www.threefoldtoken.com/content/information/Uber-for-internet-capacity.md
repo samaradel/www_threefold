@@ -1,9 +1,9 @@
 +++
 
-#Don't remove name! 
+#Don't remove name!
 title = "information"
 header = "Uber for Internet Capacity"
-image = "../img/timeforchange.jpg"
+image = "uber-for-internet-capacity.jpg"
 author = "Nicolay Babenko"
 subtitle = "Everyone should be able to deliver capacity to the new neutral internet. "
 weight = 10
