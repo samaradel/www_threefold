@@ -1,7 +1,7 @@
 +++
 #Don't remove title!
 
-title = "inside"
+title = "community"
 header = "A safe digital currency backed by a new, neutral and green Internet"
 subtitle = "Threefold Token"
 

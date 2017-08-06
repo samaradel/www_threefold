@@ -16,8 +16,8 @@
                       {{end}}
                   {{ else if eq .Section "follow" }}
                   <div class="Content-outer">{{ $p.Render "follow" }}</div>
-                  {{ else if eq .Section "inside" }}
-                  <div class="Content-outer">{{ $p.Render "inside" }}</div>
+                  {{ else if eq .Section "community" }}
+                  <div class="Content-outer">{{ $p.Render "community" }}</div>
                   {{ else if eq .Section "pto" }}
                   <div class="Content-outer">{{ $p.Render "pto" }}</div>
                   {{else}}
