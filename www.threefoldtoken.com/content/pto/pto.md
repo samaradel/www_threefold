@@ -3,7 +3,7 @@
 
 title = "pto"
 header = "A safe digital currency backed by a new, neutral and green Internet"
-subtitle = "Threefold Token"
+
 
 +++
 
@@ -67,7 +67,7 @@ USD, YEN, EUR, GBP, CHF, BTC and ETH
 The Foundation will use the net proceeds of the PTO to deploy additional Internet capacity on our global Grid.  Part of the proceeds of the PTO will be held as cash on balance sheet to support Token liquidity
 
 Importantly, the Foundation’s Internet infrastructure generates cash flows - the Foundation expects the infrastructure to generate in excess of 5x investment over a 4 year period
-  
+
 The Foundation reinvests these profits
 
 
@@ -118,7 +118,3 @@ In the event of a liquidation of the Foundation, the Token Holders would have  
 - [Foundation FAQ](http://www.threefoldtoken.com/faq/foundation)
 - [Token FAQ](http://www.threefoldtoken.com/faq/token)
 - [PTO White Paper](http://tiny.cc/tf_whitepaper_pto)
-
-
-
-
