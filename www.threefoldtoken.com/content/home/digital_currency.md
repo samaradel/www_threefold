@@ -12,3 +12,10 @@ However, major problems remain such as scalability issues, slow transaction time
 and most importantly, a general absence of intrinsic value backed by real assets.
 
 [WHY A NEW NEUTRAL INTERNET](/information/the-need-for-a-new-backed-green-digital-currency)
+
+<space>
+
+<space>
+
+
+**The TF token is a safe, scalable, green currency with real utility and value backed by real assets**

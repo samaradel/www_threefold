@@ -1,6 +1,12 @@
 +++
 
-Don't remove name! title = "information" header = "10x times power savings, is this possible?" image = "../img/timeforchange.jpg" author = "Andreas Hartl" subtitle = "10x times power savings, is this possible?" weight = 8
+#Don't remove name!
+title = "information"
+header = "10x times power savings, is this possible?"
+image = "../img/timeforchange.jpg"
+author = "Andreas Hartl"
+subtitle = "10x times power savings, is this possible?"
+weight = 8
 
 +++
 
@@ -47,6 +53,3 @@ By using a different, more efficient means to exchange data between physical CPU
 Our storage solution uses slow and big - the bigger the better - HDD disks which drive in rack density and as they spin slower they consume less power and need less cooling. But you might say how can you deal with read/write intensive workloads? Our storage algorithm uses a SSD cache to acknowledge I/O coming from the application, fills the erasure coded data blocks in large up to 64MB storage containers and writes these big chunks of data on the big and slow HHDs. If you are familiar with what HDD disks you know they like to be streamed on instead of a ton of small bits in scratchy way.
 
 Continuous innovation in all of these areas have lead to a very efficient technology stack
-
-
-

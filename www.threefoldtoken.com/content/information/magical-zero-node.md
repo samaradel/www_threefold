@@ -1,6 +1,12 @@
 +++
 
-Don't remove name! title = "information" header = "Our Magical Zero-Node" image = "../img/timeforchange.jpg" author = "Andreas Hartl" subtitle = "Our magic box providing internet capacity." weight = 9
+#Don't remove name!
+title = "information"
+header = "Our Magical Zero-Node"
+image = "../img/timeforchange.jpg"
+author = "Andreas Hartl"
+subtitle = "Our magic box providing internet capacity."
+weight = 9
 
 +++
 
@@ -21,5 +27,3 @@ This inspired us to create more effective IT architectures powering IT workloads
 
 
 A Zero-Node consists of hardware and software. A Zero Node can be purchased from the TF Foundation or by downloading and installing software on existing re-purposed hardware. The software components are:
-
-

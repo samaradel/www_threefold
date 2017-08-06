@@ -1,6 +1,12 @@
 +++
 
-Don't remove name! title = "information" header = "Uber for Internet Capacity" image = "../img/timeforchange.jpg" author = "Nicolay Babenko" subtitle = "Everyone should be able to deliver capacity to the new neutral internet. " weight = 10
+#Don't remove name! 
+title = "information"
+header = "Uber for Internet Capacity"
+image = "../img/timeforchange.jpg"
+author = "Nicolay Babenko"
+subtitle = "Everyone should be able to deliver capacity to the new neutral internet. "
+weight = 10
 
 +++
 
@@ -8,13 +14,13 @@ Don't remove name! title = "information" header = "Uber for Internet Capacity" i
 
 ### Decentralization & empowering the edge trend
 
-The Internet decentralized information and changed the world as we know it. Now blockchain technology is decentralizing value and could change the world even more. 
+The Internet decentralized information and changed the world as we know it. Now blockchain technology is decentralizing value and could change the world even more.
 
 The Internet allowed everyone to generate and exchange content freely. Companies like Facebook, Google, Twitter and Snapchat made big business out of it. And the “sharing economy” is growing during the last 5-10 years due to the simplified information flow and well developed technology, which:
 
 1. Allows much easier integration of independent players into the sharing economy
 2. Eliminates the need for extensive management and structure of the marketplace operator
- 
+
 We are coming to the flat-structure economy, where less managerial levels are needed for the system to function properly.
 
 Blockchain technology facilitates this trend. Participants can interact on a peer-to-peer basis and form marketplaces and organizations according to pre-agreed, programmed contracts.
@@ -46,8 +52,3 @@ Now you essentially can become an ‘Uber’ driver for the new, neutral interne
 
  - No more big corporations are controlling the grid and wasting resources..
  - Yes to the new decentralized, neutral and green internet.
-
- 
- 
- 
-
