@@ -3,7 +3,7 @@
 title = "faq"
 
 header = "ThreeFold Global Grid FAQ"
-image = "trianglesplit-01.png"
+image = "grid.jpg"
 author = ""
 subtitle = ""
 weight = 2
@@ -81,15 +81,12 @@ The process from that point is automated / self-driving.
 
 ###  How is the IT capacity price set on the Directory?
 
-The pricing is determined by our algorithm which factors in real time supply and demand and local market factors - as well as the location and environment of the Hoster.  More advanced Hosters can also customise pricing if desired. 
+The pricing is determined by our algorithm which factors in real time supply and demand and local market factors - as well as the location and environment of the Hoster.  More advanced Hosters can also customise pricing if desired.
 
 ### Are there products other than IT capacity being offered at our Directory?
 
 In addition to basic IT capacity, the Directory also has API-based services and applications created by Service Providers based on our TF Service App.  
- 
+
 ## How is IT capacity sale be transacted?
 
 Once a Hoster or Operator is registered on our Directory, the available capacity becomes visible to Users and Service Providers. Transactions are API-driven based on smart contracts. The smart contract specifies the key information such as the capacity or service, duration, price per unit, location, etc.  All transactions on the Directory are executed using TF Tokens.  The Tokens are automatically deposited in the Hoster’s or Operator’s e-Wallet.
-
-
-

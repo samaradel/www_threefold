@@ -3,7 +3,7 @@
 title = "faq"
 
 header = "ThreeFold Technology FAQ"
-image = "trianglesplit-02.png"
+image = "tech.jpg"
 author = ""
 subtitle = ""
 weight = 3
@@ -17,7 +17,7 @@ All of our IP is open-source and is constantly being improved upon and extended.
 
 The Foundation funds further development from its cash flows. Included in the technology portfolio are the following key elements:
 
-- [**Jumpscale9**](https://github.com/jumpscale) 
+- [**Jumpscale9**](https://github.com/jumpscale)
     - Jumpscale 9 is an automation system for software design using simplified scripts and APIs
 - [**Zero-OS**](https://github.com/zero-os)
     - The Zero-OS is among the greenest and most efficient IT operating systems globally
@@ -57,4 +57,3 @@ The key differentiators of our blockchain include:
 ### More Info
 
 [our technology blogs](http://www.threefoldtoken.com/information/)
-

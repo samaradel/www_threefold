@@ -3,7 +3,7 @@
 title = "faq"
 
 header = "Threefold Token FAQ"
-image = "trianglesplit-02.png"
+image = "token.jpg"
 author = ""
 subtitle = ""
 weight = 4
@@ -182,5 +182,3 @@ The ThreeFold Token Smart Contract is publicly available.
 ## Where can I find more technical information
 
 [See Technical Blog](http://www.threefoldtoken.com/information/)
-
-

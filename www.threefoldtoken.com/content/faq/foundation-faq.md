@@ -3,7 +3,7 @@
 title = "faq"
 
 header = "Threefold Foundation FAQ"
-image = "trianglesplit-02.png"
+image = "foundation.jpg"
 author = ""
 subtitle = ""
 weight = 5
@@ -53,6 +53,3 @@ Our team is highly experienced across technology, growth businesses and Finance.
 ## What are the liabilities of the Foundation?  Are there any?
 
 As of today the Foundation does not have any liabilities.
-
-
-
