@@ -64,6 +64,7 @@ h3 {
 }
 .Site-inner {
   min-height: 133px;
+  padding-bottom: 50px;
 }
 .tweak-blog-list-style-grid .BlogList-item {
   float: none;
@@ -356,6 +357,9 @@ header .introWords h2 {
 }
 .Main-content, .Index-page-content {
   padding: 0px;
+}
+.col-sm-4:nth-child(3n+1){
+    clear: both;
 }
 /* Media Queries */
 @media only screen and (max-width: 767px) {
