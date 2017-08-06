@@ -63,7 +63,6 @@ h3 {
   background-color: #fff;
 }
 .Site-inner {
-  padding-bottom: 40px;
   min-height: 133px;
 }
 .tweak-blog-list-style-grid .BlogList-item {
@@ -334,7 +333,7 @@ header .introWords h2 {
 .about {
   padding-top: 20px;
 }
-.our-dream {
+.our-dream, .transfer-to-ico {
   text-align: center;
   background-color: #6ba1e3;
   padding: 65px 25px;
@@ -347,8 +346,57 @@ header .introWords h2 {
 .our-dream p {
   margin-top: 14px;
 }
+.sqs-block-content h1:first-child {
+  color: #fff;
+}
+.sqs-block-content h1 a,  .sqs-block-content h1 {
+  color: rgba(255,255,255,.7);
+}
+.transfer-to-ico .sqs-block-content h1 a {
+  padding-bottom: .05em;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(255,255,255,.21);
+    -webkit-transition: border-color .15s ease-out,color .15s ease-out;
+    -moz-transition: border-color .15s ease-out,color .15s ease-out;
+    -ms-transition: border-color .15s ease-out,color .15s ease-out;
+    -o-transition: border-color .15s ease-out,color .15s ease-out;
+    transition: border-color .15s ease-out,color .15s ease-out;
+}
+.transfer-to-ico .sqs-block-content h1 a:hover {
+  color: rgba(255,255,255,.42);
+  border-color: rgba(255,255,255,.105);
+}
+.sqs-block-content h2 {
+    color: #fff;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    letter-spacing: -.01em;
+    line-height: 1.4em;
+    text-transform: none;
+}
+.large-button-shape-rounded .sqs-block-button .sqs-block-button-element--large {
+  background-color: transparent;
+  border-color: #fff;
+  color: #fff;
+  border-width: 2px;
+  border-style: solid;
+  background-color: transparent;
+  -webkit-transition: 0.1s background-color linear, 0.1s color linear;
+  -moz-transition: 0.1s background-color linear, 0.1s color linear;
+  -o-transition: 0.1s background-color linear, 0.1s color linear;
+  transition: 0.1s background-color linear, 0.1s color linear;
+}
+.large-button-style-outline .sqs-block-button .sqs-block-button-element--large:hover {
+  background-color: #fff;
+  color: #1d1d1d;
+}
 .Main-content {
   padding: 19px 0;
+}
+.Index-page-content {
+  padding: 0px;
 }
 /* Media Queries */
 @media only screen and (max-width: 767px) {
