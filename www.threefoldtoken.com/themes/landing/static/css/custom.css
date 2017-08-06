@@ -59,12 +59,11 @@ h3 {
 .center {
   text-align: center;
 }
-.Site-inner, header, .navbar-toggle .icon-bar, .content-404, .logo-container  {
+.Site-inner, header, .navbar-toggle .icon-bar, .content-404, .logo-container, .Footer .linked  {
   background-color: #fff;
 }
 .Site-inner {
   min-height: 133px;
-  padding-bottom: 50px;
 }
 .tweak-blog-list-style-grid .BlogList-item {
   float: none;
@@ -137,11 +136,16 @@ a {
   letter-spacing: 0.1em;
 }
 .Footer {
-  background-color: #757575;
+  padding-top: 40px;
 }
-.Footer-inner {
-  padding: 8px 25px;
-  color: #fff;
+footer .sqs-block-content h3 {
+  float: none !important;
+}
+.Footer .info {
+  text-align: center;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
 }
 .list, .info {
   list-style-type: none;
@@ -176,7 +180,11 @@ a {
   height: 345px;
 }
 
+.dreem{
+padding-left: 55px;
+padding-right: 55px;
 
+}
 .logo-container img {
   display: block;
   max-width: 240px;
@@ -217,6 +225,36 @@ header .introWords h2 {
   line-height: 1.4em;
   text-align: left;
 }
+.Footer .logo {
+  margin-top: 5px;
+  width: 117px;
+  height: 117px;
+}
+.Footer .linked {
+  padding: 5px 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 12px;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+.Footer .linked:hover {
+  color: #000;
+}
+.Footer .address {
+  margin-top: 19px;
+  text-align: left;
+}
+.copyright {
+  background-color: #546A86;
+  padding: 20px 0;
+  margin-top: 40px;
+  text-align: center;
+  color: #abb7b9;
+  line-height: 1.2em;
+}
 .copyright .copy {
   text-transform: uppercase;
 }
@@ -236,6 +274,9 @@ header .introWords h2 {
 .navbar-container{
     transition: 0.8s;
     -webkit-transition:  0.8s;
+}
+.Footer .linked {
+  color: #546A86;
 }
 /*Sticky navbar*/
 .navbar-fixed {
@@ -278,7 +319,7 @@ header .introWords h2 {
 .BlogList-item a {
   text-transform: uppercase;
 }
-.affix, .affix-top, .navbar-fixed, .Site header, .navbar.navbar-fixed-top.fixed-theme  {
+.affix, .affix-top, .navbar-fixed, .Footer, .Site header, .navbar.navbar-fixed-top.fixed-theme  {
   background-color: #699ee2;
 }
 #nav.affix {
@@ -357,11 +398,11 @@ header .introWords h2 {
   background-color: #fff;
   color: #1d1d1d;
 }
-.Main-content, .Index-page-content {
-  padding: 0px;
+.Main-content {
+  padding: 19px 0;
 }
-.col-sm-4:nth-child(3n+1){
-    clear: both;
+.Index-page-content {
+  padding: 0px;
 }
 /* Media Queries */
 @media only screen and (max-width: 767px) {
@@ -393,6 +434,10 @@ header .introWords h2 {
   .navbar-toggle {
     margin-top: 18px;
   }
+  .Footer .info {
+    text-align: center;
+    margin-top: 20px;
+  }
   .list {
     line-height: 1.6em;
   }
@@ -411,6 +456,13 @@ header .introWords h2 {
   }
   .info li {
     display: block;
+  }
+  .Footer .followBtn {
+    margin-top: 10px;
+  }
+  .Footer .linked {
+    padding: 5px 100px;
+    margin-top: 10px;
   }
   .sqs-block-button .sqs-block-button-element--small {
     width: 100%;
@@ -440,6 +492,9 @@ header .introWords h2 {
   }
   .list a, .info a {
     font-size: 0.625em;
+  }
+  .Footer .linked {
+    padding: 5px 85px;
   }
   .sqs-block-button .sqs-block-button-element--small {
     width: 100%;
