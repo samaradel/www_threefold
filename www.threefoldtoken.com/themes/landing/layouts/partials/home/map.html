@@ -1,0 +1,89 @@
+{{ range $element :=  .Data.Pages }}
+  {{ if eq .Section "home" }}
+    {{ if eq .Title "map" }}
+    <section id="implementation-activity-map" class="Index-page">
+       <div class="Index-page-content">
+          <div class="sqs-layout col-xs-12">
+             <div class="row">
+                <div class="col-xs-12">
+                   <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
+                      <div class="sqs-block-content">&nbsp;</div>
+                   </div>
+                   <div class="sqs-block html-block sqs-block-html">
+                      <div class="sqs-block-content center">
+                         <h1>{{ .Params.header }}<br>&nbsp;</h1>
+                         <p>{{ .Content }}</p>
+                      </div>
+                   </div>
+                   <div class="sqs-block code-block sqs-block-code">
+                      <div class="sqs-block-content">
+                      <style type="text/css">
+                        #map-canvas { height: 550px; }
+                        #markerContentSource { display: none; }
+                        #markerContentSource table { width: 100%; }
+                        #markerContentSource table thead { font-weight: bold; }
+                        </style>
+
+                        <div id="map-canvas"></div>
+                        <div id="markerContentSource">
+                             <h1>Provider Name</h1>
+                             <h2>Pool Name</h2>
+
+                             <div id="bodyContent">
+                                 <table>
+                                     <thead>
+                                         <tr>
+                                             <td>Network Speed</td>
+                                             <td>IPv4 Enabled</td>
+                                             <td>IPv6 Enabled</td>
+                                         </tr>
+                                     </thead>
+                                     <tbody>
+                                         <tr>
+                                             <td class="netspeed">1000 Mbps</td>
+                                             <td class="ipv4">Yes</td>
+                                             <td class="ipv6">No</td>
+                                         </tr>
+                                     </tbody>
+                                 </table>
+
+                                 <p>Currency: <span class="currency">USD</span></p>
+
+
+                                 <table>
+                                     <thead>
+                                         <tr>
+                                             <td></td>
+                                             <td>CU</td>
+                                             <td>SU</td>
+                                             <td>TU</td>
+                                         </tr>
+                                     </thead>
+                                     <tbody class="pricing">
+                                         <tr>
+                                             <td>Planned</td>
+                                             <td class="planned-cu"></td>
+                                             <td class="planned-su"></td>
+                                             <td class="planned-tu"></td>
+                                         </tr>
+                                         <tr>
+                                             <td>Max</td>
+                                             <td class="max-cu"></td>
+                                             <td class="max-su"></td>
+                                             <td class="max-tu"></td>
+                                         </tr>
+                                     </tbody>
+                                 </table>
+                             </div>
+                         </div>
+
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+       </div>
+    </section>
+    {{end}}
+  {{end}}
+{{end}}
