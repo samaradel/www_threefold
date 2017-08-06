@@ -5,30 +5,28 @@
         <div class="row">
           <div class="col xs-12 col-sm-3"></div>
           <div class="col-xs-12 col-sm-6">
-            <h1 class="center">Our dream</h1>
-            <p>We live in very interesting times, the world has never changed so quickly.
-              We want to help at the positive side and help the world to become a better place. <br/> <br/>
-              The Foundation has 3 focal point
+            <h1 class="center">{{ .Params.header }}</h1>
+            <p>{{ .Params.subtitle_1 }}
+              <br>
+              {{ .Params.subtitle_2 }}
+              <br/> <br/>
+              {{ .Params.subtitle_3 }}
             </p>
           </div>
         </div>
 
         <div style="margin-top: 20px 0;" class="row">
-          <div class="col-xs-12 col-sm-4">
-            <h3>Green &amp; power efficiency</h3>
-            <p>by changing the way how the internet is expanding and by building a more efficient grid,
-                we save tremendous amounts of energy up to 10x times.
-            </p>
+          <div class="col-xs-12 col-sm-4 dreem">
+            <h3>{{ .Params.title_1 }}</h3>
+            <p>{{ .Params.text_1 }}</p>
           </div>
-          <div class="col-xs-12 col-sm-4">
-            <h3>Education &amp; equal chances</h3>
-            <p>by providing internet capacity all over the world close to the users, we improve performance and
-                allow anyone to get access to the required resources for their business or education at affordable prices</p>
+          <div class="col-xs-12 col-sm-4 dreem">
+            <h3>{{ .Params.title_2 }}</h3>
+            <p>{{ .Params.text_2 }}</p>
           </div>
-          <div class="col-xs-12 col-sm-4">
-            <h3>A safe &amp; backed currency</h3>
-            <p>digital currencies like bitcoin are not going to go away, but they are not backed, are misused by
-              criminals and extremely speculative, together we want to provide a safer greener platform for the most stable digital currency in the world.</p>
+          <div class="col-xs-12 col-sm-4 dreem">
+            <h3>{{ .Params.title_3 }}</h3>
+            <p>{{ .Params.text_3 }}</p>
           </div>
         </div>
 
@@ -36,12 +34,10 @@
             <div class="col-xs-12 col-sm-2"></div>
             <div class="col-xs-12 col-sm-8">
               <div class="sqs-block html-block sqs-block-html">
-              <p>We want to empower anyone to become part of the Threefold Foundation and work with us to accomplish our objectives.
-                The Foundation is a 100% transparent tokenized organization driven by a strong set of values.
-                You can join us by buying &amp; using tokens - each token makes you a full member of the Foundation with voting rights.</p>
+              <p>{{ .Params.last_text }}</p>
 
-                <p>First Token Holder <br/>
-                    Kristof De Spiegeleer</p>
+                <p>{{ .Params.token_holder }} <br/>
+                    {{ .Params.token_holder_name }}</p>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-2"></div>
