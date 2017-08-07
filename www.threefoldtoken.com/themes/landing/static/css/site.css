@@ -3995,7 +3995,16 @@ body.sqs-lightbox-open {
     text-align: left
 }
 .tweak-blog-list-alignment-center .BlogList-item-title {
-    text-align: center
+    text-align: center;
+    font-family: Open Sans;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing: .02em;
+    line-height: 1.8em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #525252;
 }
 .tweak-blog-list-alignment-right .BlogList-item-title {
     text-align: right
