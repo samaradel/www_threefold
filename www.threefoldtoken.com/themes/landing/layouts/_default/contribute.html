@@ -6,14 +6,14 @@
             <div class="col-xs-12">
                <div class="sqs-block html-block sqs-block-html">
                   <div class="sqs-block-content">
-                     <h1 class="text-align-center">CONTRIBUTE TO THE FOUNDATION BEFORE THE PTO</h1>
-                     <p class="text-align-center"><br>We would be delighted if you would be willing to support us by investing in the ThreeFold Token,<br>but we are also looking for TF Operators, TF Hosters and TF Ambassadors.</p>
+                     <h1 class="text-align-center">{{ .Params.header }}</h1>
+                     <p class="text-align-center"><br>{{ .Params.subtitle_1 }}<br>{{ .Params.subtitle_2 }}</p>
                   </div>
                </div>
                <div class="sqs-block button-block sqs-block-button">
                   <div class="sqs-block-content">
                      <div class="sqs-block-button-container--center center">
-                        <a href="http://www.threefoldtoken.com/about-us" class="sqs-block-button-element--medium sqs-block-button-element" data-initialized="true">WILLING TO HELP? WE ARE LOOKING FOR AMBASSADORS, HOSTERS AND OPERATORS.</a>
+                        <a href="{{ .Params.button_link }}" class="sqs-block-button-element--medium sqs-block-button-element" data-initialized="true">{{ .Params.button_name }}</a>
                      </div>
                   </div>
                </div>
