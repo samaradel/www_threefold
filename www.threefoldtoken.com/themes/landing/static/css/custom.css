@@ -434,6 +434,9 @@ header .introWords h2 {
   text-transform: uppercase;
   letter-spacing: .24em;
 }
+.tweak-blog-list-style-grid.tweak-blog-list-item-image-aspect-ratio-grid-11-square .BlogList-item-image:before, .tweak-blog-list-style-grid.tweak-blog-list-item-image-aspect-ratio-grid-11-square .BlogList-item-image:before {
+  padding-bottom: 80%;
+}
 /* Media Queries */
 @media only screen and (max-width: 767px) {
   .Header-branding {

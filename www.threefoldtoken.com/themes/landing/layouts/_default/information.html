@@ -8,16 +8,17 @@
             <img style="top: 0px;  max-width: 100%; max-height: 100%; position: absolute;" title = "{{ .Params.header }}" alt="{{ .Params.header }}" src="../../img/{{ .Params.image }}">
           </a>
         </div>
-        <a href="{{ .Permalink }}" class="BlogList-item-title">{{ .Params.header }}</a>
-        <div class="BlogList-item-excerpt">
-          <p>{{ .Params.subtitle }}</p>
-          <a href="/" class="BlogList-item-readmore"></a>
-        </div>
+
         <div class="Blog-meta BlogList-item-meta">
           <!-- Author -->
           <a href="{{ .Permalink }}" class="Blog-meta-item--author">{{ .Params.author }}</a>
           <!-- Date -->
           <time class="Blog-meta-item">June 27, 2017</time>
+        </div>
+          <a href="{{ .Permalink }}" class="BlogList-item-title">{{ .Params.header }}</a>
+        <div class="BlogList-item-excerpt">
+          <p>{{ .Params.subtitle }}</p>
+          <a href="/" class="BlogList-item-readmore"></a>
         </div>
       </article>
     </div>
