@@ -3,7 +3,7 @@
 Our Initial Token Offering will run through August.  After that the price for Tokens will increase.  We expect to complete our Public Token Offering in Q4 2017
 
 
-![](https://docs.greenitglobe.com/gig/www_threefold2.0/src/master/www.threefoldtoken.com/themes/landing/static/img/ito-timeline-august.jpg.png)
+![](ito-timeline-august.jpg.png)
 
 # SUMMARY OFFERING TERMS
 
