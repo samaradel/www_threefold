@@ -90,7 +90,7 @@ header {
 .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item, .list a:hover, .info a:hover {
   color: #fff;
 }
-body, .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover, .sqs-block-content-home h1 {
+body, .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover, .sqs-block-content-home h1, .Main--blog-item .sqs-block-content h2 {
   color: #757575;
 }
 .nav>li>a:hover {
