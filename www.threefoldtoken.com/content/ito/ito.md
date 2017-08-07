@@ -8,12 +8,7 @@ title = "ito"
 
 Our Initial Token Offering will run through August.  After that the price for Tokens will increase.  We expect to complete our Public Token Offering in Q4 2017
 
-
-<<<<<<< HEAD
 ![](../img/ito-timeline-august.png)
-=======
-![](../img/ito-timeline-august.jpg.png)
->>>>>>> 3f0fc1c8514eeb30e83d19bdf124fdfb71d9d64d
 
 # SUMMARY OFFERING TERMS
 
