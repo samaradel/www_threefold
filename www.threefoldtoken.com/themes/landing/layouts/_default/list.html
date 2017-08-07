@@ -1,6 +1,10 @@
 {{ partial "head.html" . }}
    {{ partial "parallax.html" . }}
-       {{ partial "header.html" . }}
+     {{ if eq .Section "pto" }}
+         {{ partial "pto-header.html" . }}
+       {{else}}
+      {{ partial "header.html" . }}
+      {{end}}
       <div class="container Site-inner">
           <div class="row clear-fix">
             {{ range $p := (.Paginate .Data.Pages).Pages }}

@@ -341,7 +341,7 @@ header .introWords h2 {
 .Index-page h1 {
   color: #757575;
 }
-.large-button-shape-rounded .sqs-block-button .sqs-block-button-element--large {
+.large-button-shape-rounded .sqs-block-button .sqs-block-button-element--large,.medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium {
   background-color: transparent;
   border-color: #fff;
   color: #fff;
@@ -353,7 +353,7 @@ header .introWords h2 {
   -o-transition: 0.1s background-color linear, 0.1s color linear;
   transition: 0.1s background-color linear, 0.1s color linear;
 }
-.large-button-style-outline .sqs-block-button .sqs-block-button-element--large:hover {
+.large-button-style-outline .sqs-block-button .sqs-block-button-element--large:hover, .medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium:hover {
   background-color: #fff;
   color: #1d1d1d;
 }
@@ -366,6 +366,20 @@ header .introWords h2 {
 .dreem {
   padding-left: 55px;
   padding-right: 55px;
+}
+.Index-page--has-image .Index-page-content {
+  padding-top: 0px;
+  padding-bottom: 75px;
+}
+.initial-coin-offering, .initial-coin-offering .affix {
+  background-color: #619e73;
+}
+.initial-coin-offering .container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.initial-coin-offering .affix-top {
+  background-color: transparent;
 }
 /* Media Queries */
 @media only screen and (max-width: 767px) {
