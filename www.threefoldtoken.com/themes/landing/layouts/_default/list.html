@@ -23,7 +23,11 @@
                   {{ else if eq .Section "community" }}
                   <div class="Content-outer">{{ $p.Render "community" }}</div>
                   {{ else if eq .Section "pto" }}
-                  <div class="Content-outer">{{ $p.Render "pto" }}</div>
+                    {{ if eq .Title "pto" }}
+                      <div class="Content-outer">{{ $p.Render "pto" }}</div>
+                    {{ else if eq .Title "contribute" }}
+                      <div class="Content-outer">{{ $p.Render "contribute" }}</div>
+                    {{end}}
                   {{else}}
     						<div class="Content-outer">{{ $p.Render "summary" }}</div>
           	  {{end}}

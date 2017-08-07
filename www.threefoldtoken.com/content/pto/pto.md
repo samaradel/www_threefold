@@ -3,8 +3,7 @@
 
 title = "pto"
 header = "A safe digital currency backed by a new, neutral and green Internet"
-
-
+weight = 1
 +++
 
 ## TFT = ThreeFold Token

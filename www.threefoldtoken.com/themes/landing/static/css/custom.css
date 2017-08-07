@@ -59,11 +59,17 @@ h3 {
 .center {
   text-align: center;
 }
+.container {
+  padding-right: 5px;
+  padding-left: 15px;
+}
 .Site-inner, header, .navbar-toggle .icon-bar, .content-404, .logo-container  {
   background-color: #fff;
 }
 .Site-inner {
   min-height: 133px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 .tweak-blog-list-style-grid .BlogList-item {
   float: none;
@@ -371,7 +377,7 @@ header .introWords h2 {
   padding-top: 0px;
   padding-bottom: 75px;
 }
-.initial-coin-offering, .initial-coin-offering .affix {
+.initial-coin-offering, .initial-coin-offering .affix, .new-page-1 {
   background-color: #619e73;
 }
 .initial-coin-offering .container-fluid {
@@ -380,6 +386,53 @@ header .introWords h2 {
 }
 .initial-coin-offering .affix-top {
   background-color: transparent;
+}
+.new-page-1 .Index-page--has-image {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    min-height: 50vh;
+    color: #fff;
+}
+.new-page-1 .Index-page--has-image .Index-page-content {
+  position: relative;
+  z-index: 2;
+  padding-top: 65px;
+  padding-bottom: 65px;
+}
+.new-page-1 .Index-page-content {
+  padding: 110px 25px;
+}
+.new-page-1 .sqs-block {
+  position: relative;
+  height: auto;
+  padding-bottom: 17px;
+  outline: none;
+  box-shadow: inset 0 0 0 1px rgba(128,128,128,0);
+  -webkit-transition: box-shadow .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out
+}
+.new-page-1 p {
+  color: #fff;
+}
+.new-page-1 .medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium {
+    border-width: 2px;
+    border-style: solid;
+    background-color: transparent;
+    border-radius: 3px;
+    -webkit-transition: 0.1s background-color linear, 0.1s color linear;
+    -moz-transition: 0.1s background-color linear, 0.1s color linear;
+    -o-transition: 0.1s background-color linear, 0.1s color linear;
+    transition: 0.1s background-color linear, 0.1s color linear;
+}
+.new-page-1 .sqs-block-button .sqs-block-button-element--medium {
+  padding: 21px 34px;
+  font-size: 12px;
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: .24em;
 }
 /* Media Queries */
 @media only screen and (max-width: 767px) {
