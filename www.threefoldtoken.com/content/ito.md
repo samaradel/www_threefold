@@ -1,3 +1,10 @@
+# TIMELINE
+
+Our Initial Token Offering will run through August.  After that the price for Tokens will increase.  We expect to complete our Public Token Offering in Q4 2017
+
+
+![](http://)
+
 # SUMMARY OFFERING TERMS
 
 ## Convertible Note Terms
