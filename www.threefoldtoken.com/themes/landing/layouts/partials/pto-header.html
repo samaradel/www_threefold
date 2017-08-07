@@ -86,9 +86,9 @@
                            </div>
                            <div class="sqs-block html-block sqs-block-html" data-block-type="2">
                               <div class="sqs-block-content">
-                                 <h1 class="center">&nbsp;PUBLIC TOKEN OFFER</h1>
-                                 <h2 class="center">Create a safe digital currency backed by real assets,</h2>
-                                 <h2 class="center">Building a new, neutral, “Edge” Internet</h2>
+                                 <h1 class="center">&nbsp;{{ .Params.header }}</h1>
+                                 <h2 class="center">{{ .Params.subtitle_1 }}</h2>
+                                 <h2 class="center">{{ .Params.subtitle_2 }}</h2>
                               </div>
                            </div>
                         </div>
@@ -114,7 +114,7 @@
                      <div class="sqs-block button-block sqs-block-button">
                         <div class="sqs-block-content">
                            <div class="sqs-block-button-container--center" data-alignment="center">
-                              <a href="http://tiny.cc/tf_whitepaper_pto" class="sqs-block-button-element--medium sqs-block-button-element">White Paper</a>
+                              <a href="{{ .Params.button_link }}" class="sqs-block-button-element--medium sqs-block-button-element">{{ .Params.button_name }}</a>
                            </div>
                         </div>
                      </div>
