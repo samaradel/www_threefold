@@ -17,3 +17,8 @@ This repo has the website content:
 Staging can be found here:
 
 - http://threefold2.aydo.com:4040/
+
+
+For any GOGS related questions please contact:
+
+Nickolay Babenko through telegram @nbabenko
