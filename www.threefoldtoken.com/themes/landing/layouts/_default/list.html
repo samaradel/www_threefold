@@ -2,6 +2,8 @@
    {{ partial "parallax.html" . }}
      {{ if eq .Section "pto" }}
          {{ partial "pto-header.html" . }}
+      {{ else if eq .Section "ito" }}
+          {{ partial "ito-header.html" . }}
        {{else}}
       {{ partial "header.html" . }}
       {{end}}
@@ -28,6 +30,12 @@
                     {{ else if eq .Title "contribute" }}
                       <div class="Content-outer">{{ $p.Render "contribute" }}</div>
                     {{end}}
+                    {{ else if eq .Section "ito" }}
+                      {{ if eq .Title "ito" }}
+                        <div class="Content-outer">{{ $p.Render "ito" }}</div>
+                      {{ else if eq .Title "contribute" }}
+                        <div class="Content-outer">{{ $p.Render "contribute" }}</div>
+                        {{end}}
                   {{else}}
     						<div class="Content-outer">{{ $p.Render "summary" }}</div>
           	  {{end}}

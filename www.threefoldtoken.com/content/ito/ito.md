@@ -1,9 +1,15 @@
++++
+# Don't remove title!
+title = "ito"
+
++++
+
 # TIMELINE
 
 Our Initial Token Offering will run through August.  After that the price for Tokens will increase.  We expect to complete our Public Token Offering in Q4 2017
 
 
-![](ito-timeline-august.jpg.png)
+![](../img/ito-timeline-august.png)
 
 # SUMMARY OFFERING TERMS
 
@@ -54,4 +60,3 @@ If you are interested to invest in the Internal Token Offering, please make your
 ## Documentation
 
 - [Convertible Note Agreement](http://tiny.cc/tf_ito_investment_agr)
-
