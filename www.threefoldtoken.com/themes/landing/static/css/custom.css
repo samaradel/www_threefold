@@ -434,16 +434,14 @@ header .introWords h2 {
   text-transform: uppercase;
   letter-spacing: .24em;
 }
-<<<<<<< HEAD
 .tweak-blog-list-style-grid.tweak-blog-list-item-image-aspect-ratio-grid-11-square .BlogList-item-image:before, .tweak-blog-list-style-grid.tweak-blog-list-item-image-aspect-ratio-grid-11-square .BlogList-item-image:before {
   padding-bottom: 80%;
-=======
+}
 .three-objectives, .three-objectives .affix {
   background-color: #bababa !important;
 }
 .three-objectives .Index-page h1 {
   color: rgba(255,255,255,.7);
->>>>>>> 0b93300f8869664114467b680537dd2bccf4d96e
 }
 /* Media Queries */
 @media only screen and (max-width: 767px) {
