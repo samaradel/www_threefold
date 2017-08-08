@@ -31,9 +31,6 @@ software_christophe_url = "https://www.linkedin.com/in/christophe-de-carvalho-pe
 software_muhamad_name = "Muhamad Azmy"
 software_muhamad_url = "https://www.linkedin.com/in/muhamadazmy/"
 
-software_michael_name = "Michael Rademaker"
-software_michael_url = "https://www.linkedin.com/in/dvorkbod/"
-
 software_maxime_name = "Maxime Daniel"
 software_maxime_url = "https://www.linkedin.com/in/maxime-daniel-29bb8055/"
 
