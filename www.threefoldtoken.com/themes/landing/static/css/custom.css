@@ -380,11 +380,11 @@ header .introWords h2 {
 .initial-coin-offering, .initial-coin-offering .affix, .new-page-1 {
   background-color: #619e73;
 }
-.initial-coin-offering .container-fluid, .three-objectives .container-fluid {
+.initial-coin-offering .container-fluid, .three-objectives .container-fluid, .gettingstartedintro .container-fluid {
   padding-right: 0px;
   padding-left: 0px;
 }
-.initial-coin-offering .affix-top, .three-objectives .affix-top {
+.initial-coin-offering .affix-top, .three-objectives .affix-top, .gettingstartedintro .affix-top {
   background-color: transparent;
 }
 .new-page-1 .Index-page--has-image {
@@ -437,7 +437,7 @@ header .introWords h2 {
 .tweak-blog-list-style-grid.tweak-blog-list-item-image-aspect-ratio-grid-11-square .BlogList-item-image:before, .tweak-blog-list-style-grid.tweak-blog-list-item-image-aspect-ratio-grid-11-square .BlogList-item-image:before {
   padding-bottom: 80%;
 }
-.three-objectives, .three-objectives .affix {
+.three-objectives, .three-objectives .affix, .gettingstartedintro, .gettingstartedintro .affix {
   background-color: #bababa !important;
 }
 .three-objectives .Index-page h1 {

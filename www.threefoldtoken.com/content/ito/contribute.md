@@ -3,7 +3,7 @@
 title = "contribute"
 
 button_name = "READ MORE, YOU MIGHT BE THE EXACT PERSON WE ARE LOOKING FOR"
-button_link = "http://www.threefoldtoken.com/about-us"
+button_link = "/about-us"
 weight = 2
 +++
 # CONTRIBUTE TO THE FOUNDATION BEFORE THE ICO
