@@ -24,6 +24,8 @@
                   <div class="Content-outer">{{ $p.Render "contact" }}</div>
                   {{ else if eq .Section "community" }}
                   <div class="Content-outer">{{ $p.Render "community" }}</div>
+                  {{ else if eq .Section "faqito" }}
+                  <div class="Content-outer">{{ $p.Render "faqito" }}</div>
                   {{ else if eq .Section "pto" }}
                     {{ if eq .Title "pto" }}
                       <div class="Content-outer">{{ $p.Render "pto" }}</div>
