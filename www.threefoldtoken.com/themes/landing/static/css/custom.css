@@ -482,7 +482,12 @@ header .introWords h2 {
     display: block;
     text-transform:uppercase;
     }
-
+.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:active {
+  color: #757575;
+}
+.active {
+  color:#757575 !important;
+}
 /* Media Queries */
 @media only screen and (max-width: 767px) {
   .Header-branding {
