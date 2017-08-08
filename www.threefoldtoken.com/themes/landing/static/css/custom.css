@@ -443,6 +443,46 @@ header .introWords h2 {
 .three-objectives .Index-page h1 {
   color: rgba(255,255,255,.7);
 }
+/* COUNTDOWN TIMER CSS */
+
+#timerbox{
+    position:relative;
+    width: 100px;
+    margin: 0 auto;
+    margin-left:170px;
+    margin-top:-63vh;
+     z-index:3;
+}
+
+#timer {
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    width: 100%;
+    z-index:4;
+    font: normal 14px/100% "Open-Sans", Arial;
+}
+
+#timer div {
+    z-index: 50;
+    display: table-cell;
+    font-size: 32px;
+    font-weight: 500;
+    color: #fff;
+    padding: 10px;
+    border-radius: 240px;
+    text-align: center;
+}
+#timer span {
+    letter-spacing: 0px;
+    color: #d6d6d7;
+    font-size: 15px;
+    margin-left: -4px;
+    margin-top: 20px;
+    display: block;
+    text-transform:uppercase;
+    }
+
 /* Media Queries */
 @media only screen and (max-width: 767px) {
   .Header-branding {
