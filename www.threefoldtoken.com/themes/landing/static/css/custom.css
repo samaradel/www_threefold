@@ -516,7 +516,7 @@ header .introWords h2 {
     text-align: left;
   }
   .Site header {
-    background-size: 90%;
+    background-size: 50%;
   }
   .navbar .navbar-nav {
     float: left;
@@ -566,6 +566,9 @@ header .introWords h2 {
   }
   .sqs-block-button .sqs-block-button-element--small {
     width: 30%;
+  }
+  .Site header {
+    background-size: 13%;
   }
 }
 @media only screen and (max-width: 320px) {
