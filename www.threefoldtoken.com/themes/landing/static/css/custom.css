@@ -93,6 +93,12 @@ header {
 body, .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover, .sqs-block-content-home h1, .Main--blog-item .sqs-block-content h2 {
   color: #757575;
 }
+header .nav {
+  padding-left: 20px;
+}
+.nav {
+  padding-left: 10px;
+}
 .nav>li>a:hover {
   background-color: transparent;
 }
