@@ -446,6 +446,9 @@ header .introWords h2 {
 .tweak-blog-list-style-grid.tweak-blog-list-item-image-aspect-ratio-grid-11-square .BlogList-item-image:before, .tweak-blog-list-style-grid.tweak-blog-list-item-image-aspect-ratio-grid-11-square .BlogList-item-image:before {
   padding-bottom: 80%;
 }
+.open-source .BlogList-item .BlogList-item-image:before {
+  padding-bottom: 100%;
+}
 .three-objectives, .three-objectives .affix, .gettingstartedintro, .gettingstartedintro .affix {
   background-color: #bababa !important;
 }
@@ -571,6 +574,12 @@ header .introWords h2 {
     background-size: 13%;
   }
 }
+@media screen and (max-width: 640px) {
+  .sqs-block-button .sqs-block-button-element--large {
+    padding: 21px 15px;
+    font-size: 60%;
+  }
+}
 @media only screen and (max-width: 320px) {
   .list {
     line-height: 1.6em;
@@ -580,5 +589,9 @@ header .introWords h2 {
   }
   .sqs-block-button .sqs-block-button-element--small {
     width: 100%;
+  }
+  .sqs-block-button .sqs-block-button-element--large {
+    padding: 21px 15px;
+    font-size: 50%;
   }
 }
