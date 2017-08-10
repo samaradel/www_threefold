@@ -71,6 +71,9 @@ h3 {
   margin-left: 0px;
   margin-right: 0px;
 }
+.Site-inner .row {
+  margin-right: -5px;
+}
 .tweak-blog-list-style-grid .BlogList-item {
   float: none;
 }
