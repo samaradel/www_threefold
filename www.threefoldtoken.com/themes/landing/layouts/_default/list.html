@@ -4,8 +4,6 @@
          {{ partial "pto-header.html" . }}
       {{ else if eq .Section "ito" }}
           {{ partial "ito-header.html" . }}
-      {{ else if eq .Section "gettingstarted" }}
-          {{ partial "gettingstarted-header.html" . }}
        {{else}}
       {{ partial "header.html" . }}
       {{end}}
@@ -24,6 +22,8 @@
                       {{end}}
                   {{ else if eq .Section "contact" }}
                   <div class="Content-outer">{{ $p.Render "contact" }}</div>
+                  {{ else if eq .Section "privacy-policy" }}
+                  <div class="Content-outer">{{ $p.Render "privacy-policy" }}</div>
                   {{ else if eq .Section "community" }}
                   <div class="Content-outer">{{ $p.Render "community" }}</div>
                   {{ else if eq .Section "pto" }}
@@ -35,12 +35,6 @@
                     {{ else if eq .Section "ito" }}
                       {{ if eq .Title "ito" }}
                         <div class="Content-outer">{{ $p.Render "ito" }}</div>
-                      {{ else if eq .Title "contribute" }}
-                        <div class="Content-outer">{{ $p.Render "contribute" }}</div>
-                        {{end}}
-                    {{ else if eq .Section "gettingstarted" }}
-                      {{ if eq .Title "gettingstarted" }}
-                        <div class="Content-outer">{{ $p.Render "gettingstarted" }}</div>
                       {{ else if eq .Title "contribute" }}
                         <div class="Content-outer">{{ $p.Render "contribute" }}</div>
                         {{end}}

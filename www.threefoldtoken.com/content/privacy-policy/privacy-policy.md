@@ -1,7 +1,7 @@
 +++
 #Don't remove title!
 
-title = "Privacy Policy"
+title = "privacy-policy"
 header = "GIG.tech Privacy Policy"
 
 +++
@@ -16,4 +16,4 @@ Overall GIG uses very little user tracking, all user tracking we do is for one p
 All videos featured on gig.tech are MP4 and Flash formatted videos hosted on Vimeo using our the www.ind.ie custom video player.
 
 ### Analytics
-The only analytics data we gather is done by google analytics for user experience measurements. 
+The only analytics data we gather is done by google analytics for user experience measurements.
