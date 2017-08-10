@@ -1,14 +1,7 @@
 +++
 #Don't remove name!
-title = "contact foster"
+title = "contact"
 
-
-
-main_header = "Contact"
-subtitle= "Get in touch with GIG.tech"
-subtitle_link_text= "here"
-subtitle_link= "#"
-
-
+header = "We'd love to hear from you"
 
 +++

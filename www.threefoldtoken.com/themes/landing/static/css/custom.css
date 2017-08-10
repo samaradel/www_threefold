@@ -353,8 +353,8 @@ header .introWords h2 {
     line-height: 1.4em;
     text-transform: none;
 }
-.implementation-activity-map h1, .summary-offering-terms-1 .sqs-block-content h1, .summary-offering-terms-1 .sqs-block-content h2 {
-  color: #757575;
+.implementation-activity-map h1, .summary-offering-terms-1 .sqs-block-content h1, .summary-offering-terms-1 .sqs-block-content h2, .contact-us .sqs-block-content h2 {
+  color: #757575 !important;
 }
 .large-button-shape-rounded .sqs-block-button .sqs-block-button-element--large,.medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium, .medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium {
   background-color: transparent;

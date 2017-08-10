@@ -1,78 +1,112 @@
-<main class="Main Main--page">
-   <section class="Main-content" data-content-field="main-content" id="yui_3_17_2_33_1499076456483_425">
-      <div class="sqs-layout sqs-grid-12 columns-12 sqs-frontend-overlay-editor-widget-host" data-type="page" data-updated-on="1475082055173" id="page-57e2ac23b3db2b207f535e7f">
-         <div class="row sqs-row" id="yui_3_17_2_33_1499076456483_486">
-            <div class="col sqs-col-3 span-3">
-               <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-856cc10402ee15f903a8">
-                  <div class="sqs-block-content">&nbsp;</div>
-               </div>
-            </div>
-            <div class="col sqs-col-6 span-6" id="yui_3_17_2_33_1499076456483_485">
-               <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-8a93baa3ce7fa461fbeb">
-                  <div class="sqs-block-content">&nbsp;</div>
-               </div>
-               <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-9f968118178b0615367f">
-                  <div class="sqs-block-content">
-                     <h2 class="text-align-center">{{ .Params.main_header }}</h2>
-                     <p class="text-align-center">{{ .Params.subtitle }}<!-- <strong> --><!-- <a target="_blank" href="{{ .Params.subtitle_link }}">{{ .Params.subtitle_link_text }}</a>.</strong> --></p>
+<main class="Index">
+   <section lass="Index-page contact-us">
+      <div class="Index-page-scroll-indicator">
+         <div class="Index-page-scroll-indicator-text"></div>
+         <svg class="Index-page-scroll-indicator-arrow Icon Icon--caretLarge--down">
+            <use xlink:href="/assets/ui-icons.svg#caret-down-large-icon"></use>
+         </svg>
+         <div class="Index-page-scroll-indicator-line"></div>
+      </div>
+      <div class="Index-page-content ">
+         <div class="sqs-layout col-xs-12">
+            <div class="row">
+               <div class="col-sm-12">
+                  <div class="row">
+                     <div class="col-sm-2">
+                        <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
+                           <div class="sqs-block-content">&nbsp;</div>
+                        </div>
+                     </div>
+                     <div class="col-sm-8">
+                        <div class="sqs-block html-block sqs-block-html">
+                           <div class="sqs-block-content">
+                              <h2 style="color: #757575;">{{ .Params.header }}</h2>
+                           </div>
+                        </div>
+                        <div class="sqs-block form-block sqs-block-form">
+                           <div class="sqs-block-content">
+                              <div class="form-wrapper">
+                                 <div class="form-inner-wrapper">
+                                    <form autocomplete="on" id="contact-us" name="contact-us" action="post">
+                                       <div class="field-list clear">
+                                         <div class="form-item field text">
+                                            <label class="title">Name</label>
+                                            <input class="field-element text" type="text" name="name" id="name">
+                                         </div>
+                                          <div class="form-item field email required">
+                                             <label class="title">Email Address <span class="required">*</span></label>
+                                             <input class="field-element" name="email" id="email" x-autocompletetype="email" spellcheck="false" type="text">
+                                          </div>
+                                          <div class="form-item field checkbox required">
+                                             <div class="title">I would like to <span class="required">*</span></div>
+                                             <div class="option"><label><input value="become a founding partner" type="checkbox"> become a founding partner</label></div>
+                                             <div class="option"><label><input value="buy tokens" type="checkbox"> buy tokens</label></div>
+                                             <div class="option"><label><input value="become a threefold hoster" type="checkbox"> become a threefold hoster</label></div>
+                                             <div class="option"><label><input value="buy capacity from the threefold grid" type="checkbox"> buy capacity from the threefold grid</label></div>
+                                             <div class="option"><label><input value="play with a Zero Node / Test your Grid" type="checkbox"> play with a Zero Node / Test your Grid</label></div>
+                                             <div class="option"><label><input value="just curious" type="checkbox"> just curious</label></div>
+                                          </div>
+                                          <div class="form-item field checkbox">
+                                             <div class="title">I would like to be informed:</div>
+                                             <div class="option"><label><input value="Public Token Offering Newsletter" type="checkbox"> Public Token Offering Newsletter</label></div>
+                                             <div class="option"><label><input value="Investor Information" type="checkbox"> Investor Information</label></div>
+                                             <div class="option"><label><input value="Grid Expansion (the new internet)" type="checkbox"> Grid Expansion (the new internet)</label></div>
+                                          </div>
+                                          <div class="form-item field textarea">
+                                             <label class="title">Message</label>
+                                             <textarea class="field-element "></textarea>
+                                          </div>
+                                          <div class="form-item field text">
+                                             <label class="title">Country</label>
+                                             <input class="field-element text" placeholder="(e.g. Ireland or Éire )" type="text">
+                                          </div>
+                                       </div>
+                                       <div class="form-button-wrapper form-button-wrapper--align-left">
+                                          <input class="button sqs-system-button sqs-editable-button" value="Submit" id="submit" type="submit">
+                                       </div>
+                                       <div class="hidden form-submission-text">Thank you!</div>
+                                       <div class="hidden form-submission-html"></div>
+                                    </form>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-sm-2">
+                        <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
+                           <div class="sqs-block-content">&nbsp;</div>
+                        </div>
+                     </div>
                   </div>
-               </div>
-               <div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-yui_3_17_2_54_1474470525399_8760">
-                  <div class="sqs-block-content">
-                     <div class="form-wrapper">
-                        <div class="form-inner-wrapper">
-                           <form autocomplete="on" action="https://roel-vansabben-4fxm.squarespace.com" method="POST" onsubmit="
-                              return (function(form) {
-                              Y.use('squarespace-form-submit', 'node', function(Y){
-                              (new Y.Squarespace.FormSubmit({
-                              formNode: Y.Node(form)
-                              })).submit('57e2ac3ce4fcb5e1546c1bcd', '57e2ac23b3db2b207f535e7f', 'page-57e2ac23b3db2b207f535e7f');
-                              });
-                              return false;
-                              })(this)">
-                              <div class="field-list clear">
-                                 <fieldset id="name-yui_3_17_2_54_1474470525399_8765" class="form-item fields name required">
-                                    <div class="title">Name <span class="required">*</span></div>
-                                    <legend>Name</legend>
-                                    <div class="field first-name">
-                                       <label class="caption"><input class="field-element field-control" name="fname" x-autocompletetype="given-name" spellcheck="false" maxlength="30" data-title="First" type="text">
-                                       First Name</label>
-                                    </div>
-                                    <div class="field last-name">
-                                       <label class="caption"><input class="field-element field-control" name="lname" x-autocompletetype="surname" spellcheck="false" maxlength="30" data-title="Last" type="text">
-                                       Last Name</label>
-                                    </div>
-                                 </fieldset>
-                                 <div id="email-yui_3_17_2_54_1474470525399_8766" class="form-item field email required">
-                                    <label class="title" for="email-yui_3_17_2_54_1474470525399_8766-field">Email Address <span class="required">*</span></label>
-                                    <input class="field-element" name="email" x-autocompletetype="email" spellcheck="false" id="email-yui_3_17_2_54_1474470525399_8766-field" type="text">
-                                 </div>
-                                 <div id="text-yui_3_17_2_54_1474470525399_8767" class="form-item field text required">
-                                    <label class="title" for="text-yui_3_17_2_54_1474470525399_8767-field">Subject <span class="required">*</span></label>
-                                    <input class="field-element text" id="text-yui_3_17_2_54_1474470525399_8767-field" type="text">
-                                 </div>
-                                 <div id="textarea-yui_3_17_2_54_1474470525399_8768" class="form-item field textarea required">
-                                    <label class="title" for="textarea-yui_3_17_2_54_1474470525399_8768-field">Message <span class="required">*</span></label>
-                                    <textarea class="field-element " id="textarea-yui_3_17_2_54_1474470525399_8768-field"></textarea>
-                                 </div>
-                              </div>
-                              <div class="form-button-wrapper form-button-wrapper--align-center">
-                                 <input class="button sqs-system-button sqs-editable-button" value="Submit" type="submit">
-                              </div>
-                              <div class="hidden form-submission-text">Thank you!</div>
-                              <div class="hidden form-submission-html" data-submission-html=""></div>
-                           </form>
+                  <div class="sqs-block spacer-block sqs-block-spacer">
+                     <div class="sqs-block-content sqs-intrinsic" style="padding-bottom: 0.0455581%;">&nbsp;</div>
+                  </div>
+                  <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
+                     <div class="sqs-block-content">&nbsp;</div>
+                  </div>
+                  <div class="row">
+                     <div class="col-sm-6">
+                        <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
+                           <div class="sqs-block-content">&nbsp;</div>
+                        </div>
+                     </div>
+                     <div class="col-sm-6">
+                        <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
+                           <div class="sqs-block-content">&nbsp;</div>
                         </div>
                      </div>
                   </div>
                </div>
             </div>
-            <div class="col sqs-col-3 span-3">
-               <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-78a899b3762efec4df2e">
-                  <div class="sqs-block-content">&nbsp;</div>
-               </div>
-            </div>
          </div>
       </div>
    </section>
+   <nav class="Index-nav">
+      <div class="Index-nav-inner">
+         <a href="#contact-us" class="Index-nav-item active">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Contact Us</span></div>
+         </a>
+      </div>
+   </nav>
 </main>
