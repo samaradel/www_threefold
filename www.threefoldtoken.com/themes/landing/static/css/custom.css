@@ -178,6 +178,9 @@ a {
   /*font-size: 0.813em;*/
   font-weight: 200;
 }
+.content-404 {
+  min-height: 477px;
+}
 .content-404 p{
   margin: 59px auto;
   text-align: center;
