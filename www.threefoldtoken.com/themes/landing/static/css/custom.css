@@ -369,7 +369,7 @@ header .introWords h2 {
   background-color: #fff;
   color: #1d1d1d;
 }
-.Main-content, .Index-page-content {
+.Index-page-content {
   padding: 0px;
 }
 .col-sm-4:nth-child(3n+1){
