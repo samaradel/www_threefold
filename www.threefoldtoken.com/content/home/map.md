@@ -4,6 +4,4 @@ title = "map"
 
 header = "AVAILABLE CAPACITY ON THE THREEFOLD GRID."
 +++
-Through its founding members, our global Grid has significant capacity being made available to end users. &nbsp;&nbsp; <br> All available capacity on our Grid is registered on our Directory service and must be purchased using Tokens.
-
-By the end of summer, there will be more than 10.000.000 Tokens of available capacity in Europe, South Africa, Dubai, Russia, US &amp; Canada. <br> 10.000.000 Tokens equates to more than $100.000.000 value of Tokens today based on our PTO price.
+Importantly, our technology is 100% open source and is proven and operational already today.  <br> Before the end of 2017, based on contracts already in place, we expect our Grid infrastructure to be  deployed in 200+ locations. <br> The value of the total available storage and compute capacity generated over 4 years by these  nodes would exceed $100,000,000. 
