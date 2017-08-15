@@ -2,8 +2,8 @@
 #Don't remove title!
 
 title = "community"
-header = "A safe digital currency backed by a new, neutral and green Internet"
-subtitle = "Threefold Token"
+header = ""
+subtitle = ""
 
 +++
 ## Our 30 first ambassadors.
