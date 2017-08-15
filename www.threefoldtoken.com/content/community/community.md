@@ -6,20 +6,21 @@ header = "A safe digital currency backed by a new, neutral and green Internet"
 subtitle = "Threefold Token"
 
 +++
-### Design of new currency backed by real assets
+## Our 30 first ambassadors.
 
-GIG has partnered with the [Threefold Token Foundation](http://www.threefoldtoken.com/) to create a payment mechanism to purchase IT capacity on a neutral and green Internet.
+Our Ambassadors are the first 30 people who are supporting us on our journey to a better world. Each of them believes in our values and mission and are proud Token holders.
 
-* *Backed* Each Token is backed by real assets. Tokens are currency for buying and selling IT capacity.
-* *Green* Rivine's blockchain algorithms enable an ultra safe and scalable compute/storage grid while being 10x more power efficient.
-* *Neutral* All of tech is open-source. The Foundation is owned 100% by the Token Holders, while all users and nodes are registered on our transparent and immutable blockchain.
+Together these 30 people serve on our community board driving the Foundation forward.
 
-### Why a new digital currency?
 
-Digital currencies are well on the way to full acceptance as a mainstream currency in the future - providing significant benefits such as direct peer to peer transactions, greater trust secured by cryptography and mathematics; lower charges; faster transactions and no single point of failure.
+## Our 200 first hosters.
 
-However, major problems remain such as scalability issues, slow transaction times, impossible energy requirements, reputational issues, no identity management - and most importantly, a general absence of intrinsic value backed by real assets.
+Our Hosters are the first 200 individual Hosters putting capacity on our network. Each of them believes in what we do, and they want to help to make this dream reality.
 
-### Find out more
+Each of them put at least 5TB of storage and 8 logical CPU cores of computing capacity onto our Grid.
 
-Visit the [Threefold Token](http://www.threefoldtoken.com/) website to buy tokens or become a blockchain hoster.
+## Our 10 first operators.
+
+Our Operators are the first 10 commercial operators putting capacity on our network. Each of them endorses our technology and recognises the value in our Grid.
+
+Each of them put at least 500TB of storage & 800 logical CPU cores of compute capacity onto our grid. This capacity is hosted in multiple high performances, reliable locations well connected the internet through multiple paths.
