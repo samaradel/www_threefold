@@ -1,6 +1,6 @@
 baseurl = "/"
 LanguageCode = "en"
-title = "GIG.TECH"
+title = "ThreeFoldToken"
 theme = "landing"
 contentdir = "content"
 staticdir = "static"
