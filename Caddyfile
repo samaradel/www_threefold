@@ -53,8 +53,8 @@ http://threefold2.aydo.com:4040 {
          allow_extension png
          allow_extension svg
          allow_extension ico
-         allow_extension woff
-         allow_extension ttf
+         allow_extension ttf?v=4.7.0
+         allow_extension woff2?v=4.7.0
 
          login_page	/login
          login_url	/oauth
