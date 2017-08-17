@@ -6,7 +6,7 @@ weight = 2
 +++
 # HOW TO GET STARTED
 
-Please make sure you read our [home page](/) first.
+Please make sure you read our [Idea page](/) first.
 
 ## How to become part of our movement.
 
@@ -18,7 +18,7 @@ We are planning online & face2face sessions
 * we are also organizing face2face meetings where we can meet & brainstorm about the future as well as exchange lots of info.
 * **Please subscribe to one of our sessions:** [register here](http://tiny.cc/tff_meeting_form)
 
-We have some telegram groups where you can follow the most up to date information (will be replaced soon)
+We have telegram groups where you can follow the most up to date information (will be replaced soon)
 
 * [Internal Token Offering News](https://t.me/joinchat/AAAAAEOvYSgYr4fhcGcDlQ)
 * [Internal Token Offering Forum, you can post your own messages](https://t.me/joinchat/BwOvO0M1I7QhcOlg1ajCuw)
@@ -34,9 +34,9 @@ Status
 * We have about 120 hosters for our blockchain (we need at least 80 more)
 * We are on track to have more than 100m USD committed internet capacity before oct-nov.
 
-The threefold app is almost ready
+The Threefold app is almost ready
 
-* We almost have our threefold app ready, once usable & tested we will use this app to replace above news groups.
+* We almost have our Threefold app ready, once usable & tested we will use this app to replace above news groups.
 * We hope to show the app to you starting next week
 * will be used
     * for the process for our hosters (onboarding, shipping, acceptance, ...)

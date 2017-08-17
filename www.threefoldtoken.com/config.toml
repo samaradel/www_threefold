@@ -1,6 +1,6 @@
 baseurl = "/"
 LanguageCode = "en"
-title = "ThreeFoldToken"
+title = "Threefold Foundation"
 theme = "landing"
 contentdir = "content"
 staticdir = "static"
