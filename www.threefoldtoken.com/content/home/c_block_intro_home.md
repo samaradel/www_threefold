@@ -9,6 +9,6 @@ header = "GIG Technology Toolbox"
 
 **Self-Healing Awareness** is needed to have zero manual intervention and only have software automation based on [Jumpscale](https://github.com/Jumpscale). It drives the health and availability of the edge cloud.
 
-**Blockchain Technology** is used to protect identity and access control via [itsyou.online](https://github.com/itsyouonline). [Threefold Tokens](http://www.threefoldtoken.com/) are distributed to execute smart contracts on top of our own secure and scalable [Rivine](https://github.com/rivine/rivine) ledger.
+**Blockchain Technology** is used to protect identity and access control via [itsyou.online](https://github.com/itsyouonline). [Threefold Tokens](/) are distributed to execute smart contracts on top of our own secure and scalable [Rivine](https://github.com/rivine/rivine) ledger.
 
 These three connecting elements are the foundation of a pervasive, neutral, private and affordable Internet that operates and delivers without any central governing body or large corporate company.

@@ -98,7 +98,7 @@ The Public Token Offering will be done end Q3 2017.
 
 ## More details about the PTO
 
-[Read more about our PTO here](http://www.threefoldtoken.com/pto/).
+[Read more about our PTO here](/pto).
 
 ## What will be my ROI if I buy token? What is your projection for the Token price?
 
@@ -153,11 +153,11 @@ When we talk about the “utility” of the Tokens - we mean the Tokens can be u
 
 ## How is the foundation structured?
 
-See our [FOUNDATION FAQ](http://www.threefoldtoken.com/faq/foundation).
+See our [FOUNDATION FAQ](/faq/foundation-faq).
 
 ## Where is the foundation based?
 
-See our [FOUNDATION FAQ](http://www.threefoldtoken.com/faq/foundation).
+See our [FOUNDATION FAQ](/faq/foundation-faq).
 
 ## How are the proceeds of the Tokens Used?
 
@@ -181,4 +181,4 @@ The ThreeFold Token Smart Contract is publicly available.
 
 ## Where can I find more technical information
 
-[See Technical Blog](http://www.threefoldtoken.com/information/)
+[See Technical Blog](/information)

@@ -80,7 +80,7 @@ The global data growth will reach more than 40 Zetabytes by 2020 which represent
 [1]: http://www.businessinsider.com/un-says-internet-access-is-a-human-right-2016-7?international=true&r=US&IR=T
 [2]: https://www.article19.org/data/files/Internet_Statement_Adopted.pdf
 [3]: https://en.wikipedia.org/wiki/Moore%27s_law
-[4]: http://www.threefoldtoken.com/tech/2017/5/27/10x-times-power-savings-is-this-possible
+[4]: /information/10-times-power-savings/
 [5]: http://www.gartner.com/downloads/public/explore/metricsAndTools/ITBudget_Sample_2012.pdf
 [6]: https://aws.amazon.com/message/41926/
 [7]: https://www.siemens.com/innovation/en/home/innovation-strategy/driving-forward-digitalization.html

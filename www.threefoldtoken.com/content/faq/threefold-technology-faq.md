@@ -36,7 +36,7 @@ We 100% understand every component used - meaning we have all our source code an
 
 Our Zero-Nodes are Secure, Self Driving and Green.  Our “Zero” components are super simple - the Zero-OS has no filesystem, no volume driver, no shell (terminal), no SSH server, etc. which results in better security, fast installation and does not require upgrades.  Also our Zero Nodes are plug and play “self driving” for Hosters who are not technical.  
 
-[more info](http://www.threefoldtoken.com/information/zero-node)
+[more info](/information/magical-zero-node/)
 
 
 ### Why did we choose to build our own blockchain?
@@ -56,4 +56,4 @@ The key differentiators of our blockchain include:
 
 ### More Info
 
-[our technology blogs](http://www.threefoldtoken.com/information/)
+[our technology blogs](/information/)

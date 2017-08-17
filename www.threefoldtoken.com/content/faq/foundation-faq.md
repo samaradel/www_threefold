@@ -48,7 +48,7 @@ The management team oversees daily operations.
 
 Our team is highly experienced across technology, growth businesses and Finance.  Members of our team have successfully built and exited numerous technology start-ups and several have extensive C-Level experience in high profile companies.   
 
-- [our team](http://www.threefoldtoken.com/team)
+- [our team](/team)
 
 ## What are the liabilities of the Foundation?  Are there any?
 
