@@ -12,4 +12,4 @@ existing hyperscale datacenters cannot cope with increasing demand
 as the requirements for land, power and funding are too big.  The Foundation believes
 the solution to this $trillion problem is the migration of IT capacity to the “Edge”.
 
-[WHY A NEW NEUTRAL INTERNET](/information/the-need-for-a-new-neutral-edge-internet)
+[WHY A NEW NEUTRAL INTERNET](/information/need-for-new-neutral-internet/)
