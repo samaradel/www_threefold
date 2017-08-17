@@ -32,8 +32,9 @@ caddy server manager that allows us to install plugins
 
 - ```git clone https://github.com/itsyouonline/caddyman```
 - ```cd caddyman```
-- Install [Caddy git plugin](https://github.com/abiosoft/caddy-git) ```./caddyman.sh github.com/abiosoft/caddy-git```
-- Install [Caddy IYO plugin](https://github.com/itsyouonline/caddy-integration) ```./caddyman.sh github.com/itsyouonline/caddy-integration/oauth oauth```
+- ```chmod u+x caddyman.sh```
+- Install [Caddy git plugin](https://github.com/abiosoft/caddy-git) ```./caddyman.sh install git```
+- Install [Caddy IYO plugin](https://github.com/itsyouonline/caddy-integration) ```./caddyman.sh install iyo```
 
 **Run Threefold website locally**
 
