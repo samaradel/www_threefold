@@ -80,7 +80,7 @@ software_samar_name = "Samar Adel"
 software_samar_url = "https://www.linkedin.com/in/samaradel"
 
 software_ehab_name = "Ehab Hassan"
-software_ehab_url = "www.linkedin.com/in/ehab-hassan-a00897116"
+software_ehab_url = "https://www.linkedin.com/in/ehab-hassan-a00897116"
 
 software_hamdy_name = "Hamdy Farag"
 software_hamdy_url = "https://www.linkedin.com/in/hamdy/"
