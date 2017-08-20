@@ -77,7 +77,7 @@ The Foundation may issue new Tokens via follow-on Token Offerings to make furthe
 The Foundation will be structured as a Dutch Stichting Trust based in the Dutch Antilles.
 Our legal & financial structure has been setup by "Orrick, Herrington & Sutcliffe" which is one of the leading law firms in the world.
 
-The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There are 3 levels of boards to ensure transparency for Token Holders  [see this doc](http://www.threefoldtoken.com/governance)
+The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There are 3 levels of boards to ensure transparency for Token Holders  [see this doc](/governance)
 
 The Foundation has a management team appointed by the Board. The management team oversees daily operations and is highly experienced across technology, growth businesses and Finance. Members of our team have successfully built and exited numerous technology start-ups and several have extensive C-Level experience in high profile companies.
 
@@ -104,7 +104,7 @@ We currently plan to reserve 5% of the proceeds from the sale of Tokens to cover
 
 ## More Info
 
-- [Foundation Governance](http://www.threefoldtoken.com/governance)
+- [Foundation Governance](/governance)
 - [Foundation FAQ](/faq/foundation-faq/)
 - [Token FAQ](/faq/token-faq/)
 - [PTO White Paper](http://tiny.cc/tf_whitepaper_pto)
