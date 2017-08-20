@@ -4005,7 +4005,7 @@ body.sqs-lightbox-open {
     line-height: 1.8em;
     text-transform: uppercase;
     text-decoration: none;
-    color: #525252;
+    /*color: #525252;*/
 }
 .tweak-blog-list-alignment-right .BlogList-item-title {
     text-align: right
