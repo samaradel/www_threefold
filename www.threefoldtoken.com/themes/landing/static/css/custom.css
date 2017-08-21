@@ -501,10 +501,10 @@ header .introWords h2 {
     display: block;
     text-transform:uppercase;
     }
-.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:active, .our-mission-and-goals h2 {
+.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:active {
   color: #757575;
 }
-.active {
+.active, .our-mission-and-goals .sqs-block-content h2 {
   color:#757575 !important;
 }
 .our-mission-and-goals .sqs-block-button .sqs-block-button-element--medium {
