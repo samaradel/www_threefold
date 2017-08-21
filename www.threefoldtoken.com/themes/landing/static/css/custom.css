@@ -512,7 +512,7 @@ header .introWords h2 {
   padding-bottom: 15px;
 }
 .overview-contents h1 {
-  color: #000;
+  color: #757575;
 }
 /* Media Queries */
 @media only screen and (max-width: 767px) {
