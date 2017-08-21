@@ -511,6 +511,9 @@ header .introWords h2 {
   padding-top: 15px;
   padding-bottom: 15px;
 }
+.overview-contents h1 {
+  color: #000;
+}
 /* Media Queries */
 @media only screen and (max-width: 767px) {
   .Header-branding {
