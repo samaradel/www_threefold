@@ -386,6 +386,9 @@ header .introWords h2 {
   padding-left: 55px;
   padding-right: 55px;
 }
+.Index-page {
+  overflow: visible;
+}
 .Index-page--has-image .Index-page-content {
   padding-top: 0px;
   padding-bottom: 30px;
@@ -498,11 +501,15 @@ header .introWords h2 {
     display: block;
     text-transform:uppercase;
     }
-.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:active {
+.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:active, .our-mission-and-goals h2 {
   color: #757575;
 }
 .active {
   color:#757575 !important;
+}
+.our-mission-and-goals .sqs-block-button .sqs-block-button-element--medium {
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 /* Media Queries */
 @media only screen and (max-width: 767px) {
