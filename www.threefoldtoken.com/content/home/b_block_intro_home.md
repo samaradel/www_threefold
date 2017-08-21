@@ -20,7 +20,7 @@ subtitle_2 = "Read more"
 
 # Third column
 
-header_3 = "All of our technology is open source - our Foundation is owned 100% by the Token Holders - all users and nodes are registered on our blockchain."
+header_3 = "All of our technology is open source - our Foundation is managed by transparent open rules - all users and nodes are registered on our blockchain."
 image_3_header = "neutral"
 image_3 = "neutral.png"
 author_3 = ""
