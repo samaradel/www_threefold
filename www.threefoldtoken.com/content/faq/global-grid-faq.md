@@ -11,7 +11,7 @@ weight = 2
 +++
 
 
-## Grid
+## Our Grid
 
 ### Why do we need a new, neutral “Edge” Internet Grid
 
@@ -46,7 +46,7 @@ When we say “Uber for IT” we mean that we enable our Hosters to deploy their
 
 [see our Uber for IT blog](../information/uber-for-internet-capacity)
 
-## Directory
+## Our Directory
 
 ### What is our Directory service?
 
