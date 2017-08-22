@@ -386,9 +386,9 @@ header .introWords h2 {
   padding-left: 55px;
   padding-right: 55px;
 }
-.Index-page {
+/*.Index-page {
   overflow: visible;
-}
+}*/
 .Index-page--has-image .Index-page-content {
   padding-top: 0px;
   padding-bottom: 30px;
@@ -513,6 +513,9 @@ header .introWords h2 {
 }
 .overview-contents h1 {
   color: #757575;
+}
+.our-mission-and-goals {
+  overflow: visible;
 }
 /* Media Queries */
 @media only screen and (max-width: 767px) {
