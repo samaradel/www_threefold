@@ -71,6 +71,5 @@ Open issues we are also working on
 * [Online/face2face meeting form](http://tiny.cc/tff_meeting_form)
 * [Internal Token Offering page](/ito/)
 * [Ambassador page](/ambassador/)
-* [Hoster page](/hoster/)
 * [Presentation](http://tiny.cc/threefold_intro)
 * [White Paper](http://tiny.cc/tf_whitepaper_pto)
