@@ -59,8 +59,8 @@ The TF Exchange provides a spot rate exchange service for Token Holders.  The Ex
 
 The ThreeFold Foundation, a transparent tokenized organization with three primary objectives:  
 1. Using our Token to build a new, neutral, “Edge” Internet,
-1. Creating a safe digital currency with real utility backed by real assets and
-1. Empowering our Token Holders to work alongside us
+2. Creating a safe digital currency with real utility backed by real assets and
+3. Empowering our Token Holders to work alongside us
  
 ## ThreeFold Promoter
 
