@@ -7,7 +7,7 @@ weight = 1
 
 # Timeline
 
-Our Initial Token Offering (ITO) will run through September 2017, or as soon as an amount corresponding to 4 million USD has been received from ITO investors, whichever occurs first.  
+Our Initial Token Offering (ITO) will run through September 2017, or as soon as an amount corresponding to 5 million USD has been received from ITO investors, whichever occurs first.  
 After that the price for Tokens will increase (as indicated below).  
 We plan our Public Token Offering for Q4 2017
 
@@ -26,7 +26,7 @@ We plan our Public Token Offering for Q4 2017
 
 ## Price per Token
 
-The ITO price is a 50% discount to the Token price in our public token offering (PTO 
+The ITO price is a 50% discount to the Token price in our public token offering (PTO). 
 We expect the starting PTO price to be USD 10 per Token - so the ITO price would be USD 5 per Token.
 
 ## Lock-up Period
@@ -36,7 +36,7 @@ Without consent from the Foundation, Internal Token Offering investors will not 
 
 ## Target Amount
 
-We are issuing up to 800,000 Tokens for the Internal Token Offering (ITO).
+We are issuing up to 1,000,000 Tokens for the Internal Token Offering (ITO).
 
 ## Use of Proceeds for the ITO
 
