@@ -34,6 +34,8 @@ We 100% understand every component used - meaning we have all our source code an
 
 ### What are the most important attributes of the Zero-OS and Zero Nodes?
 
+Our Zero OS is ideally suited for Edge infrastructure which requires automation, self-healing and hyper-distribution.
+
 Our Zero-Nodes are Secure, Self Driving and Green.  Our “Zero” components are super simple - the Zero-OS has no filesystem, no volume driver, no shell (terminal), no SSH server, etc. which results in better security, fast installation and does not require upgrades.  Also our Zero Nodes are plug and play “self driving” for Hosters who are not technical.  
 
 [more info](/information/magical-zero-node/)
@@ -41,11 +43,11 @@ Our Zero-Nodes are Secure, Self Driving and Green.  Our “Zero” components ar
 
 ### Why did we choose to build our own blockchain?
 
-We originally built our blockchain to power our identity management system, cloud-computing technology and global Directory.   We believe our blockchain has certain advantages relative to existing blockchains like more scale & controller privacy.
+We originally built our blockchain to power our identity management system, cloud-computing technology and global Directory.   We believe our blockchain has certain advantages relative to existing blockchains like scalability and improved security.
 
 ### What are the most important attributes of our blockchain?
 
-Our blockchain technology is scalable, secure, private and green.  
+Our blockchain technology is scalable, secure and green.  
 
 The key differentiators of our blockchain include:
 - Green.  We  run our blockchain on a dedicated Zero-Node resource pool which requires much less powerage
@@ -53,6 +55,7 @@ The key differentiators of our blockchain include:
 - Additional Features.  Our blockchain has support for storage, secure execution environments, metadata servers and other features
 - Identity Management.  Our blockchain works with our Itsyou.online Identity Management platform - providing robust onboarding protocols for all users
 - Additional Security.  Our blockchain’s dedicated Zero-Node network is widely distributed and benefits from enhanced security features such as two path authentication
+
 
 ### More Info
 

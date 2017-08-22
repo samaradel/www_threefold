@@ -2,7 +2,7 @@
 #Don't remove name!
 title = "team"
 
-image = "../img/rocketsquare.png"
+image = "../img/andreas.jpeg"
 name = "Andreas Hartl"
 
 linkedin = "http://www.linkedin.com/in/andreas-hartl-4330b8b"

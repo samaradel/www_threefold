@@ -21,11 +21,11 @@ The existing hyperscale cloud infrastructure cannot cope with this outsize deman
 
 For more on this see [“Why do we need a new Internet” blog post](../information/the-need-for-a-new-neutral-edge-internet), you can also find some more info in our [PTO whitepaper](http://tiny.cc/tf_whitepaper_pto)
 
-### What is our global Grid (the Grid.TF)?
+### What is our Grid?
 
-Our global grid or Grid.Tf is the network of all the distributed infrastructure and capacity that is available for sale via our Directory (for Tokens).
+Our Grid is the network of all the distributed infrastructure and capacity that is available for sale via our Directory (for Tokens).
 
-See bottomn of home page, which shows how much capacity is available.
+See bottom of our home page, which shows how much capacity is available.
 
 ### How is our Grid different from existing IT infrastructure?
 
@@ -38,23 +38,20 @@ For more on this see [“Why do we need a new Internet” blog post](../informat
 
 ### What is our Directory service?
 
-Our Directory service is a global directory service running on top of our blockchain that publishes all available capacity, services and pricing on our Global Grid. Our Directory is integrated with ItsYou.Online for authentication of all users and members.
+Our Directory service is a global directory service running on top of our blockchain that publishes all available capacity, services and pricing on our Grid. All capacity that is sold via our Directory must be purchased using our Tokens.
 
 ### When will I be able to use the Grid and Directory Service?
 
 Our Grid is already up and running. At the time of our Public Token Offering more than 200 Hosters and Operators are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via our Directory service. All purchases are made with Tokens.
 
-Untill the end of your only people who help us to expand the grid will be allowed to use the grid's capacity.
-
-### What is a Zero Node?
-
-A Zero Node is a pre-fabricated Node using our Zero OS that can be connected to the Internet and power and start generating capacity on our Grid. Zero Nodes are self driving so even non-technical people can invest in a Zero Node and start selling capacity to earn Tokens.
+### What infrastructure is operating on our Grid?
+Our Grid today is comprised mainly of infrastructure that operates our Zero OS operating system.  This includes large racks using off-the-shelf hardware that are typically located in data centers - as well as our pre-fabricated smaller / mobile  for hyperdistributed Zero-Nodes
 
 [Read more in our Zero-Node blog](../information/zero-node)
 
 ### What do we mean when we say we enable “Uber for IT”?
 
-When we say “Uber for IT” we mean that we enable our Hosters to deploy their own IT infrastructure from their home or other location and sell compute and storage capacity Peer2Peer on our Grid. Any Token Holder can invest in a Zero Node, connect to the Internet and automatically start selling capacity for Tokens. It’s like Uber with self driving cars.
+When we say “Uber for IT” we mean that we enable our Hosters to deploy their own IT infrastructure from their home or other location and sell compute and storage capacity Peer2Peer on our Grid.  Any Token Holder can invest in a Zero Node, connect to the Internet and automatically start selling capacity for Tokens. It’s like Uber - except our Zero Nodes drive themselves.
 
 [see our Uber for IT blog](../information/uber-for-internet-capacity)
 
@@ -62,16 +59,18 @@ When we say “Uber for IT” we mean that we enable our Hosters to deploy their
 
 ### What is the ThreeFold Directory?
 
-Our Directory is a global directory service running on top of our blockchain that publishes all available capacity, services and pricing on our Global Grid.  
+Our Directory is a global directory service running on top of our blockchain that publishes all available capacity, services and pricing on our Grid.  
+
+All capacity that is sold via our Directory must be purchased using our Tokens
 
 Our Directory is integrated with ItsYou.Online for authentication of all users and members.
 
 
 ### What is the value of our Directory for Hosters and Operators?
 
-Hosters and Operators who generate IT capacity on their own infrastructure can make their capacity available for sale on our global Directory.  The capacity is automatically posted on the Directory and pricing is determined by our algorithm (see below).  
+Hosters and Operators who generate IT capacity on their own infrastructure can make their capacity available for sale on our global Directory.  The capacity is automatically posted on the Directory and pricing is determined by our algorithm (see below).  Operators who use our Directory (and therefore accept our Tokens as payment) benefit from enhanced marketing and distribution for their capacity (at no extra cost) as well as providing certain and seamless transactions without concerns about currency fluctuations or other factors. 
 
-With the Directory, Hosters can be self driving - so there is no need for you to create and host your own commercial internet presence.
+
 
 ### How can a Hoster or Operator sign up to our Directory?
 
@@ -87,6 +86,7 @@ The pricing is determined by our algorithm which factors in real time supply and
 
 In addition to basic IT capacity, the Directory also has API-based services and applications created by Service Providers based on our TF Service App.  
 
-## How is IT capacity sale be transacted?
+## How are IT capacity sales transacted?
 
-Once a Hoster or Operator is registered on our Directory, the available capacity becomes visible to Users and Service Providers. Transactions are API-driven based on smart contracts. The smart contract specifies the key information such as the capacity or service, duration, price per unit, location, etc.  All transactions on the Directory are executed using TF Tokens.  The Tokens are automatically deposited in the Hoster’s or Operator’s e-Wallet.
+Once a Hoster or Operator is registered on our Directory, the available capacity becomes visible to Users of our Grid. Transactions are machine to machine - meaning they are API-driven based on smart contracts. The smart contract specifies the key information such as the capacity or service, duration, price per unit, location, etc.  All transactions on the Directory are executed using our Tokens.  The Tokens are automatically deposited in the Hoster’s or Operator’s e-Wallet.
+

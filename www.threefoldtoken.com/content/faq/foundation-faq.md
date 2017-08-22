@@ -10,30 +10,28 @@ weight = 5
 
 +++
 
-## What are the core values of the Foundation?
-
-Trust, Freedom and Transparency (TFT)
-
 ## What are the objectives of the Foundation?
 
-The Foundation has three primary objectives:
-Create a safe digital currency with intrinsic value backed by real assets
-Help build a new, neutral, Edge Internet
-Empower our Token Holders to work together with us
+The Foundation’s long term objective is to migrate our Token firmly into the mainstream as a currency used to purchase IT and other services.  
+
+The ThreeFold Foundation, a transparent tokenized organization with three primary objectives:  
+- Using our Token to build a new, neutral, “Edge” Internet,
+- Creating a safe digital currency with real utility backed by real assets and
+- Empowering our Token Holders to work alongside us
 
 ## What is the Corporate Structure of the Foundation?
 
-The ThreeFold Foundation was formed as a transparent tokenized non-profit organization.  The Foundation is structured as a Dutch Stichting Trust based in the Netherlands.
+The Foundation is structured as a Dutch Antilles Stichting based in Curaçao. Our legal & financial structure has been set up by "Orrick, Herrington & Sutcliffe" which is one of the leading law firms in the world.
+
+The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There are 3 levels of boards to ensure transparency for Token Holders.
 
 ## Who owns the Foundation?
 
-The Foundation is not “owned” by anyone per se.  However, all of the value and financial benefit of the Foundation is allocated to the Token Holders.  This means that if the Foundation is monetised via payment of dividends, sales of assets or any other way - all of the proceeds go to the Token Holders
+The Foundation is mission- and value-based and not “owned” by anyone per se.  The Token represents an economic interest in the ThreeFold Foundation.  The Tokens are backed by the full faith and credit of our Foundation.  Our Foundation’s by-laws state that if the Foundation ceases, Token Holders would receive 100% of the resulting distributable assets as determined by administrators.
 
 ## How will the Foundation be governed?  How will decisions be made and implemented?
 
-The Foundation is governed and represented by its Board of Directors.  The Board is responsible for the Foundation's administration and ensures that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.
-
-There is also a community board which votes on the most important decisions. The community board is you, its all tokenholders.
+The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There are 3 levels of boards to ensure transparency for Token Holders.
 
 - [please read  more in our governance document.](http://www.threefoldtoken.com/governance).
 
