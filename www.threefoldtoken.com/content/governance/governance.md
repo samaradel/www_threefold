@@ -60,9 +60,7 @@ The Ambassador Board is less active than the Foundation Board - with only two sc
 
 ## The Community Board
 
-The Community Board consists of all Token Holders.
-
-The primary function of the Community Board is to vote by simple majority on certain well-defined Decision Proposals (DP’s).
+The primary function of the Community Board is to vote by simple majority on certain well-defined Decision Proposals (DP’s) that protect Token Holders.
 
 The following Decision Proposals always need a majority vote on Community Board
 
@@ -74,11 +72,6 @@ If the Community Board votes >50.1% in favor, then the Decision Proposal passes,
 
 The Community Board receives regularly scheduled updates on the operations and performance of the Foundation - as well as notification in advance of any Decision proposals requiring Community Board approval
 
-The process for Community Board votes is blockchain-based and very straightforward.
-
-* written Decision Proposals are prepared by the Company Directors and submitted to all Token Holders via the TF App at least one week prior to the vote.
-* if necessary a Zoom presentation or recorded can also be scheduled (again - well in advance).
-* voting then takes place over a prescribed 48 hour period (each token counts as 1 vote if used by the token holder, means if the token holder decided to vote within that period).
 
 ## Decision Proposals
 
