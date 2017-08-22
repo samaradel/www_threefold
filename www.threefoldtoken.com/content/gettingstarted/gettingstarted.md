@@ -53,7 +53,7 @@ Still open issues before we can do the ITO
 
 * ThreeFold app needs to be ready
 * We need Orrick to check all the legal documents again & make sure we are in order with the SEC rules about securities
-* We need oral confirmation for at least 200 hosters (we have the hardware ready to be shipped
+* We need oral confirmation for at least 200 hosters (we have the hardware ready to be shipped)
 
 Open issues we are also working on
 
