@@ -8,6 +8,6 @@ weight = 2
 +++
 # CONTRIBUTE TO THE FOUNDATION BEFORE THE PTO
 
-We would be delighted if you would be willing to support us by investing in the ThreeFold Token,
+We would be delighted if you would be willing to support us by investing in the ThreeFold Token -
 
-but we are also looking for TF Operators, TF Hosters and TF Ambassadors.
+and we are always looking for new TF Operators and TF Hosters.
