@@ -9,6 +9,6 @@ header = "Issuers and International Counsel"
 
 sec_header = "be INVOLVED"
 pto_link = "/pto"
-pto_txt = "READ MORE ABOUT THE DIGITAL CURRENCY"
+pto_txt = "READ MORE ABOUT OUR PUBLIC TOKEN OFFERING"
 +++
 If want to become more involved in the ThreeFold Foundation <br> you can read more about our Public Token Offering (PTO) and <br> read more about the different ways to become involved
