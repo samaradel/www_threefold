@@ -2,7 +2,7 @@
 
     function makeTimer() {
 
-      var endTime = new Date("September 17, 2017 12:00:00 EST");
+      var endTime = new Date("November 15, 2017 12:00:00 EST");
       var endTime = (Date.parse(endTime)) / 1000;
 
       var now = new Date();
