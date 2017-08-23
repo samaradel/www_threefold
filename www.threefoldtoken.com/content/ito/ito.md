@@ -12,7 +12,7 @@ After that the price for Tokens will increase (as indicated below).
 We plan our Public Token Offering for Q4 2017
 
 
-![](../img/ito-timeline-august.png)
+![](../img/ito-timeline-august.jpg.png)
 
 # SUMMARY OFFERING TERMS
 

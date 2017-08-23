@@ -38,12 +38,12 @@ Our Zero OS is ideally suited for Edge infrastructure which requires automation,
 
 Our Zero-Nodes are Secure, Self Driving and Green.  Our “Zero” components are super simple - the Zero-OS has no filesystem, no volume driver, no shell (terminal), no SSH server, etc. which results in better security, fast installation and does not require upgrades.  Also our Zero Nodes are plug and play “self driving” for Hosters who are not technical.  
 
-[more info](/information/magical-zero-node/)
+[see our magical Zero-Node blog](/information/magical-zero-node/)
 
 
 ### Why did we choose to build our own blockchain?
 
-We originally built our blockchain to power our identity management system, cloud-computing technology and global Directory.   We believe our blockchain has certain advantages relative to existing blockchains like scalability and improved security.
+We originally built our blockchain to power our identity management system and our cloud-computing technology. We believe our blockchain has certain advantages relative to existing blockchains like scalability and improved security.
 
 ### What are the most important attributes of our blockchain?
 

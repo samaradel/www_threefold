@@ -5,7 +5,7 @@ title = "information"
 header = "The need for a new, neutral Internet"
 image = "neutral-internet.jpg"
 author = "Kristof De Spiegeleer"
-subtitle = "The internet is growing like crazy. This is a 5 Trillion problem. Together we can build a new internet."
+subtitle = "The internet is growing like crazy. This is a Trillion Dollar problem. Together we can build a new internet."
 weight = 13
 
 +++
@@ -24,12 +24,12 @@ This is even more important in emerging markets.
 - 3.2 billion people have no access to Internet due to the high costs of connectivity and capacity. These people have the fundamental right to have low-cost access to digital resources like online education, health information, social media and online communities ...
 Solutions which can lower the cost with a factor of 10 are required.
 
-- Current blockchain technology is not scalable & not green. Example: the Bitcoin blockchain will use more energy than Denmark by 2022.
+- Current blockchain technology is not scalable and not green. Example: the Bitcoin blockchain uses more energy today than Croatia.
 
 
 ## Internet Capacity Today = The Cloud
 
-Today cloud computing is a $100+ billion industry powered by c 100 hyperscale datacenters - mostly owned by Amazon, Alphabet and Alibaba.  Experts such as Bell Labs and Cisco believe the capacity requirement in the next decade will dramatically outstrip existing infrastructure - requiring an additional 400m servers - or approximately 4000 hyperscale datacenters - at a cost of c $250 mio to $1 bn each.
+Today cloud computing is a $100+ billion industry - mostly owned by approximately 20 global cooperations. Experts such as Bell Labs and Cisco believe the capacity requirement in the next decade will dramatically outstrip existing infrastructure - requiring an additional 400m servers - or approximately 4000 hyperscale datacenters - at a cost of c $250 mio to $1 bn each.
 
 The spectacular growth and advances of cloud computing that occurred over the last decade resulted in large part from “hyper-scale” efficiencies - ie centralising Internet infrastructure in very large $ billion data centers.  Today demand for Internet capacity is far outstripping the available infrastructure due to new applications like Big Data, Internet of Things (IoT) and Artificial Intelligence.  The existing hyperscale cloud architecture cannot cope with this outsize demand as the requirements for land, power and funding are just too great.  
 
@@ -49,7 +49,7 @@ In 2025 c 60% of new internet infrastructure will be decentralized and located a
 
 ## The ThreeFold Solution
 
-Our solution is to migrate cloud capacity to the edge - ie located proximate to users (in cities, schools, offices and even homes) with the following main benefits.
+Our solution is to migrate cloud capacity to the edge - ie located proximate to users (in cities, schools, offices, homes and even vehicles) with the following main benefits.
 
 ### Safe
 
@@ -74,11 +74,7 @@ We have built a special box called the ThreeFold Zero-Node.
 The Zero-Node provides blockchain, compute & storage capacity to the internet.
 This capacity can be used for any possible workload.
 
-Because of this box we don't have to build new datacenters:
-
-We can replace one big 50M Watt Datacenter with only 1,000 of these boxes.
-A Zero-Node is a standalone box which can be put on any location and does not require a Datacenter.
-Each box can service up to 50,000 residential users or 5,000 business users.
+Our nodes are modular - scaling from 8 vCPUs and 3.5 TB of storage (smallest) to clusters with 8000 vCPUs and 2 peta-bytes of storage (large).
 
 ### Our Zero-Nodes are green
 
@@ -86,6 +82,7 @@ Each box can service up to 50,000 residential users or 5,000 business users.
 
 ### Our Zero-Nodes are at the edge and safe a lot of network traffic.
 
+Our Zero OS is ideally suited for Edge networking - where automation, self-healing and hyper-distribution are must-haves.  
 - The Zero-Nodes are deployed as close as possible to the consumers of IT capacity (IoT, residential, business, government, education, …).
 - This results in massive bandwidth savings, we estimate to be able to keep 99% of the required bandwidth locally which has huge impact on cost.
 - This is the only viable solution to be able to provide internet to the 3.2 billion people waiting.

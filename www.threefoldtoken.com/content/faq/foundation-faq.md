@@ -23,28 +23,28 @@ The ThreeFold Foundation, a transparent tokenized organization with three primar
 
 The Foundation is structured as a Dutch Antilles Stichting based in Curaçao. Our legal & financial structure has been set up by "Orrick, Herrington & Sutcliffe" which is one of the leading law firms in the world.
 
-The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There are 3 levels of boards to ensure transparency for Token Holders.
+The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There are 3 levels of boards to ensure transparency and protection for Token Holders.
 
 ## Who owns the Foundation?
 
-The Foundation is mission- and value-based and not “owned” by anyone per se.  The Token represents an economic interest in the ThreeFold Foundation.  The Tokens are backed by the full faith and credit of our Foundation.  Our Foundation’s by-laws state that if the Foundation ceases, Token Holders would receive 100% of the resulting distributable assets as determined by administrators.
+The Foundation is mission- and value-based and not “owned” by anyone per se.  The Token represents an economic interest in the ThreeFold Foundation.  The Tokens are backed by the full faith and credit of our Foundation.  In fact, our Foundation’s by-laws state that if the Foundation is liquidated for any reason, Token Holders would receive 100% of the resulting distributable assets.
 
 ## How will the Foundation be governed?  How will decisions be made and implemented?
 
 The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There are 3 levels of boards to ensure transparency for Token Holders.
 
-- [please read  more in our governance document.](http://www.threefoldtoken.com/governance).
+- [please read  more in our governance document.](/governance).
 
 ## Who will manage and operate the Foundation?
 
 The Foundation has a management team appointed by the Board.  
 The management team oversees daily operations.
 
-- [please read  more in our governance document.](http://www.threefoldtoken.com/governance).
+- [please read  more in our governance document.](/governance).
 
-## How experienced is the ThreeFold Foundation Founders and Management team?
+## How experienced are the ThreeFold Foundation Founders and Management team?
 
-Our team is highly experienced across technology, growth businesses and Finance.  Members of our team have successfully built and exited numerous technology start-ups and several have extensive C-Level experience in high profile companies.   
+Our team is highly experienced across technology, growth businesses and finance.  Members of our team have successfully built and exited numerous technology start-ups and several have extensive C-Level experience in high profile companies.   
 
 - [our team](/team)
 

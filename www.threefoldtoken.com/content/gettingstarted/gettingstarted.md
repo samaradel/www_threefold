@@ -29,15 +29,14 @@ We have telegram groups where you can follow the most up to date information (wi
 
 Status
 
-* We have commitments for about 1.7m USD now (we would like to get to 4m USD)
-* We have confirmation of about 35 ambassadors (we would like to get to at least 50)
+* We have (verbal) commitments for about 2m USD now (we would like to get to 4m USD)
+* We have confirmation of about 30 ambassadors (we would like to get to at least 50)
 * We have about 120 hosters for our blockchain (we need at least 80 more)
 * We are on track to have more than 100m USD committed internet capacity before oct-nov.
 
 The Threefold app is almost ready
 
 * We almost have our Threefold app ready, once usable & tested we will use this app to replace above news groups.
-* We hope to show the app to you starting next week
 * will be used
     * for the process for our hosters (onboarding, shipping, acceptance, ...)
     * to sign & distribute the contracts and terms & conditions
@@ -53,7 +52,7 @@ Still open issues before we can do the ITO
 
 * ThreeFold app needs to be ready
 * We need Orrick to check all the legal documents again & make sure we are in order with the SEC rules about securities
-* We need oral confirmation for at least 200 hosters (we have the hardware ready to be shipped
+* We need oral confirmation for at least 200 hosters (we have the hardware ready to be shipped)
 
 Open issues we are also working on
 
@@ -71,6 +70,5 @@ Open issues we are also working on
 * [Online/face2face meeting form](http://tiny.cc/tff_meeting_form)
 * [Internal Token Offering page](/ito/)
 * [Ambassador page](/ambassador/)
-* [Hoster page](/hoster/)
 * [Presentation](http://tiny.cc/threefold_intro)
 * [White Paper](http://tiny.cc/tf_whitepaper_pto)

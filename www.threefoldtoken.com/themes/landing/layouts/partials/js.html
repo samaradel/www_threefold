@@ -15,3 +15,22 @@
   <!-- <script type="text/javascript" src="../../js/CgSepo3jw0mg0xzetWH1-x79OTX9Xtmf7HCWyGc2OY9feTSffFHN4UJLFRbh5.js"></script> -->
   <script src="../../js/custom.js"></script>
 {{end}}
+
+
+<script type="text/javascript" charset="utf-8">
+    // Creating custom :external selector
+    $.expr[':'].external = function(obj){
+        return !obj.href.match(/^mailto\:/)
+                && (obj.hostname != location.hostname);
+    };
+
+    $(function(){
+      // Add 'external' CSS class to all external links
+      $('a:external').addClass('external');
+
+      // turn target into target=_blank for elements w external class
+      $(".external").attr('target','_blank');
+
+    })
+
+  </script>

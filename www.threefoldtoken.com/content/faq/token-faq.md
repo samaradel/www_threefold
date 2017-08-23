@@ -16,11 +16,11 @@ weight = 4
 
 The reasons for investors to buy Tokens in the public token offering include the following:
 
-- __Good cause:  purchasers are helping us build a new neutral edge Internet
-- __Potential upside:   ThreeFold sits at the intersection of three of today’s most important technologies - Blockchain, Cloud Computing and Artificial Intelligence, and we believe that as our global Grid expands and the capacity available for sale grows, the demand for our Tokens will increas
-- __Downside Protection and reduced volatility (ie Token price less likely to decrease substantially):  Our Tokens are backed by the full faith and credit and assets of our Foundation.  Our Technology and Grid are already up and running and we believe our Foundation and its assets represent significant value
-- __High quality team with extensive technology and financial experience
-- __Existing technology that is very well positioned for Edge networking and outperforms  leading technologies in many categories
+* Good cause:  purchasers are helping us build a new neutral edge Internet
+* Potential upside: ThreeFold sits at the intersection of three of today’s most important technologies - Blockchain, Cloud Computing and Artificial Intelligence, and we believe that as our global Grid expands and the capacity available for sale grows, the demand for our Tokens will increas
+* Downside Protection and reduced volatility (ie Token price less likely to decrease substantially):  Our Tokens are backed by the full faith and credit and assets of our Foundation.  Our Technology and Grid are already up and running and we believe our Foundation and its assets represent significant value
+* High quality team with extensive technology and financial experience
+* Existing technology that is very well positioned for Edge networking and outperforms  leading technologies in many categories
 
 ## Why do we need a ThreeFold Token?
 
@@ -34,10 +34,10 @@ We designed our Token as a safe, scalable currency with real utility and intrins
 
 The Foundation’s long term objective is to migrate the TF Token firmly into the mainstream as a payment instrument used to purchase IT and other services. We seek  to:
 
-- __Create a safe, alternative currency with intrinsic value backed by real assets
-- __Give our Tokens a designated utility by linking the  Token directly to the growth of the Internet
-- __Support our Tokens - prioritise liquidity, stability, transparency and exchangeability for Token Holders
-- __Ensure the integrity and security of the Tokens for Token Holders
+* Create a safe, alternative currency with intrinsic value backed by real assets
+* Give our Tokens a designated utility by linking the  Token directly to the growth of the Internet
+* Support our Tokens - prioritise liquidity, stability, transparency and exchangeability for Token Holders
+* Ensure the integrity and security of the Tokens for Token Holders
 
 ## Why did we use the word Token vs Coin?
 
@@ -55,13 +55,13 @@ We designed our Token to be different from other Tokens in several respects incl
 
 ## How is our Token “backed” by real assets?
 
-By “backed”, we mean asset-backed. Each Token is collateralized by all of the Foundation’s assets.  The Foundation’s funds and cash flows are invested into revenue-generating assets that grow organically - creating additional value for Token Holders. 
+By “backed”, we mean asset-backed. Each Token is collateralized by all of the Foundation’s assets.  The Foundation’s funds and cash flows are invested into revenue-generating assets that grow organically - creating additional value for Token Holders.
 
 ## Why do we say our Token has “utility” and why is this important?
 
 When we talk about “utility”, we mean that our Token has a designated “use” as the exclusive payment mechanism for buying and selling Internet capacity via our Directory on our Grid.  
-This utility is important because it generates additional demand, diversification, volumes and liquidity for Token Holders.  This is an important differentiator for our Token - as digital currencies today generally have limited utility
- 
+This utility is important because it generates additional demand, diversification, volumes and liquidity for Token Holders.  This is an important differentiator for our Token - as digital currencies today generally have limited utility.
+
 # PTO = Public Token Offering
 
 ## Why do we use the term PTO (unlike ICO)
@@ -74,19 +74,19 @@ We believe our token offering is different from some of the other ICOs.  We are 
 
 ThreeFold Tokens will be available for sale directly on our website during the PTO.
 
-One needs only sign up with our [ItsYou.Online](itsyou.online) identity management platform and open their e-Wallet on our App.
+One needs only sign up with our [ItsYou.Online](http://itsyou.online) identity management platform and open their e-Wallet on our App.
 
-As payment, we accept  BTC, ETH, USD, CHF, EUR, YEN and other methods available on exchanges.  If you have altcoins you want to invest, they may be converted directly via Shapeshift.
+As payment, we accept  BTC, ETH, USD, GBP, CHF, EUR, YEN, AED and other methods available on exchanges.
 
 ## How many tokens already exists?
 
-Today there are 10,000,000 Tokens created and backed by the value of our Foundation and  by internet capacity which is committed to be deployed by our operators and hosters over more than 200 locations.
+Today there are 10,000,000 Tokens created and backed by the value of our Foundation and by internet capacity which is committed to be deployed by our operators and hosters over more than 200 locations.
 
 See bottom of our home page where you can see where existing capacity has been deployed.
 
 ## How many tokens do we offer as part of our PTO?
 
-We are organizing our Public Token Offering  to raise additional capital to deploy more capacity on our Grid.
+We are organizing our Public Token Offering to raise additional capital to deploy more capacity on our Grid. The Token sale will determine the final number of new Tokens issued. At present we are targeting up to 3 mio additional Tokens raising 30 mio USD.
 
 ## Will Tokens be freely tradable ?
 
@@ -106,7 +106,7 @@ The Token price will be determined by open market - so we don’t make any predi
 
 ##  Can I buy Tokens with bank transfer?
 
-Yes, you can buy Tokens with bank transfers (USD, GBP, CHF, EUR, YEN), BTC and ETH.
+Yes, you can buy Tokens with bank transfers (USD, GBP, CHF, EUR, YEN, AED), BTC and ETH.
 
 ## Can I buy Tokens if I am in US or I am a US citizen?
 
@@ -127,25 +127,20 @@ Majority is required on our boards (Foundation & Community) before issuing of to
 
 ## Can I reclaim assets owned by ThreeFold foundation?
 
-No.  Token Holders should not expect to profit from reclaiming assets or cash from the Foundation. Profits for Token Holders should come from selling the Tokens at a price that is higher than the price at which the Token was purchased. 
+No. Token Holders should not expect to profit from reclaiming assets or cash from the Foundation. Profits for Token Holders should come from selling the Tokens at a price that is higher than the price at which the Token was purchased.
 
 
 ## Strong Identity Management = ItsYou.Online (IYO)
 
-ItsYou.Online is our identity management platform.  All of our Token Holders are authenticated with
-our ItsYou.Online identity management framework using SMS, address and email.  We believe ItsYou.Online’s relevance as an identity management tool extends far beyond Tokens and buying and selling IT capacity.
+ItsYou.Online is our identity management platform using SMS, address and email to authenticate users. We believe ItsYou.Online’s relevance as an identity management tool extends far beyond Tokens and buying and selling IT capacity.
 
 ## KYC and AML Procedures
 
-We take our Know Your Client (KYC) and Anti-Money Laundering (AML) obligations seriously.  We employ robust onboarding protocols and identity management via itsyou.online with 3 levels of verification: SMS, Address and Email.
+We take our Know Your Client (KYC) and Anti-Money Laundering (AML) obligations seriously.  We employ robust onboarding protocols and identity management via itsyou.online.
 
 ## Will you have an escrow during the PTO?
 
-No.  We are already up and running and we invest the PTO proceeds in additional Internet capacity on our Grid.  We are not awaiting technology or other “development” milestones - so there is no need to have an escrow.
-
-## Why use Tokens as the payment currency for IT Capacity?
-
-When we talk about the “utility” of the Tokens - we mean the Tokens can be used to buy products and services.  Our Tokens have a specific immediate real utility as the designated currency for IT Capacity transactions on our Grid.  People must use our Tokens to purchase IT capacity on our Grid.  This benefits Token Holders by creating more demand, additional transaction activity, higher  daily trading volumes and better liquidity for Token Holders.
+No. We are already up and running and we invest the PTO proceeds in additional Internet capacity on our Grid.  We are not awaiting technology or other “development” milestones - so there is no need to have an escrow.
 
 ## How is the foundation structured and where is it based?
 
@@ -153,7 +148,7 @@ See our [FOUNDATION FAQ](/faq/foundation-faq).
 
 ## How are the proceeds of the Tokens Used?
 
-The Foundation will use the net proceeds of the PTO to deploy additional Internet capacity on our global Grid.  Part of the proceeds of the PTO will be held as cash on balance sheet to support Token liquidity
+The Foundation will use the net proceeds of the PTO for working capital and to deploy additional Internet capacity on our global Grid.  Part of the proceeds of the PTO will be held as cash on balance sheet to support Token liquidity.
 
 # Technical
 
