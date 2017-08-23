@@ -18,8 +18,7 @@ We plan our Public Token Offering for Q4 2017
 
 ## What is a ThreeFold Token?
 
-- A ThreeFold Token is a smart contract digital token (the Token) that is the exclusive payment instrument or currency for which operators can sell IT capacity via our Directory service. 
- - ThreeFold operators sell their capacity for  Tokens, ThreeFold users buy capacity with Tokens.
+- A ThreeFold Token is a smart contract digital token (the Token) that is the exclusive payment instrument or currency for which operators can sell IT capacity via our Directory service - ThreeFold operators sell their capacity for Tokens, ThreeFold users buy capacity with Tokens.
    
 - The ThreeFold Foundation is the issuer of the Tokens. 
 - The Tokens represent an economic interest in the ThreeFold Foundation and are backed by the full faith and credit of the Foundation and all of the Foundation’s assets
