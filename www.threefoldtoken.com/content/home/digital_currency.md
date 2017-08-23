@@ -10,7 +10,7 @@ Digital currencies are well on the way to full acceptance as a mainstream curren
 
 However, major problems remain such as a lack of scalability, impossible energy requirements, certain perceived reputational issues - and most importantly, a general absence of intrinsic value (ie backing by real assets) and limited use of digital currencies to buy goods and services (ie utility).
 
-[WHY A NEW NEUTRAL INTERNET](/information/need-for-new-neutral-internet/)
+[WHY A NEW DIGITAL CURRENCY](/information/the-need-for-a-new-digital-currency/)
 
 <space>
 
