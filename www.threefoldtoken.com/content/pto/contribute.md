@@ -1,7 +1,7 @@
 +++
 #Don't remove title!
 title = "contribute"
-button_name = "WILLING TO HELP? WE ARE LOOKING FOR AMBASSADORS, HOSTERS AND OPERATORS."
+button_name = "WILLING TO HELP? WE ARE LOOKING FOR HOSTERS AND OPERATORS."
 button_link = "/community"
 weight = 2
 
