@@ -33,14 +33,14 @@ The Foundation is mission- and value-based and not “owned” by anyone per se.
 
 The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There are 3 levels of boards to ensure transparency for Token Holders.
 
-- [please read  more in our governance document.](http://www.threefoldtoken.com/governance).
+- [please read  more in our governance document.](/governance).
 
 ## Who will manage and operate the Foundation?
 
 The Foundation has a management team appointed by the Board.  
 The management team oversees daily operations.
 
-- [please read  more in our governance document.](http://www.threefoldtoken.com/governance).
+- [please read  more in our governance document.](/governance).
 
 ## How experienced are the ThreeFold Foundation Founders and Management team?
 

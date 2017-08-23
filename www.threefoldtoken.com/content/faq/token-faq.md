@@ -55,13 +55,13 @@ We designed our Token to be different from other Tokens in several respects incl
 
 ## How is our Token “backed” by real assets?
 
-By “backed”, we mean asset-backed. Each Token is collateralized by all of the Foundation’s assets.  The Foundation’s funds and cash flows are invested into revenue-generating assets that grow organically - creating additional value for Token Holders. 
+By “backed”, we mean asset-backed. Each Token is collateralized by all of the Foundation’s assets.  The Foundation’s funds and cash flows are invested into revenue-generating assets that grow organically - creating additional value for Token Holders.
 
 ## Why do we say our Token has “utility” and why is this important?
 
 When we talk about “utility”, we mean that our Token has a designated “use” as the exclusive payment mechanism for buying and selling Internet capacity via our Directory on our Grid.  
 This utility is important because it generates additional demand, diversification, volumes and liquidity for Token Holders.  This is an important differentiator for our Token - as digital currencies today generally have limited utility.
- 
+
 # PTO = Public Token Offering
 
 ## Why do we use the term PTO (unlike ICO)
@@ -74,7 +74,7 @@ We believe our token offering is different from some of the other ICOs.  We are 
 
 ThreeFold Tokens will be available for sale directly on our website during the PTO.
 
-One needs only sign up with our [ItsYou.Online](itsyou.online) identity management platform and open their e-Wallet on our App.
+One needs only sign up with our [ItsYou.Online](http://itsyou.online) identity management platform and open their e-Wallet on our App.
 
 As payment, we accept  BTC, ETH, USD, GBP, CHF, EUR, YEN, AED and other methods available on exchanges.
 
@@ -127,7 +127,7 @@ Majority is required on our boards (Foundation & Community) before issuing of to
 
 ## Can I reclaim assets owned by ThreeFold foundation?
 
-No. Token Holders should not expect to profit from reclaiming assets or cash from the Foundation. Profits for Token Holders should come from selling the Tokens at a price that is higher than the price at which the Token was purchased. 
+No. Token Holders should not expect to profit from reclaiming assets or cash from the Foundation. Profits for Token Holders should come from selling the Tokens at a price that is higher than the price at which the Token was purchased.
 
 
 ## Strong Identity Management = ItsYou.Online (IYO)
