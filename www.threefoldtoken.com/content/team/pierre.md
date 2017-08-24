@@ -16,4 +16,4 @@ telegrem_txt = ""
 
 weight = 10
 +++
-Pierre is group legal counsel at ThreeFold Foundation and GIG Technology. Prior to ThreeFold Foundation he worked at Incubaid as independent legal consultant. He assists the founders, investors and private companies on corporate, commercial and IP matters. He is specialized in venture capital and private equity transactions, and helps mergers & acquisitions and corporate transactions, during complex negotiations and drafting of contracts.
+Pierre is group legal counsel at ThreeFold Foundation and GIG Technology. Pierre has over 15 years of experience as a corporate and IT lawyer, assisting founders, investors and private companies on corporate, commercial and IP matters. He is specialized in venture capital and private equity transactions, mergers & acquisitions, corporate restructurings, as well as IT related commercial matters and license deals.
