@@ -11,4 +11,3 @@ weight = 2
 We would be delighted if you would be willing to support us by investing in the ThreeFold Token -
 
 and we are always looking for new TF Operators and TF Hosters.
-**test**
