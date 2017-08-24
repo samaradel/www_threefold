@@ -73,14 +73,10 @@ The Foundation may issue new Tokens via follow-on Token Offerings to make furthe
 
 ## Foundation Governance and Management
 
-The Foundation will be structured as a Dutch Stichting based in the Dutch Antilles.
+The Foundation will be structured as a Dutch Stitching based in the Dutch Antilles.
 Our legal & financial structure has been setup by "Orrick, Herrington & Sutcliffe" which is one of the leading law firms in the world.
 
-<<<<<<< HEAD
-The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There are 3 levels of boards to ensure transparency for Token Holders. For detailled information see: [Our Foundation's Governance ](/governance)
-=======
-The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There are 3 levels of boards to ensure transparency for Token Holders  [see this doc](/governance)
->>>>>>> 0ea768f503692051f13344d50c641af1ccd350ef
+The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There are 3 levels of boards to ensure transparency for Token Holders. For detailed information see: [Our Foundation's Governance ](/governance)
 
 The Foundation has a management team appointed by the Board. The management team oversees daily operations and is highly experienced across technology, growth businesses and Finance. Members of our team have successfully built and exited numerous technology start-ups and several have extensive C-Level experience in high profile companies.
 
