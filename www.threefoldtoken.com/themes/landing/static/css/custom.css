@@ -504,14 +504,15 @@ header .introWords h2 {
 .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:active {
   color: #757575;
 }
-.active, .our-mission-and-goals .sqs-block-content h2 {
+.active, .our-mission-and-goals .sqs-block-content h2, .ambassador-faq h2 {
   color:#757575 !important;
+  font-weight: 600;
 }
 .our-mission-and-goals .sqs-block-button .sqs-block-button-element--medium {
   padding-top: 15px;
   padding-bottom: 15px;
 }
-.overview-contents h1 {
+.overview-contents h1 , .ambassador-faq h1 {
   color: #757575;
 }
 .our-mission-and-goals {
