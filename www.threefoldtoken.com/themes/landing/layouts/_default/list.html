@@ -30,6 +30,8 @@
                   <div class="Content-outer">{{ $p.Render "community" }}</div>
                   {{ else if eq .Section "governance" }}
                   <div class="Content-outer">{{ $p.Render "governance" }}</div>
+                  {{ else if eq .Section "ambassador" }}
+                  <div class="Content-outer">{{ $p.Render "ambassador" }}</div>
                   {{ else if eq .Section "pto" }}
                     {{ if eq .Title "pto" }}
                       <div class="Content-outer">{{ $p.Render "pto" }}</div>
