@@ -29,11 +29,7 @@ We have telegram groups where you can follow the most up to date information (wi
 
 Status
 
-<<<<<<< HEAD
 * We have (verbal) commitments for about 2m USD now (we would like to get to 5m USD)
-=======
-* We have (verbal) commitments for about 2m USD now (we would like to get to 4m USD)
->>>>>>> 0ea768f503692051f13344d50c641af1ccd350ef
 * We have confirmation of about 30 ambassadors (we would like to get to at least 50)
 * We have about 120 hosters for our blockchain (we need at least 80 more)
 * We are on track to have more than 100m USD committed internet capacity before oct-nov.
