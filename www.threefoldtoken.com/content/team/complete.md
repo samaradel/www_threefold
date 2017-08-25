@@ -60,4 +60,3 @@ business_andreas_name = "Andreas Hartl"
 business_andreas_url = "http://www.linkedin.com/in/andreas-hartl-4330b8b"
 
 +++
-
