@@ -6,7 +6,7 @@ header = "WHY A NEW DIGITAL CURRENCY"
 
 weight = 2
 +++
-Digital currencies are well on the way to full acceptance as a mainstream currency in the future - providing significant benefits such as direct peer to peer transactions, greater trust secured by cryptography and mathematics and no single point of failure.
+Decentralized digital currencies are here to stay, due to their significant benefits such as direct peer to peer transactions, immutability of transactions as secured by cryptography and mathematics and the absence of a single point of failure that decentralized protocols bring.
 
 However, major problems remain such as a lack of scalability, impossible energy requirements, certain perceived reputational issues - and most importantly, a general absence of intrinsic value (ie backing by real assets) and limited use of digital currencies to buy goods and services (ie utility).
 
