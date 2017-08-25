@@ -5,14 +5,14 @@ title = "open source"
 
 
 # First column
-header_1 = "Each Token is backed by real assets. Our Tokens are also the payment mechanism for  buying and selling IT capacity."
+header_1 = "Each Token is backed by real assets and real utility: they are the payment mechanism for buying and selling IT capacity on our grid."
 image_1_header = "backed"
 image_1 = "backed.png"
 author_1 = ""
 subtitle_1 = "Read more"
 
 # Second column
-header_2 = "Our proof of stake blockchain and ultra safe compute/storage grid enables full scalability while being 10x more power efficient."
+header_2 = "The OS running in our grid is designed with minimal overhead in mind, allowing to bring power costs down to one tenth of current standards. Our blockchain in progress is scalable and power-efficient proof-of-stake driven."
 image_2_header = "green"
 image_2 = "green.png"
 author_2 = ""
