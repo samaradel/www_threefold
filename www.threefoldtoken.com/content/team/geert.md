@@ -14,6 +14,6 @@ twitter_txt = ""
 telegram = ""
 telegrem_txt = ""
 
-weight = 8
+weight = 7
 +++
 Geert is head of Engineering at ThreeFold Foundation and GIG Technology. He was the founder of Mobicage, the company behind the successful mobile open-source platform Rogerthat. He is a programming and open-source enthusiast and leads our software development labs in Gent, Cairo and Dubai.  
