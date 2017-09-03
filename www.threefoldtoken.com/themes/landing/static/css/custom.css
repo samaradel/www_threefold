@@ -324,6 +324,10 @@ header .introWords h2 {
   color: rgba(255,255,255,.7);
   margin: .67em 0;
 }
+.our-dream h4 {
+  font-weight: 600;
+  font-size: 17px;
+}
 .our-dream p {
   margin-top: 14px;
 }
