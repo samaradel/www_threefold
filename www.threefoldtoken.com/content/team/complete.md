@@ -19,9 +19,6 @@ software_geert_url = "https://www.linkedin.com/in/geertaudenaert/"
 software_nickolay_name = "Nickolay Babenko"
 software_nickolay_url = "https://www.linkedin.com/in/babenkonickolay/"
 
-software_michael_name = "Michael Rademaker"
-software_michael_url = "https://www.linkedin.com/in/dvorkbod/"
-
 
 # Section - MARKETING -
 marketing_header = "MARKETING & PRODUCT MANAGEMENT"

@@ -142,7 +142,7 @@ We take our Know Your Client (KYC) and Anti-Money Laundering (AML) obligations s
 
 No. We are already up and running and we invest the PTO proceeds in additional Internet capacity on our Grid.  We are not awaiting technology or other “development” milestones - so there is no need to have an escrow.
 
-## How is the foundation structured and where is it based?
+## How is the Foundation structured and where is it based?
 
 See our [FOUNDATION FAQ](/faq/foundation-faq).
 
