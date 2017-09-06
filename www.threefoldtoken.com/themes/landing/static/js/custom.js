@@ -34,7 +34,7 @@
      $('#contact-us').submit(function (event) {
       $.ajax({
         type     : 'POST',
-        url      : 'http://threefold2.aydo.com:4040/www_threefold2.0',
+        url      : 'http://www.threefoldtoken.com/www_threefold2.0',
         data     : $('#contact-us').serialize(),
         dataType : 'json',
         encode   : true
