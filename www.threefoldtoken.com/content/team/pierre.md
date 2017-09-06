@@ -16,4 +16,4 @@ telegrem_txt = ""
 
 weight = 9
 +++
-Pierre is group legal counsel at ThreeFold Foundation and GIG Technology. Pierre has over 15 years of experience as a corporate and IT lawyer, assisting founders, investors and private companies on corporate, commercial and IP matters. He is specialized in venture capital and private equity transactions, mergers & acquisitions, corporate restructurings, as well as IT related commercial matters and license deals.
+PPPPierre is group legal counsel at ThreeFold Foundation and GIG Technology. Pierre has over 15 years of experience as a corporate and IT lawyer, assisting founders, investors and private companies on corporate, commercial and IP matters. He is specialized in venture capital and private equity transactions, mergers & acquisitions, corporate restructurings, as well as IT related commercial matters and license deals.
