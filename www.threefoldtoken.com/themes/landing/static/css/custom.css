@@ -304,6 +304,7 @@ header .introWords h2 {
     width: 100%;
     z-index:10;
     padding-right:0px;
+    box-shadow: 0 7px 7px 0 rgba(0,0,0,.15);
 }
 .affix + .row {
     padding-top:73px;
