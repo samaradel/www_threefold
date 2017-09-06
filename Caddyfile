@@ -5,7 +5,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
 
     git {
         repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
-        branch master
+        branch production
         interval 60
         key ~/.ssh/id_rsa
         path ../..
