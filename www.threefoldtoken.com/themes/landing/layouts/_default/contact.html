@@ -20,17 +20,17 @@
                      <div class="col-sm-8">
                         <div class="sqs-block html-block sqs-block-html">
                            <div class="sqs-block-content">
-                              <h2 style="color: #757575;">{{ .Params.header }}</h2>
+                              <h2 id="test" style="color: #757575;">{{ .Params.header }}</h2>
                            </div>
                         </div>
                         <div class="sqs-block form-block sqs-block-form">
                            <div class="sqs-block-content">
                               <div class="form-wrapper">
                                  <div class="form-inner-wrapper">
-                                    <form autocomplete="on" id="contact-us" name="contact-us" action="post">
+                                    <form id="contact-us" name="contact-us" action="post">
                                        <div class="field-list clear">
                                          <div class="form-item field text">
-                                            <label class="title">Name</label>
+                                            <label class="title">Name <span class="required">*</span></label>
                                             <input class="field-element text" type="text" name="name" id="name">
                                          </div>
                                           <div class="form-item field email required">
@@ -39,34 +39,34 @@
                                           </div>
                                           <div class="form-item field checkbox required">
                                              <div class="title">I would like to <span class="required">*</span></div>
-                                             <div class="option"><label><input value="become a founding partner" type="checkbox"> become a founding partner</label></div>
-                                             <div class="option"><label><input value="buy tokens" type="checkbox"> buy tokens</label></div>
-                                             <div class="option"><label><input value="become a threefold hoster" type="checkbox"> become a threefold hoster</label></div>
-                                             <div class="option"><label><input value="buy capacity from the threefold grid" type="checkbox"> buy capacity from the threefold grid</label></div>
-                                             <div class="option"><label><input value="play with a Zero Node / Test your Grid" type="checkbox"> play with a Zero Node / Test your Grid</label></div>
-                                             <div class="option"><label><input value="just curious" type="checkbox"> just curious</label></div>
+                                             <div class="option"><label><input value="become a founding partner" name="wouldLikeTo" type="checkbox"> become a founding partner</label></div>
+                                             <div class="option"><label><input value="buy tokens" name="wouldLikeTo" type="checkbox"> buy tokens</label></div>
+                                             <div class="option"><label><input value="become a threefold hoster" name="wouldLikeTo" type="checkbox"> become a threefold hoster</label></div>
+                                             <div class="option"><label><input value="buy capacity from the threefold grid" name="wouldLikeTo" type="checkbox"> buy capacity from the threefold grid</label></div>
+                                             <div class="option"><label><input value="play with a Zero Node / Test your Grid" name="wouldLikeTo" type="checkbox"> play with a Zero Node / Test your Grid</label></div>
+                                             <div class="option"><label><input value="just curious" name="wouldLikeTo" type="checkbox"> just curious</label></div>
                                           </div>
                                           <div class="form-item field checkbox">
                                              <div class="title">I would like to be informed:</div>
-                                             <div class="option"><label><input value="Public Token Offering Newsletter" type="checkbox"> Public Token Offering Newsletter</label></div>
-                                             <div class="option"><label><input value="Investor Information" type="checkbox"> Investor Information</label></div>
-                                             <div class="option"><label><input value="Grid Expansion (the new internet)" type="checkbox"> Grid Expansion (the new internet)</label></div>
+                                             <div class="option"><label><input value="Public Token Offering Newsletter" name="informed" type="checkbox"> Public Token Offering Newsletter</label></div>
+                                             <div class="option"><label><input value="Investor Information" name="informed" type="checkbox"> Investor Information</label></div>
+                                             <div class="option"><label><input value="Grid Expansion (the new internet)" name="informed" type="checkbox"> Grid Expansion (the new internet)</label></div>
                                           </div>
                                           <div class="form-item field textarea">
                                              <label class="title">Message</label>
-                                             <textarea class="field-element "></textarea>
+                                             <textarea class="field-element" name="message"></textarea>
                                           </div>
                                           <div class="form-item field text">
                                              <label class="title">Country</label>
-                                             <input class="field-element text" placeholder="(e.g. Ireland or Éire )" type="text">
+                                             <input class="field-element text" placeholder="(e.g. Ireland or Éire )" type="text" name="country">
                                           </div>
                                        </div>
                                        <div class="form-button-wrapper form-button-wrapper--align-left">
                                           <input class="button sqs-system-button sqs-editable-button" value="Submit" id="submit" type="submit">
                                        </div>
-                                       <div class="hidden form-submission-text">Thank you!</div>
-                                       <div class="hidden form-submission-html"></div>
                                     </form>
+                                    <div id="contactThankYou" style="display:none;">Thank you for contacting us!</div>
+                                    <div class="hidden form-submission-html"></div>
                                  </div>
                               </div>
                            </div>

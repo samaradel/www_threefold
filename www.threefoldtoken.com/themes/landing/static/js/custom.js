@@ -28,4 +28,27 @@
     setInterval(function() { makeTimer(); }, 1000);
 
     $('nav a[href$="/' + location.pathname.split("/")[1] + '"]').addClass('active');
+
+    // Mailout
+
+     $('#contact-us').submit(function (event) {
+      $.ajax({
+        type     : 'POST',
+        url      : 'http://threefold2.aydo.com:4040/www_threefold2.0',
+        data     : $('#contact-us').serialize(),
+        dataType : 'json',
+        encode   : true
+      })
+      .done(function (data) {
+        console.log(data);
+        $('#contactThankYou').show();
+        $('#contact-us').hide();
+        $('#test').hide();
+      })
+      .fail(function () {
+          alert("error");
+      });
+      event.preventDefault();
+    });
+
 })();
