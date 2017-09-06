@@ -32,7 +32,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
          token_url       https://itsyou.online/v1/oauth/access_token
 
          # oauth2 redirect URL
-         redirect_url    http://new.threefoldtoken.com/oauth/callback
+         redirect_url    http://threefoldtoken.com/oauth/callback
 
          # Organizations allowed to access the protected paths
          # leave it blank if you want to ignore it
