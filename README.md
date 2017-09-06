@@ -1,4 +1,8 @@
 # New ThreeFold Website
+
+- promotor: Sacha
+- guardian: Andreas
+
 ## Information
 
 The new threefold website is being created using hugo/git.
