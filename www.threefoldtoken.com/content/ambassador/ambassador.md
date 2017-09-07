@@ -32,7 +32,7 @@ We would expect to (e)meet with you at least twice per year at our Ambassador Bo
 If you are able to work more closely with us strategically, or as a media commentator or in assisting us to build out our global grid - your help is of course welcome.
 
 ## What is the function of the Ambassador Board?
-The Ambassador Board is a crucial part of our neutral Foundation structure, documented in - [governance](/governance).
+The Ambassador Board is a crucial part of our neutral Foundation structure, documented in - [governance](/governance)..
 
 ## What do I need to do to become a ThreeFold Ambassador?
 We will walk you through it, please use our [registration form](http://tiny.cc/threefold_registration) and we will help you. The on boarding will happen through the ThreeFold app..

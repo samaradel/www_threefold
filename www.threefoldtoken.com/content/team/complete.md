@@ -32,6 +32,9 @@ marketing_sacha_url = "https://www.linkedin.com/in/svekeman/"
 # Section - LEGAL -
 legal_header = "LEGAL & FINANCIAL"
 
+legal_peter_name = "Peter Van der Henst"
+legal_peter_url = "https://www.linkedin.com/in/petervanderhenst/"
+
 legal_sabrina_name = "Sabrina Sadik"
 legal_sabrina_url = "https://www.linkedin.com/in/sabrina-sadik-449758132/"
 
