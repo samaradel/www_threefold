@@ -7,7 +7,11 @@ weight = 1
 +++
 
 # SUMMARY TOKEN SALE TERMS
-The Tokens purchased in this public token offering will provide the purchasers with access to our Grid and Directory service, and will also allow purchasers of the Tokens to participate in our mission of building a new neutral internet.
+The Tokens purchased in this private token offering will provide the purchasers with access to our Grid and Directory service, and will also allow purchasers of the Tokens to participate in our mission of building a new neutral internet.
+
+## Private Token Offering (PTO)
+
+We are organizing our Private Token Offering (PTO) to raise additional capital to deploy more infrastructure and capacity on our Grid.  The Foundation is issuing ThreeFold Tokens to a limited number of identified individuals and legal entities via our Token Issuance Mechanism (explained below) 
 
 ## ThreeFold Token
 
@@ -26,7 +30,7 @@ The assets of the Foundation include:
 
 The ThreeFold Foundation, a transparent tokenized organization with three primary objectives:  
 - Using our Token to build a new, neutral, “Edge” Internet;
-- Creating a safe digital currency with real utility backed by real assets; and
+- Creating a digital currency with real utility backed by real assets; and
 - Empowering our Token Holders to work alongside us.
 
 ## Designated Utility - payment currency for Internet Capacity:
@@ -39,15 +43,33 @@ Over time, the Foundation’s objective is for our Tokens to become the preferre
 Today there are 10,000,000 Tokens created and backed by the value of our Foundation and by internet capacity which is committed to be deployed by our operators and hosters over more than 200 locations.
 
 
-## Target Amount Offered
+## Token Issuance Mechanism and Price per Token
 
-We are organizing our Private Token Offering (PTO) to raise additional capital to deploy more capacity on our Grid. We plan to issue a variable number of tokens, but only at ever increasing prices. Formally, there is no target amount.
+We will use the majority of the PTO proceeds to invest in infrastructure and capacity on our Grid.  Given the attractive economics of our infrastructure, the value of our Grid and our Foundation potentially  increases based on the amount of investment we deploy.  Accordingly, our Token price will could be expected to increase based on the amount of funding we raise.  
 
-## Price per Unit
+However, during the initial investment phase for our Grid through December 2019, we want to protect value for our Token Holders.  To do this we have created our Token Issuance Mechanism (the Mechanism) which prescribes the Token price at which each tranche of Tokens shall be issued as follows:
+* First 1 million shares at US$ 10 per Token
+* Next 1 million shares at US$ 13 per Token
+* Next 1 million shares at US$ 16 per Token
+* Next 1 million shares at US$ 19 per Token
+* Next 1 million shares at US$ 22 per Token
+* Next 1 million shares at US$ 25 per Token
+* Next 1 million shares at US$ 28 per Token
+* Next 1 million shares at US$ 31 per Token
 
-US$ 10.00 per Token for the first 1 million tokens, initially increasing by US$ 3.00 for every 1 million sold.
+* Thereafter, the Token price will increase in increments of 10% for each block of 1 million Tokens that are issued and sold.
 
-After 8 million tokens have sold in this way, the price increase per 1 million tokens equals 10% of the price of the previous batch.
+After December 2019, the Token price will trade based on market supply and demand.  An additional 1 million Tokens will be issued every time the Token price increases 10% from the Token price of the previous issuance.  For purposes of calculating this Token price threshold, the Foundation shall use the average Token price calculated over 5 consecutive trading days.  The resulting price for issuance of the 1 million new Tokens shall be equal to 10% above this 5 day average price.
+
+
+## Liquidity Mechanism
+
+During the period from the commencement of the Token offering until December 2019 (the Initial Period), Token Holders will be free to sell their Tokens on a priority basis before any new Tokens are issued by the Foundation.
+The liquidity mechanism (the Queue) prioritises Token sales as follows:
+1. Token Holders who have purchased Tokens in the Token offering have priority to sell their Tokens
+1. Founders have (pro rata) priority in the queue on only up to 20% of the Tokens they own.  If Founders sell 20% and wish to sell more they must go to the back of the Queue for the next 20% and so on
+1. Only after all the Token Holders are exhausted will the new Tokens be sold
+1. The price will not increase (or decrease) until the full 1 million newly issued Tokens are sold 
 
 ## Currencies Accepted
 
@@ -68,11 +90,11 @@ The Tokens are issued electronically via smart contract consisting of software c
 
 ## Listing
 
-The Tokens will be listed on multiple digital currency exchanges.
+The Tokens will be tradable on the Foundation’s private exchange.
 
 ## Follow-on Token Offerings
 
-The Foundation may issue new Tokens via follow-on Token Offerings to make further investments in Internet capacity on our global Grid and will from time to time sell Tokens to purchasers of Grid internet capacity.
+In addition to the Token Issuance Mechanism described above, the Foundation may issue new Tokens via follow-on Token Offerings to make further investments in Internet capacity on our global Grid and will from time to time sell Tokens to purchasers of Grid internet capacity.
 
 ## Foundation Governance and Management
 
