@@ -63,7 +63,7 @@ We do everything possible to protect your purchase of Tokens, we do this by maki
 You will have full insight on budgets of the Foundation and all progress we are making.
 We want to be a teal organization (means 100% transparent organization, more info soon).
 
-We always want to keep 12 months of cash buffer in the Foundation and we will make sure that the burnrate of the Foundation itself is low. Our team is paid in ThreeFold Tokens. The internet capacity is deployed through specially created legal vehicles which again operate in 100% transparency.
+We always want to keep 12 months of cash buffer in the Foundation and we will make sure that the burnrate of the Foundation itself is low. Our team is paid in ThreeFold Tokens. The internet capacity is deployed through specially created legal vehicles which again operate in 100% transparency. 
 
 We will work hard to support Tokens but we want you to realize that such an investment is never without risk. We are a startup and as such while we have all best intentions we cannot guarantee that Token prices will always be higher than at the point when you bought them.
 

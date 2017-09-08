@@ -40,12 +40,6 @@ Our Grid today is comprised mainly of infrastructure that operates our Zero OS o
 
 [Read more in our Zero-Node blog](/information/magical-zero-node/)
 
-### What do we mean when we say we enable “Uber for IT”?
-
-When we say “Uber for IT” we mean that we enable our Hosters to deploy their own IT infrastructure from their home or other location and sell compute and storage capacity Peer2Peer on our Grid.  Any Token Holder can invest in a Zero Node, connect to the Internet and automatically start selling capacity for Tokens. It’s like Uber - except our Zero Nodes drive themselves.
-
-[see our Uber for IT blog](/information/uber-for-internet-capacity/)
-
 ## Our Directory
 
 ### What is our Directory service?
@@ -54,7 +48,7 @@ Our Directory service is a global directory service running on top of our blockc
 
 ### When will I be able to use the Grid and Directory Service?
 
-Our Grid is already up and running. At the time of our Private Token Offering more than 200 Hosters and Operators are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via our Directory service. All purchases are made with Tokens.
+Our Grid is already up and running. At the time of our Public Token Offering more than 200 Hosters and Operators are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via our Directory service. All purchases are made with Tokens.
 
 ### What is the value of our Directory for Hosters and Operators?
 

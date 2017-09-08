@@ -19,7 +19,7 @@ Our Grid is the global network of IT infrastructure that is indexed by the Three
 <!-- please right this header title inside h2 tags because it overwrite with some ids -->
 
 
-Hosters include anyone hosting a Zero Node and accepting ThreeFold tokens as payment for the capacity they produce.  The primary responsibility of Hosters is to connect their Zero Nodes to the internet and make sure power is ok.  Hosters can buy pre-fabricated Zero Nodes or download the Zero-OS onto existing hardware they already own
+Hosters include anyone hosting a Zero-Node and accepting ThreeFold tokens as payment for the capacity they produce.  The primary responsibility of Hosters is to connect their Zero-Nodes to the internet and make sure power is ok.  Hosters can buy pre-fabricated Zero-Nodes or download the Zero-OS onto existing hardware they already own
 
 <h2>Operators</h2>
 <!-- please right this header title inside h2 tags because it overwrite with some ids -->
@@ -27,12 +27,15 @@ Operators deploy IT infrastructure and help build out our Grid.  The capacity pr
 
 ## ThreeFold App
 
-The App is a mobile application which integrates e-wallet.  The App allows TF Users to securely keep Tokens in their e-Wallet, send and receive Tokens, execute smart contracts, search our Directory for capacity and other administrative functions
+The App is a mobile application which integrates an e-wallet.  The App will allow TF Users to securely keep Tokens in their e-Wallet, send and receive Tokens, enter smart contracts, search our Directory for capacity and other administrative functions
 
+## ThreeFold Blockchain
+
+At PTO, we plan to issue our tokens in an ERC-20 compliant way. Over time we intend to migrate our Tokens to our own blockchain, called Rivine.io.
 
 ## Rivine.IO
 
-Our Tokens will be registered on our Rivine.io blockchain.  Our Rivine.io. blockchain is different from some of the other blockchains in that it is run on a separate dedicated pool of Zero Nodes and has numerous additional features including support for storage, secure execution environments, metadata servers and identity management.  The Foundation (through its 100% affiliated limited liability company) is responsible for running the blockchain
+Our Rivine.io. blockchain is different from some of the other blockchains in that it is run on a separate dedicated pool of Zero-Nodes and has numerous additional features including support for storage, secure execution environments, metadata servers and identity management.  The Foundation (through its 100% affiliated limited liability company) is responsible for running the blockchain
 
 ## ThreeFold Cockpit
 
@@ -52,10 +55,8 @@ The TF Exchange provides a spot rate exchange service for Token Holders.  The Ex
 
 ## ThreeFold Foundation
 
-The ThreeFold Foundation, a transparent tokenized organization with three primary objectives:  
-1. Using our Token to build a new, neutral, “Edge” Internet,
-2. Creating a digital currency with real utility backed by real assets and
-3. Empowering our Token Holders to work alongside us
+The Foundation’s long term objective is to migrate our Token firmly into the mainstream as a currency used to purchase IT and other services. The envisaged way to achieve this is by creating a virtuous cycle: Token sales help grow a global grid of IT capacity, and the global grid supports the use of the Token.
+ 
 
 ## ThreeFold Promoter
 
@@ -86,6 +87,6 @@ TF Token Holders fall into three broad categories:
 - Users.  Producers and purchasers of Internet capacity who use TF Tokens as the designated currency for Internet capacity sold on our Grid and
 - Believers.  Believers who endorse the Foundation’s core values and ambitions
 
-## Zero Node
+## Zero-Node
 
-A Zero Node is a node running the Foundation’s Zero-OS open-source software.  Zero Nodes are designed to be plug and play and “self driving” so they can be hosted by any Token Holder.  Our Rivine.io blockchain is run on a specific type of Zero Node
+A Zero-Node is a node running the Foundation’s Zero-OS open-source software.  Zero-Nodes are designed to be plug and play and “self driving” so they can be hosted by any Token Holder.  Our Rivine.io blockchain is run on a specific type of Zero-Node.

@@ -14,21 +14,21 @@ weight = 4
 
 ## Why should I buy Tokens?
 
-The reasons for investors to buy Tokens in the token offering include the following:
+The reasons for investors to buy Tokens in the private token offering include the following:
 
 * Good cause:  purchasers are helping us build a new neutral edge Internet
 * Potential upside: ThreeFold sits at the intersection of three of today’s most important technologies - Blockchain, Cloud Computing and Artificial Intelligence, and we believe that as our global Grid expands and the capacity available for sale grows, the demand for our Tokens will increas
-* Downside Protection and reduced volatility (ie Token price less likely to decrease substantially):  Our Tokens are backed by the full faith and credit and assets of our Foundation.  Our Technology and Grid are already up and running and we believe our Foundation and its assets represent significant value
+* Downside Protection and reduced volatility (ie Token price less likely to decrease substantially):  Our Tokens are backed by the grid deployed by the Foundation.  Our Technology and Grid are already up and running and we believe our Foundation and its assets represent significant value, including sufficient liquidity
 * High quality team with extensive technology and financial experience
 * Existing technology that is very well positioned for Edge networking and outperforms  leading technologies in many categories
 
 ## Why do we need a ThreeFold Token?
 
-Digital currencies are well on the way to full acceptance as a mainstream currency in the future.  Benefits include direct peer to peer transactions (requiring no intermediaries such as banks); greater trust (secured by cryptography and mathematics); lower friction charges; faster transaction times and no single point of failure.
+Decentralized digital currencies are well on the way to full acceptance as a mainstream currency in the future.  Benefits include direct peer to peer transactions (requiring no intermediaries such as banks); greater trust (secured by cryptography and mathematics); lower friction charges; faster transaction times and no single point of failure.
 
-Major problems remain, however, such as scalability issues, impossible energy requirements, certain perceived reputational issues - and most importantly, a general absence of intrinsic value collateralized by real assets.
+Major problems remain, however, such as scalability issues, impossible energy requirements, certain perceived reputational issues and, most importantly, a general absence of intrinsic value collateralized by real assets.
 
-We designed our Token as a scalable currency with real utility and intrinsic value backed by real assets.
+We designed our Token as a safe, scalable currency with real utility and intrinsic value backed by real assets.
 
 ## What are the Foundation’s objectives for the TF Token?
 
@@ -64,15 +64,18 @@ This utility is important because it generates additional demand, diversificatio
 
 # PTO = Private Token Offering
 
+[Read more about our PTO here](/pto).
+
+
 ## Why do we use the term PTO (unlike ICO)
 
 We refer to our token sale as a private token offering (PTO) instead of an initial coin offering (ICO).
 
-We believe our token offering is different from some of the other ICOs.  The Foundation is issuing ThreeFold Tokens to a limited number of identified individuals and legal entities via our Token Issuance Mechanism (explained below).  Also we are already up and running - our technology is fully developed (>10 years) and our Grid is already operational prior to the PTO.
+We believe our token offering is different from some of the other ICOs.  We are already up and running - our technology is fully developed (>10 years) and our Grid is already operational prior to the PTO.
 
 ## Where can I buy a Token?
 
-ThreeFold Tokens will be available for sale via our TF App.
+ThreeFold Tokens will be available for sale directly on our website during the PTO.
 
 One needs only sign up with our [ItsYou.Online](http://itsyou.online) identity management platform and open their e-Wallet on our App.
 
@@ -133,11 +136,12 @@ The Private Token Offering will be done Q4 2017.
 
 ## What will be my ROI if I buy token? What is your projection for the Token price?
 
-We don’t make any predictions or guarantees about ROIs. However, thanks to the utility of our Tokens as designated payment currency for Internet capacity sold on our Grid, we believe our Tokens will be supported by additional demand, volume and diversification.  Also our Tokens are backed by the Foundation - and we expect the Foundation’s value to grow rapidly.
+During the PTO, we only sell tokens at ever increasing prices in batches of 1 million tokens. We make no other predictions or guarantees. However, thanks to the utility of our Tokens as designated payment currency for Internet capacity sold on our Grid, we believe our Tokens will be supported by additional demand, volume and diversification.  Also our Tokens are backed by the Foundation - and we expect the Foundation’s value to grow rapidly.
 
 ##  Can I buy Tokens with bank transfer?
 
-Yes, you can buy Tokens with bank transfers (USD, GBP, CHF, EUR, YEN, AED), BTC and ETH.
+Yes, you can buy Tokens with bank transfers. USD, GBP, EUR at first, adding YEN, and CHF at a later date.
+We also allow BTC payments at first, adding ETH at a later date.
 
 ## Can I buy Tokens if I am in US or I am a US citizen?
 
@@ -145,14 +149,14 @@ No.
 
 # Guarantees & Safety
 
-## Can I reclaim assets owned by ThreeFold Foundation?
+## How does TF control the issuing of further tokens?
+
+The Foundation may issue new Tokens via follow-on Token Offerings to make further investments in Internet capacity on our global Grid and will from time to time sell Tokens to purchasers of Grid internet capacity. These follow-on Token offerings will always be at a strictly higher price than the preceding offering.
+
+
+## Can I reclaim assets owned by ThreeFold foundation?
 
 No. Token Holders should not expect to profit from reclaiming assets or cash from the Foundation. Profits for Token Holders should come from selling the Tokens at a price that is higher than the price at which the Token was purchased.
-
-
-## Strong Identity Management = ItsYou.Online (IYO)
-
-ItsYou.Online is our identity management platform using SMS, address and email to authenticate users. We believe ItsYou.Online’s relevance as an identity management tool extends far beyond Tokens and buying and selling IT capacity.
 
 ## KYC and AML Procedures
 
@@ -174,11 +178,11 @@ The Foundation will use the net proceeds of the PTO for working capital and to d
 
 ## Which blockchain is used? What is the issuing format for the ThreeFold Token?
 
-Our Tokens will be issued on our own blockchain called Rivine.io.
+At the PTO, our Tokens will be issued on Ethereum blockchain as ERC20 compliant Tokens.  Over time we intend to migrate our Tokens to our own blockchain called Rivine.io.
 
-## Where can I find smart contract code?
+## Where can I find the smart contract code?
 
-The ThreeFold Token Smart Contract is publicly available.
+The ThreeFold Token Smart Contract will be publicly available prior to the start of the PTO.
 
 ## Where can I find more technical information
 
