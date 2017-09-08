@@ -29,13 +29,10 @@ Operators deploy IT infrastructure and help build out our Grid.  The capacity pr
 
 The App is a mobile application which integrates e-wallet.  The App allows TF Users to securely keep Tokens in their e-Wallet, send and receive Tokens, execute smart contracts, search our Directory for capacity and other administrative functions
 
-## ThreeFold Blockchain
-
-At start  the TF Blockchain will be a standard Ethereum blockchain using ERC20 smart contracts.  Over time we intend to migrate our Tokens to our own blockchain called Rivine.io.
 
 ## Rivine.IO
 
-Our Rivine.io. blockchain is different from some of the other blockchains in that it is run on a separate dedicated pool of Zero Nodes and has numerous additional features including support for storage, secure execution environments, metadata servers and identity management.  The Foundation (through its 100% affiliated limited liability company) is responsible for running the blockchain
+Our Tokens will be registered on our Rivine.io blockchain.  Our Rivine.io. blockchain is different from some of the other blockchains in that it is run on a separate dedicated pool of Zero Nodes and has numerous additional features including support for storage, secure execution environments, metadata servers and identity management.  The Foundation (through its 100% affiliated limited liability company) is responsible for running the blockchain
 
 ## ThreeFold Cockpit
 
@@ -51,13 +48,13 @@ The Directory is a global directory service running on top of our blockchain tha
 
 ## ThreeFold Exchange
 
-The TF Exchange provides a spot rate exchange service for Token Holders.  The Exchange is linked to numerous digital currency exchanges and fiat payments providers.  The Exchange is fully integrated with the TF App and e-Wallet and can verify counterparties via itsyou.online
+The TF Exchange provides a spot rate exchange service for Token Holders.  The Exchange is fully integrated with the TF App, e-Wallet and Directory and can verify counterparties via itsyou.online
 
 ## ThreeFold Foundation
 
 The ThreeFold Foundation, a transparent tokenized organization with three primary objectives:  
 1. Using our Token to build a new, neutral, “Edge” Internet,
-2. Creating a safe digital currency with real utility backed by real assets and
+2. Creating a digital currency with real utility backed by real assets and
 3. Empowering our Token Holders to work alongside us
 
 ## ThreeFold Promoter
