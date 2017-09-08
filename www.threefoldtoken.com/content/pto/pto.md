@@ -41,15 +41,18 @@ Today there are 10,000,000 Tokens created and backed by the value of our Foundat
 
 ## Target Amount Offered
 
-We are organizing our Public Token Offering (PTO) to raise additional capital to deploy more capacity on our Grid.  We plan to issue up to 3,000,000 Tokens raising US $30 million of proceeds  
+We are organizing our Private Token Offering (PTO) to raise additional capital to deploy more capacity on our Grid. We plan to issue a variable number of tokens, but only at ever increasing prices. Formally, there is no target amount.
 
 ## Price per Unit
 
-US$ 10.00 per Token
+US$ 10.00 per Token for the first 1 million tokens, initially increasing by US$ 3.00 for every 1 million sold.
+
+After 8 million tokens have sold in this way, the price increase per 1 million tokens equals 10% of the price of the previous batch.
 
 ## Currencies Accepted
 
-USD, YEN, EUR, GBP, CHF, BTC and ETH
+Initially, we accept USD, EUR, GBP and BTC.
+At later stage, we will open up YEN, UAED, CHF and ETH.
 
 ## Use of Proceeds
 
