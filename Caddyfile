@@ -5,7 +5,7 @@ http://threefold2.aydo.com:4040 {
 
     git {
         repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
-        branch production
+        branch master
         interval 60
         key ~/.ssh/id_rsa
         path ../..
