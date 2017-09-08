@@ -14,7 +14,7 @@ weight = 4
 
 ## Why should I buy Tokens?
 
-The reasons for investors to buy Tokens in the public token offering include the following:
+The reasons for investors to buy Tokens in the token offering include the following:
 
 * Good cause:  purchasers are helping us build a new neutral edge Internet
 * Potential upside: ThreeFold sits at the intersection of three of today’s most important technologies - Blockchain, Cloud Computing and Artificial Intelligence, and we believe that as our global Grid expands and the capacity available for sale grows, the demand for our Tokens will increas
@@ -28,7 +28,7 @@ Digital currencies are well on the way to full acceptance as a mainstream curren
 
 Major problems remain, however, such as scalability issues, impossible energy requirements, certain perceived reputational issues - and most importantly, a general absence of intrinsic value collateralized by real assets.
 
-We designed our Token as a safe, scalable currency with real utility and intrinsic value backed by real assets.
+We designed our Token as a scalable currency with real utility and intrinsic value backed by real assets.
 
 ## What are the Foundation’s objectives for the TF Token?
 
@@ -59,20 +59,20 @@ By “backed”, we mean asset-backed. Each Token is collateralized by all of th
 
 ## Why do we say our Token has “utility” and why is this important?
 
-When we talk about “utility”, we mean that our Token has a designated “use” as the exclusive payment mechanism for buying and selling Internet capacity via our Directory on our Grid.  
+When we talk about “utility”, we mean that our Token has a designated “use” as the exclusive payment currency for buying and selling Internet capacity via our Directory on our Grid.  
 This utility is important because it generates additional demand, diversification, volumes and liquidity for Token Holders.  This is an important differentiator for our Token - as digital currencies today generally have limited utility.
 
-# PTO = Public Token Offering
+# PTO = Private Token Offering
 
 ## Why do we use the term PTO (unlike ICO)
 
-We refer to our token sale as a public token offering (PTO) instead of an initial coin offering (ICO).
+We refer to our token sale as a private token offering (PTO) instead of an initial coin offering (ICO).
 
-We believe our token offering is different from some of the other ICOs.  We are already up and running - our technology is fully developed (>10 years) and our Grid is already operational prior to the PTO.
+We believe our token offering is different from some of the other ICOs.  The Foundation is issuing ThreeFold Tokens to a limited number of identified individuals and legal entities via our Token Issuance Mechanism (explained below).  Also we are already up and running - our technology is fully developed (>10 years) and our Grid is already operational prior to the PTO.
 
 ## Where can I buy a Token?
 
-ThreeFold Tokens will be available for sale directly on our website during the PTO.
+ThreeFold Tokens will be available for sale via our TF App.
 
 One needs only sign up with our [ItsYou.Online](http://itsyou.online) identity management platform and open their e-Wallet on our App.
 
@@ -84,17 +84,48 @@ Today there are 10,000,000 Tokens created and backed by the value of our Foundat
 
 See bottom of our home page where you can see where existing capacity has been deployed.
 
-## How many tokens do we offer as part of our PTO?
+## What is the Token Issuance Mechanism?
 
-We are organizing our Public Token Offering to raise additional capital to deploy more capacity on our Grid. The Token sale will determine the final number of new Tokens issued. At present we are targeting up to 3 mio additional Tokens raising 30 mio USD.
+During the initial investment phase for our Grid through December 2019, we want to protect value for our Token Holders.  To do this we have created our Token Issuance Mechanism (the Mechanism) which protects the prescribes the Token price at which each tranche of Tokens shall be issued as follows:
+* First 1 million shares at US$ 10 per Token
+* Next 1 million shares at US$ 13 per Token
+* Next 1 million shares at US$ 16 per Token
+* Next 1 million shares at US$ 19 per Token
+* Next 1 million shares at US$ 22 per Token
+* Next 1 million shares at US$ 25 per Token
+* Next 1 million shares at US$ 28 per Token
+* Next 1 million shares at US$ 31 per Token
 
-## Will Tokens be freely tradable ?
+* Thereafter, the Token price will increase in increments of 10% for each block of 1 million Tokens that are issued and sold.
 
-Yes, the Tokens will be listed on multiple digital currency exchanges.
+After December 2019, the Token price will trade based on market supply and demand.  An additional 1 million Tokens will be issued every time the Token price increases 10% from the Token price of the previous issuance.  For purposes of calculating this Token price threshold, the Foundation shall use the average Token price calculated over 5 consecutive trading days.  The resulting price for issuance of the 1 million new Tokens shall be equal to 10% above this 5 day average price. 
+
+## Can the Token Issuance Mechanism be stopped? What is the process?
+
+The Token Issuance Mechanism can be stopped if a vote of 60% of the Ambassador Board elects to stop it
+
+
+## How will we create liquidity for Token Holders who wish to sell their Tokens?
+
+To protect our Token Holders and ensure that our Token issuance mechanism does not soak up all of the demand in the market, we have introduced a liquidity mechanism for the initial period from the commencement of the Token offering until December 2019 whereby:
+
+* Token Holders who have purchased Tokens in the Token offering have priority to sell their Tokens before any issuance of 
+* Founders also have (pro rata) priority in the Queue - but only up to 20% of the Tokens they own that are available for sale.  To sell more than 20%, Founders must go to the back of the queue
+* Only after all the sales from Token Holders are exhausted will the new Tokens be sold
+* The price will not increase until the full 1 million newly issued Tokens are sold
+
+The intention of the Foundation is that this system should enable sufficient liquidity for Token Holders who wish to sell Tokens during periods when the Foundation is issuing new Tokens
+
+## Can Token holders just send Tokens to other users of the app? 
+Yes.
+
+## On what exchange will the Tokens be listed?
+
+The Tokens will be tradable on the Foundation’s private exchange.
 
 ## When will the PTO be held.
 
-The Public Token Offering will be done Q4 2017.
+The Private Token Offering will be done Q4 2017.
 
 ## More details about the PTO
 
@@ -102,7 +133,7 @@ The Public Token Offering will be done Q4 2017.
 
 ## What will be my ROI if I buy token? What is your projection for the Token price?
 
-The Token price will be determined by open market - so we don’t make any predictions or guarantees. However, thanks to the utility of our Tokens as designated payment currency for Internet capacity sold on our Grid, we believe our Tokens will be supported by additional demand, volume and diversification.  Also our Tokens are backed by the Foundation - and we expect the Foundation’s value to grow rapidly.
+We don’t make any predictions or guarantees about ROIs. However, thanks to the utility of our Tokens as designated payment currency for Internet capacity sold on our Grid, we believe our Tokens will be supported by additional demand, volume and diversification.  Also our Tokens are backed by the Foundation - and we expect the Foundation’s value to grow rapidly.
 
 ##  Can I buy Tokens with bank transfer?
 
@@ -114,18 +145,7 @@ No.
 
 # Guarantees & Safety
 
-## How does TF control the issuing of further tokens?
-
-The management team of ThreeFold will suggest when it makes sense to issue more tokens. This will be based on a combination of following criteria
-
- - There is a concrete need for additional capacity in the grid.
- - Value of Tokens went up too quickly.
- - Not enough liquid Tokens (more demand than supply for allowing people to buy capacity)
-
-Majority is required on our boards (Foundation & Community) before issuing of tokens can happen.
-
-
-## Can I reclaim assets owned by ThreeFold foundation?
+## Can I reclaim assets owned by ThreeFold Foundation?
 
 No. Token Holders should not expect to profit from reclaiming assets or cash from the Foundation. Profits for Token Holders should come from selling the Tokens at a price that is higher than the price at which the Token was purchased.
 
@@ -154,7 +174,7 @@ The Foundation will use the net proceeds of the PTO for working capital and to d
 
 ## Which blockchain is used? What is the issuing format for the ThreeFold Token?
 
-At the PTO, our Tokens will be issued on Ethereum blockchain as ERC20 compliant Tokens.  Over time we intend to migrate our Tokens to our own blockchain called Rivine.io.
+Our Tokens will be issued on our own blockchain called Rivine.io.
 
 ## Where can I find smart contract code?
 
