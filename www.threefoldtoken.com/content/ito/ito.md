@@ -7,9 +7,9 @@ weight = 1
 
 # Timeline
 
-Our Initial Token Offering (ITO) will run through September 2017, or as soon as an amount corresponding to 5 million USD has been received from ITO investors, whichever occurs first.  
+Our Internal Token Offering (ITO) will run until an amount corresponding to 6 million USD has been received from ITO investors.  
 After that the price for Tokens will increase (as indicated below).  
-We plan our Public Token Offering for Q4 2017
+We plan our Private Token Offering for December 2017
 
 
 ![](../img/ITO-Timeline-from-presentation.png)
@@ -25,17 +25,15 @@ We plan our Public Token Offering for Q4 2017
 
 ## Price per Token
 
-The ITO price is a 50% discount to the Token price in our public token offering (PTO).
-We expect the starting PTO price to be USD 10 per Token - so the ITO price would be USD 5 per Token.
+The ITO price is $5 per Token.
 
 ## Lock-up Period
 
 Without consent from the Foundation, Internal Token Offering investors will not be allowed to sell their Tokens for a period of six months after the original investment.
 
-
 ## Target Amount
 
-We are issuing up to 1,000,000 Tokens for the Internal Token Offering (ITO).
+We are issuing up to 1,200,000 Tokens for the Internal Token Offering (ITO).
 
 ## Use of Proceeds for the ITO
 
@@ -49,14 +47,12 @@ The convertible note will have the following terms:
 
 - Maturity: 1 year
 - Coupon: 2% non-cash, accruing
-- Optional Conversion:  optional conversion by the Investor into TF Tokens at the time of the Threefold Foundation Public Token Offering
-- Conversion Price:  The note will convert into Tokens at a price equal to 50% of the public token offering price.  We expect the PTO to be priced at USD 10 per Token - so ITO investors would convert at USD 5.
+- Mandatory Conversion:  mandatory conversion  into TF Tokens at the time of the Threefold Foundation Private Token Offering
+- Conversion Price:  The note will convert into Tokens at a price equal to USD 5 per Token.
 
 ## What is the process to buy tokens?
 
-The process to buy tokens is very straightforward - exactly like a friends and family venture capital investment round.
-
-If you are interested to buy tokens please review the links below.
+ITO Tokens can be purchased via our TF App.  The process is very straightforward - exactly like a friends and family venture capital investment round.
 
 You can invest using Bitcoin or Ether or by wire transfer to our bank account.
 
