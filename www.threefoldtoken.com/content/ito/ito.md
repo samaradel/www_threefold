@@ -12,8 +12,6 @@ After that the price for Tokens will increase (as indicated below).
 We plan our Private Token Offering for December 2017
 
 
-![](../img/ITO-Timeline-from-presentation.png)
-
 # SUMMARY OFFERING TERMS
 
 ## What is a ThreeFold Token?
