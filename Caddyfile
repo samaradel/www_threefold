@@ -1,4 +1,4 @@
-http://threefold2.com:88, http://www.threefold2.com:88 {
+http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
     bind 0.0.0.0
     gzip
     root www.threefoldtoken.com/en
@@ -21,7 +21,7 @@ http://threefold2.com:88, http://www.threefold2.com:88 {
         client_secret   Pb5LV6eoQqqdJx_x2kIOFe7BA5xOLGxZaBaFO1_2HggGyK4GAj3x
         auth_url        https://itsyou.online/v1/oauth/authorize
         token_url       https://itsyou.online/v1/oauth/access_token
-        redirect_url    http://threefold2.com:88/oauth/callback
+        redirect_url    http://threefoldtoken.com:88/oauth/callback
 
         authentication_required /
         allow_extension css
