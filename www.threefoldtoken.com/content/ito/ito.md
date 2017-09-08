@@ -41,7 +41,7 @@ The Foundation will use the net proceeds of the ITO for working capital and to d
 
 ## Convertible Note Terms
 
-Your investment in Tokens will take the form of a convertible note in BetterToken BVBA (our onboarding vehicle in Belgium).  At the time of the Threefold Public Token Offering, the note will be convertible into TF Tokens.
+Your investment in Tokens will take the form of a convertible note in BetterToken BVBA (our onboarding vehicle in Belgium).  At the time of the Threefold Private Token Offering, the note will be convertible into TF Tokens.
 
 The convertible note will have the following terms:
 
