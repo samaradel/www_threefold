@@ -71,4 +71,4 @@ Open issues we are also working on
 * [Internal Token Offering page](/ito/)
 * [Ambassador page](/ambassador/)
 * [Presentation](http://tiny.cc/threefold_intro)
-* [White Paper](http://tiny.cc/tf_whitepaper_pto)
+* White Paper is coming soon
