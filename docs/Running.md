@@ -1,40 +1,14 @@
 ## Pre-requisites
 
-**Install Go programming language**
-- ```wget -c https://storage.googleapis.com/golang/go1.8.3.linux-amd64.tar.gz```
-- ```tar -C /usr/local -xzf go1.8.3.linux-amd64.tar.gz```
-- ```mkdir -p ~/go/src```
-- ```mkdir -p ~/go/bin```
-- Edit ```/etc/profile``` and append ```export PATH=$PATH:/usr/local/go/bin:~/go/bin```
-- open up another terminal than current one, and try the command ```go``` it should work
+- install bash tools:
 
-**Install git**
-- ```apt-get install git```
+https://github.com/Jumpscale/bash
 
-**Install [hugo](https://gohugo.io)**
+```bash
+ZInstall_docgenerator
+```
 
-[hugo](https://gohugo.io) is a framework for static files generation
-
-- ```go get -v github.com/gohugoio/hugo```
-- ```go get -u -v github.com/gohugoio/hugo```
-
-
-**Install [caddy](https://github.com/mholt/caddy)**
-
-A Fast, cross-platform HTTP/2 web server with automatic HTTPS
-
-- ```go get -u -v github.com/mholt/caddy```
-
-**Install required [caddy](https://github.com/mholt/caddy) plugins**
-
-We use [Caddyman](https://github.com/itsyouonline/caddyman) which is a simple
-caddy server manager that allows us to install plugins
-
-- ```git clone https://github.com/itsyouonline/caddyman```
-- ```cd caddyman```
-- ```chmod u+x caddyman.sh```
-- Install [Caddy git plugin](https://github.com/abiosoft/caddy-git) ```./caddyman.sh install git```
-- Install [Caddy IYO plugin](https://github.com/itsyouonline/caddy-integration) ```./caddyman.sh install iyo```
+## get the threefold web code
 
 **Run Threefold website locally**
 
