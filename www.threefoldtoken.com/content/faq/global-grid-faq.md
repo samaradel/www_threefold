@@ -19,7 +19,7 @@ The Internet has a USD Trillion problem. Today demand for Internet capacity is f
 
 The existing hyperscale cloud infrastructure cannot cope with this outsize demand as the requirements for land, power and funding are just too great. We (and most other experts) believe the solution to these $trillion problems is migration of IT capacity to the Edge - ie a “hyper-distributed” network infrastructure.
 
-For more on this see [“Why do we need a new Internet” blog post](/information/need-for-new-neutral-internet/), you can also find some more info in our [PTO whitepaper](http://tiny.cc/tf_whitepaper_pto)
+For more on this see [“Why do we need a new Internet” blog post](/information/need-for-new-neutral-internet/).
 
 ### What is our Grid?
 
