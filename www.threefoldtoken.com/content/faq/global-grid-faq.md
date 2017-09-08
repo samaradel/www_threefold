@@ -54,7 +54,7 @@ Our Directory service is a global directory service running on top of our blockc
 
 ### When will I be able to use the Grid and Directory Service?
 
-Our Grid is already up and running. At the time of our Public Token Offering more than 200 Hosters and Operators are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via our Directory service. All purchases are made with Tokens.
+Our Grid is already up and running. At the time of our Private Token Offering more than 200 Hosters and Operators are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via our Directory service. All purchases are made with Tokens.
 
 ### What is the value of our Directory for Hosters and Operators?
 
