@@ -4,6 +4,9 @@
 - guardian: Andreas
 
 
+## Technical
+Looking for server access, hugo installation or technical support - [click here](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/technical.md).
+
 ## Information
 
 The new threefold website is being created using hugo/git.
