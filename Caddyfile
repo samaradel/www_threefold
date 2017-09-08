@@ -21,7 +21,7 @@ http://threefold2.aydo.com:4040 {
         client_secret   Pb5LV6eoQqqdJx_x2kIOFe7BA5xOLGxZaBaFO1_2HggGyK4GAj3x
         auth_url        https://itsyou.online/v1/oauth/authorize
         token_url       https://itsyou.online/v1/oauth/access_token
-        redirect_url    http://www.threefoldtoken.com/oauth/callback
+        redirect_url    http://threefold2.aydo.com:4040/oauth/callback
 
         authentication_required /
         allow_extension css
