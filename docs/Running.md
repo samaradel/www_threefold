@@ -10,64 +10,55 @@ ZInstall_docgenerator
 
 ## get the threefold web code
 
-**Run Threefold website locally**
+```bash
+#login into created docker
+ZSSH 
+#get this code
+js9_code get --url ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
+```
 
-- You need to have SSH access to [Website repo](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0)
-    -  ```ssh-keygen -t rsa -b 4096 -C "hamdy.a.farag@gmail.com"```
-    - ``` apt-get install xclip```
-    - Copy public key ```xclip -sel clip < ~/.ssh/id_rsa.pub```
-    - Open ```https://docs.greenitglobe.com/user/settings/ssh``` then cliek *add key* then paste & save.
+## if you want to expose website externally
 
-- ```git clone ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git```
-- ```cd www_threefold2.0/```
-- Edit ```Caddyfile``` add the following directive which enables
-    [IYO](https://itsyou.online) support, and don't forget to change client_id & client_secret
+```bash
+#install grok
+wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+unzip ngrok-stable-linux-amd64.zip
+mv ngrok /usr/local/bin/
+rm -f ngrok*
+cd /opt/code/docs/threefold/www_threefold2.0
+```
+
+sign up with ngrok
+go to
+
+- https://dashboard.ngrok.com/get-started
+
+instructions are there
 
 ```
-    oauth {
-            # itsyou.online client ID
-            client_id       mylab
+ngrok authtoken ...yourtoken...
+#start next in a tmux session
+ngrok http 443
+```
 
-            # itsyou.online client secret
-            client_secret   fHfT3yBlZXlNRAbOSVw-PLZI2y9HgqcA0IVzXXXXXXXXXXXXXXX
+you will see something like
 
-            # oauth auth url
-            # leave it blank for default value
-            # default value : https://itsyou.online/v1/oauth/authorize
-            auth_url        https://itsyou.online/v1/oauth/authorize
+```
+...
+Forwarding                    https://ca518f09.ngrok.io -> localhost:443
+...
+```
 
-            # oauth2 access token URL
-            # leave it blank for default value
-            # default value : https://itsyou.online/v1/oauth/access_token
-            token_url       https://itsyou.online/v1/oauth/access_token
+this shows you the adddress to use
 
-            # oauth2 redirect URL
-            redirect_url    http://localhost:2015/_iyo_callback
 
-            # Organizations allowed to access the protected paths
-            # leave it blank if you want to ignore it
-            organizations   /developer  mylab.developer
-            organizations   /manager    mylab.manager
 
-            # usernames allowed to access this protected paths
-            # leave it blank to allow all usernames
-            # - each username need to be separated with `,`
-            # - you can specify it in multiple lines
-            usernames       /manager    iwan
 
-            # Everyone is allowed to access this path but authentication is required.
-            # It is possible to specify this multiple times.
-            authentication_required /
 
-            # login_page to which the user will be redirected when trying to access authentication_required pages
-            # leave blank if you need the users to be redirected to IYO page directly
-            login_page  /login
 
-            # login url is the URL that will redirect the user to itsyou.online login page
-            # it can be used if you need to create login button
-            login_url   /oauth
-        }
- ```
+## start the website
+
+
  - Run command ```caddy``` from within www_threefold2.0.git directory
 
 

@@ -7,9 +7,9 @@ weight = 1
 
 # Timeline
 
-Our Initial Token Offering (ITO) will run through September 2017, or as soon as an amount corresponding to 5 million USD has been received from ITO investors, whichever occurs first.  
+Our Internal Token Offering (ITO) will run until an amount corresponding to 6 million USD has been received from ITO investors.  
 After that the price for Tokens will increase (as indicated below).  
-We plan our Public Token Offering for Q4 2017
+We plan our Private Token Offering for December 2017
 
 
 ![](../img/ITO-Timeline-from-presentation.png)
@@ -25,17 +25,15 @@ We plan our Public Token Offering for Q4 2017
 
 ## Price per Token
 
-The ITO price is a 50% discount to the Token price in our public token offering (PTO).
-We expect the starting PTO price to be USD 10 per Token - so the ITO price would be USD 5 per Token.
+The ITO price is $5 per Token.
 
 ## Lock-up Period
 
 Without consent from the Foundation, Internal Token Offering investors will not be allowed to sell their Tokens for a period of six months after the original investment.
 
-
 ## Target Amount
 
-We are issuing up to 1,000,000 Tokens for the Internal Token Offering (ITO).
+We are issuing up to 1,200,000 Tokens for the Internal Token Offering (ITO).
 
 ## Use of Proceeds for the ITO
 
@@ -43,20 +41,18 @@ The Foundation will use the net proceeds of the ITO for working capital and to d
 
 ## Convertible Note Terms
 
-Your investment in Tokens will take the form of a convertible note in BetterToken BVBA (our onboarding vehicle in Belgium).  At the time of the Threefold Public Token Offering, the note will be convertible into TF Tokens.
+Your investment in Tokens will take the form of a convertible note in BetterToken BVBA (our onboarding vehicle in Belgium).  At the time of the Threefold Private Token Offering, the note will be convertible into TF Tokens.
 
 The convertible note will have the following terms:
 
 - Maturity: 1 year
 - Coupon: 2% non-cash, accruing
-- Optional Conversion:  optional conversion by the Investor into TF Tokens at the time of the Threefold Foundation Public Token Offering
-- Conversion Price:  The note will convert into Tokens at a price equal to 50% of the public token offering price.  We expect the PTO to be priced at USD 10 per Token - so ITO investors would convert at USD 5.
+- Mandatory Conversion:  mandatory conversion  into TF Tokens at the time of the Threefold Foundation Private Token Offering
+- Conversion Price:  The note will convert into Tokens at a price equal to USD 5 per Token.
 
 ## What is the process to buy tokens?
 
-The process to buy tokens is very straightforward - exactly like a friends and family venture capital investment round.
-
-If you are interested to buy tokens please review the links below.
+ITO Tokens can be purchased via our TF App.  The process is very straightforward - exactly like a friends and family venture capital investment round.
 
 You can invest using Bitcoin or Ether or by wire transfer to our bank account.
 
@@ -67,7 +63,7 @@ We do everything possible to protect your purchase of Tokens, we do this by maki
 You will have full insight on budgets of the Foundation and all progress we are making.
 We want to be a teal organization (means 100% transparent organization, more info soon).
 
-We always want to keep 12 months of cash buffer in the Foundation and we will make sure that the burnrate of the Foundation itself is low. Our team is paid in ThreeFold Tokens. The internet capacity is deployed through specially created legal vehicles which again operate in 100% transparency.
+We always want to keep 12 months of cash buffer in the Foundation and we will make sure that the burnrate of the Foundation itself is low. Our team is paid in ThreeFold Tokens. The internet capacity is deployed through specially created legal vehicles which again operate in 100% transparency. 
 
 We will work hard to support Tokens but we want you to realize that such an investment is never without risk. We are a startup and as such while we have all best intentions we cannot guarantee that Token prices will always be higher than at the point when you bought them.
 

@@ -62,11 +62,7 @@ The Ambassador Board is less active than the Foundation Board - with only two sc
 
 The primary function of the Community Board is to vote by simple majority on certain well-defined Decision Proposals (DP’s) that protect Token Holders.
 
-The following Decision Proposals always need a majority vote on Community Board
-
-* issue new Tokens
-* replace/add/remove an Ambassador Board member (this specific Decision Proposal can only be created by chairman of Foundation Board).
-This list will be made bigger by the Ambassador Board when required.
+Certain Decision Proposals always need a majority vote on Community Board such as replacing or removing an Ambassador Board member (this specific Decision Proposal can only be created by chairman of Foundation Board).
 
 If the Community Board votes >50.1% in favor, then the Decision Proposal passes, if the Community Board votes no then the Decision Proposal fails.
 
