@@ -4,7 +4,7 @@ title = "ito header"
 header = "INTERNAL TOKEN OFFERING (ITO)"
 subtitle_1 = "Before its Private Token Offering (PTO), the Threefold Foundation is launching an Internal Token Offering (ITO)"
 subtitle_2 = "for friends, family and ambassadors."
-subtitle_3 = "The ITO will raise up to USD 4 million. The Token price will be at a 50% discount to the final PTO price"
+subtitle_3 = "The ITO will raise up to USD 6 million. The ITO Token price will 5 USD"
 
 button_name_1 = "Threefold Foundation Presentation"
 button_link_1 = "http://tiny.cc/tf_preso_investors"
