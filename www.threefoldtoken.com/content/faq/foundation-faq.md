@@ -16,7 +16,7 @@ The Foundation’s long term objective is to migrate our Token firmly into the m
 
 The ThreeFold Foundation, a transparent tokenized organization with three primary objectives:  
 - Using our Token to build a new, neutral, “Edge” Internet,
-- Creating a safe digital currency with real utility backed by real assets and
+- Creating a digital currency with real utility backed by real assets and
 - Empowering our Token Holders to work alongside us
 
 ## What is the Corporate Structure of the Foundation?
