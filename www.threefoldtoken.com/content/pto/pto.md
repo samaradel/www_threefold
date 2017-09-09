@@ -55,7 +55,7 @@ After 6 million tokens have sold in this way, implying 1 million tokens has been
 ## Currencies Accepted
 
 Initially, we accept USD, EUR, GBP and BTC.
-At later stage, we will open up YEN, UAED, CHF and ETH.
+At a later stage, we will open up YEN, UAED, CHF and ETH.
 
 ## Use of Proceeds
 
