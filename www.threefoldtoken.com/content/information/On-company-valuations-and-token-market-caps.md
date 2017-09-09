@@ -1,6 +1,6 @@
 +++
 
-#Don't remove name! title = "information" header = "On company valuations and token market caps" image = "balance.jpg" author = "Andreas Hartl" subtitle = "More about our backing model" weight = 8
+#Don't remove name! title = "information" header = "On company valuations and token market caps" image = "10x-times-power.jpg" author = "Andreas Hartl" subtitle = "More about our backing model" weight = 8
 
 +++
 
