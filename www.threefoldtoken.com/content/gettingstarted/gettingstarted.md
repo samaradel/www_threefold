@@ -25,7 +25,7 @@ We have telegram groups where you can follow the most up to date information (wi
 * [Hosters News](https://t.me/joinchat/AAAAAEPSd8PsThH7c1vlLg)
 * [Ambassadors Forum](https://t.me/joinchat/BwOvO0O05_taMGWoT1jLhA)
 
-## news
+## News
 
 Status
 
@@ -34,28 +34,20 @@ Status
 * We have about 120 hosters for our blockchain (we need at least 80 more)
 * We are on track to have more than 100m USD committed internet capacity before oct-nov.
 
-The Threefold app is almost ready
+The first version of the Threefold app is ready! It is available on both the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token).
 
-* We almost have our Threefold app ready, once usable & tested we will use this app to replace above news groups.
-* will be used
-    * for the process for our hosters (onboarding, shipping, acceptance, ...)
-    * to sign & distribute the contracts and terms & conditions
-    * to communicate (chat & news)
-    * ... so much more ...
+In the future we will use this app to replace above news groups.
+It will be used for 
+    - our hosters (onboarding, shipping, acceptance, ...)
+    - our investors (automatically created contracts)
+    - to sign & distribute the contracts and terms & conditions
+    - to communicate (chat & news)
 
-The onboarding process for hosters & ITO is almost done
 
-* We are going to use our threefold app for the hosters onboarding process as well as the Internal Token Offering.
-* We will let you know when we are ready
+Open issues we are working on
 
-Still open issues before we can do the ITO
-
-* ThreeFold app needs to be ready
 * We need Orrick to check all the legal documents again & make sure we are in order with the SEC rules about securities
 * We need oral confirmation for at least 200 hosters (we have the hardware ready to be shipped)
-
-Open issues we are also working on
-
 * more tech info about the technology
 * more info about the business case for capacity
 * start populating the pages for ambassadors & hosters
