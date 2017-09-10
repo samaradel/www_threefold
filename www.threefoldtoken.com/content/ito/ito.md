@@ -7,9 +7,9 @@ weight = 1
 
 # Timeline
 
-Our Internal Token Offering (ITO) will run until an amount corresponding to 6 million USD has been received from ITO investors.  
+Our Internal Token Offering (ITO) will run until an amount corresponding to 5 million USD has been received from ITO investors.  
 After that the price for Tokens will increase (as indicated below).  
-We plan our Private Token Offering for December 2017
+We plan our Private Token Offering for November 2017
 
 
 ![](../img/ITO-Timeline-from-presentation.png)
@@ -33,7 +33,7 @@ Without consent from the Foundation, Internal Token Offering investors will not 
 
 ## Target Amount
 
-We are issuing up to 1,200,000 Tokens for the Internal Token Offering (ITO).
+We are issuing up to 1,000,000 Tokens for the Internal Token Offering (ITO).
 
 ## Use of Proceeds for the ITO
 
@@ -54,7 +54,7 @@ The convertible note will have the following terms:
 
 ITO Tokens can be purchased via our TF App.  The process is very straightforward - exactly like a friends and family venture capital investment round.
 
-You can invest using Bitcoin or Ether or by wire transfer to our bank account.
+You can invest using Bitcoin or by wire transfer to our bank account.
 
 ## Disclaimer
 
