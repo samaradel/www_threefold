@@ -20,7 +20,7 @@ We are planning online & face2face sessions
 * we are also organizing face2face meetings where we can meet & brainstorm about the future as well as exchange lots of info.
 * **Please subscribe to one of our sessions:** [register here](http://tiny.cc/tff_meeting_form)
 
-We have telegram groups where you can follow the most up to date information (will be replaced soon)
+We have telegram groups where you can follow the most up to date information (will be replaced soon by the News function in the ThreeFold app)
 
 * [Internal Token Offering News](https://t.me/joinchat/AAAAAEOvYSgYr4fhcGcDlQ)
 * [Internal Token Offering Forum, you can post your own messages](https://t.me/joinchat/BwOvO0M1I7QhcOlg1ajCuw)
