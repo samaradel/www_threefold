@@ -8,11 +8,8 @@ weight = 1
 # Timeline
 
 Our Internal Token Offering (ITO) will run until an amount corresponding to 5 million USD has been received from ITO investors.  
-After that the price for Tokens will increase (as indicated below).  
+After that the price for Tokens will increase.  
 We plan our Private Token Offering for November 2017
-
-
-![](../img/ITO-Timeline-from-presentation.png)
 
 # SUMMARY OFFERING TERMS
 
