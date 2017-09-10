@@ -10,7 +10,7 @@ Please make sure you read our [Idea page](/) first.
 
 ## How to become part of our movement.
 
-As a first step please register on [following form](http://tiny.cc/threefold_registration), **this is important for us, it allows us to help you to get started**
+As a first step please download the first version of the Threefold app. It is available on both the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token). It wil allow you to become a member of our organization.
 
 We are planning online & face2face sessions
 
