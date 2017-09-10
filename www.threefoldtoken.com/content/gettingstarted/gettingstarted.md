@@ -10,7 +10,9 @@ Please make sure you read our [Idea page](/) first.
 
 ## How to become part of our movement.
 
-As a first step please download the first version of the Threefold app. It is available on both the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token). It wil allow you to become a member of our organization.
+As a first step please download the first version of the Threefold app. It is available on both the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token). It wil allow you to become a member of our organization, become a hoster and hlep us draw up a contract if you want to become an investor during the internal token offering.
+
+In order to have an internal token offering, we decided to work on an invitation only basis. You should be able to get an invitation code from the person who introduced you to ThreeFold.
 
 We are planning online & face2face sessions
 
