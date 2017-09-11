@@ -11,7 +11,6 @@ Our Internal Token Offering (ITO) will run until an amount corresponding to 5 mi
 After that the price for Tokens will increase.  
 We plan our Private Token Offering for December 2017
 
->>>>>>> production
 # SUMMARY OFFERING TERMS
 
 ## What is a ThreeFold Token?

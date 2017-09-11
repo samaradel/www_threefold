@@ -108,13 +108,7 @@ We currently plan to reserve 5% of the proceeds from the sale of Tokens to cover
 
 ## More Info
 
-<<<<<<< HEAD
-- White Paper coming soon...
-=======
 - White Paper is coming soon.
->>>>>>> production
 - [Foundation Governance](/governance)
 - [Foundation FAQ](/faq/foundation-faq/)
 - [Token FAQ](/faq/token-faq/)
-
-
