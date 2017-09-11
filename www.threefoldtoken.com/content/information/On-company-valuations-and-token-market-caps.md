@@ -1,15 +1,21 @@
 +++
 
-#Don't remove name! title = "information" header = "On company valuations and token market caps" image = "10x-times-power.jpg" author = "Andreas Hartl" subtitle = "More about our backing model" weight = 8
+#Don't remove name!
+title = "information"
+header = "On company valuations and token market caps"
+image = "balance.jpg"
+author = "Andreas Hartl"
+subtitle = "More about our backing model"
+weight = 14
 
 +++
 
 On company valuations and token market caps
 ---
 > We wanted to make a safe digital currency that is rooted in true value, both physically and ethically. We think we managed to do that.
-> 
+>
 > We did so by linking our ThreeFold Token to an internet capacity providing global grid, run by a foundation that has an implied valuation of more than the total market cap of all ThreeFold Tokens in existence. The technology keeping this grid up and running will be open source, increasing transparency and neutrality. It will also be very power efficient, resulting in cost effective internet capacity.
-> 
+>
 > The token sale will start a virtuous cycle: The proceeds kickstart the deployment of our Grid, and the tokens serve as the sole means of payment to pay for capacity on our Grid.
 
 ### The ThreeFold Token and ThreeFold Foundation
@@ -18,7 +24,7 @@ We imagined ThreeFold Token with a seemingly simple goal in mind: To make a wide
 
 The Threefold Foundation will deploy internet server technology that is up to ten times more power-efficient than current technology. This implies we are able to run efficiently on a wide range of hardware, while offering capacity living up to current expectations at attractive pricepoints. This capacity can be sold to IT companies and other users profitably.
 
-Sell capacity on our Grid happens via our machine to machine Directory service. Purchases of computing capacity via our Directory service can only be transacted using our Tokens, providing guaranteed and seamless transactions without concerns about currency fluctuations or other factors. 
+Sell capacity on our Grid happens via our machine to machine Directory service. Purchases of computing capacity via our Directory service can only be transacted using our Tokens, providing guaranteed and seamless transactions without concerns about currency fluctuations or other factors.
 
 
 #### Token backing
