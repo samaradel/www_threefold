@@ -10,7 +10,9 @@ Please make sure you read our [Idea page](/) first.
 
 ## How to become part of our movement.
 
-As a first step please register on [following form](http://tiny.cc/threefold_registration), **this is important for us, it allows us to help you to get started**
+As a first step please download the first version of the Threefold app. It is available on both the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token). It wil allow you to become a member of our organization, become a hoster and help us draw up a contract if you want to become an investor during the internal token offering.
+
+In order to have an internal token offering, we decided to work on an invitation only basis. You should be able to get an invitation code from the person who introduced you to ThreeFold.
 
 We are planning online & face2face sessions
 
@@ -18,14 +20,14 @@ We are planning online & face2face sessions
 * we are also organizing face2face meetings where we can meet & brainstorm about the future as well as exchange lots of info.
 * **Please subscribe to one of our sessions:** [register here](http://tiny.cc/tff_meeting_form)
 
-We have telegram groups where you can follow the most up to date information (will be replaced soon)
+We have telegram groups where you can follow the most up to date information (will be replaced soon by the News function in the ThreeFold app)
 
 * [Internal Token Offering News](https://t.me/joinchat/AAAAAEOvYSgYr4fhcGcDlQ)
 * [Internal Token Offering Forum, you can post your own messages](https://t.me/joinchat/BwOvO0M1I7QhcOlg1ajCuw)
 * [Hosters News](https://t.me/joinchat/AAAAAEPSd8PsThH7c1vlLg)
 * [Ambassadors Forum](https://t.me/joinchat/BwOvO0O05_taMGWoT1jLhA)
 
-## news
+## News
 
 Status
 
@@ -34,28 +36,20 @@ Status
 * We have about 120 hosters for our blockchain (we need at least 80 more)
 * We are on track to have more than 100m USD committed internet capacity before oct-nov.
 
-The Threefold app is almost ready
+The first version of the Threefold app is ready! It is available on both the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token).
 
-* We almost have our Threefold app ready, once usable & tested we will use this app to replace above news groups.
-* will be used
-    * for the process for our hosters (onboarding, shipping, acceptance, ...)
+In the future we will use this app to replace above news groups.
+It will be used for
+    * our hosters (onboarding, shipping, acceptance, ...)
+    * our investors (automatically created contracts)
     * to sign & distribute the contracts and terms & conditions
     * to communicate (chat & news)
-    * ... so much more ...
 
-The onboarding process for hosters & ITO is almost done
 
-* We are going to use our threefold app for the hosters onboarding process as well as the Internal Token Offering.
-* We will let you know when we are ready
+Open issues we are working on
 
-Still open issues before we can do the ITO
-
-* ThreeFold app needs to be ready
 * We need Orrick to check all the legal documents again & make sure we are in order with the SEC rules about securities
 * We need oral confirmation for at least 200 hosters (we have the hardware ready to be shipped)
-
-Open issues we are also working on
-
 * more tech info about the technology
 * more info about the business case for capacity
 * start populating the pages for ambassadors & hosters
@@ -66,8 +60,6 @@ Open issues we are also working on
 ## Links to our information
 
 * [Home page of website](/)
-* [Registration Form](http://tiny.cc/threefold_registration)
-* [Online/face2face meeting form](http://tiny.cc/tff_meeting_form)
 * [Internal Token Offering page](/ito/)
 * [Ambassador page](/ambassador/)
 * [Presentation](http://tiny.cc/threefold_intro)

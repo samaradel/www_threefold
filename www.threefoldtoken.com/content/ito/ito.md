@@ -7,11 +7,11 @@ weight = 1
 
 # Timeline
 
-Our Internal Token Offering (ITO) will run until an amount corresponding to 6 million USD has been received from ITO investors.  
-After that the price for Tokens will increase (as indicated below).  
-We plan our Private Token Offering for December 2017.
+Our Internal Token Offering (ITO) will run until an amount corresponding to 5 million USD has been received from ITO investors.  
+After that the price for Tokens will increase.  
+We plan our Private Token Offering for December 2017
 
-
+>>>>>>> production
 # SUMMARY OFFERING TERMS
 
 ## What is a ThreeFold Token?
@@ -31,7 +31,7 @@ Without consent from the Foundation, Internal Token Offering investors will not 
 
 ## Target Amount
 
-We are issuing up to 1,200,000 Tokens for the Internal Token Offering (ITO).
+We are issuing up to 1,000,000 Tokens for the Internal Token Offering (ITO).
 
 ## Use of Proceeds for the ITO
 
@@ -52,7 +52,7 @@ The convertible note will have the following terms:
 
 ITO Tokens can be purchased via our TF App.  The process is very straightforward - exactly like a friends and family venture capital investment round.
 
-You can invest using Bitcoin or Ether or by wire transfer to our bank account.
+You can invest using Bitcoin or by wire transfer to our bank account.
 
 ## Disclaimer
 
@@ -61,7 +61,7 @@ We do everything possible to protect your purchase of Tokens, we do this by maki
 You will have full insight on budgets of the Foundation and all progress we are making.
 We want to be a teal organization (means 100% transparent organization, more info soon).
 
-We always want to keep 12 months of cash buffer in the Foundation and we will make sure that the burnrate of the Foundation itself is low. Our team is paid in ThreeFold Tokens. The internet capacity is deployed through specially created legal vehicles which again operate in 100% transparency. 
+We always want to keep 12 months of cash buffer in the Foundation and we will make sure that the burnrate of the Foundation itself is low. Our team is paid in ThreeFold Tokens. The internet capacity is deployed through specially created legal vehicles which again operate in 100% transparency.
 
 We will work hard to support Tokens but we want you to realize that such an investment is never without risk. We are a startup and as such while we have all best intentions we cannot guarantee that Token prices will always be higher than at the point when you bought them.
 
