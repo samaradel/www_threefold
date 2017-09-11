@@ -1,62 +1,52 @@
-http://threefold2.aydo.com:4040 {
-  bind 0.0.0.0
-  gzip
-  root www.threefoldtoken.com/en
+http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
+    bind 0.0.0.0
+    gzip
+    root www.threefoldtoken.com/en
 
-#  git {
-#    repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold.git
-#    branch master
-#    interval 60
-#    key ~/.ssh/id_rsa
-#    path ../../../www_threefold/
-#    then ./update.sh
-#  }
+    git {
+        repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
+        branch production
+        interval 60
+        key ~/.ssh/id_rsa
+        path ../..
+        then hugo -s  www.threefoldtoken.com
+    }
 
-  git {
-    repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
-    branch master
-    interval 60
-    key ~/.ssh/id_rsa
-    path ../..
-    then hugo -s  www.threefoldtoken.com
-  }
+    errors {
+    	404 404.html # Not Found
+    }
 
-  errors {
-  404 404.html # Not Found
-  }
+    oauth {
+        client_id       threefold
+        client_secret   Pb5LV6eoQqqdJx_x2kIOFe7BA5xOLGxZaBaFO1_2HggGyK4GAj3x
+        auth_url        https://itsyou.online/v1/oauth/authorize
+        token_url       https://itsyou.online/v1/oauth/access_token
+        redirect_url    http://www.threefoldtoken.com/oauth/callback
 
-  oauth {
-    client_id       threefold
-    client_secret   Pb5LV6eoQqqdJx_x2kIOFe7BA5xOLGxZaBaFO1_2HggGyK4GAj3x
-    auth_url        https://itsyou.online/v1/oauth/authorize
-    token_url       https://itsyou.online/v1/oauth/access_token
-    redirect_url    http://threefold2.aydo.com:4040/oauth/callback
+        authentication_required /
+        allow_extension css
+        allow_extension js
+        allow_extension png
+        allow_extension svg
+        allow_extension ico
+        allow_extension ttf?v=4.7.0
+        allow_extension woff2?v=4.7.0
 
-    authentication_required /
-    allow_extension css
-    allow_extension js
-    allow_extension png
-    allow_extension svg
-    allow_extension ico
-    allow_extension ttf?v=4.7.0
-    allow_extension woff2?v=4.7.0
+        login_page	/login
+        login_url	/oauth
+        extra_scopes  user:email,user:name
+       }
 
-    login_page	/login
-    login_url	/oauth
-    extra_scopes  user:email,user:name
-   }
+  # mailout /www_threefold2.0 {
+  #      to
+  #      subject "Text Email from {{ .Form.Get \"name\" }}"
+  #      body template.txt
 
-# mailout /www_threefold2.0 {
-#      to
-#      subject "Text Email from {{ .Form.Get \"name\" }}"
-#      body template.txt
-
-#      username ""
-#      password ""
-#      host smtp.gmail.com
-#      port 465
-#      ratelimit_capacity 3
-#      ratelimit_interval 6s
-#  }
+  #      username ""
+  #      password ""
+  #      host smtp.gmail.com
+  #      port 465
+  #      ratelimit_capacity 3
+  #      ratelimit_interval 6s
+  #  }
 }
-
