@@ -60,8 +60,6 @@ Open issues we are working on
 ## Links to our information
 
 * [Home page of website](/)
-* [Registration Form](http://tiny.cc/threefold_registration)
-* [Online/face2face meeting form](http://tiny.cc/tff_meeting_form)
 * [Internal Token Offering page](/ito/)
 * [Ambassador page](/ambassador/)
 * [Presentation](http://tiny.cc/threefold_intro)
