@@ -43,7 +43,7 @@ http://threefold2.aydo.com:4040 {
 
     login_page	/login
     login_url	/oauth
-    extra_scopes  user:email,user:name
+    extra_scopes  user:email,user:name,user:phone,user:address,user:avatar
    }
 
 # mailout /www_threefold2.0 {
@@ -59,4 +59,3 @@ http://threefold2.aydo.com:4040 {
 #      ratelimit_interval 6s
 #  }
 }
-
