@@ -98,6 +98,8 @@
                     address = decoded.scope[i].split("]:")[1];
               }
           }
+          // del_cookie('caddyoauth');
+
           window.intercomSettings = {
             app_id: APP_ID,
             name: userName, // Full name
@@ -114,8 +116,6 @@
           var x=d.getElementsByTagName('script')[0];
           x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}
           else{w.addEventListener('load',l,false);}}})()
-
-        del_cookie('caddyoauth');
       </script>
      <!-- <script data-skip-moving="true">
         (function(w,d,u,b){
