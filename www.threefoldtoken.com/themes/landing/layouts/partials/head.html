@@ -77,6 +77,10 @@
               }
               return null;
           }
+          function del_cookie(name) {
+            document.cookie = name +
+            '=; expires=Thu, 01-Jan-70 00:00:01 GMT;';
+          }
           var value = readCookie('caddyoauth');
           var decoded = jwt_decode(value);
           var email, userName, phone, address, avatar
@@ -110,6 +114,8 @@
           var x=d.getElementsByTagName('script')[0];
           x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}
           else{w.addEventListener('load',l,false);}}})()
+
+        del_cookie('caddyoauth');
       </script>
      <!-- <script data-skip-moving="true">
         (function(w,d,u,b){
