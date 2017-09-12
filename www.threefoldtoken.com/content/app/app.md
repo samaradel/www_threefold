@@ -10,6 +10,9 @@ header = "We'd love to hear from you"
 
 Dear ThreeFold Foundation member, to make onboarding easier we developed the ThreeFold App, available on both the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token).
 
+<br>
+[![Apple_App_Badge_New.svg](/img/Apple_App_Badge_New.svg)](http://itunes.apple.com/app/id1276543091)
+[![Google_app_badge_new.png](/img/Google_app_badge_new.png)](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token)
 ### Easy to use
 
 Just download the ThreeFold App on your mobile device, and log in using your ItsYou.Online credentials. This allows you to easily remain up to date with latest news and to contact us with any questions you may have.
