@@ -104,7 +104,7 @@ The Token Issuance Mechanism can be stopped if a vote of 60% of both the Directo
 
 ## How will we create liquidity for Token Holders who wish to sell their Tokens?
 
-TWe want Token Holders to be able to sell their Tokens, and at the same time allow the Foundation to sell new Tokens, if demand is great enough. To this end, we are installing a queue system on token sales, guaranteeing that Token Holders always receive priority over Foundation sales at each prescribed Token price point ($10, $12...$22, $24.20, ...).
+We want Token Holders to be able to sell their Tokens, and at the same time allow the Foundation to sell new Tokens, if demand is great enough. To this end, we are installing a queue system on token sales, guaranteeing that Token Holders always receive priority over Foundation sales at each prescribed Token price point ($10, $12...$22, $24.20, ...).
 
 There will be two separate sell queues, the Token Holder sell queue and the Foundation sell queue. The Token Holder sell queue will receive strict and absolute priority over the Foundation sell queue, meaning the Foundation will only ever sell a token if no Token Holder is offering Tokens for sale at that price.
 
