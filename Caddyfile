@@ -9,7 +9,7 @@ http://threefold2.aydo.com:4040 {
     interval 60
     key ~/.ssh/id_rsa
     path ../../../gig_team/
-    then python script.py 
+    then ./update.sh 
   }
   git {
     repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold.git
