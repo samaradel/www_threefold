@@ -85,5 +85,4 @@ $(function () {
   }
 
   $("#team-test").append(render(5, 6, team, 126, 126, 4));
-  console.log(team);
 });
