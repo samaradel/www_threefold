@@ -51,7 +51,12 @@ The convertible note will have the following terms:
 
 ITO Tokens can be purchased via our TF App.  The process is very straightforward - exactly like a friends and family venture capital investment round.
 
-You can invest using Bitcoin or by wire transfer to our bank account.
+You will need to:
+1. download the app, available on both the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token)
+2. register on ItsYou.online 
+3. ask the person who introduced you to ThreeFold for their referral code and enter it in the app
+
+You can invest using Bitcoin or by wire transfer to our bank account. You can invite friends using the app, and see your own referral code in the app using the "invite friends" button.
 
 ## Disclaimer
 
