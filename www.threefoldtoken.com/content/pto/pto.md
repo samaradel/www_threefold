@@ -52,6 +52,8 @@ US$ 10.00 per Token for the first 1 million tokens, initially increasing by US$ 
 
 After 6 million tokens have sold in this way, implying 1 million tokens has been sold at US$ 20.00 per token, we slightly change the increase per 1 million tokens sold. The price increase per 1 million tokens then becomes equal to 10% of the price of the previous batch (rounded down to US$ 0.10). In other words, after the US$ 20.00 batch, the next batch is priced at US$ 22.00, the one after that at US$ 24.20, the next will be at US$ 26.60, and so on.
 
+After December 2019, at the discretion of both governing boards, the above system of continuous issuance at ever increasing prices can remain in place as is, or it can be adjusted and, possibly, stopped.
+
 ## Currencies Accepted
 
 Initially, we accept USD, EUR, GBP and BTC.
