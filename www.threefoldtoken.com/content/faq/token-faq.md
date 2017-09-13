@@ -75,11 +75,11 @@ We believe our token offering is different from some of the other ICOs.  We are 
 
 ## Where can I buy a Token?
 
-ThreeFold Tokens will be available for sale directly on our website during the PTO.
+ThreeFold Tokens will be available for sale directly through our app.
 
 One needs only sign up with our [ItsYou.Online](http://itsyou.online) identity management platform and open their e-Wallet on our App.
 
-As payment, we accept  BTC, ETH, USD, GBP, CHF, EUR, YEN, AED and other methods available on exchanges.
+As payment, we currently accept BTC, USD, GBP and EUR.
 
 ## How many tokens already exists?
 
@@ -90,34 +90,31 @@ See bottom of our home page where you can see where existing capacity has been d
 ## What is the Token Issuance Mechanism?
 
 During the initial investment phase for our Grid through December 2019, we want to protect value for our Token Holders.  To do this we have created our Token Issuance Mechanism (the Mechanism) which protects the prescribes the Token price at which each tranche of Tokens shall be issued as follows:
-* First 1 million shares at US$ 10 per Token
-* Next 1 million shares at US$ 13 per Token
-* Next 1 million shares at US$ 16 per Token
-* Next 1 million shares at US$ 19 per Token
-* Next 1 million shares at US$ 22 per Token
-* Next 1 million shares at US$ 25 per Token
-* Next 1 million shares at US$ 28 per Token
-* Next 1 million shares at US$ 31 per Token
 
-* Thereafter, the Token price will increase in increments of 10% for each block of 1 million Tokens that are issued and sold.
+US$ 10.00 per Token for the first 1 million tokens, initially increasing by US$ 2 for every 1 million sold.
 
-After December 2019, the Token price will trade based on market supply and demand.  An additional 1 million Tokens will be issued every time the Token price increases 10% from the Token price of the previous issuance.  For purposes of calculating this Token price threshold, the Foundation shall use the average Token price calculated over 5 consecutive trading days.  The resulting price for issuance of the 1 million new Tokens shall be equal to 10% above this 5 day average price. 
+After 6 million tokens have sold in this way, implying all tokens priced up to US$ 20.00 per token have been sold, we slightly change the increase per 1 million tokens sold. The price increase per 1 million tokens then becomes equal to 10% of the price of the previous batch (rounded down to US$ 0.10). In other words, after the US$ 20.00 batch, the next batch is priced at US$ 22.00, the one after that at US$ 24.20, the next will be at US$ 26.60, and so on.
+
+After December 2019, at the discretion of both governing boards, the above system of continuous issuance at ever increasing prices can remain in place as is, or it can be adjusted and, possibly, stopped.
 
 ## Can the Token Issuance Mechanism be stopped? What is the process?
 
-The Token Issuance Mechanism can be stopped if a vote of 60% of the Ambassador Board elects to stop it
+The Token Issuance Mechanism can be stopped if a vote of 60% of both the Director and Ambassador Board elects to stop it
 
 
 ## How will we create liquidity for Token Holders who wish to sell their Tokens?
 
-To protect our Token Holders and ensure that our Token issuance mechanism does not soak up all of the demand in the market, we have introduced a liquidity mechanism for the initial period from the commencement of the Token offering until December 2019 whereby:
+We want Token Holders to be able to sell their Tokens, and at the same time allow the Foundation to sell new Tokens, if demand is great enough. To this end, we are installing a queue system on token sales, guaranteeing that Token Holders always receive priority over Foundation sales at each prescribed Token price point ($10, $12...$22, $24.20, ...).
 
-* Token Holders who have purchased Tokens in the Token offering have priority to sell their Tokens before any issuance of 
-* Founders also have (pro rata) priority in the Queue - but only up to 20% of the Tokens they own that are available for sale.  To sell more than 20%, Founders must go to the back of the queue
-* Only after all the sales from Token Holders are exhausted will the new Tokens be sold
-* The price will not increase until the full 1 million newly issued Tokens are sold
+There will be two separate sell queues, the Token Holder sell queue and the Foundation sell queue. The Token Holder sell queue will receive strict and absolute priority over the Foundation sell queue, meaning the Foundation will only ever sell a token if no Token Holder is offering Tokens for sale at that price.
 
-The intention of the Foundation is that this system should enable sufficient liquidity for Token Holders who wish to sell Tokens during periods when the Foundation is issuing new Tokens
+The Token Holder queue will allow Token Holders to list as many tokens as they want, but will take measures to prevent one large seller from preventing other sellers from entering the queue in any meaningful way. 
+
+Only when the Foundation has sold all the newly printed Tokens at a given price point, does the price go up.
+
+The intention of the Foundation is that this system should enable sufficient liquidity for Token Holders who wish to sell Tokens during periods when the Foundation is issuing new Tokens.
+
+The white paper will contain more detailed information.
 
 ## Can Token holders just send Tokens to other users of the app? 
 Yes.
@@ -151,7 +148,7 @@ No.
 
 ## How does TF control the issuing of further tokens?
 
-The Foundation may issue new Tokens via follow-on Token Offerings to make further investments in Internet capacity on our global Grid and will from time to time sell Tokens to purchasers of Grid internet capacity. These follow-on Token offerings will always be at a strictly higher price than the preceding offering.
+As per the Token Issuance Mechanism, the Foundation sells tokens at increasing prices up to December 2019.
 
 
 ## Can I reclaim assets owned by ThreeFold foundation?
