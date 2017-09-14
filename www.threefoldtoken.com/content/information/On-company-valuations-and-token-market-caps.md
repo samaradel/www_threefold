@@ -6,7 +6,7 @@ header = "On company valuations and token market caps"
 image = "balance.jpg"
 author = "Andreas Hartl"
 subtitle = "More about our backing model"
-weight = 14
+weight = 1
 
 +++
 
