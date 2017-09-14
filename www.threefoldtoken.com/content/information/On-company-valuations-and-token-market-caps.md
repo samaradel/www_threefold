@@ -24,7 +24,7 @@ We imagined ThreeFold Token with a seemingly simple goal in mind: To make a wide
 
 The Threefold Foundation will deploy internet server technology that is up to ten times more power-efficient than current technology. This implies we are able to run efficiently on a wide range of hardware, while offering capacity living up to current expectations at attractive pricepoints. This capacity can be sold to IT companies and other users profitably.
 
-Sell capacity on our Grid happens via our machine to machine Directory service. Purchases of computing capacity via our Directory service can only be transacted using our Tokens, providing guaranteed and seamless transactions without concerns about currency fluctuations or other factors.
+Selling capacity on our Grid happens via our machine to machine Directory service. Purchases of computing capacity via our Directory service can only be transacted using our Tokens, providing guaranteed and seamless transactions without concerns about currency fluctuations or other factors.
 
 
 #### Token backing
