@@ -4,6 +4,18 @@
 - guardian: Andreas
 
 
+## Scrum Details for Web Team
+
+* Daily scrum at 10am Brussels/Cairo
+* Scrum is lead by @svekeman and backed by @roelvansabben
+* Scrum development team is lead by @hassane and backed by @adelsamar
+* Starts at **Sunday** till **Thursday**
+* Friday @svekeman and @hartla cleans up issues from repo's and we create new milestones
+* Friday we also check and review carefully all active web projects and shoot more issues/bugs
+* Milestones are set as 2 per week... First milestone towards Tuesday and second towards Thursday.
+* Next scrum is on Sunday 17/9 at 10am, to kickstart the development week.
+
+
 ## Information
 
 The new threefold website is being created using hugo/git.
