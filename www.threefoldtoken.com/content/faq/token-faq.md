@@ -43,9 +43,10 @@ The Foundation’s long term objective is to migrate the TF Token firmly into th
 
 We use the word “Token” because our Tokens are much more than a simple coin.  In our view, coins really only have one function:  to act as simple stores of value.  Our Tokens represent an  economic interest in our Foundation and is the exclusive payment instrument or currency for which operators can sell IT capacity via our Directory service.
 
-## Is our Token different from other digital currencies.
+## Is our Token different from other digital currencies?
 
 We designed our Token to be different from other Tokens in several respects including the following:
+
 * Backed.  The Tokens are backed with full economic interests in the Foundation and the Foundation’s assets
 * Utility.  From inception, our Tokens have a specific designated use as the payment currency for buying and selling IT capacity on our Grid.  
 * Neutral.  Our Foundation is mission- and value-based, has no shareholders and is not owned or controlled by any institution or government.  
@@ -55,7 +56,7 @@ We designed our Token to be different from other Tokens in several respects incl
 
 ## How is our Token “backed” by real assets?
 
-By “backed”, we mean asset-backed. Each Token is collateralized by all of the Foundation’s assets.  The Foundation’s funds and cash flows are invested into revenue-generating assets that grow organically - creating additional value for Token Holders.
+By “backed”, we mean asset-backed. The Foundation’s funds and cash flows are invested into revenue-generating assets that grow organically - creating additional value for Token Holders.
 
 ## Why do we say our Token has “utility” and why is this important?
 
