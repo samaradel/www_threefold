@@ -1,15 +1,21 @@
 +++
 
-#Don't remove name! title = "information" header = "On company valuations and token market caps" image = "10x-times-power.jpg" author = "Andreas Hartl" subtitle = "More about our backing model" weight = 8
+#Don't remove name!
+title = "information"
+header = "On company valuations and token market caps"
+image = "balance.jpg"
+author = "Andreas Hartl"
+subtitle = "More about our backing model"
+weight = 14
 
 +++
 
 On company valuations and token market caps
 ---
-> We wanted to make a safe digital currency that is rooted in true value, both physically and ethically. We think we managed to do that.
-> 
+> We wanted to make a digital currency that is rooted in true value, both physically and ethically. We think we managed to do that.
+>
 > We did so by linking our ThreeFold Token to an internet capacity providing global grid, run by a foundation that has an implied valuation of more than the total market cap of all ThreeFold Tokens in existence. The technology keeping this grid up and running will be open source, increasing transparency and neutrality. It will also be very power efficient, resulting in cost effective internet capacity.
-> 
+>
 > The token sale will start a virtuous cycle: The proceeds kickstart the deployment of our Grid, and the tokens serve as the sole means of payment to pay for capacity on our Grid.
 
 ### The ThreeFold Token and ThreeFold Foundation
@@ -18,7 +24,7 @@ We imagined ThreeFold Token with a seemingly simple goal in mind: To make a wide
 
 The Threefold Foundation will deploy internet server technology that is up to ten times more power-efficient than current technology. This implies we are able to run efficiently on a wide range of hardware, while offering capacity living up to current expectations at attractive pricepoints. This capacity can be sold to IT companies and other users profitably.
 
-Sell capacity on our Grid happens via our machine to machine Directory service. Purchases of computing capacity via our Directory service can only be transacted using our Tokens, providing guaranteed and seamless transactions without concerns about currency fluctuations or other factors. 
+Sell capacity on our Grid happens via our machine to machine Directory service. Purchases of computing capacity via our Directory service can only be transacted using our Tokens, providing guaranteed and seamless transactions without concerns about currency fluctuations or other factors.
 
 
 #### Token backing
@@ -32,11 +38,11 @@ Let's now consider what it would mean for token valuation and the value of the f
 
 #### Token issuance
 
-How do we do this? We sell the first 1 million tokens at USD 10 each. The next 1 million tokens will be priced at USD 12 each, and so on. This means that as the token valuation goes up, a portion of that increased market cap will flow back to the ThreeFold Foundation. In effect, we are trying to slow down token growth, by funneling the increased demand for the token into the additional investments that made the token desirable to begin with.
+How do we do this? We sell the first 1 million tokens during our Private Token Offering at USD 10 each. The next 1 million tokens will be priced at USD 12 each, and so on. This means that as the token valuation goes up, a portion of that increased market cap will flow back to the ThreeFold Foundation. In effect, we are trying to slow down token growth, by funneling the increased demand for the token into the additional investments that made the token desirable to begin with.
 
 Yes, we are explicitly planning to slow down the growth of the token. We consider it to be the only way to make sure we keep our core promise: construct a backed token. In the long run, this will benefit all token holders. And we believe the world could do with a bit more of a long run view.
 
-After the PTO has ended (selling at most 12 million tokens) we will still continue to offer tokens for sale, but the price will go up 10% for every one million tokens sold from then on. This will allow some more trading opportunities by giving the market price more room to fluctuate.
+After we have sold tokens up to and including the ones priced at USD 20 each, we will still continue to offer tokens for sale, but the price will go up 10% for every one million tokens sold from then on. This will allow some more trading opportunities by giving the market price more room to fluctuate.
 
 The valuation of the Threefold Foundation will be keeping in line with the investments in the grid and the expected revenue those imply, as is usual in this context.
 

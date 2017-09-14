@@ -10,10 +10,14 @@ header = "We'd love to hear from you"
 
 Dear ThreeFold Foundation member, to make onboarding easier we developed the ThreeFold App, available on both the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token).
 
+<br>
+[![Apple_App_Badge_New.svg](/img/Apple_App_Badge_New.svg)](http://itunes.apple.com/app/id1276543091)
+[![Google_app_badge_new.png](/img/Google_app_badge_new.png)](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token)
 ### Easy to use
 
 Just download the ThreeFold App on your mobile device, and log in using your ItsYou.Online credentials. This allows you to easily remain up to date with latest news and to contact us with any questions you may have.
 To access investor functionality, you need a referral code. Please contact the person who introduced you to ThreeFold.
+After having registered, you can invite other people using the app. Your personal referral code can be consulted there.
 
 ### Questions?
 

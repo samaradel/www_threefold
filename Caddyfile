@@ -1,15 +1,32 @@
-http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
+http://localhost:88 {
     bind 0.0.0.0
     gzip
     root www.threefoldtoken.com/en
 
     git {
-        repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
-        branch production
-        interval 60
-        key ~/.ssh/id_rsa
-        path ../..
-        then hugo -s  www.threefoldtoken.com
+      repo ssh://git@docs.greenitglobe.com:10022/gig/gig_team.git
+      branch production
+      interval 60
+      key ~/.ssh/id_rsa
+      path ../../../gig_team/
+      then ./update.sh
+    }
+    git {
+      repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold.git
+      branch production
+      interval 60
+      key ~/.ssh/id_rsa
+      path ../../../www_threefold/
+      then ./update.sh
+    }
+
+    git {
+      repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
+      branch production
+      interval 60
+      key ~/.ssh/id_rsa
+      path ../..
+      then hugo -s  www.threefoldtoken.com
     }
 
     errors {
@@ -34,7 +51,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
 
         login_page	/login
         login_url	/oauth
-        extra_scopes  user:email,user:name
+        extra_scopes  user:email,user:name,user:phone,user:address,user:avatar
        }
 
   # mailout /www_threefold2.0 {

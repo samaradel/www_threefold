@@ -10,22 +10,11 @@ Please make sure you read our [Idea page](/) first.
 
 ## How to become part of our movement.
 
-As a first step please download the first version of the Threefold app. It is available on both the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token). It wil allow you to become a member of our organization, become a hoster and help us draw up a contract if you want to become an investor during the internal token offering.
+As a first step please download the first version of the Threefold app. It is available on both the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token). 
 
-In order to have an internal token offering, we decided to work on an invitation only basis. You should be able to get an invitation code from the person who introduced you to ThreeFold.
+The app will keep you updated on latest developments through its News service.
 
-We are planning online & face2face sessions
-
-* about our technology as well as around our internal token offering.
-* we are also organizing face2face meetings where we can meet & brainstorm about the future as well as exchange lots of info.
-* **Please subscribe to one of our sessions:** [register here](http://tiny.cc/tff_meeting_form)
-
-We have telegram groups where you can follow the most up to date information (will be replaced soon by the News function in the ThreeFold app)
-
-* [Internal Token Offering News](https://t.me/joinchat/AAAAAEOvYSgYr4fhcGcDlQ)
-* [Internal Token Offering Forum, you can post your own messages](https://t.me/joinchat/BwOvO0M1I7QhcOlg1ajCuw)
-* [Hosters News](https://t.me/joinchat/AAAAAEPSd8PsThH7c1vlLg)
-* [Ambassadors Forum](https://t.me/joinchat/BwOvO0O05_taMGWoT1jLhA)
+In the future, the app allow you to become a member of our organization, become a hoster and purchase our tokens.
 
 ## News
 
@@ -60,7 +49,6 @@ Open issues we are working on
 ## Links to our information
 
 * [Home page of website](/)
-* [Internal Token Offering page](/ito/)
 * [Ambassador page](/ambassador/)
 * [Presentation](http://tiny.cc/threefold_intro)
 * White Paper is coming soon
