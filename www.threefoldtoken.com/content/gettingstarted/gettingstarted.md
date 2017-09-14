@@ -28,6 +28,7 @@ Status
 The first version of the Threefold app is ready! It is available on both the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token).
 
 In the future it will be used for
+
 * our hoster functionalities (onboarding, shipping, acceptance, ...)
 * our investors functionalities (automatically created contracts)
 * to sign & distribute the contracts and terms & conditions
