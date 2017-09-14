@@ -29,10 +29,10 @@ The first version of the Threefold app is ready! It is available on both the [Ap
 
 In the future we will use this app to replace above news groups.
 It will be used for
-    * our hosters (onboarding, shipping, acceptance, ...)
-    * our investors (automatically created contracts)
-    * to sign & distribute the contracts and terms & conditions
-    * to communicate (chat & news)
+* our hoster functionalities (onboarding, shipping, acceptance, ...)
+* our investors functionalities (automatically created contracts)
+* to sign & distribute the contracts and terms & conditions
+* to communicate (chat & news)
 
 
 Open issues we are working on
