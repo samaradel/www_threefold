@@ -144,6 +144,11 @@ We also allow BTC payments at first, adding ETH at a later date.
 
 No.
 
+
+## Can I buy Tokens if I am in China or I am a Chinese citizen?
+
+No.
+
 # Guarantees & Safety
 
 ## How does TF control the issuing of further tokens?
