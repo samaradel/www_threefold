@@ -5,7 +5,7 @@ title = "open source"
 
 
 # First column
-header_1 = "Each Token is backed by real assets and real utility: they are the payment mechanism for buying and selling IT capacity on our grid."
+header_1 = "The Token is designed to have real utility: they are the payment mechanism for buying and selling IT capacity on our grid."
 image_1_header = "backed"
 image_1 = "backed.png"
 author_1 = ""
