@@ -72,7 +72,7 @@ Service Providers are anyone delivering an app or service on our Grid.  All apps
 
 ##  ThreeFold Token
 
-The ThreeFold Token is our backed, green and neutral Token.  The Token is the designated currency for capacity sold on our Grid
+The ThreeFold Token is our utility green and neutral Token.  The Token is the designated currency for capacity sold on our Grid
 
 ## ThreeFold User
 
@@ -83,8 +83,8 @@ Users are anyone using services as delivered by a TF Service Provider (they use 
 
 
 TF Token Holders fall into three broad categories:
-- Investors.  Investors and savers who hold TF Tokens as a safe digital currency backed by real assets
-- Users.  Producers and purchasers of Internet capacity who use TF Tokens as the designated currency for Internet capacity sold on our Grid and
+- Investors.  Investors and savers who hold TF Tokens as a safe digital currency
+- Users.  Producers and purchasers of Internet capacity who use TF Tokens as the designated currency for Internet capacity sold on our Grid
 - Believers.  Believers who endorse the Foundation’s core values and ambitions
 
 ## Zero-Node
