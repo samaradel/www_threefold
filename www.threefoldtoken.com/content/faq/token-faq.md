@@ -18,7 +18,7 @@ The reasons for investors to buy Tokens in the private token offering include th
 
 * Good cause:  purchasers are helping us build a new neutral edge Internet
 * Potential upside: ThreeFold sits at the intersection of three of today’s most important technologies - Blockchain, Cloud Computing and Artificial Intelligence, and we believe that as our global Grid expands and the capacity available for sale grows, the demand for our Tokens will increas
-* Downside Protection and reduced volatility (ie Token price less likely to decrease substantially):  Our Tokens are backed by the grid deployed by the Foundation.  Our Technology and Grid are already up and running and we believe our Foundation and its assets represent significant value, including sufficient liquidity
+* Downside Protection and reduced volatility (ie Token price less likely to decrease substantially):  Our Tokens are given utility by the grid deployed by the Foundation.  Our Technology and Grid are already up and running and we believe our Foundation and its assets represent significant value, including sufficient liquidity
 * High quality team with extensive technology and financial experience
 * Existing technology that is very well positioned for Edge networking and outperforms  leading technologies in many categories
 
@@ -28,13 +28,13 @@ Decentralized digital currencies are well on the way to full acceptance as a mai
 
 Major problems remain, however, such as scalability issues, impossible energy requirements, certain perceived reputational issues and, most importantly, a general absence of intrinsic value collateralized by real assets.
 
-We designed our Token as a safe, scalable currency with real utility and intrinsic value backed by real assets.
+We designed our Token as a safe, scalable currency with real utility and intrinsic value rooted in real assets.
 
 ## What are the Foundation’s objectives for the TF Token?
 
 The Foundation’s long term objective is to migrate the TF Token firmly into the mainstream as a payment instrument used to purchase IT and other services. We seek  to:
 
-* Create a safe, alternative currency with intrinsic value backed by real assets
+* Create a safe, alternative currency with intrinsic value rooted in real assets
 * Give our Tokens a designated utility by linking the  Token directly to the growth of the Internet
 * Support our Tokens - prioritise liquidity, stability, transparency and exchangeability for Token Holders
 * Ensure the integrity and security of the Tokens for Token Holders
@@ -47,16 +47,11 @@ We use the word “Token” because our Tokens are much more than a simple coin.
 
 We designed our Token to be different from other Tokens in several respects including the following:
 
-* Backed.  The Tokens are backed with full economic interests in the Foundation and the Foundation’s assets
 * Utility.  From inception, our Tokens have a specific designated use as the payment currency for buying and selling IT capacity on our Grid.  
 * Neutral.  Our Foundation is mission- and value-based, has no shareholders and is not owned or controlled by any institution or government.  
 * Green.  Our blockchain is different - and enables much greater scalability to millions  of transactions without requiring outsize energy consumption
 * Secure.  Also our blockchain is less vulnerable to large miner consortia controlling hashrates or DDOS and other attacks.  All users and nodes are registered on our blockchain-based identity management platform enhancing security and privacy.
 
-
-## How is our Token “backed” by real assets?
-
-By “backed”, we mean asset-backed. The Foundation’s funds and cash flows are invested into revenue-generating assets that grow organically - creating additional value for Token Holders.
 
 ## Why do we say our Token has “utility” and why is this important?
 
@@ -84,7 +79,7 @@ As payment, we currently accept BTC, USD, GBP and EUR.
 
 ## How many tokens already exists?
 
-Today there are 10,000,000 Tokens created and backed by the value of our Foundation and by internet capacity which is committed to be deployed by our operators and hosters over more than 200 locations.
+Today there are 10,000,000 Tokens created and rooted in the value of our Foundation and internet capacity which is committed to be deployed by our operators and hosters over more than 200 locations.
 
 See bottom of our home page where you can see where existing capacity has been deployed.
 
@@ -134,7 +129,7 @@ The Private Token Offering will be done Q4 2017.
 
 ## What will be my ROI if I buy token? What is your projection for the Token price?
 
-During the PTO, we only sell tokens at ever increasing prices in batches of 1 million tokens. We make no other predictions or guarantees. However, thanks to the utility of our Tokens as designated payment currency for Internet capacity sold on our Grid, we believe our Tokens will be supported by additional demand, volume and diversification.  Also our Tokens are backed by the Foundation - and we expect the Foundation’s value to grow rapidly.
+During the PTO, we only sell tokens at ever increasing prices in batches of 1 million tokens. We make no other predictions or guarantees. However, thanks to the utility of our Tokens as designated payment currency for Internet capacity sold on our Grid, we believe our Tokens will be supported by additional demand, volume and diversification.
 
 ##  Can I buy Tokens with bank transfer?
 
