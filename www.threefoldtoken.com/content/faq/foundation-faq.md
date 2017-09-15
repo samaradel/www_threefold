@@ -16,7 +16,7 @@ The Foundation’s long term objective is to migrate our Token firmly into the m
 
 The ThreeFold Foundation, a transparent tokenized organization with three primary objectives:  
 - Using our Token to build a new, neutral, “Edge” Internet,
-- Creating a digital currency with real utility backed by real assets and
+- Creating a digital currency with real utility rooted in real assets and
 - Empowering our Token Holders to work alongside us
 
 ## What is the Corporate Structure of the Foundation?
@@ -27,7 +27,7 @@ The Foundation is governed and represented by its Boards of Directors.  The Boar
 
 ## Who owns the Foundation?
 
-The Foundation is mission- and value-based and not “owned” by anyone per se.  The Token represents an economic interest in the ThreeFold Foundation.  The Tokens are backed by the full faith and credit of our Foundation.  In fact, our Foundation’s by-laws state that if the Foundation is liquidated for any reason, Token Holders would receive 100% of the resulting distributable assets.
+The Foundation is mission- and value-based and not “owned” by anyone per se. 
 
 ## How will the Foundation be governed?  How will decisions be made and implemented?
 
