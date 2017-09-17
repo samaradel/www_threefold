@@ -37,7 +37,7 @@ In the future it will be used for
 
 Open issues we are working on
 
-* We need Orrick to check all the legal documents again & make sure we are in order with the SEC rules about securities
+* We need Orrick to check all the legal documents again
 * We need oral confirmation for at least 200 hosters (we have the hardware ready to be shipped)
 * more tech info about the technology
 * more info about the business case for capacity
