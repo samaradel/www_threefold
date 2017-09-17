@@ -9,7 +9,7 @@ http://threefold2.aydo.com:4040 {
     interval 60
     key ~/.ssh/id_rsa
     path ../../../gig_team/
-    then ./update.sh 
+    then ./update.sh
   }
   git {
     repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold.git
@@ -46,12 +46,12 @@ http://threefold2.aydo.com:4040 {
     allow_extension png
     allow_extension svg
     allow_extension ico
-    allow_extension ttf?v=4.7.0
-    allow_extension woff2?v=4.7.0
+    allow_extension ttf
+    allow_extension woff2
 
     login_page	/login
     login_url	/oauth
-    extra_scopes  user:email,user:name,user:phone,user:address,user:avatar
+    extra_scopes  user:email,user:name,user:phone
    }
 
 # mailout /www_threefold2.0 {
