@@ -17,4 +17,4 @@ However, major problems remain such as a lack of scalability, impossible energy 
 <space>
 
 
-**The TF token is a safe, scalable, green currency with real utility and value backed by real assets**
+**The TF token is a safe, scalable, green currency with real utility**
