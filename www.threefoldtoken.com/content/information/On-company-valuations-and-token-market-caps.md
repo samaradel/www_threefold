@@ -5,7 +5,7 @@ title = "information"
 header = "On company valuations and token market caps"
 image = "balance.jpg"
 author = "Andreas Hartl"
-subtitle = "More about our backing model"
+subtitle = "More about our issuance model"
 weight = 1
 
 +++
@@ -20,16 +20,16 @@ On company valuations and token market caps
 
 ### The ThreeFold Token and ThreeFold Foundation
 
-We imagined ThreeFold Token with a seemingly simple goal in mind: To make a widely accepted cryptocurrency that is backed by assets which have room for growth. We believe we managed to do this - we peg the token value in fiat to the biggest commodity on the planet: the internet. Let's explain how.
+We imagined ThreeFold Token with a seemingly simple goal in mind: To make a widely accepted cryptocurrency that is rooted in assets which have room for growth. We believe we managed to do this - we peg the token value in fiat to the biggest commodity on the planet: the internet. Let's explain how.
 
 The Threefold Foundation will deploy internet server technology that is up to ten times more power-efficient than current technology. This implies we are able to run efficiently on a wide range of hardware, while offering capacity living up to current expectations at attractive pricepoints. This capacity can be sold to IT companies and other users profitably.
 
 Selling capacity on our Grid happens via our machine to machine Directory service. Purchases of computing capacity via our Directory service can only be transacted using our Tokens, providing guaranteed and seamless transactions without concerns about currency fluctuations or other factors.
 
 
-#### Token backing
+#### Token utility
 
-The token is backed by being redeemable for IT capacity in this grid. Because cloud storage and computation are becoming bigger and bigger forces in the economic landscape, we feel confident saying this results in tokens having a dynamic and growing market, serving a highly actual need. This functions as a backing with room for growth.
+The token has built-in by being redeemable for IT capacity in this grid. Because cloud storage and computation are becoming bigger and bigger forces in the economic landscape, we feel confident saying this results in tokens having a dynamic and growing market, serving a highly actual need. This functions as a utility with room for growth.
 
 Should tokens go up (or down) in price relative to fiat currencies, the amount of capacity one can buy for one token goes up (or down) correspondingly. In other words, capacity gets fixed in fiat prices, meaning token growth will not result in capacity becoming more expensive.
 
@@ -40,7 +40,7 @@ Let's now consider what it would mean for token valuation and the value of the f
 
 How do we do this? We sell the first 1 million tokens during our Private Token Offering at USD 10 each. The next 1 million tokens will be priced at USD 12 each, and so on. This means that as the token valuation goes up, a portion of that increased market cap will flow back to the ThreeFold Foundation. In effect, we are trying to slow down token growth, by funneling the increased demand for the token into the additional investments that made the token desirable to begin with.
 
-Yes, we are explicitly planning to slow down the growth of the token. We consider it to be the only way to make sure we keep our core promise: construct a backed token. In the long run, this will benefit all token holders. And we believe the world could do with a bit more of a long run view.
+Yes, we are explicitly planning to slow down the growth of the token. We consider it to be the only way to make sure we keep our core promise: construct a token with real utility. In the long run, this will benefit all token holders. And we believe the world could do with a bit more of a long run view.
 
 After we have sold tokens up to and including the ones priced at USD 20 each, we will still continue to offer tokens for sale, but the price will go up 10% for every one million tokens sold from then on. This will allow some more trading opportunities by giving the market price more room to fluctuate.
 
@@ -57,4 +57,4 @@ We will organize the foundation as a not-for profit, having a board of ambassado
 
 ### Conclusion
 
-The Threefold Foundation is building a global grid delivering IT capacity at competitive pricing. The token we issue will both jumpstart this grid and be used as a means of payment within the grid. In order to increase price stability of the token, we aim to slow down speculative (non-sustainable) growth. This results in a token that will remain backed by and spendable through the global grid maintained by the ThreeFold Foundation.
+The Threefold Foundation is building a global grid delivering IT capacity at competitive pricing. The token we issue will both jumpstart this grid and be used as a means of payment within the grid. In order to increase price stability of the token, we aim to slow down speculative (non-sustainable) growth. This results in a token that will remain spendable through the global grid maintained by the ThreeFold Foundation.
