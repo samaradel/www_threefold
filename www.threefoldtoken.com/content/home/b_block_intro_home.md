@@ -12,7 +12,7 @@ author_1 = ""
 subtitle_1 = "Read more"
 
 # Second column
-header_2 = "The OS running our grid allows to bring power costs down to one tenth of current standards. Our blockchain is scalable and power-efficient proof-of-stake driven."
+header_2 = "The OS running our grid allows us to bring power costs down to one tenth of current standards. Our blockchain is scalable and power-efficient proof-of-stake driven."
 image_2_header = "green"
 image_2 = "green.png"
 author_2 = ""
