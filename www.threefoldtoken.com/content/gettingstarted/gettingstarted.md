@@ -51,4 +51,4 @@ Open issues we are working on
 * [Home page of website](/)
 * [Ambassador page](/ambassador/)
 * [Presentation](http://tiny.cc/threefold_intro)
-* White Paper is coming soon
+* [White Paper](http://tiny.cc/tf_whitepaper_pto)
