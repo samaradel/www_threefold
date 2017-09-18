@@ -1,6 +1,6 @@
 +++
 #Don't remove title!
 
-title = "team test"
+title = "team"
 header = "The Threefold Team"
 +++
