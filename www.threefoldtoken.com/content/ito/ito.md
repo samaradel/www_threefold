@@ -77,3 +77,4 @@ We will work hard to support Tokens but we want you to realize that such an inve
 
 - [frequently asked questions](/faq)
 - [pto info](/pto)
+- [White Paper](http://tiny.cc/tf_whitepaper_pto)
