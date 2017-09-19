@@ -55,4 +55,19 @@ In particular the Ambassador Board can
 * replace the Foundation Board members if needed (this requires a 60% Ambassador Board majority).
 The Ambassador Board is less active than the Foundation Board - with only two scheduled mandatory meetings per year and ad hoc meetings requiring a minimum quorum if called by the Foundation Board.
 
+## The Community Board
+
+The primary function of the Community Board is to vote by simple majority on certain well-defined Decision Proposals (DP’s) that protect Token Holders.
+
+The following Decision Proposals always need a majority vote on Community Board
+
+* issue new Tokens
+* replace/add/remove an Ambassador Board member (this specific Decision Proposal can only be created by chairman of Foundation Board).
+This list will be made bigger by the Ambassador Board when required.
+
+If the Community Board votes >50.1% in favor, then the Decision Proposal passes, if the Community Board votes no then the Decision Proposal fails.
+
+The Community Board receives regularly scheduled updates on the operations and performance of the Foundation - as well as notification in advance of any Decision proposals requiring Community Board approval
+
+
 

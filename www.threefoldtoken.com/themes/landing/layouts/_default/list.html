@@ -17,10 +17,8 @@
           	  {{else if eq .Section "information" }}
                 <div class="col-sm-4 col-xs-12">{{ $p.Render "information" }}</div>
                   {{ else if eq .Section "team" }}
-                    {{ if eq .Title "about" }}
-                    <div class="Content-outer">{{ $p.Render "about" }}</div>
-                    {{ else if eq .Title "team"}}
-                      <div class="Content-outer">{{ $p.Render "team" }}</div>
+                    {{ if eq .Title "team"}}
+                      <div class="Content-outer">{{ $p.Render "team-test" }}</div>
                       {{end}}
                   {{ else if eq .Section "app" }}
                   <div class="Content-outer">{{ $p.Render "app" }}</div>
