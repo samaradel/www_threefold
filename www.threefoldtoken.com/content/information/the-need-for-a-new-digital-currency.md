@@ -20,9 +20,9 @@ However, major problems remain such as:
 * A general absence of intrinsic value.  The major digital currencies today are not backed by  real assets
 * Limited utility.  Today digital currencies are predominantly held by miners and investors.  There is very limited use of digital currencies to buy goods and services (utility).
 
-The Foundation seeks to address these issues with the ThreeFold Token - creating a safe, green currency with commercial utility backed by real assets.  The Foundation seeks to:
+The Foundation seeks to address these issues with the ThreeFold Token by:
 
-* Create a safe, alternative currency with intrinsic value backed by real assets
-* Give our Tokens a designated utility by linking the  Token directly to the growth of the Internet
-* Support our Tokens - prioritise liquidity, stability, transparency and exchangeability for Token Holders
-* Ensure the integrity and security of the Tokens for Token Holders
+* Creating a safe, alternative currency with intrinsic value backed by real assets
+* Giving our Tokens a designated utility by linking the  Token directly to the growth of the Internet
+* Supporting our Tokens - prioritise liquidity, stability, transparency and exchangeability for Token Holders
+* Ensuring the integrity and security of the Tokens for Token Holders
