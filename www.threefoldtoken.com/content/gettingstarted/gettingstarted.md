@@ -63,7 +63,7 @@ Preferred:
 
 If this is not possible use email fallback addresses:
 
-- Sabrina@threefoldtoeken.com
+- Sabrina@threefoldtoken.com
 - Andreas@threefoldtoken.com
 
 
