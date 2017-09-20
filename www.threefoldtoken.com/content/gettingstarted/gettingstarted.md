@@ -20,7 +20,7 @@ In the future, the app allow you to become a member of our organization, become 
 
 Status
 
-* We have (verbal) commitments for about 2m USD now (we would like to get to 5m USD)
+* We have (verbal) commitments for about 3m USD now (we would like to get to 5m USD)
 * We have confirmation of about 30 ambassadors (we would like to get to at least 50)
 * We have about 120 hosters for our blockchain (we need at least 80 more)
 * We are on track to have more than 100m USD committed internet capacity before oct-nov.
@@ -43,12 +43,27 @@ Open issues we are working on
 * more info about the business case for capacity
 * start populating the pages for ambassadors & hosters
 * create a better budget & make transparent
-* create an article about how the foundation will be run (as teal organization)
 * link to GIG website (the technology)
 
 ## Links to our information
 
-* [Home page of website](/)
 * [Ambassador page](/ambassador/)
 * [Presentation](http://tiny.cc/threefold_intro)
 * [White Paper](http://tiny.cc/tf_whitepaper_pto)
+* [Organization Structure & Best Practices](https://docs.greenitglobe.com/teal.university/whatis/src/master/README.md)
+* [Getting Started Tutorial](http://tiny.cc/tf_tutorials_sponsors)
+
+## How to get support.
+
+We are happy to assist you with onboarding to the TF App.
+
+Preferred:
+
+- Login into www.threefoldtoken.com and chat with us
+
+If this is not possible use email fallback addresses:
+
+- Sabrina@threefoldtoeken.com
+- Andreas@threefoldtoken.com
+
+

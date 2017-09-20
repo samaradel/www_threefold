@@ -63,7 +63,7 @@ You can invest using Bitcoin or by wire transfer to our bank account. You can in
 We do everything possible to protect your purchase of Tokens, we do this by making sure we work with the right legal partner (Orrick) as well as making sure that all our procedures are 100% transparent. We use a blockchain as well as paper documentation to make sure that all ITO investments are registered in the most secure way.
 
 You will have full insight on budgets of the Foundation and all progress we are making.
-We want to be a teal organization (means 100% transparent organization, more info soon).
+We want to be a teal organization (means 100% transparent organization).
 
 We always want to keep 12 months of cash buffer in the Foundation and we will make sure that the burnrate of the Foundation itself is low. Our team is paid in ThreeFold Tokens. The internet capacity is deployed through specially created legal vehicles which again operate in 100% transparency.
 
