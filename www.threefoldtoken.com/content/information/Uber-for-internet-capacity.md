@@ -2,7 +2,7 @@
 
 #Don't remove name!
 title = "information"
-header = "Uber for Internet Capacity"
+header = "AirBnB for Internet Capacity"
 image = "uber-for-internet-capacity.jpg"
 author = "Nicolay Babenko"
 subtitle = "Everyone should be able to deliver capacity to the new neutral internet. "
@@ -48,7 +48,7 @@ The Internet Capacity produced by the Zero-Node is automatically registered on t
 For convenience, pricing is set by the TF Directory algorithm based on numerous factors including real time local supply and demand, competition, network connection, hardware type and the environment.  More advanced TF Hosters can set their pricing if desired.
 
 
-Now you essentially can become an ‘Uber’ driver for the new, neutral internet which belongs to all of us.
+Now you essentially can become an ‘AirBnB’ hoster for the new, neutral internet which belongs to all of us.
 
  - No more big corporations are controlling the grid and wasting resources..
  - Yes to the new decentralized, neutral and green internet.
