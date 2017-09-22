@@ -14,9 +14,9 @@ weight = 4
 
 ## Why should I buy Tokens?
 
-The reasons for investors to buy Tokens in the private token offering include the following:
+The reasons for people to buy Tokens in the private token offering include the following:
 
-* Good cause:  purchasers are helping us build a new neutral edge Internet
+* Good cause: purchasers are helping us build a new neutral edge Internet
 * Potential upside: ThreeFold sits at the intersection of three of today’s most important technologies - Blockchain, Cloud Computing and Artificial Intelligence, and we believe that as our global Grid expands and the capacity available for sale grows, the demand for our Tokens will increas
 * Downside Protection and reduced volatility (ie Token price less likely to decrease substantially):  Our Tokens are given utility by the grid deployed by the Foundation.  Our Technology and Grid are already up and running and we believe our Foundation and its assets represent significant value, including sufficient liquidity
 * High quality team with extensive technology and financial experience
@@ -85,7 +85,7 @@ See bottom of our home page where you can see where existing capacity has been d
 
 ## What is the Token Issuance Mechanism?
 
-During the initial investment phase for our Grid through December 2019, we want to protect value for our Token Holders.  To do this we have created our Token Issuance Mechanism (the Mechanism) which protects the prescribes the Token price at which each tranche of Tokens shall be issued as follows:
+During the initial investment phase for our Grid through December 2019, we want to protect value for our Token Holders.  To do this we have created our Token Issuance Mechanism (the Mechanism) which sets the prescribed Token price at which each tranche of Tokens shall be issued as follows:
 
 US$ 10.00 per Token for the first 1 million tokens, initially increasing by US$ 2 for every 1 million sold.
 
