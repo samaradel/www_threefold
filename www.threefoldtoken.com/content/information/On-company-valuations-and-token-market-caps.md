@@ -29,7 +29,7 @@ Selling capacity on our Grid happens via our machine to machine Directory servic
 
 #### Token utility
 
-The token has built-in by being redeemable for IT capacity in this grid. Because cloud storage and computation are becoming bigger and bigger forces in the economic landscape, we feel confident saying this results in tokens having a dynamic and growing market, serving a highly actual need. This functions as a utility with room for growth.
+The token has built-in utility by being redeemable for IT capacity in this grid. Because cloud storage and computation are becoming bigger and bigger forces in the economic landscape, we feel confident saying this results in tokens having a dynamic and growing market, serving a highly actual need. This functions as a utility with room for growth.
 
 Should tokens go up (or down) in price relative to fiat currencies, the amount of capacity one can buy for one token goes up (or down) correspondingly. In other words, capacity gets fixed in fiat prices, meaning token growth will not result in capacity becoming more expensive.
 
