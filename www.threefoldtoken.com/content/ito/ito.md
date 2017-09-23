@@ -7,9 +7,9 @@ weight = 1
 
 # Timeline
 
-Our Internal Token Offering (ITO) will run until an amount corresponding to 5 million USD has been received from ITO investors.  
+Our Internal Token Offering (ITO) will run until an amount corresponding to 5 million USD has been received from ITO token sales.  
 After that the price for Tokens will increase.  
-We plan our Private Token Offering for December 2017
+We plan our Private Token Offering for December 2017.
 
 # SUMMARY OFFERING TERMS
 
@@ -17,35 +17,32 @@ We plan our Private Token Offering for December 2017
 
 - A ThreeFold Token is a smart contract digital token (the Token) that is the exclusive payment instrument or currency for which operators can sell IT capacity via our Directory service - ThreeFold operators sell their capacity for Tokens, ThreeFold users buy capacity with Tokens.
 
-- The ThreeFold Foundation is the issuer of the Tokens.
-- The Tokens represent an economic interest in the ThreeFold Foundation and are backed by the full faith and credit of the Foundation and all of the Foundation’s assets
+- The ThreeFold Foundation will be the issuer of the Tokens.
 
-## Price per Token
+## What is a ThreeFold iToken?
 
-The ITO price is $5 per Token.
+- iTokens are precursors to the ThreeFold Token. They are currently issued by Green IT Globe Holdings FZC, and will be converted to ThreeFold Tokens at the public launch on a 1-for-1 basis.
+- For now, we only sell iTokens.
+
+## Price per (i)Token
+
+The ITO price is $5 per (i)Token.
 
 ## Lock-up Period
 
-Without consent from the Foundation, Internal Token Offering investors will not be allowed to sell their Tokens for a period of six months after the original investment.
+Without consent from the Foundation, Internal Token Offering investors will not be allowed to sell their (i)Tokens for a period of six months after the original investment.
 
 ## Target Amount
 
-We are issuing up to 1,000,000 Tokens for the Internal Token Offering (ITO).
+We are issuing up to 1,000,000 (i)Tokens for the Internal Token Offering (ITO).
 
 ## Use of Proceeds for the ITO
 
 The Foundation will use the net proceeds of the ITO for working capital and to deploy Operator capacity on our Grid and for PTO-related expenses.
 
-## Convertible Note Terms
+## Utility of iTokens
 
-Your investment in Tokens will take the form of a convertible note in BetterToken BVBA (our onboarding vehicle in Belgium).  At the time of the Threefold Private Token Offering, the note will be convertible into TF Tokens.
-
-The convertible note will have the following terms:
-
-- Maturity: 1 year
-- Coupon: 2% non-cash, accruing
-- Mandatory Conversion:  mandatory conversion  into TF Tokens at the time of the Threefold Foundation Private Token Offering
-- Conversion Price:  The note will convert into Tokens at a price equal to USD 5 per Token.
+Purchased iTokens are endowed with immediate utility for purchasing IT capacity through our partners and on our Grid. Contact us for more details.
 
 ## What is the process to buy tokens?
 
@@ -60,7 +57,7 @@ You can invest using Bitcoin or by wire transfer to our bank account. You can in
 
 ## Disclaimer
 
-We do everything possible to protect your purchase of Tokens, we do this by making sure we work with the right legal partner (Orrick) as well as making sure that all our procedures are 100% transparent. We use a blockchain as well as paper documentation to make sure that all ITO investments are registered in the most secure way.
+We do everything possible to protect your purchase of (i)Tokens, we do this by making sure we work with the right legal partner (Orrick) as well as making sure that all our procedures are 100% transparent. We use a blockchain as well as paper documentation to make sure that all ITO transactions are registered in the most secure way.
 
 You will have full insight on budgets of the Foundation and all progress we are making.
 We want to be a teal organization (means 100% transparent organization).
@@ -71,7 +68,7 @@ We will work hard to support Tokens but we want you to realize that such an inve
 
 ## Documentation
 
-- [Convertible Note Agreement](http://tiny.cc/tf_ito_investment_agr)
+- [TF iToken Purchase Agreement](http://tiny.cc/tf_ito_investment_agr)
 
 ## More Information
 
