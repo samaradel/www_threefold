@@ -50,7 +50,7 @@ http://threefold2.aydo.com:4040 {
         allow_extension woff2
 
         #login_page	/login
-        login_url	/oauth
+        #login_url	/oauth
         extra_scopes  user:email,user:name,user:phone
        }
 
