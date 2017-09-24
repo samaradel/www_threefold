@@ -523,6 +523,12 @@ header .introWords h2 {
 .our-mission-and-goals {
   overflow: visible;
 }
+.nav>li.hideLink {
+  display: none;
+}
+.nav>li.showLink {
+  display: block;
+}
 /* Media Queries */
 @media only screen and (max-width: 767px) {
   .Header-branding {

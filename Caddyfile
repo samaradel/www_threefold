@@ -41,7 +41,6 @@ http://threefold2.aydo.com:4040 {
         token_url       https://itsyou.online/v1/oauth/access_token
         redirect_url    http://threefold2.aydo.com:4040/oauth/callback
 
-        authentication_required /
         allow_extension css
         allow_extension js
         allow_extension png
