@@ -49,7 +49,6 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
         allow_extension ttf
         allow_extension woff2
 
-        #login_page	/login
         login_url	/oauth
         extra_scopes  user:email,user:name,user:phone
        }
