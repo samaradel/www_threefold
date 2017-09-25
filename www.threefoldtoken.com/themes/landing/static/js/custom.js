@@ -51,14 +51,14 @@
       event.preventDefault();
     });
 
-    if (sessionStorage.getItem('status') != null) {
-      $('.nav>li.showLink').css("display", "none");
-      $('.nav>li.hideLink').css("display", "block");
-    }
-    else {
-      $('.nav>li.showLink').css("display", "block");
-      $('.nav>li.hideLink').css("display", "none");
-
-    }
+    // if (sessionStorage.getItem('status') != null) {
+    //   $('.nav>li.showLink').css("display", "none");
+    //   $('.nav>li.hideLink').css("display", "block");
+    // }
+    // else {
+    //   $('.nav>li.showLink').css("display", "block");
+    //   $('.nav>li.hideLink').css("display", "none");
+    //
+    // }
 
 })();
