@@ -2,10 +2,10 @@
 
 #Don't remove name!
 title = "information"
-header = "The need for a new, backed, green digital currency"
+header = "The need for a new, green utility digital currency"
 image = "the_need_for_new.jpg"
 author = "Baker Yanicelli"
-subtitle = "The world needs a new stable, backed & green digital currency, which is backed by real assets, and usable globally."
+subtitle = "The world needs a new stable & green utility digital currency, which is usable globally."
 weight = 12
 
 +++
@@ -22,7 +22,7 @@ However, major problems remain such as:
 
 The Foundation seeks to address these issues with the ThreeFold Token by:
 
-* Creating a safe, alternative currency with intrinsic value backed by real assets
-* Giving our Tokens a designated utility by linking the  Token directly to the growth of the Internet
+* Creating a safe, alternative currency to current digital currencies
+* Giving our Tokens a designated utility by linking the Token to the growth of the Internet
 * Supporting our Tokens - prioritise liquidity, stability, transparency and exchangeability for Token Holders
 * Ensuring the integrity and security of the Tokens for Token Holders

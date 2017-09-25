@@ -41,7 +41,6 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
         token_url       https://itsyou.online/v1/oauth/access_token
         redirect_url    http://www.threefoldtoken.com/oauth/callback
 
-        authentication_required /
         allow_extension css
         allow_extension js
         allow_extension png
@@ -50,7 +49,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
         allow_extension ttf
         allow_extension woff2
 
-        login_page	/login
+        #login_page	/login
         login_url	/oauth
         extra_scopes  user:email,user:name,user:phone
        }
