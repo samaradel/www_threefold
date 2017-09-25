@@ -5,7 +5,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
 
 #    git {
 #      repo ssh://git@docs.greenitglobe.com:10022/gig/gig_team.git
-#      branch master
+#      branch production
 #      interval 60
 #      key ~/.ssh/id_rsa
 #      path ../../../gig_team/
@@ -14,7 +14,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
 
     git {
       repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold.git
-      branch master
+      branch production
       interval 60
       key ~/.ssh/id_rsa
       path ../../../www_threefold/
@@ -23,7 +23,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
 
     git {
       repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
-      branch master
+      branch production
       interval 60
       key ~/.ssh/id_rsa
       path ../..
@@ -39,7 +39,11 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
         client_secret   Pb5LV6eoQqqdJx_x2kIOFe7BA5xOLGxZaBaFO1_2HggGyK4GAj3x
         auth_url        https://itsyou.online/v1/oauth/authorize
         token_url       https://itsyou.online/v1/oauth/access_token
+<<<<<<< HEAD
         redirect_url    http://threefoldtoken.com/oauth/callback
+=======
+        redirect_url    http://www.threefoldtoken.com/oauth/callback
+>>>>>>> 1fbebe6564348609d207f4e3b6edaef15da48932
 
         allow_extension css
         allow_extension js
