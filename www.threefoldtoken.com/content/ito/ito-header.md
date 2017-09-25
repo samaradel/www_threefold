@@ -10,6 +10,6 @@ button_name_1 = "Threefold Foundation Presentation"
 button_link_1 = "http://tiny.cc/tf_preso_investors"
 
 button_name_2 = "Threefold ITO Purchase Agreement"
-button_link_2 = "http://tiny.cc/tf_ito_investment_agr"
+button_link_2 = "https://tiny.cc/tf_itft_pur_ag"
 
 +++
