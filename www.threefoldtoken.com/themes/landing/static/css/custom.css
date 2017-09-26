@@ -218,16 +218,17 @@ a {
   height: 50px;
 }
 header .introWords {
-  margin-top: 30px;
+  margin-top: 100px;
   float: left;
 }
 header .introWords h1 {
   color: rgba(255,255,255,.7);
   text-align: left;
+  font-weight: bold;
 }
 header .introWords h2 {
   color: #fff;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 17px;
   letter-spacing: -.01em;
   line-height: 1.4em;
@@ -540,6 +541,41 @@ header .introWords h2 {
 #qrcode img {
   width:160px;
   height:160px;
+}
+.join p {
+  margin-bottom: 0px;
+}
+.register {
+  margin-top: 20px;
+}
+.register a {
+  color: #fff !important;
+  font-weight: bold;
+  padding: 10px 40px;
+  text-transform: uppercase;
+  font-size: 17px;
+  border-radius: 10px;
+}
+.register a:hover {
+  color: #fff!important;
+}
+.register .signup {
+  background-color: rgb(106,157,225);
+  margin-right: 15px;
+}
+.register .login {
+  background-color: rgb(111,173,113)
+}
+.join .copyright {
+  margin-top: 35px;
+}
+.join .copyright p {
+  text-transform: uppercase;
+  font-weight: normal;
+  letter-spacing: 0em;
+}
+.join .copyright p:last-of-type {
+  font-weight: bold;
 }
 /* Media Queries */
 @media only screen and (max-width: 767px) {
