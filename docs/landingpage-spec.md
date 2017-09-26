@@ -7,6 +7,8 @@ Needs the General Intro to TFF: a safe digital currency backing a new, neutral g
 Needs to be above the fold at all times: This to cater to returning customers
 Clear call to action: Join or Login
 
+
+
 ## The 3 Balls
 Utility, Green & Neutral + their respective short intro's.
 
@@ -53,20 +55,17 @@ Kristof De Spiegeleer
 ### suggestion: include picture of Kristof (I know he hates it) but it does build familiarity.
 
 ## Our Team
-New version of our team representation
-
-* Randomized
-* Square
-* Rollovers: Show first name
-* Whole team is included: Core & Rest > Side by Side
-
+Hardcode: Core team with small picture and name
+Other team: Just text (not clickable)
 ## Returning Onboardin possibilities
 
 Show Join/Sign up once more on the bottom of page.
 
 
-# Things to consider
-* Link content to .MD's we use behind IYO: This to make sure both sites serve same version of IDEA/OUR DREAM/ETC.
-* Insert Intercom on Landingpage to help convince with onboarding.
-* In this proposal we excluded the interactive map: too distracting, but it does make us more tangible 
+# Important
+* Add intercom
+* No links except login signup
+* After login/signup point to members.threefoldtoken.com (who can make this)
+* Hardcode team for now
+
 
