@@ -6,6 +6,7 @@ signup_txt = "Sign Up"
 
 login_url = "/oauth"
 login_txt = "Login"
+weight = 1
 +++
 # join threefold
 

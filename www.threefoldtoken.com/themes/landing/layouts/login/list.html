@@ -10,44 +10,22 @@
                   <div class="Content-outer">{{ .Render "join_threefold" }}</div>
                   {{ else if eq .Title "our idea" }}
                   <div class="Content-outer">{{ .Render "our-idea" }}</div>
-                  {{ else if eq .Section "privacy-policy" }}
-                  <div class="Content-outer">{{ .Render "privacy-policy" }}</div>
-                  {{ else if eq .Section "community" }}
-                  <div class="Content-outer">{{ .Render "community" }}</div>
-                  {{ else if eq .Section "team-test" }}
-                  <div class="Content-outer">{{ .Render "team-test" }}</div>
-                  {{ else if eq .Section "governance" }}
-                  <div class="Content-outer">{{ .Render "governance" }}</div>
-                  {{ else if eq .Section "ambassador" }}
-                  <div class="Content-outer">{{ .Render "ambassador" }}</div>
-                  {{ else if eq .Section "pto" }}
-                    {{ if eq .Title "pto" }}
-                      <div class="Content-outer">{{ .Render "pto" }}</div>
-                    {{ else if eq .Title "contribute" }}
-                      <div class="Content-outer">{{ .Render "contribute" }}</div>
-                    {{end}}
-                    {{ else if eq .Section "ito" }}
-                      {{ if eq .Title "ito" }}
-                        <div class="Content-outer">{{ .Render "ito" }}</div>
-                      {{ else if eq .Title "contribute" }}
-                        <div class="Content-outer">{{ .Render "contribute" }}</div>
-                        {{end}}
-                    {{ else if eq .Section "gettingstarted" }}
-                      {{ if eq .Title "gettingstarted" }}
-                        <div class="Content-outer">{{ .Render "gettingstarted" }}</div>
-                      {{ else if eq .Title "contribute" }}
-                        <div class="Content-outer">{{ .Render "contribute" }}</div>
-                        {{end}}
+                  {{ else if eq .Title "neutral_edge" }}
+                  <div class="Content-outer">{{ .Render "neutral_edge" }}</div>
+                  {{ else if eq .Title "our dream" }}
+                  <div class="Content-outer">{{ .Render "our_dream" }}</div>
+                  {{ else if eq .Title "our team" }}
+                  <div class="Content-outer">{{ .Render "our_team" }}</div>
                   {{else}}
     						<div class="Content-outer">{{ .Render "summary" }}</div>
           	  {{end}}
             {{ end }}
+            {{ partial "login/join_threefold.html" . }}
+
           </div>
       </div>
        {{ partial "footer.html" . }}
    </div>
    {{ partial "js.html" . }}
-   <!-- <script src="js/site-bundle.js" type="text/javascript"></script> -->
-   <!-- <script type="text/javascript" data-sqs-type="imageloader-bootstraper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script> -->
 </body>
 </html>

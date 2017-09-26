@@ -1,0 +1,19 @@
+{{ range $element :=  $.Site.Pages }}
+  {{ if eq .Section "login" }}
+    {{ if eq .Title "join" }}
+      <div class="sqs-block markdown-block sqs-block-markdown join">
+         <div class="sqs-block-content-home">
+            <p>{{ .Content }}</p>
+            <div class="register">
+               <a href="https://itsyou.online/register?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://testthreefold.aydo.com:8523/oauth/callback&response_type=code&state=/#/" class="btn btn-default signup" role="button">{{ .Params.signup_txt }}</a>
+               <a href="/oauth" class="btn btn-default login" role="button">{{ .Params.login_txt }}</a>
+                <div class="copyright">
+                  <p>powered by</p>
+                  <p>ITSYOU.ONLINE</p>
+                </div>
+            </div>
+         </div>
+      </div>
+    {{end}}
+  {{end}}
+{{end}}

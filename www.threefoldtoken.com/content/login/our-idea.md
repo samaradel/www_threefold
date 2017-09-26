@@ -4,6 +4,8 @@ title = "our idea"
 
 header = "Our Idea"
 
+weight = 2
+
 # First column
 header_1 = "The Token is designed to have real utility: they are the payment mechanism for buying and selling IT capacity on our grid."
 image_1_header = "utility"
