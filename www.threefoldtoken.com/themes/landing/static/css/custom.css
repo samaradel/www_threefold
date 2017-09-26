@@ -529,6 +529,14 @@ header .introWords h2 {
 .nav>li.showLink {
   display: block;
 }
+.app p {
+  float: left;
+  display: inline-block;
+}
+.app #qrcode {
+  float: right;
+  display: inline-block;
+}
 /* Media Queries */
 @media only screen and (max-width: 767px) {
   .Header-branding {

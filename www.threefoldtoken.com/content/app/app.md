@@ -13,6 +13,12 @@ Dear ThreeFold Foundation member, to make onboarding easier we developed the Thr
 <br>
 [![Apple_App_Badge_New.svg](/img/Apple_App_Badge_New.svg)](http://itunes.apple.com/app/id1276543091)
 [![Google_app_badge_new.png](/img/Google_app_badge_new.png)](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token)
+<div id="qrcode"></div>
+ <script type="text/javascript">
+     new QRCode(document.getElementById("qrcode"), "https://itsyou.online/login?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://testthreefold.aydo.com:8523/oauth/callback&response_type=code&scope=user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address&state=/oauth#/");
+ </script>
+
+<div class="clear-fix"></div>
 ### Easy to use
 
 Just download the ThreeFold App on your mobile device, and log in using your ItsYou.Online credentials. This allows you to easily remain up to date with latest news and to contact us with any questions you may have.
