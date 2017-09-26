@@ -68,5 +68,5 @@ Show Join/Sign up once more on the bottom of page.
 # Things to consider
 * Link content to .MD's we use behind IYO: This to make sure both sites serve same version of IDEA/OUR DREAM/ETC.
 * Insert Intercom on Landingpage to help convince with onboarding.
-* 
+* In this proposal we excluded the interactive map: too distracting, but it does make us more tangible 
 
