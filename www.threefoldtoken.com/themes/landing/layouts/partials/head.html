@@ -79,7 +79,7 @@
           }
           var value = readCookie('caddyoauth');
           var decoded = jwt_decode(value);
-          sessionStorage.setItem('status','loggedIn');
+          // sessionStorage.setItem('status','loggedIn');
           var email, userName, phone, userId
           for(var i=0; i<decoded.scope.length;i++){
               if(decoded.scope[i].includes("[user:email]")){
