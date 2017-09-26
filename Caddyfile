@@ -1,4 +1,3 @@
-#Update url
 http://testthreefold.aydo.com:8523 {
     bind 0.0.0.0
     gzip
@@ -40,8 +39,7 @@ http://testthreefold.aydo.com:8523 {
         client_secret   Pb5LV6eoQqqdJx_x2kIOFe7BA5xOLGxZaBaFO1_2HggGyK4GAj3x
         auth_url        https://itsyou.online/v1/oauth/authorize
         token_url       https://itsyou.online/v1/oauth/access_token
-        #Update url
-        redirect_url    http:///oauth/callback
+        redirect_url    http://testthreefold.aydo.com:8523/oauth/callback
 
         allow_extension css
         allow_extension js
