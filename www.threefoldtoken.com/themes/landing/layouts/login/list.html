@@ -8,8 +8,8 @@
             {{ range .Data.Pages }}
                 {{ if eq .Title "join"}}
                   <div class="Content-outer">{{ .Render "join_threefold" }}</div>
-                  {{ else if eq .Section "app" }}
-                  <div class="Content-outer">{{ .Render "app" }}</div>
+                  {{ else if eq .Title "our idea" }}
+                  <div class="Content-outer">{{ .Render "our-idea" }}</div>
                   {{ else if eq .Section "privacy-policy" }}
                   <div class="Content-outer">{{ .Render "privacy-policy" }}</div>
                   {{ else if eq .Section "community" }}
