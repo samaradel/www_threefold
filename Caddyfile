@@ -49,6 +49,8 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
         allow_extension ico
         allow_extension ttf
         allow_extension woff2
+        allow_extension jpg
+        allow_extension jpeg
 
         login_page	/login
         login_url	/oauth
