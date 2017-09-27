@@ -591,10 +591,9 @@ header .introWords h2 {
     margin-left: 34px;
     margin-right: 50px;
 }
-.heder-team{
+.header-team{
   font-size: 15px;
 }
-
 .text-name{
   text-align: center;
   margin-bottom: 15px;
@@ -602,6 +601,10 @@ header .introWords h2 {
 .team-name{
   text-align: center;
   word-spacing: 10px;
+}
+.our-team {
+  letter-spacing: 0.4em;
+  line-height: 2;
 }
 /* Display the columns below each other instead of side by side on small screens */
 @media (max-width: 650px) {
