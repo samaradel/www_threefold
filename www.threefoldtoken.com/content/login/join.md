@@ -10,8 +10,6 @@ weight = 1
 +++
 # join threefold
 
-This required to become an investor or hoster.
-
-Also you get access to our full web page and smart phone app.
-
-(available for iOs and Android)
+To view the full Threefold Foundation website and install our smartphone we require some basic information.
+<br>
+Throught these channels you will be able to become a member, hoster and/or investor. If you have any questions click the balloon on the bottom right of the screen.
