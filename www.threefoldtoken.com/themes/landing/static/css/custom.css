@@ -530,10 +530,6 @@ header .introWords h2 {
 .nav>li.showLink {
   display: block;
 }
-.app p {
-  float: left;
-  display: inline-block;
-}
 .app #qrcode {
   float: left;
   display: inline-block;
@@ -756,8 +752,8 @@ header .introWords h2 {
     padding-left: 0px;
   }*/
 
-  
-  
+
+
     }
 
     @media only screen and (max-width : 375px) {
@@ -783,5 +779,5 @@ header .introWords h2 {
     padding-right: 33px;
 
   }
-    
+
     }
