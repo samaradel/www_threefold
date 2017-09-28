@@ -535,7 +535,7 @@ header .introWords h2 {
   display: inline-block;
 }
 .app #qrcode {
-  float: right;
+  float: left;
   display: inline-block;
 }
 #qrcode img {

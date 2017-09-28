@@ -11,14 +11,15 @@ Staying up to date with the Threefold Foundation is now made even easier through
 
 To start using the app all you need to do is go through these 2 easy steps:
 
-* **1. Download the App**
+
+**1. Download the App**
 This can be done through the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token).
 
 
 [![Apple_App_Badge_New.svg](/img/Apple_App_Badge_New.svg)](http://itunes.apple.com/app/id1276543091)
 [![Google_app_badge_new.png](/img/Google_app_badge_new.png)](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token)
 
-* **2. Scan your personal QR-code**
+**2. Scan your personal QR-code**
 By scanning the QR-code with the app it is automatically linked to your ItsYou.Online account.
 Please scan the code below to provide link your account.
 If the code already has expired please click "refresh code" to scan a valid code.
