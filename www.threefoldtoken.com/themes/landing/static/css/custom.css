@@ -745,4 +745,22 @@ header .introWords h2 {
     padding: 21px 15px;
     font-size: 50%;
   }
+
 }
+@media only screen and (max-width : 375px) {
+
+  /*.col-sm-2 {
+    width: 60% !important;
+    margin-left: 20%;
+    padding-right:0px;
+    padding-left: 0px;
+  }*/
+
+  .sphere{
+    top: 25%;
+    width: 60%;
+    height: 60%;
+    position: absolute;
+    left: 20%;
+  }
+    }
