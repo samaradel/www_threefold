@@ -10,6 +10,5 @@ weight = 1
 +++
 # join threefold
 
-To view the full Threefold Foundation website and install our smartphone we require some basic information.
-<br>
-Throught these channels you will be able to become a member, hoster and/or investor. If you have any questions click the balloon on the bottom right of the screen.
+To view the full Threefold Foundation website and install our app on your phone, we need to know some basic personal information about you. Signing up will start this process. ThreeFold Members are also able to buy tokens and become hosters to help grow the new Internet.
+You can message us through the balloon on the bottom right of the screen. We have a team ready to answer your questions.
