@@ -1,19 +1,11 @@
-{{ range $element :=  .Data.Pages }}
-  {{ if eq .Section "home" }}
-    {{ if eq .Title "open source" }}
-
-
-      <div class="row open-source">
+      <div class="row open-source m-top">
+          <h1 style="text-align:center;">{{ .Params.header }}</h1>
         <div class="col-sm-2"></div>
         <div class="col-sm-2">
           <article class="BlogList-item clear-fix">
             <h1 class="text-align-center">{{ .Params.image_1_header }}</h1>
             <div class="BlogList-item-image">
-              <a href="/information/the-need-for-a-new-digital-currency/" class="BlogList-item-image-link" style="overflow: hidden;">
-
-
-                <img class="sphere" style="top: 0px;  max-width: 100%; max-height: 100%; position: absolute;" title = "{{ .Params.header_1 }}" alt="{{ .Params.header_1 }}" src="img/{{ .Params.image_1 }}">
-              </a>
+                <img class="sphere" style="top: 0px;  max-width: 100%; max-height: 100%; position: absolute;" title = "{{ .Params.header_1 }}" alt="{{ .Params.header_1 }}" src="/img/{{ .Params.image_1 }}">
             </div>
 
             <div class="BlogList-item-excerpt">
@@ -21,7 +13,6 @@
               <br>
               <br>
               <br>
-              <a href="/information/the-need-for-a-new-digital-currency/" class="BlogList-item-title"><p>{{ .Params.subtitle_1 }}</p></a>
               <a href="/" class="BlogList-item-readmore"></a>
             </div>
             <div class="Blog-meta BlogList-item-meta">
@@ -35,16 +26,13 @@
           <article class="BlogList-item clear-fix">
             <h1 class="text-align-center">{{ .Params.image_2_header }}</h1>
             <div class="BlogList-item-image">
-              <a href="/information/10-times-power-savings/" class="BlogList-item-image-link" style="overflow: hidden;">
                 <img class="sphere" style="top: 0px;  max-width: 100%; max-height: 100%; position: absolute;" title = "{{ .Params.header_2 }}" alt="{{ .Params.header_2 }}" src="/img/{{ .Params.image_2 }}">
-              </a>
             </div>
 
             <div class="BlogList-item-excerpt">
               <p>{{ .Params.header_2 }}</p>
               <br>
               <br>
-              <a href="/information/10-times-power-savings/" class="BlogList-item-title"><p>{{ .Params.subtitle_2 }}</p></a>
               <a href="/" class="BlogList-item-readmore"></a>
             </div>
             <div class="Blog-meta BlogList-item-meta">
@@ -58,15 +46,12 @@
           <article class="BlogList-item clear-fix">
             <h1 class="text-align-center">{{ .Params.image_3_header }}</h1>
             <div class="BlogList-item-image">
-              <a href="/information/need-for-new-neutral-internet/" class="BlogList-item-image-link" style="overflow: hidden;">
                 <img class="sphere" style="top: 0px;  max-width: 100%; max-height: 100%; position: absolute;" title = "{{ .Params.header_3 }}" alt="{{ .Params.header_3 }}" src="/img/{{ .Params.image_3 }}">
-              </a>
             </div>
 
             <div class="BlogList-item-excerpt">
               <p>{{ .Params.header_3 }}</p>
               <br>
-              <a href="/information/need-for-new-neutral-internet/" class="BlogList-item-title"><p>{{ .Params.subtitle_3 }}</p></a>
               <a href="/" class="BlogList-item-readmore"></a>
             </div>
             <div class="Blog-meta BlogList-item-meta">
@@ -79,17 +64,3 @@
         </div>
         <div class="col-sm-1"></div>
       </div>
-      <!-- <div class="row">
-        <div class="col-sm-2"></div>
-        <div class="col-sm-8">
-          <div class="sqs-block markdown-block sqs-block-markdown">
-             <div class="sqs-block-content-home">
-                <h1 id="we-are-gig-tech">{{ .Params.header }}</h1>
-                <p>{{ .Content }}</p>
-             </div>
-          </div>
-        </div>
-      </div> -->
-    {{end}}
-  {{end}}
-{{end}}
