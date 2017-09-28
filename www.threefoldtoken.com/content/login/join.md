@@ -10,5 +10,6 @@ weight = 1
 +++
 # join threefold
 
-To view the full Threefold Foundation website and install our app on your phone, we need to know some basic personal information about you. Signing up will start this process. ThreeFold Members are also able to buy tokens and become hosters to help grow the new Internet.
+To view the full Threefold Foundation website, we'd like know some basic personal information about you. ThreeFold Members are able to buy tokens and become hosters to help grow the new Internet. Sign up below. 
+<br>
 You can message us through the balloon on the bottom right of the screen. We have a team ready to answer your questions.
