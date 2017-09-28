@@ -1,7 +1,7 @@
 +++
 #Don't remove title!
 title = "join"
-signup_link="https://itsyou.online/register?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://members.testthreefold.aydo.com:4040/oauth/callback&response_type=code&state=/#/"
+signup_link="https://itsyou.online/register?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://members.threefold2.aydo.com:4040/oauth/callback&response_type=code&state=/#/"
 signup_txt = "Sign Up"
 
 login_url = "/oauth"
