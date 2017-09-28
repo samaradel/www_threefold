@@ -17,20 +17,10 @@ This can be done through the [Apple store](http://itunes.apple.com/app/id1276543
 
 [![Apple_App_Badge_New.svg](/img/Apple_App_Badge_New.svg)](http://itunes.apple.com/app/id1276543091)
 [![Google_app_badge_new.png](/img/Google_app_badge_new.png)](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token)
-<<<<<<< HEAD
-<div id="qrcode"></div>
- <script type="text/javascript">
-     new QRCode(document.getElementById("qrcode"), "https://itsyou.online/login?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://testthreefold.aydo.com:8523/oauth/callback&response_type=code&scope=user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address&state=/oauth#/");
- </script>
-
-<div class="clear-fix"></div>
-### Easy to use
-=======
->>>>>>> 6f99936c51922d47abbb1e6b9f4c8d4c557fce8e
 
 * **2. Scan your personal QR-code**
 By scanning the QR-code with the app it is automatically linked to your ItsYou.Online account.
-Please scan the code below to provide link your account. 
+Please scan the code below to provide link your account.
 If the code already has expired please click "refresh code" to scan a valid code.
 <div id="qrcode"></div>
  <script type="text/javascript">
