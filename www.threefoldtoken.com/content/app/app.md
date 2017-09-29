@@ -26,7 +26,7 @@ If the code already has expired please click "refresh code" to scan a valid code
 
 <div class="row qrcode">
   <div id="qrcode" class="col-sm-4">
-    <div id="refresh-overlay">
+    <div id="expired-overlay">
         <p>CODE<br>EXPIRED</p>
         <button id="refresh-button" type="button" class="btn btn-success">REFRESH CODE</button>
     </div>

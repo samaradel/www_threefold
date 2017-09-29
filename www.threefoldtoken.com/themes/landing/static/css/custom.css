@@ -533,12 +533,12 @@ header .introWords h2 {
 .app #qrcode {
   float: left;
   display: inline-block;
+  min-height: 243px;
 }
 .app .row.qrcode {
   margin-top: 25px;
-  min-height: 243px;
 }
-.app #refresh-overlay, .app #error-overlay {
+.app #expired-overlay, .app #error-overlay {
   display: none;
   text-align: center;
   margin-left: -15px;
@@ -546,18 +546,18 @@ header .introWords h2 {
   height: 100%;
   width: 100%;
 }
-.app #refresh-overlay {
+.app #expired-overlay {
   background-color: rgba(256, 256, 256, 0.9);
 }
 .app #error-overlay {
   background-color: #e6e6e6;
 }
-.app #refresh-overlay p, .app #error-overlay p {
+.app #expired-overlay p, .app #error-overlay p {
   font-size: 20pt;
   font-weight: bold;
   margin-top: 25%;
 }
-.app #refresh-overlay .btn {
+.app #expired-overlay .btn {
   margin-top: 15%;
   border: none;
   border-radius: unset;

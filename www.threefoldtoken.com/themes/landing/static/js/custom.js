@@ -99,7 +99,7 @@
     }
 
     function qrTimedOut() {
-        console.log("QR code timed out");
+        console.log("QR code is expired");
         toggle(STATUS.EXPIRED);
     }
 
@@ -107,7 +107,7 @@
         console.log("Refreshing QR code");
 
         $.ajax({
-            url : '/forward/v1/oauth/jwt/refresh?validity=60',
+            url : '/forward/v1/oauth/jwt/refresh?validity=' + (5 + TIMEOUT / 1000), // margin of 5 seconds
             beforeSend : function(request) {
                 request.setRequestHeader("Authorization", 'bearer ' + readCookie("caddyoauth"));
             },
@@ -121,7 +121,7 @@
         });
     }
 
-    $('#refresh-overlay #refresh-button').click(refreshCode);
+    $('#qrcode #refresh-button').click(refreshCode);
 
     refreshCode();
 
