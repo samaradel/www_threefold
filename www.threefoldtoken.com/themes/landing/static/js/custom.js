@@ -64,19 +64,65 @@
 
     // QR Code
 
-    var qrcode = new QRCode(document.getElementById("qrcode"), {
-      	text: "https://itsyou.online/login?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://testthreefold.aydo.com:8523/oauth/callback&response_type=code&scope=user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address&state=/oauth#/",
-      	width: 128,
-      	height: 128,
-      	colorDark : "#000000",
-      	colorLight : "#ffffff",
-      	correctLevel : QRCode.CorrectLevel.H
-      });
+    var TIMEOUT = 60000; // 60 seconds
+    var qrCode = undefined;
+    var STATUS = {
+        OK : 'ok',
+        EXPIRED : 'expired',
+        ERROR : 'error'
+    };
 
-      setTimeout(function() {
-        qrcode.clear(); // clear the code.
-        qrcode.makeCode("https://itsyou.online/login?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://testthreefold.aydo.com:8523/oauth/callback&response_type=code&scope=user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address&state=/oauth#/"); // make another code.
-        console.log('done');
-      }, 60000);
+    function renderQrCode(jwt) {
+        console.log("Showing QR code with content: " + jwt);
+        toggle(STATUS.OK);
+
+        if (qrCode) {
+            qrCode.clear();
+            qrCode.makeCode(jwt);
+        } else {
+            qrCode = new QRCode(document.getElementById("qrcode"), {
+                text : jwt,
+                correctLevel : QRCode.CorrectLevel.M,
+                width : 700,
+                height : 700
+            });
+        }
+
+        setTimeout(qrTimedOut, TIMEOUT);
+    }
+
+    function toggle(status) {
+        $.each(STATUS, function(i, s) {
+            $('#qr-text .' + s).toggle(s == status);
+            $('#qrcode #' + s + '-overlay').toggle(s == status);
+        });
+    }
+
+    function qrTimedOut() {
+        console.log("QR code timed out");
+        toggle(STATUS.EXPIRED);
+    }
+
+    function refreshCode() {
+        console.log("Refreshing QR code");
+
+        $.ajax({
+            url : '/forward/v1/oauth/jwt/refresh?validity=60',
+            beforeSend : function(request) {
+                request.setRequestHeader("Authorization", 'bearer ' + readCookie("caddyoauth"));
+            },
+            success : function(data) {
+                renderQrCode(data);
+            },
+            error : function() {
+                console.error('Could not get the JWT');
+                toggle(STATUS.ERROR);
+            }
+        });
+    }
+
+    $('#refresh-overlay #refresh-button').click(refreshCode);
+
+    refreshCode();
 
 })();

@@ -23,10 +23,29 @@ This can be done through the [Apple store](http://itunes.apple.com/app/id1276543
 By scanning the QR-code with the app it is automatically linked to your ItsYou.Online account.
 Please scan the code below to provide link your account.
 If the code already has expired please click "refresh code" to scan a valid code.
-<div id="qrcode"></div>
- <script type="text/javascript">
-     new QRCode(document.getElementById("qrcode"), "https://itsyou.online/login?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://testthreefold.aydo.com:8523/oauth/callback&response_type=code&scope=user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address&state=/oauth#/";);
- </script>
+
+<div class="row qrcode">
+  <div id="qrcode" class="col-sm-4">
+    <div id="refresh-overlay">
+        <p>CODE<br>EXPIRED</p>
+        <button id="refresh-button" type="button" class="btn btn-success">REFRESH CODE</button>
+    </div>
+    <div id="error-overlay">
+        <p>UNABLE TO<br>RETRIEVE<br>CODE</p>
+    </div>
+  </div>
+  <div id="qr-text" class="col-sm-4">
+    <span class="ok">
+      TO SETUP YOUR THREEFOLD APP PLEASE SCAN THIS CODE BY CLICKING THE "SCAN QR CODE" BUTTON ON THE REGISTRATION PAGE.
+    </span>
+    <span class="expired">
+      PLEASE CLICK REFRESH CODE AND SCAN THIS CODE BY CLICKING THE "SCAN QR CODE" BUTTON ON THE REGISTRATION PAGE.
+    </span>
+    <span class="error">
+      PLEASE CONTACT US BY CLICKING THE TEXT BALLOON IN THE BOTTOM RIGHT OF YOUR SCREEN.
+    </span>
+  </div>
+</div>
 
 <div class="clear-fix"></div>
 

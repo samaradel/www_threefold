@@ -534,9 +534,41 @@ header .introWords h2 {
   float: left;
   display: inline-block;
 }
-#qrcode img {
-  width:160px;
-  height:160px;
+.app .row.qrcode {
+  margin-top: 25px;
+  min-height: 243px;
+}
+.app #refresh-overlay, .app #error-overlay {
+  display: none;
+  text-align: center;
+  margin-left: -15px;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.app #refresh-overlay {
+  background-color: rgba(256, 256, 256, 0.9);
+}
+.app #error-overlay {
+  background-color: #e6e6e6;
+}
+.app #refresh-overlay p, .app #error-overlay p {
+  font-size: 20pt;
+  font-weight: bold;
+  margin-top: 25%;
+}
+.app #refresh-overlay .btn {
+  margin-top: 15%;
+  border: none;
+  border-radius: unset;
+  background-color: #7aaa76;
+}
+.app #qrcode img, .app #qrcode canvas {
+  max-width: 243px;
+  max-height: 243px;
+}
+.app #qr-text .expired, .app #qr-text .error {
+  display: none;
 }
 .join p {
   margin-bottom: 0px;
