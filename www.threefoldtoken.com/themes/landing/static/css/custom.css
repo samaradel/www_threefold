@@ -218,16 +218,17 @@ a {
   height: 50px;
 }
 header .introWords {
-  margin-top: 30px;
+  margin-top: 100px;
   float: left;
 }
 header .introWords h1 {
   color: rgba(255,255,255,.7);
   text-align: left;
+  /*font-weight: bold;*/
 }
 header .introWords h2 {
   color: #fff;
-  font-weight: 400;
+  /*font-weight: 600;*/
   font-size: 17px;
   letter-spacing: -.01em;
   line-height: 1.4em;
@@ -529,6 +530,123 @@ header .introWords h2 {
 .nav>li.showLink {
   display: block;
 }
+.app #qrcode {
+  float: left;
+  display: inline-block;
+}
+#qrcode img {
+  width:160px;
+  height:160px;
+}
+.join p {
+  margin-bottom: 0px;
+}
+.register {
+  margin-top: 20px;
+}
+.register a {
+  color: #fff !important;
+  font-weight: bold;
+  padding: 10px 40px;
+  text-transform: uppercase;
+  font-size: 17px;
+  border-radius: 10px;
+}
+.register a:hover {
+  color: #fff!important;
+}
+.register .signup {
+  background-color: rgb(106,157,225);
+  margin-right: 15px;
+}
+.register .login {
+  background-color: rgb(111,173,113)
+}
+.join .copyright {
+  margin-top: 35px;
+}
+.join .copyright p {
+  text-transform: uppercase;
+  font-weight: normal;
+  letter-spacing: 0em;
+}
+.join .copyright p:last-of-type {
+  font-weight: bold;
+}
+.m-top {
+  margin-top: 50px;
+}
+
+
+/* Three columns side by side */
+.column {
+    float: left;
+    width: 13%;
+    margin-bottom: 16px;
+    padding: 10px 8px;
+    margin-left: 34px;
+    margin-right: 50px;
+}
+.header-team{
+  font-size: 15px;
+}
+.text-name{
+  text-align: center;
+  margin-bottom: 15px;
+}
+.team-name{
+  text-align: center;
+  word-spacing: 10px;
+}
+.our-team {
+  /*letter-spacing: 0.4em;*/
+  line-height: 2;
+}
+/* Display the columns below each other instead of side by side on small screens */
+@media (max-width: 650px) {
+    .column {
+        width: 100%;
+        display: block;
+    }
+}
+
+/* Add some shadows to create a card effect */
+.card {
+    /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);*/
+}
+
+/* Some left and right padding inside the container */
+.container {
+    /*padding: 0 16px;*/
+}
+
+/* Clear floats */
+.container::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.title {
+    color: grey;
+}
+
+.button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
+
+.button:hover {
+    background-color: #555;
+}
+
 /* Media Queries */
 @media only screen and (max-width: 767px) {
   .Header-branding {
@@ -623,4 +741,43 @@ header .introWords h2 {
     padding: 21px 15px;
     font-size: 50%;
   }
+
 }
+@media only screen and (max-width : 375px) {
+
+  /*.col-sm-2 {
+    width: 60% !important;
+    margin-left: 20%;
+    padding-right:0px;
+    padding-left: 0px;
+  }*/
+
+
+
+    }
+
+    @media only screen and (max-width : 375px) {
+
+  /*.col-sm-2 {
+    width: 60% !important;
+    margin-left: 20%;
+    padding-right:0px;
+    padding-left: 0px;
+  }*/
+
+  .sphere{
+    /*top: 25%;
+    width: 60%;
+    height: 60%;*/
+    /*position: absolute;*/
+    left: 14%;
+    max-width: 70% !important;
+  }
+
+  p {
+    padding-left: 25px;
+    padding-right: 33px;
+
+  }
+
+    }

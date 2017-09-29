@@ -51,6 +51,8 @@
       event.preventDefault();
     });
 
+    // Display Links
+
     // if (sessionStorage.getItem('status') != null) {
     //   $('.nav>li.showLink').css("display", "none");
     //   $('.nav>li.hideLink').css("display", "block");
@@ -58,7 +60,23 @@
     // else {
     //   $('.nav>li.showLink').css("display", "block");
     //   $('.nav>li.hideLink').css("display", "none");
-    //
     // }
+
+    // QR Code
+
+    var qrcode = new QRCode(document.getElementById("qrcode"), {
+      	text: "https://itsyou.online/login?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://testthreefold.aydo.com:8523/oauth/callback&response_type=code&scope=user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address&state=/oauth#/",
+      	width: 128,
+      	height: 128,
+      	colorDark : "#000000",
+      	colorLight : "#ffffff",
+      	correctLevel : QRCode.CorrectLevel.H
+      });
+
+      setTimeout(function() {
+        qrcode.clear(); // clear the code.
+        qrcode.makeCode("https://itsyou.online/login?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://testthreefold.aydo.com:8523/oauth/callback&response_type=code&scope=user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address&state=/oauth#/"); // make another code.
+        console.log('done');
+      }, 60000);
 
 })();
