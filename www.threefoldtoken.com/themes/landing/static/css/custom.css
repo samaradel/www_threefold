@@ -541,7 +541,7 @@ header .introWords h2 {
 .app #expired-overlay, .app #error-overlay {
   display: none;
   text-align: center;
-  margin-left: -15px;
+  margin-left: -7.5px;
   position: absolute;
   height: 100%;
   width: 100%;
