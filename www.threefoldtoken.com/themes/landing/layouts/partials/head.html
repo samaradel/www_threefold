@@ -1,12 +1,27 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en-US">
 <head>
-   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-   <meta name="viewport" content="initial-scale=1">
-   <meta charset="utf-8">
-   <title>{{ $.Site.Title }}</title>
-   <link rel="shortcut icon" type="image/x-icon" href="../../img/favicon.ico">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="initial-scale=1">
+  <meta charset="utf-8">
+
+  <!-- Open Graph data -->
+  <meta property="og:title" content="THREEFOLD"/>
+  <meta property="og:url" content="http://www.threefoldtoken.com" />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="Threefold Foundation description: Threefold Foundation is launching the ThreeFold Token, a safe digital currency backing a new, neutral green Internet. Feel free to join us." />
+  <!-- Facebook image -->
+  <meta property="og:image" content="https://threefoldtoken/img/facebook.jpg" />
+
+  <!-- Twitter Card -->
+  <meta property="twitter:card" content="Threefold Foundation description: Threefold Foundation is launching the ThreeFold Token, a safe digital currency backing a new, neutral green Internet. Feel free to join us." />
+  <meta name="twitter:image" content="https://threefoldtoken/img/twitter.jpg" />
+  <title>{{ $.Site.Title }}</title>
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="../../img/favicon.ico">
    <link rel="image_src" href="img/GIG.Techlogo.CMYK.png">
    {{ if eq .Section "home" }}
      <link rel="stylesheet" href="css/bootstrap.min.css">
