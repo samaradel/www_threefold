@@ -224,11 +224,11 @@ header .introWords {
 header .introWords h1 {
   color: rgba(255,255,255,.7);
   text-align: left;
-  font-weight: bold;
+  /*font-weight: bold;*/
 }
 header .introWords h2 {
   color: #fff;
-  font-weight: 600;
+  /*font-weight: 600;*/
   font-size: 17px;
   letter-spacing: -.01em;
   line-height: 1.4em;
