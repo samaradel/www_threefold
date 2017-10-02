@@ -73,7 +73,7 @@
     };
 
     function renderQrCode(jwt) {
-        console.log("Showing QR code with content: " + jwt);
+        console.log("Showing QR code");
         toggle(STATUS.OK);
 
         if (qrCode) {
