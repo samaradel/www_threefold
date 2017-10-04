@@ -10,5 +10,9 @@ weight = 4
 
 +++
 
-# to be completed
+# ThreeFold Token Onboarding FAQ
+
+- we are bringing the information together as we speak.
+- [please click on this link to see how we work on our FAQ](https://docs.google.com/document/d/1sIqSZgAQ_PO-UZFTmh-62jZGf380DGhBnnaGneUowxU/edit?usp=sharing)
+
 
