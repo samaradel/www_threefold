@@ -33,7 +33,7 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
     errors {
     	404 404.html # Not Found
     }
-    
+
     proxy /forward/v1/oauth/jwt/refresh https://itsyou.online {
         without /forward
     }
@@ -55,6 +55,7 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
         allow_extension woff2
         allow_extension jpg
         allow_extension jpeg
+        allow_extension JPG
         refreshable
 
         login_page	/login
