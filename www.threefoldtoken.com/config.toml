@@ -10,6 +10,7 @@ pluralizeListTitles = false
 uglyURLs = false
 copyright = "(c) COPYRIGHT GIG TECHNOLOGY N.V"
 paginate = 15
+enableRobotsTXT = true
 
 [Params]
   logo = "img/Icons-05 copy.png"
