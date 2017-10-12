@@ -34,6 +34,10 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
     	404 404.html # Not Found
     }
 
+    proxy /forward/v1/oauth/jwt/refresh https://itsyou.online {
+        without /forward
+    }
+
     oauth {
         client_id       threefold
         client_secret   Pb5LV6eoQqqdJx_x2kIOFe7BA5xOLGxZaBaFO1_2HggGyK4GAj3x
@@ -51,11 +55,13 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
         allow_extension woff2
         allow_extension jpg
         allow_extension jpeg
+        allow_extension JPG
+        refreshable
 
         login_page  /login
         login_url /oauth
         extra_scopes  user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address
-       }
+    }
 
   # mailout /www_threefold2.0 {
   #      to
