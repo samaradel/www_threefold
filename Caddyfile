@@ -1,11 +1,11 @@
-http://threefold2.aydo.com:4040, http://members.testthreefold.aydo.com:4040 {
+http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.threefoldtoken.com:88, http://www.member.threefoldtoken.com:88 {
     bind 0.0.0.0
     gzip
     root www.threefoldtoken.com/en
 
 #    git {
 #      repo ssh://git@docs.greenitglobe.com:10022/gig/gig_team.git
-#      branch master
+#      branch production
 #      interval 60
 #      key ~/.ssh/id_rsa
 #      path ../../../gig_team/
@@ -14,7 +14,7 @@ http://threefold2.aydo.com:4040, http://members.testthreefold.aydo.com:4040 {
 
     git {
       repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold.git
-      branch master
+      branch production
       interval 60
       key ~/.ssh/id_rsa
       path ../../../www_threefold/
@@ -23,7 +23,7 @@ http://threefold2.aydo.com:4040, http://members.testthreefold.aydo.com:4040 {
 
     git {
       repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
-      branch master
+      branch production
       interval 60
       key ~/.ssh/id_rsa
       path ../..
@@ -43,7 +43,7 @@ http://threefold2.aydo.com:4040, http://members.testthreefold.aydo.com:4040 {
         client_secret   Pb5LV6eoQqqdJx_x2kIOFe7BA5xOLGxZaBaFO1_2HggGyK4GAj3x
         auth_url        https://itsyou.online/v1/oauth/authorize
         token_url       https://itsyou.online/v1/oauth/access_token
-        redirect_url    http://members.testthreefold.aydo.com:4040/oauth/callback
+        redirect_url    http://member.threefoldtoken.com/oauth/callback
 
         authentication_required /
         allow_extension css
@@ -58,8 +58,8 @@ http://threefold2.aydo.com:4040, http://members.testthreefold.aydo.com:4040 {
         allow_extension JPG
         refreshable
 
-        login_page	/login
-        login_url	/oauth
+        login_page  /login
+        login_url /oauth
         extra_scopes  user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address
     }
 
