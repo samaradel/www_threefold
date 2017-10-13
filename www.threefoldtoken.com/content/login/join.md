@@ -12,4 +12,4 @@ weight = 1
 
 Help us build a new internet, register and get access to al lot more information, learn more about the safest and greenest digital currency in the world.
 <br>
-Chat with us. We have a team ready to answer your questions.
+Chat with us by clicking on the chat symbol at right side bottom of page. We have a team ready to answer your questions.
