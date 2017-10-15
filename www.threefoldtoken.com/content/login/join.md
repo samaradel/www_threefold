@@ -10,6 +10,6 @@ weight = 1
 +++
 # join threefold
 
-To view the full Threefold Foundation website, we'd like know some basic personal information about you. ThreeFold Members are able to buy tokens and become hosters to help grow the new Internet. Sign up below.
+Help us build a new internet, register and get access to al lot more information, learn more about the safest and greenest digital currency in the world.
 <br>
-You can message us by clikcin on the text balloon on the bottom right of the screen. We have a team ready to answer your questions.
+Chat with us by clicking on the chat symbol at right side bottom of page. We have a team ready to answer your questions.
