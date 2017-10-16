@@ -510,7 +510,7 @@ header .introWords h2 {
 .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:active {
   color: #757575;
 }
-.active, .our-mission-and-goals .sqs-block-content h2, .ambassador-faq h2 {
+.active, .ambassador-faq h2 {
   color:#757575 !important;
   font-weight: 600;
 }
@@ -608,8 +608,6 @@ header .introWords h2 {
 .m-top {
   margin-top: 50px;
 }
-
-
 /* Three columns side by side */
 .column {
     float: left;
@@ -634,6 +632,35 @@ header .introWords h2 {
   /*letter-spacing: 0.1em;*/
   line-height: 2;
 }
+.overview-contents {
+   border-radius: 0px;
+   border: none;
+   background-color: rgb(119,170,230);
+   box-shadow: 0 7px 7px 0 rgba(0,0,0,.15);
+}
+.close {
+  top: 30px;
+}
+.close:hover {
+  text-decoration: none;
+}
+ .our-mission-and-goals .sqs-block-content h2 {
+   color: #fff;
+   text-transform: capitalize;
+   font-weight: bold;
+   border-bottom: none;
+   padding: 10px 0px 0px 10px;
+ }
+ .our-mission-and-goals p {
+   color: #fff;
+   padding-left: 10px;
+ }
+ .fa-2{
+   margin-top: 10px;
+ }
+ .overview-contents {
+   top: 269px;
+ }
 /* Display the columns below each other instead of side by side on small screens */
 @media (max-width: 650px) {
     .column {
