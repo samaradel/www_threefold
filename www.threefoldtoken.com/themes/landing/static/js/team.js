@@ -95,7 +95,7 @@ $(function () {
   var showOverview = function () {
     var me = $(this);
     var pos = me.position();
-    me.parent().find('.overview-contents').css('top', pos.top - 140).show();
+    me.parent().find('.overview-contents').css('top', pos.top + 150).show();
     me.parent().find('.overview-contents').addClass('visible').removeClass('invisible');
     //$('.overview a.overview-top').addClass('invisible').removeClass('visible');
   }
