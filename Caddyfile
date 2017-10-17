@@ -39,13 +39,14 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
     }
 
     oauth {
+	client_id       threefold
         client_secret   dxUIMndhdVXKU470S24PvzOchXQn5qHAPGMZSJekRwUtwqluYp8n
         auth_url        https://staging.itsyou.online/v1/oauth/authorize
         token_url       https://staging.itsyou.online/v1/oauth/access_token
         jwt_url         https://staging.itsyou.online/v1/oauth/jwt
         redirect_url    http://members.testthreefold.aydo.com:8523/oauth/callback
-        organizations   /ito threefold.ito getting started
-        organizations   /gettingstarted threefold.ito getting started
+       # organizations   /ito threefold.ito getting started
+       # organizations   /gettingstarted threefold.ito getting started
 
         authentication_required /
         allow_extension css
