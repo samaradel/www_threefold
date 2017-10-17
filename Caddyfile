@@ -45,6 +45,8 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
         token_url       https://staging.itsyou.online/v1/oauth/access_token
         jwt_url         https://staging.itsyou.online/v1/oauth/jwt
         redirect_url    http://members.testthreefold.aydo.com:8523/oauth/callback
+        organizations   /ito threefold.ito
+        organizations   /gettingstarted threefold.gettingstarted
 
         authentication_required /
         allow_extension css
