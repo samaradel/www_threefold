@@ -10,6 +10,7 @@ weight = 1
 +++
 # join threefold
 
-Help us build a new internet, register and get access to al lot more information, learn more about the safest and greenest digital currency in the world.
-<br>
-Chat with us by clicking on the chat symbol at right side bottom of page. We have a team ready to answer your questions.
+For onboarding purposes ThreeFold makes use of Itsyou.online.
+This fully independent identity management system puts the usage of your personal information back in your hands.
+We at ThreeFold are firm believers of an open internet, of which the use of personal information is a huge part. This part should be protected, not exploited.
+That’s why we chose Itsyou.online.
