@@ -34,16 +34,18 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
     	404 404.html # Not Found
     }
 
-    proxy /forward/v1/oauth/jwt/refresh https://itsyou.online {
+    proxy /forward/v1/oauth/jwt/refresh https://staging.itsyou.online {
         without /forward
     }
 
     oauth {
-        client_id       threefold
-        client_secret   Pb5LV6eoQqqdJx_x2kIOFe7BA5xOLGxZaBaFO1_2HggGyK4GAj3x
-        auth_url        https://itsyou.online/v1/oauth/authorize
-        token_url       https://itsyou.online/v1/oauth/access_token
-        redirect_url    http://members.testthreefold.aydo.com:8523/oauth/callback
+        client_secret   dxUIMndhdVXKU470S24PvzOchXQn5qHAPGMZSJekRwUtwqluYp8n
+        auth_url        https://staging.itsyou.online/v1/oauth/authorize
+        token_url       https://staging.itsyou.online/v1/oauth/access_token
+        jwt_url         https://staging.itsyou.online/v1/oauth/jwt
+        redirect_url    http://localhost:8523/oauth/callback
+        organizations   /ito threefold.ito getting started
+        organizations   /gettingstarted threefold.ito getting started
 
         authentication_required /
         allow_extension css
@@ -58,7 +60,7 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
         allow_extension JPG
         refreshable
 
-        login_page	/login
+        login_page /login
         login_url	/oauth
         extra_scopes  user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address
     }
