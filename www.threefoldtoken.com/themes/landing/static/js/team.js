@@ -17,7 +17,7 @@
  */
 
 $(function () {
-  var render = function (xpositions, ypositions, dataset, width, height, padding) {
+  var render = function (xpositions, ypositions, dataset, width, height) {
     var table = $("<table></table>");
     var tbody = $("<tbody></tbody>");
     table.append(tbody).css('line-height', '0px');
@@ -29,11 +29,13 @@ $(function () {
       for (x=0; x<xpositions; x++) {
         var details = dataset[x+"x"+y];
         var td = $("<td></td>");
-        var img = $("<img/>").css('border-radius', '50%').css('border', 'solid 2px #757575');
+        var overlay = $("<div></div>").addClass("overlay");
+        var img = $("<img/>").css('filter', 'grayscale(100%)');
         if (details) {
           var parent = $("<div></div>").addClass("overview");
           td.append(parent);
-          var a = $("<a></a>").addClass('overview-top').click(showOverview).css('cursor', 'pointer');
+          var a = $("<a></a>").addClass('overview-top').click(showOverview).click(function(){
+             $(this).find('img').css('filter', 'grayscale(0%)')}).css('cursor', 'pointer');
           parent.append(a);
           a.append(img);
         } else {
@@ -43,25 +45,46 @@ $(function () {
         // td.css('padding', '0px').css('margin', '0px').css('padding', '0px').css('border-width', '0px');
         if (details) {
           img.prop('src', '../avatars/'+ encodeURIComponent(details['avatar']));
-        } else {
-          img.prop('src', 'https://docs.greenitglobe.com/ThreeFold/www_threefold_dynamic_contents/raw/master/avatars/baby.jpg');
         }
-        img.height(height).width(width).css('max-width', width+'px').css('max-height', height+'px').css('min-width', width+'px').css('min-height', height+'px').css('margin', padding+'px');
-        if (x == 0) {
-          img.css('margin-left', '0px');
-        }
-        if (x + 1 == xpositions){
-          img.css('margin-right', '0px');
-        }
+        // else {
+        //   img.prop('src', 'https://docs.greenitglobe.com/ThreeFold/www_threefold_dynamic_contents/raw/master/avatars/baby.jpg');
+        // }
+        img.height(height).width(width).css('max-width', width+'px').css('max-height', height+'px').css('min-width', width+'px').css('min-height', height+'px');
+        // if (x == 0) {
+        //   img.css('margin-left', '0px');
+        // }
+        // if (x + 1 == xpositions){
+        //   img.css('margin-right', '0px');
+        // }
         if (details) {
           var div = $("<div></div>").addClass("overview-contents").hide();
           parent.append(div);
-          div.append($("<div></div>").addClass("close").append($("<a></a>").click(closeOverview).css('cursor', 'pointer').text("[Close]")));
-          div.append($("<img/>").prop("src","../avatars/" + encodeURIComponent(details['avatar'])));
-          div.append($("<h1></h1>").text(details["name"]));
-          // div.append($("<h3></h3>").text(details["nationality"]).css('padding-left', '150px'));
-          // div.append($("<p></p>").text(details["why"]).css('font-style', 'italic'));
-          div.append($("<p></p>").text(details["experience"]));
+          div.append($("<div></div>").addClass("close").append($("<a></a>").click(closeOverview).click(function(){
+             $('.overview').find('img').css('filter', 'grayscale(100%)')}).css('cursor', 'pointer').text("x").css('color', '#fff')));
+          div.append($("<h2></h2>").text(details["name"]));
+          div.append($("<p></p>").text(details["description"]));
+          div.append($("<h2></h2>").text('hobbies', details["name"]).css('padding-top', '15px'));
+          div.append($("<p></p>").text(details["hobbies"]).css('padding-bottom', '15px'));
+          div.append($("<a><i class='fa fa-linkedin-square fa-2'></i></a>").attr('href', details["linked_in"]).css({
+            'color': '#fff',
+            'font-size': '0.7em',
+            'padding-left': '10px'
+          }));
+          div.append($("<a><i class='fa fa-envelope fa-2'></i></a>").attr('href', 'mailto:' + details["emails"]).css({
+            'color': '#fff',
+            'font-size': '0.7em',
+            'padding-left': '25px'
+          }));
+          div.append($("<a><i class='fa fa-github-square fa-2'></i></a>").attr('href', details["github"]).css({
+            'color': '#fff',
+            'font-size': '0.7em',
+            'padding-left': '25px'
+          }));
+          div.append($("<a><i class='fa fa-telegram fa-2'></i></a>").attr('href', 'https://t.me/' + details["telegram"]).css({
+            'color': '#fff',
+            'font-size': '0.7em',
+            'padding-left': '25px'
+          }));
         }
         tr.append(td);
       }
@@ -69,11 +92,10 @@ $(function () {
     }
     return table;
   };
-
   var showOverview = function () {
     var me = $(this);
     var pos = me.position();
-    me.parent().find('.overview-contents').css('top', pos.top - 140).show();
+    me.parent().find('.overview-contents').css('top', pos.top + 150).show();
     me.parent().find('.overview-contents').addClass('visible').removeClass('invisible');
     //$('.overview a.overview-top').addClass('invisible').removeClass('visible');
   }
@@ -84,5 +106,5 @@ $(function () {
     //$('.overview a.overview-top').addClass('visible').removeClass('invisible');
   }
 
-  $("#team-test").append(render(5, 6, team, 126, 126, 4));
+  $("#team-test").append(render(5, 17, team, 150, 150));
 });
