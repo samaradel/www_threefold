@@ -10,13 +10,7 @@ weight = 1
 +++
 # join threefold
 
-ThreeFold website and app access is managed by Itsyou.online. This fully independent identity management system allows you to choose when to share **or stop sharing** your personal information.
-<br>
-ThreeFold website and app access is managed by Itsyou.online. This fully independent identity management system allows you to choose when to share (or stop sharing) your personal information.
-<br>
-ThreeFold website and app access is managed by Itsyou.online. This fully independent identity management system allows you to choose when to share *or stop sharing* your personal information.
-<br>
-ThreeFold website and app access is managed by Itsyou.online. This fully independent identity management system allows you to choose when to share or *stop* sharing your personal information.
+ThreeFold website and app access is managed by Itsyou.online. This fully independent identity management system allows you to choose when to share (or *stop* sharing) your personal information.
 <br>
 We at ThreeFold are firm believers of an open internet, and the use of personal information is a huge part of that. A part that should be protected, not exploited.
 <br>
