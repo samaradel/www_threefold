@@ -1,4 +1,4 @@
-http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
+http://localhost:8523 {
     bind 0.0.0.0
     gzip
     root www.threefoldtoken.com/en
@@ -44,9 +44,9 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
         auth_url        https://staging.itsyou.online/v1/oauth/authorize
         token_url       https://staging.itsyou.online/v1/oauth/access_token
         jwt_url         https://staging.itsyou.online/v1/oauth/jwt
-        redirect_url    http://members.testthreefold.aydo.com:8523/oauth/callback
-        organizations   /ito threefold.ito
-        organizations   /gettingstarted threefold.gettingstarted
+        redirect_url    http://localhost:8523/oauth/callback
+        organizations   ito threefold.ito-gs
+        organizations   gettingstarted threefold.ito-gs
 
         authentication_required /
         allow_extension css
