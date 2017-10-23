@@ -56,8 +56,8 @@
             {{ end }}
             {{ range .Data.Pages }}
               {{ if eq .Section "team" }}
-                {{ if eq .Title "complete" }}
-                    <div class="Content-outer">{{ .Render "complete" }}</div>
+                {{ if eq .Title "new team" }}
+                <div class="Content-outer">{{ .Render "new-team" }}</div>
                 {{end}}
               {{end}}
             {{end}}
