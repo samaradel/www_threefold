@@ -359,18 +359,6 @@ var team = [{
     "name": "jacques staelens",
     "skype": ""
 }, {
-    "github": "",
-    "avatar": "",
-    "emails": [],
-    "telegram": "",
-    "description": "",
-    "linked_in": "",
-    "links": [],
-    "login": "",
-    "hobbies": "",
-    "name": " ",
-    "skype": ""
-}, {
     "github": "https:\/\/github.com\/dinosn",
     "avatar": "Nicolas Krassas_processed.jpg",
     "emails": ["krasn@greenitglobe.com", "krasn@swissns.ch"],
@@ -467,18 +455,6 @@ var team = [{
     "name": "abdulrahman hamdy",
     "skype": "arahman.hamdy"
 }, {
-    "github": "https:\/\/github.com\/despiegk",
-    "avatar": "",
-    "emails": ["kristof.despiegeleer@greenitglobe.com", "kristof@incubaid.com"],
-    "telegram": "@despiegk",
-    "description": "Founder of the IT As Energy Idea, passionate about building a new neutral internet.\n",
-    "linked_in": "https:\/\/www.linkedin.com\/in\/despiegk\/",
-    "links": [],
-    "login": "despiegk",
-    "hobbies": "working\ninventing new things (-:\n",
-    "name": "kristof de spiegeleer",
-    "skype": "despiegk"
-}, {
     "github": "Pishoy",
     "avatar": "Bishoy Abdelmassieh_processed.jpg",
     "emails": ["abdelmab@greenitglobe.com", "pishoyabdo@gamil.com"],
@@ -538,19 +514,7 @@ var team = [{
     "hobbies": "Sports, Traveling, Diving",
     "name": "nayer sobhy",
     "skype": "nayer.sobhy"
-}, {
-    "github": "https:\/\/github.com\/weynandkuijpers",
-    "avatar": "",
-    "emails": ["weynand@gig.tech"],
-    "telegram": "@weynandkuijpers",
-    "description": " A Master degree in space technology Weynand experienced that fundamental research and advances\n    in space technology were not quick enough, therefore, he shifted to slingshotting internet technologies in customer\n    centric orbits. He was involved in the early 90's in the first large scale data centers that were being built in Europe to deliver \n    Managed Services over the Internet.  Since then he worked in executive roles in large American and Japanese telecom operators. As VP of Operations \n    and later VP Marketing and Sales Strategy sold and delivered one of the largest sport ePortals in the world, uefa.com.\n    \n    Worked as a consultant for uefa to restructure their IT department and helped them to deliver a safe and successfull\n    EURO tournament in Ukraine and Poland in 2012.\n    \n    As a person he is a social thinker that inspires people and organizations to do things different, aspire to their\n    full potential, develop unique strengths, grow personal influence, liberate collective intelligence and achieve personal\n    and business goals. The only constant is change.",
-    "linked_in": "https:\/\/www.linkedin.com\/in\/weynandkuijpers\/",
-    "links": [],
-    "login": "weynand",
-    "hobbies": "Music, Analogue audio, Running, Computers, Movies",
-    "name": "weynand kuijpers",
-    "skype": "@weynandkuijpers"
-}, {
+},{
     "github": "andhartl",
     "avatar": "andreas_hartl_processed.jpg",
     "emails": ["andreas@threefold.com"],
@@ -645,18 +609,6 @@ var team = [{
     "login": "ruben",
     "hobbies": "",
     "name": "ruben mattan",
-    "skype": ""
-}, {
-    "github": "",
-    "avatar": "",
-    "emails": [],
-    "telegram": "",
-    "description": "",
-    "linked_in": "",
-    "links": [],
-    "login": "",
-    "hobbies": "",
-    "name": " ",
     "skype": ""
 }, {
     "github": "",
@@ -778,19 +730,21 @@ var team = [{
     "hobbies": "cooking, champions league\n",
     "name": "geert audenaert",
     "skype": "geertaudenaertatwork"
-}, {
-    "github": "",
-    "avatar": "",
-    "emails": ["peter@gig.tech"],
-    "telegram": "@pvanderhenst",
-    "description": " ",
-    "linked_in": "https:\/\/www.linkedin.com\/in\/petervanderhenst\/",
-    "links": [],
-    "login": "petervanderhenst",
-    "hobbies": "Soccer and wannabe guitar-player",
-    "name": "peter van der henst",
-    "skype": "peter.van.der.henst"
-}, {
+},
+// {
+//     "github": "",
+//     "avatar": "",
+//     "emails": ["peter@gig.tech"],
+//     "telegram": "@pvanderhenst",
+//     "description": " ",
+//     "linked_in": "https:\/\/www.linkedin.com\/in\/petervanderhenst\/",
+//     "links": [],
+//     "login": "petervanderhenst",
+//     "hobbies": "Soccer and wannabe guitar-player",
+//     "name": "peter van der henst",
+//     "skype": "peter.van.der.henst"
+// },
+{
     "github": "",
     "avatar": "mihos_vasilopoulos_processed.jpg",
     "emails": [],
@@ -802,19 +756,21 @@ var team = [{
     "hobbies": "",
     "name": "mihos vasilopoulos",
     "skype": ""
-}, {
-    "github": "https:\/\/github.com\/abaltazzis",
-    "avatar": "",
-    "emails": ["baltaa@greenitglobe.com", "abalta@swissns.ch"],
-    "telegram": "@alexander_baltazzis",
-    "description": "Operations, Network & Security Management, Policies & Procedures",
-    "linked_in": "",
-    "links": ["https:\/\/www.linkedin.com\/in\/alexander-baltazzis-78ab47\/"],
-    "login": "abalta",
-    "hobbies": "",
-    "name": "alexander baltazzis",
-    "skype": "tsopis"
-}, {
+},
+//  {
+//     "github": "https:\/\/github.com\/abaltazzis",
+//     "avatar": "../img/Jobs-CTA-inline.png",
+//     "emails": ["baltaa@greenitglobe.com", "abalta@swissns.ch"],
+//     "telegram": "@alexander_baltazzis",
+//     "description": "Operations, Network & Security Management, Policies & Procedures",
+//     "linked_in": "",
+//     "links": ["https:\/\/www.linkedin.com\/in\/alexander-baltazzis-78ab47\/"],
+//     "login": "abalta",
+//     "hobbies": "",
+//     "name": "alexander baltazzis",
+//     "skype": "tsopis"
+// },
+{
     "github": "https:\/\/github.com\/Hamdy\/",
     "avatar": "Hamdy Farag_processed.jpg",
     "emails": ["kristof.despiegeleer@greenitglobe.com", "kristof@incubaid.com", "hamdy@greenitglobe.com", "hamdy@codescalers.com"],
@@ -863,18 +819,6 @@ var team = [{
     "name": "andreas hartl",
     "skype": ""
 }, {
-    "github": "https:\/\/github.com\/mie00",
-    "avatar": "",
-    "emails": ["elawadim@greenitglobe.com"],
-    "telegram": "@mie00",
-    "description": "::::::::::::::::::::::::::::::~~~~~~~~~~\n::::::::::::::::8I:::::::::::~:~~~~~~~~~\n:::::::::::::~$Z88Z8OZOZ7OO~:~::~~~~~~~~\n::::::::::+8O888D8D8D88D8OO=~~~:~~~~~~~~\n:::::::::?+8DDDDDDDDDDDDDDDI~:~~~~~~~~~~\n::::::::+Z88D88DDDDDDDDDDD87~~~~~~~~~~~~\n::::::::O88D8DDDDDDDDDDDDDO8~~~~~~~~~~~~\n::::::::Z8DDDDDDDDDDDDDDDZ7I~~~~~~~~~~~~\n::::::::+DDDDDDNDDDDDNDDZ$78~~~~~~~~~~~~\n~:~::::~ODDDDDDNDDDDDNDOO8I++~~~~~~~~~~~\n~~~~:~~~ODDDDDNDD888DDD$7$$Z$I?~~~~~~~~~\n~~~~~~~~ODDDDDDDZ7888DDOZ77777II~~~~~~~~\n~~~~~~~~=DDDNDDDD$8DO8D8Z$$$77Z~~~~~~=~~\n~~~~~~~~7DDDNDDNND778DDD8Z$7$8Z=~~~~~~~~\n~~~~~~~~=8DDDNDDDD8O8DDDDDOZ$$Z~~~~~~~~~\n~~~~~~~~~=DDDDDNN8OO8NDDDD8OZ$=~~~~~~~==\n~~~~~~~~~~~=DDDDD8ZZ8DDDDNDDD8+~~~~~~===\n~~~~~~~~~~=?IDDD8Z$$8DNDDDDDDD====~=~===\n~~~~~~~~~~=+I+?$7$7$O8DDD8??$+======~===\n~=~~~==~~~==+?I7?7$ZZZO$==~=============\n=~~~~=~~~===+?+?7I$$Z$$~===~============\n=====~~~~~==+7?+??7?ZZI=================\n====~~~~==~==+++???I?O$I================\n=====~~==~===+???+I???$I================\n=====~~=~====++?+????I?=================\n",
-    "linked_in": "https:\/\/www.linkedin.com\/in\/mie00\/",
-    "links": [],
-    "login": "elawadim",
-    "hobbies": "Thinking\n",
-    "name": "mohamed elawadi",
-    "skype": "mielawadi"
-}, {
     "github": "",
     "avatar": "andy_brauer_processed.jpg",
     "emails": [],
@@ -922,18 +866,6 @@ var team = [{
     "hobbies": "",
     "name": " ",
     "skype": ""
-}, {
-    "github": "https:\/\/github.com\/despiegk",
-    "avatar": "",
-    "emails": ["kristof.despiegeleer@greenitglobe.com", "kristof@incubaid.com"],
-    "telegram": "@despiegk",
-    "description": "Founder of the IT As Energy Idea, passionate about building a new neutral internet.\n",
-    "linked_in": "https:\/\/www.linkedin.com\/in\/despiegk\/",
-    "links": [],
-    "login": "despiegk",
-    "hobbies": "working\ninventing new things (-:\n",
-    "name": "kristof de spiegeleer",
-    "skype": "despiegk"
 }, {
     "github": "https:\/\/github.com\/glendc",
     "avatar": "Glen De Cauwsemaecker_processed.jpg",
