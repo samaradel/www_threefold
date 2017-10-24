@@ -32,7 +32,7 @@ $(function() {
               added.push(index);
               var random_details = details[index];
               var parent = $("<div>").addClass("rj-team-member");
-              var a = $("<div>").addClass('member-photo').click(toggleBio);
+              var a = $("<div>").addClass('member-photo');
               var img = $("<img/>").addClass('rj-team-member-photo-rollover');
               img.prop('src', '../avatars/' + encodeURIComponent(random_details.avatar));
               a.append(img);
@@ -80,4 +80,5 @@ $(function() {
     }
 
     $("#team-test").append(render(team));
+    toggleBio();
 });
