@@ -676,7 +676,17 @@ header .introWords h2 {
     filter: grayscale(0%);
  }
  .rj-team {
-   overflow: -webkit-paged-x;
+   overflow: -webkit-paged-y;
+ }
+ .rj-team .rj-team-member .rj-team-member-info-text {
+   background-color: #77aae6;
+   color: #fff;
+ }
+ .rj-team .rj-team-member .rj-team-member-info-text .member-name {
+   color: #fff;
+ }
+ .rj-team .member-photo.selected:after {
+   border-bottom-color: #77aae6;
  }
 /* Display the columns below each other instead of side by side on small screens */
 @media (max-width: 650px) {
