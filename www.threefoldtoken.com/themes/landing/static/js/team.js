@@ -54,10 +54,11 @@ $(function() {
 
         return rjteam;
     };
-    var toggleBio = function() {
+    function toggleBio() {
         $(".rj-team-member .member-photo").click(function() {
             $(this).parent().siblings().children(".member-photo").removeClass("selected"), $(this).toggleClass("selected"), $(this).parent().siblings().children(".rj-team-member-info-text").hide(), $(this).siblings(".rj-team-member-info-text").toggle();
             var a = $(this).siblings(".rj-team-member-info-text").offset();
+            $(this).find('.rj-team-member-photo-rollover').addClass('filter').siblings();
             $("body").animate({
                 scrollTop: a
             }), $(".close-bio").click(function() {
@@ -66,14 +67,14 @@ $(function() {
         })
     }
 
-    var activateTeamFilter = function() {
+    function activateTeamFilter() {
         $("#teamFilterText").prop("disabled", !1), $("#teamFilterText").on("input", function() {
             var a = $("#teamFilterText").val();
             "" == a ? $(".rj-team-member").show() : ($(".rj-team-member").hide(), $(".rj-team-member:Contains('" + a + "')").show())
         })
     }
 
-    var unselectDiv = function() {
+    function unselectDiv() {
         $(document).click(function(a) {
             $(a.target).closest(".rj-team-member .member-photo").length || $(".rj-team-member .member-photo").is(":visible") && ($(".rj-team-member-info-text").hide(), $(".member-photo").removeClass("selected"))
         })
@@ -81,4 +82,6 @@ $(function() {
 
     $("#team-test").append(render(team));
     toggleBio();
+    unselectDiv();
+    activateTeamFilter();
 });
