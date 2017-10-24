@@ -514,4 +514,7 @@ vertical-align:middle .rj-investor div.rj-investor-svangel {
     .rj-team .rj-team-member:nth-child(3n+3) .rj-team-member-info-text {
         margin-left: -200%
     }
+    .rj-team-member-info-text img {
+      display: none;
+    }
 }
