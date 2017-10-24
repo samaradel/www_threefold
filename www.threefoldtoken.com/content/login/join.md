@@ -1,7 +1,7 @@
 +++
 #Don't remove title!
 title = "join"
-signup_link="https://itsyou.online/register?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://members.testthreefold.aydo.com:4040/oauth/callback&response_type=code&state=/#/"
+signup_link="https://staging.itsyou.online/register?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://members.testthreefold.aydo.com:4040/oauth/callback&response_type=code&state=/#/"
 signup_txt = "Sign Up"
 
 login_url = "/oauth"
@@ -17,4 +17,3 @@ We at ThreeFold are firm believers of an open internet, and the use of personal 
 That's why we chose [ItsYou.online](ItsYou.online).
 <br>
 Chat with us by clicking on the chat symbol at right side bottom of page. We have a team ready to answer your questions.
-
