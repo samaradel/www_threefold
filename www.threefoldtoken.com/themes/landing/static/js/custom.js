@@ -130,7 +130,4 @@
           $('.nav>li.hideLink').css("display", "block");
       }
     }
-
-    toggleBio();
-    unselectDiv();
 })();

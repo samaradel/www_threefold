@@ -688,6 +688,9 @@ header .introWords h2 {
  .rj-team .member-photo.selected:after {
    border-bottom-color: #77aae6;
  }
+ section {
+   padding: 0px;
+ }
 /* Display the columns below each other instead of side by side on small screens */
 @media (max-width: 650px) {
     .column {
