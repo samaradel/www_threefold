@@ -36,7 +36,7 @@ body.tweak-site-width-option-constrained-width {
 }
 .tweak-site-width-option-constrained-width .Site {
   max-width: 1170px;
-  overflow: hidden;
+  overflow: visible;
 }
 h1 {
     font-size: 23px;
@@ -676,7 +676,7 @@ header .introWords h2 {
      filter: grayscale(0%);
   }
  .rj-team {
-   overflow: -webkit-paged-y;
+   padding-bottom: 20em;
  }
  .rj-team .rj-team-member .rj-team-member-info-text {
    background-color: #77aae6;
