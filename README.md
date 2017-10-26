@@ -38,8 +38,7 @@ Staging can be found here:
 
 Test can be found here:
 
-- http://threefold.aydo.com:8523
-
+- http://testthreefold.aydo.com
 
 For any GOGS related questions please contact:
 
@@ -58,5 +57,5 @@ ssh -l root 212.23.52.72 -p 3331
 ```
 
 - caddy is in ~/root/caddy
-- running under tmux 
+- running under tmux
 - website is in /opt/code/...

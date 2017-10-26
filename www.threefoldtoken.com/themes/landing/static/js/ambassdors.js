@@ -17,7 +17,7 @@
  */
 $(function() {
     var render = function(dataset) {
-        var rjteam = $("<div></div>").addClass('rj-team');
+        var amp = $("<div></div>").addClass('rj-team');
         var details = dataset;
         var added = []
         if(details) {
@@ -38,21 +38,30 @@ $(function() {
               a.append(img);
               parent.append(a);
               var div = $("<div>").addClass("rj-team-member-info-text").css('display', 'none');
-                  var imgCol = $("<div>").addClass('col-md-3 col-sm-5');
-                  var dataCol = $("<div>").addClass('col-md-7 col-sm-7');
-                  var close = $('<div>').addClass('close-bio').text('x');
-                  div.append(imgCol);
-                  imgCol.append($("<img/>").prop("src", "../avatars/" + encodeURIComponent(random_details.avatar)));
-                  div.append(dataCol);
-                  dataCol.append($("<div>").addClass('member-name').text(random_details.name));
-                  dataCol.append($("<div>").addClass('bio-excerpt').text(random_details.description));
-                  div.append(close);
-                  parent.append(div);
-                  rjteam.append(parent);
+              var imgCol = $("<div>").addClass('col-md-3 col-sm-4');
+              var dataCol = $("<div>").addClass('col-md-9 col-sm-8');
+              var close = $('<div>').addClass('close-bio').text('x');
+              div.append(imgCol);
+              imgCol.append($("<img/>").width('150px').prop("src", "../avatars/" + encodeURIComponent(random_details.avatar)));
+              div.append(dataCol);
+              dataCol.append($("<div>").addClass('member-name').text(random_details.name));
+              dataCol.append($("<div>").addClass('bio-excerpt').text(random_details.nationality));
+              dataCol.append($("<div>").addClass('bio-excerpt').text(random_details.why));
+              dataCol.append($("<div>").addClass('bio-excerpt').text(random_details.bio));
+              div.append(close);
+              parent.append(div);
+              amp.append(parent);
           }
         }
-
-        return rjteam;
+        if(details.length == 0){
+          var parent = $("<div>").addClass("rj-team-member");
+          var a = $("<div>");
+          var img = $("<img/>").width('50px').prop('src', '../img/Jobs-CTA-inline.png');
+          a.append(img);
+          parent.append(a);
+          amp.append(parent);
+        }
+        return amp;
     };
     function toggleBio() {
         $(".rj-team-member .member-photo").click(function() {
@@ -78,9 +87,7 @@ $(function() {
             $(a.target).closest(".rj-team-member .member-photo").length || $(".rj-team-member .member-photo").is(":visible") && ($(".rj-team-member-info-text").hide(), $(".member-photo").removeClass("selected"))
         })
     }
-
-    $("#team-test").append(render(team));
-    toggleBio();
-    unselectDiv();
-    activateTeamFilter();
+    $("#ambassadors").append(render(ambassadors));
+    $("#hosters").append(render(hosters));
+    $("#operators").append(render(operators));
 });
