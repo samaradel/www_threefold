@@ -1,4 +1,4 @@
-https://testthreefold.aydo.com {
+http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
     bind 0.0.0.0
     gzip
     root www.threefoldtoken.com/en
