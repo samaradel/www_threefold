@@ -20,49 +20,52 @@ $(function() {
         var amp = $("<div></div>").addClass('rj-team');
         var details = dataset;
         var added = []
-        if(details) {
-          while(true) {
-              if(added.length === details.length) {
-                break;
-              }
-              var index = Math.floor(Math.random() * details.length);
-              if (added.includes(index)) {
-                continue;
-              }
-              added.push(index);
-              var random_details = details[index];
-              var parent = $("<div>").addClass("rj-team-member");
-              var a = $("<div>").addClass('member-photo');
-              var img = $("<img/>").addClass('rj-team-member-photo-rollover');
-              img.prop('src', '../avatars/' + encodeURIComponent(random_details.avatar));
-              a.append(img);
-              parent.append(a);
-              var div = $("<div>").addClass("rj-team-member-info-text").css('display', 'none');
-              var imgCol = $("<div>").addClass('col-md-3 col-sm-4');
-              var dataCol = $("<div>").addClass('col-md-9 col-sm-8');
-              var close = $('<div>').addClass('close-bio').text('x');
-              div.append(imgCol);
-              imgCol.append($("<img/>").width('150px').prop("src", "../avatars/" + encodeURIComponent(random_details.avatar)));
-              div.append(dataCol);
-              dataCol.append($("<div>").addClass('member-name').text(random_details.name));
-              dataCol.append($("<div>").addClass('bio-excerpt').text(random_details.nationality));
-              dataCol.append($("<div>").addClass('bio-excerpt').text(random_details.why));
-              dataCol.append($("<div>").addClass('bio-excerpt').text(random_details.bio));
-              div.append(close);
-              parent.append(div);
-              amp.append(parent);
-          }
+        if (details) {
+            while (true) {
+                if (added.length === details.length) {
+                    break;
+                }
+                var index = Math.floor(Math.random() * details.length);
+                if (added.includes(index)) {
+                    continue;
+                }
+                added.push(index);
+                var random_details = details[index];
+                var parent = $("<div>").addClass("rj-team-member");
+                var a = $("<div>").addClass('member-photo');
+                var img = $("<img/>").addClass('rj-team-member-photo-rollover');
+                img.prop('src', '../avatars/' + encodeURIComponent(random_details.avatar));
+                a.append(img);
+                parent.append(a);
+                var div = $("<div>").addClass("rj-team-member-info-text").css('display', 'none');
+                var imgCol = $("<div>").addClass('col-md-3 col-sm-4');
+                var dataCol = $("<div>").addClass('col-md-9 col-sm-8');
+                var close = $('<div>').addClass('close-bio').text('x');
+                div.append(imgCol);
+                imgCol.append($("<img/>").width('150px').prop("src", "../avatars/" + encodeURIComponent(random_details.avatar)));
+                div.append(dataCol);
+                dataCol.append($("<div>").addClass('member-name').text(random_details.name));
+                dataCol.append($("<div>").addClass('bio-excerpt').text(random_details.nationality));
+                dataCol.append($("<div>").addClass('bio-excerpt').text(random_details.why));
+                dataCol.append($("<div>").addClass('bio-excerpt').text(random_details.bio));
+                div.append(close);
+                parent.append(div);
+                amp.append(parent);
+            }
         }
-        if(details.length == 0){
-          var parent = $("<div>").addClass("rj-team-member");
-          var a = $("<div>");
-          var img = $("<img/>").width('50px').prop('src', '../img/Jobs-CTA-inline.png');
-          a.append(img);
-          parent.append(a);
-          amp.append(parent);
+        for (var i = 0; i < 8; i++) {
+            if (details.length == 0) {
+                var parent = $("<div>").addClass("rj-team-member");
+                var a = $("<div>");
+                var img = $("<img/>").width('90px').prop('src', '../img/Jobs-CTA-inline.png');
+                a.append(img);
+                parent.append(a);
+                amp.append(parent);
+            }
         }
         return amp;
     };
+
     function toggleBio() {
         $(".rj-team-member .member-photo").click(function() {
             $(this).parent().siblings().children(".member-photo").removeClass("selected"), $(this).toggleClass("selected"), $(this).parent().siblings().children(".rj-team-member-info-text").hide(), $(this).siblings(".rj-team-member-info-text").toggle();
