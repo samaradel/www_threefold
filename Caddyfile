@@ -12,14 +12,14 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
 #      then ./update.sh
 #    }
 
-#    git {
-#      repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold.git
-#      branch master
-#      interval 60
-#      key ~/.ssh/id_rsa
-#      path ../../../www_threefold/
-#      then ./update.sh
-#    }
+    git {
+      repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold.git
+      branch master
+      interval 60
+      key ~/.ssh/id_rsa
+      path ../../../www_threefold/
+      then ./update.sh
+    }
 
     git {
       repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
@@ -44,7 +44,7 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
         auth_url        https://staging.itsyou.online/v1/oauth/authorize
         token_url       https://staging.itsyou.online/v1/oauth/access_token
         jwt_url         https://staging.itsyou.online/v1/oauth/jwt
-        redirect_url    http://members.threefold.aydo.com:4040/oauth/callback
+        redirect_url    http://members.threefold.aydo.com/oauth/callback
         organizations   /ito threefold.ito-gs
         organizations   /gettingstarted threefold.ito-gs
 
