@@ -64,6 +64,9 @@
 
       // turn target into target=_blank for elements w external class
       $(".external").attr('target','_blank');
+      $('a[href*="register"]').each(function() {
+          $(this).attr('target', '_self');
+      });
 
     })
 
