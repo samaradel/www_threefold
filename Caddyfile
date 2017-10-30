@@ -12,14 +12,14 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
 #      then ./update.sh
 #    }
 
-    git {
-      repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold.git
-      branch master
-      interval 60
-      key ~/.ssh/id_rsa
-      path ../../../www_threefold/
-      then ./update.sh
-    }
+#    git {
+#      repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold.git
+#      branch master
+#      interval 60
+#      key ~/.ssh/id_rsa
+#      path ../../../www_threefold/
+#      then ./update.sh
+#    }
 
     git {
       repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
