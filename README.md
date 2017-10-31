@@ -34,11 +34,11 @@ This repo has the website content:
 
 Staging can be found here:
 
-- http://threefold2.aydo.com:4040
+- https://threefold2.aydo.com/
 
 Test can be found here:
 
-- http://testthreefold.aydo.com
+- https://testthreefold.aydo.com/
 
 For any GOGS related questions please contact:
 
