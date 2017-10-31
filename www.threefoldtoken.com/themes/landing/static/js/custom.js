@@ -124,10 +124,4 @@
     $('#qrcode #refresh-button').click(refreshCode);
 
     refreshCode();
-
-    for(var i=0; i<decoded.scope.length;i++){
-      if(decoded.scope[i].includes("user:memberof:threefold.ito-gs")) {
-          $('.nav>li.hideLink').css("display", "block");
-      }
-    }
 })();

@@ -23,6 +23,9 @@ for(var i=0; i<decoded.scope.length;i++){
     else if(decoded.scope[i].includes("[user:phone]")) {
           phone = decoded.scope[i].split("]:")[1];
     }
+    else if(decoded.scope[i].includes("user:memberof:threefold.ito-gs")) {
+          $('.nav>li.hideLink').css("display", "block");
+      }
 }
 var userId = decoded.username;
 
