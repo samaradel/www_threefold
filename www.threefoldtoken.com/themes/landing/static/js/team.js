@@ -74,15 +74,14 @@ $(function() {
         })
     }
 
-    function unselectDiv() {
-        $(document).click(function(event) {
-            $(event.target).closest(".rj-team-member .member-photo").length || $(".rj-team-member .member-photo").is(":visible") && ($(".rj-team-member-info-text").hide(), $(".member-photo").removeClass("selected"))
-            event.preventDefault();
-        })
-    }
+    // function unselectDiv() {
+    //     $(document).click(function(a) {
+    //         $(a.target).closest(".rj-team-member .member-photo").length || $(".rj-team-member .member-photo").is(":visible") && ($(".rj-team-member-info-text").hide(), $(".member-photo").removeClass("selected"))
+    //     })
+    // }
 
     $("#team-test").append(render(team));
     toggleBio();
-    unselectDiv();
+    // unselectDiv();
     activateTeamFilter();
 });
