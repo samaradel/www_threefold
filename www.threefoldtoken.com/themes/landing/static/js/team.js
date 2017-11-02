@@ -55,7 +55,8 @@ $(function() {
         return rjteam;
     };
     function toggleBio() {
-        $(".rj-team-member .member-photo").click(function() {
+        $(".rj-team-member .member-photo").click(function(e) {
+            e.preventDefault();
             $(this).parent().siblings().children(".member-photo").removeClass("selected"), $(this).toggleClass("selected"), $(this).parent().siblings().children(".rj-team-member-info-text").hide(), $(this).siblings(".rj-team-member-info-text").toggle();
             var a = $(this).siblings(".rj-team-member-info-text").offset();
             $("body").animate({
