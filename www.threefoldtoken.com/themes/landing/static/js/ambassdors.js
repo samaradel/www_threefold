@@ -87,7 +87,8 @@ $(function() {
     }
 
     function unselectDiv() {
-        $(document).click(function(a) {
+        $(document).click(function(a, e) {
+            e.preventDefault();
             $(a.target).closest(".rj-team-member .member-photo").length || $(".rj-team-member .member-photo").is(":visible") && ($(".rj-team-member-info-text").hide(), $(".member-photo").removeClass("selected"))
         })
     }
