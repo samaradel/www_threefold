@@ -125,4 +125,10 @@
 
     refreshCode();
 
+    for(var i=0; i<decoded.scope.length;i++){
+  if(decoded.scope[i].includes("user:memberof:threefold.members")) {
+      $('.nav>li.hideLink').css("display", "block");
+  }
+}
+
 })();
