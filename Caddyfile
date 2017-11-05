@@ -3,14 +3,14 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
     gzip
     root www.threefoldtoken.com/en
 
-#    git {
-#      repo ssh://git@docs.greenitglobe.com:10022/gig/gig_team.git
-#      branch master
-#      interval 60
-#      key ~/.ssh/id_rsa
-#      path ../../../gig_team/
-#      then ./update.sh
-#    }
+    git {
+      repo ssh://git@docs.greenitglobe.com:10022/gig/data_team.git
+      branch master
+      interval 60
+      key ~/.ssh/id_rsa
+      path ../../../data_team/
+      then python3 scripts/process.py
+    }
 
     git {
       repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold.git
@@ -65,17 +65,4 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
         login_url /oauth
         extra_scopes  user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address
     }
-
-  # mailout /www_threefold2.0 {
-  #      to
-  #      subject "Text Email from {{ .Form.Get \"name\" }}"
-  #      body template.txt
-
-  #      username ""
-  #      password ""
-  #      host smtp.gmail.com
-  #      port 465
-  #      ratelimit_capacity 3
-  #      ratelimit_interval 6s
-  #  }
 }
