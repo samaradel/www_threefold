@@ -34,6 +34,7 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
 
     errors {
     	404 404.html # Not Found
+      403 403/index.html # Not Found
     }
 
     proxy /forward/v1/oauth/jwt/refresh https://staging.itsyou.online {
