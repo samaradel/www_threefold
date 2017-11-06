@@ -67,7 +67,7 @@ h3 {
   padding-right: 5px;
   padding-left: 15px;
 }
-.Site-inner, header, .navbar-toggle .icon-bar, .content-404, .logo-container  {
+.Site-inner, header, .navbar-toggle .icon-bar, .content-404, .logo-container, .content-403 {
   background-color: #fff;
 }
 .Site-inner {
@@ -179,12 +179,33 @@ a {
   /*font-size: 0.813em;*/
   font-weight: 200;
 }
-.content-404 {
-  min-height: 477px;
-}
-.content-404 p{
-  margin: 59px auto;
+.content-404, .content-403 {
+  min-height: 493px;
   text-align: center;
+  color: #747474;
+}
+.content-404 p, .content-403 h1 {
+  margin: 59px auto 0;
+}
+.content-403 h1{
+  font-size: 35px;
+  font-weight: 400;
+}
+.content-403 h2 {
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.content-403 p {
+  margin: 30px auto 50px
+}
+.content-403 .guide {
+  background-color: #6da96e;
+  color: #fff;
+  margin-top: 60px;
+  text-transform: uppercase;
+  padding: 15px 25px;
+  font-weight: bold;
 }
 /*header style*/
 .Site header {

@@ -67,8 +67,8 @@ $(function() {
     };
 
     function toggleBio() {
-        $(".rj-team-member .member-photo").click(function(e) {
-            e.preventDefault();
+        $(".rj-team-member .member-photo").click(function(event) {
+            event.preventDefault();
             $(this).parent().siblings().children(".member-photo").removeClass("selected"), $(this).toggleClass("selected"), $(this).parent().siblings().children(".rj-team-member-info-text").hide(), $(this).siblings(".rj-team-member-info-text").toggle();
             var a = $(this).siblings(".rj-team-member-info-text").offset();
             $("body").animate({
@@ -86,11 +86,12 @@ $(function() {
         })
     }
 
-    function unselectDiv() {
-        $(document).click(function(a) {
-            $(a.target).closest(".rj-team-member .member-photo").length || $(".rj-team-member .member-photo").is(":visible") && ($(".rj-team-member-info-text").hide(), $(".member-photo").removeClass("selected"))
-        })
-    }
+    // function unselectDiv() {
+    //     $(document).click(function(event) {
+    //         $(event.target).closest(".rj-team-member .member-photo").length || $(".rj-team-member .member-photo").is(":visible") && ($(".rj-team-member-info-text").hide(), $(".member-photo").removeClass("selected"))
+    //         event.preventDefault();
+    //     })
+    // }
     $("#ambassadors").append(render(ambassadors));
     $("#hosters").append(render(hosters));
     $("#operators").append(render(operators));
