@@ -10,6 +10,7 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
       key ~/.ssh/id_rsa
       path ../../../data_team/
       then python3 scripts/process.py
+      then hugo -s ../www_threefold2.0/www.threefoldtoken.com
     }
 
     git {
@@ -19,6 +20,7 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
       key ~/.ssh/id_rsa
       path ../../../www_threefold/
       then ./update.sh
+      then hugo -s ../www_threefold2.0/www.threefoldtoken.com
     }
 
     git {
