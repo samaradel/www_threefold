@@ -1,4 +1,4 @@
-http://localhost:8523 {
+http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
     bind 0.0.0.0
     gzip
     root www.threefoldtoken.com/en
@@ -10,7 +10,7 @@ http://localhost:8523 {
       key ~/.ssh/id_rsa
       path ../../../data_team/
       then python3 scripts/process.py
-      then hugo -s ../www_threefold2.0/www.threefoldtoken.com/
+      then hugo -s ../www_threefold2.0/www.threefoldtoken.com
     }
 
     git {
@@ -20,7 +20,7 @@ http://localhost:8523 {
       key ~/.ssh/id_rsa
       path ../../../www_threefold/
       then ./update.sh
-      then hugo -s ../www_threefold2.0/www.threefoldtoken.com/
+      then hugo -s ../www_threefold2.0/www.threefoldtoken.com
     }
 
     git {
@@ -46,7 +46,7 @@ http://localhost:8523 {
         auth_url        https://staging.itsyou.online/v1/oauth/authorize
         token_url       https://staging.itsyou.online/v1/oauth/access_token
         jwt_url         https://staging.itsyou.online/v1/oauth/jwt
-        redirect_url    http://localhost:8523/oauth/callback
+        redirect_url    https://members.testthreefold.aydo.com/oauth/callback
         organizations   /ito threefold.ito-gs
         organizations   /gettingstarted threefold.ito-gs
 
