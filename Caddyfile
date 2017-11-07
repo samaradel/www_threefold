@@ -34,7 +34,7 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
 
     errors {
     	404 404.html # Not Found
-      403 403/index.html # Forbidden
+        403 403/index.html # Forbidden
     }
 
     proxy /forward/v1/oauth/jwt/refresh https://staging.itsyou.online {
