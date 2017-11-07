@@ -10,6 +10,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
       key ~/.ssh/id_rsa
       path ../../../data_team/
       then python3 scripts/process.py
+      then hugo -s ../www_threefold2.0/www.threefoldtoken.com
     }
 
     git {
@@ -19,6 +20,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
       key ~/.ssh/id_rsa
       path ../../../www_threefold/
       then ./update.sh
+      then hugo -s ../www_threefold2.0/www.threefoldtoken.com
     }
 
     git {
@@ -32,6 +34,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
 
     errors {
     	404 404.html # Not Found
+      403 403/index.html # Forbidden
     }
 
     proxy /forward/v1/oauth/jwt/refresh https://itsyou.online {
@@ -59,7 +62,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
         allow_extension JPG
         refreshable
 
-        login_page  /login
+        login_page /login
         login_url /oauth
         extra_scopes  user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address
     }
