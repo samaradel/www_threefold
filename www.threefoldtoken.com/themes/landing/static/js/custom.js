@@ -126,9 +126,16 @@
     refreshCode();
 
     for(var i=0; i<decoded.scope.length;i++){
+<<<<<<< HEAD
   if(decoded.scope[i].includes("user:memberof:threefold.members")) {
       $('.nav>li.hideLink').css("display", "block");
   }
 }
 
+=======
+      if(decoded.scope[i].includes("user:memberof:threefold.ito-gs")) {
+          $('.nav>li.hideLink').css("display", "block");
+      }
+    }
+>>>>>>> master
 })();
