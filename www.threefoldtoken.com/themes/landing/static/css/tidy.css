@@ -88,7 +88,7 @@ img {
     padding-left: 15px;
     padding-right: 15px
 }
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {
     .container {
         width: 750px
     }
@@ -102,7 +102,7 @@ img {
     .container {
         width: 1170px
     }
-}
+}*/
 .row {
     margin-left: -15px;
     margin-right: -15px
