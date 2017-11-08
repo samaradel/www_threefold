@@ -38,8 +38,8 @@ $(function() {
               a.append(img);
               parent.append(a);
               var div = $("<div>").addClass("rj-team-member-info-text").css('display', 'none');
-                  var imgCol = $("<div>").addClass('col-md-3 col-sm-5');
-                  var dataCol = $("<div>").addClass('col-md-7 col-sm-7');
+                  var imgCol = $("<div>").addClass('col-sm-4');
+                  var dataCol = $("<div>").addClass('col-sm-8');
                   var close = $('<div>').addClass('close-bio').text('x');
                   div.append(imgCol);
                   imgCol.append($("<img/>").prop("src", "../avatars/" + encodeURIComponent(random_details.avatar)));
