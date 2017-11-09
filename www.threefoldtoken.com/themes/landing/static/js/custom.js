@@ -59,17 +59,6 @@
         event.preventDefault();
     });
 
-    // Display Links
-
-    // if (sessionStorage.getItem('status') != null) {
-    //   $('.nav>li.showLink').css("display", "none");
-    //   $('.nav>li.hideLink').css("display", "block");
-    // }
-    // else {
-    //   $('.nav>li.showLink').css("display", "block");
-    //   $('.nav>li.hideLink').css("display", "none");
-    // }
-
     // QR Code
 
     var TIMEOUT = 60000; // 60 seconds
@@ -138,4 +127,9 @@
             $('.nav>li.hideLink').css("display", "block");
         }
     }
+
+    $('#nav-wrapper').height($("#nav").height());
+    $('#nav').affix({
+        offset: $('#nav').position()
+    });
 })();
