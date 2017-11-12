@@ -1,0 +1,497 @@
+[provider]
+    name = "Digital Energy"
+    iyo_org = ""
+    description = "Digital Energy"
+    website_url = "https://ru-msk-dc1-1.demo.greenitglobe.com"
+    email = ""
+    tel = ""
+
+[[resourcepool]]
+
+    iyo_org = "ru-msk-dc1-1"
+
+    network_speed = "625" # in mbit/sec
+    network_redundant = false
+    ipv4_nr_pub = 237
+    ipv4_ranges = [ "185.193.143.0/24" ]
+    ipv4_enable = true
+    ipv6_enable = false
+    pricing_currency = "usd"
+    status="active"
+
+    cu_planned = 3000
+    su_planned = 1800
+    tu_planned = 15000
+
+    cu_max = 3000
+    su_max = 1800
+    tu_max = 15000
+
+    datacenter_tier = 1
+    datacenter_uptime_sla_min = "99.95%"
+
+    [[resourcepool.pricing]]
+    min_nr_months = 1
+    cu = 15
+    su = 8
+    tu = 2
+
+    [[resourcepool.pricing]]
+    min_nr_months = 24
+    cu = 10
+    su = 6
+    tu = 1
+
+    [[resourcepool.pricing]]
+    min_nr_months = 36
+    cu = 8
+    su = 5
+    tu = 1
+
+    [[resourcepool.location]]
+    name = "Oost-Vlaanderen"
+    description = "..."
+    remarks = "..."
+    longitute = "30.448295"
+    latitude = "59.951921"
+    address = "Russia"
+
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae089a6"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae14888"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae14744"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae1b8b4"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae1b8c0"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae14f9e"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae1ba3a"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae14706"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae23e30"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae154c6"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae14d36"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae1522e"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae23cbe"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae1b8be"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae14b1a"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae1ba34"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae14700"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae1ba4c"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae154d8"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae14a06"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae14952"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae1ba3c"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae14890"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae14928"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae088ca"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae14fee"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae08b84"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae0888a"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae1494c"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae1b8b8"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae14918"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae14938"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae1ba38"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae1ba32"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae1b8c2"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47ae23ba8"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 125
+    nr_su = 4
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["2c600cbc23c2"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 181
+    nr_su = 62
+    nr_tu = 3630
+
+
+
+    [[resourcepool.node]]
+    uid = ["2c600cbc2482"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 181
+    nr_su = 62
+    nr_tu = 3630
+
+
+    [[resourcepool.node]]
+    uid = ["2c600cbc2485"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 181
+    nr_su = 62
+    nr_tu = 3630
+
+
+    [[resourcepool.node]]
+    uid = ["2c600cbc23bf"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 181
+    nr_su = 62
+    nr_tu = 3630
+
+
+    [[resourcepool.node]]
+    uid = ["2c600cbc266b"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 181
+    nr_su = 62
+    nr_tu = 3630
+
+
+    [[resourcepool.node]]
+    uid = ["2c600cbc24be"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 181
+    nr_su = 62
+    nr_tu = 3630
+
+
+    [[resourcepool.node]]
+    uid = ["2c600cbc247c"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 181
+    nr_su = 62
+    nr_tu = 3630
+
+
+    [[resourcepool.node]]
+    uid = ["2c600cbc260e"]
+    location = "ru-msk-dc1-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 181
+    nr_su = 62
+    nr_tu = 3630

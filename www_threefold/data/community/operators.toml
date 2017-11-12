@@ -1,0 +1,13 @@
+# [[operator]]
+# x=0 # 0 <= X < 5
+# y=0 # 0 <= X < 6
+# name="Kermit The Frog"
+# bio="Kermit the Frog is a Muppet character and Jim Henson's most well-known creation. Introduced in 1955, Kermit is the straight man protagonist of numerous Muppet productions, most notably Sesame Street and The Muppet Show, as well as in movies, specials, and public service announcements through the years. Henson originally performed Kermit until his death on May 16, 1990; Steve Whitmire has performed Kermit since that time. He was voiced by Frank Welker in Muppet Babies and occasionally in other animation projects."
+# avatar="kermit.jpg"
+#
+# [[operator]]
+# x=1 # 0 <= X < 5
+# y=0 # 0 <= X < 6
+# name="Miss Piggy"
+# bio="Miss Piggy is a Muppet character known for her breakout role in Jim Henson's The Muppet Show. Since her debut in 1976, Miss Piggy is notable for her volatile diva personality, tendency to use French phrases in her speech and practice of karate. She was also known for her on-again/off-again romantic relationship with Kermit the Frog, which began in 1978 and has been on a hiatus since 2015. Frank Oz performed the character from 1976 to 2000 and was succeeded by Eric Jacobson in 2001."
+# avatar="miss-piggy.jpg"
