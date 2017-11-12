@@ -1,4 +1,4 @@
-http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
+http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
     bind 0.0.0.0
     gzip
     root www.threefoldtoken.com/en
@@ -15,7 +15,7 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
 
     git {
       repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
-      branch test
+      branch master
       interval 60
       key ~/.ssh/id_rsa
       path ../..
@@ -25,7 +25,7 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
 
     errors {
     	404 404.html # Not Found
-      403 403/index.html # Forbidden
+        403 403/index.html # Forbidden
     }
 
     proxy /forward/v1/oauth/jwt/refresh https://staging.itsyou.online {
@@ -38,7 +38,7 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
         auth_url        https://staging.itsyou.online/v1/oauth/authorize
         token_url       https://staging.itsyou.online/v1/oauth/access_token
         jwt_url         https://staging.itsyou.online/v1/oauth/jwt
-        redirect_url    https://members.testthreefold.aydo.com/oauth/callback
+        redirect_url    http://members.threefold.aydo.com/oauth/callback
         organizations   /ito threefold.ito-gs
         organizations   /gettingstarted threefold.ito-gs
 
