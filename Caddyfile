@@ -15,7 +15,7 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
 
     git {
       repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
-      branch master
+      branch test
       interval 60
       key ~/.ssh/id_rsa
       path ../..
@@ -25,7 +25,7 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
 
     errors {
     	404 404.html # Not Found
-        403 403/index.html # Forbidden
+      403 403/index.html # Forbidden
     }
 
     proxy /forward/v1/oauth/jwt/refresh https://staging.itsyou.online {
