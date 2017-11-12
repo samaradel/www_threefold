@@ -14,21 +14,12 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
     }
 
     git {
-      repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold.git
-      branch master
-      interval 60
-      key ~/.ssh/id_rsa
-      path ../../../www_threefold/
-      then ./update.sh
-      then hugo -s ../www_threefold2.0/www.threefoldtoken.com
-    }
-
-    git {
       repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
       branch test
       interval 60
       key ~/.ssh/id_rsa
       path ../..
+      then ./update.sh
       then hugo -s  www.threefoldtoken.com
     }
 
