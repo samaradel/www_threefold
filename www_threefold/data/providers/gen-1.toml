@@ -1,0 +1,66 @@
+[provider]
+    name = "Interoute Belgium NV"
+    iyo_org = ""
+    description = "Interoute Communications Limited"
+    website_url = "http://www.interoute.com"
+    email = "support@interoute.com"
+    tel = "+32-2-761-6500"
+
+[[resourcepool]]
+
+    iyo_org = "be-gen-1"
+
+    network_speed = "90" # in mbit/sec
+    network_redundant = false
+    ipv4_nr_pub = 28
+    ipv4_ranges = [ "212.23.52.64/27" ]
+    ipv4_enable = true
+    ipv6_enable = false
+    pricing_currency = "usd"
+    status="active"
+
+    cu_planned = 1000
+    su_planned = 2000
+    tu_planned = 10000
+
+    cu_max = 1000
+    su_max = 2000
+    tu_max = 10000
+
+    datacenter_tier = 1
+    datacenter_uptime_sla_min = "99.95%"
+
+    [[resourcepool.pricing]]
+    min_nr_months = 1
+    cu = 15
+    su = 8
+    tu = 2
+
+    [[resourcepool.pricing]]
+    min_nr_months = 24
+    cu = 10
+    su = 6
+    tu = 1
+
+    [[resourcepool.pricing]]
+    min_nr_months = 36
+    cu = 8
+    su = 5
+    tu = 1
+
+    [[resourcepool.location]]
+    name = "Oost-Vlaanderen"
+    description = "..."
+    remarks = "..."
+    longitute = "3.7167"
+    latitude = "51.0500"
+    address = "Belgium - Ghent"
+
+    [[resourcepool.node]]
+    uid = ["..."]
+    location = "be-gen-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 5
+    nr_su = 4
+    nr_tu = 100

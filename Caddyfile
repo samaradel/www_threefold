@@ -14,27 +14,18 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
     }
 
     git {
-      repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold.git
-      branch production
-      interval 60
-      key ~/.ssh/id_rsa
-      path ../../../www_threefold/
-      then ./update.sh
-      then hugo -s ../www_threefold2.0/www.threefoldtoken.com
-    }
-
-    git {
       repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
       branch production
       interval 60
       key ~/.ssh/id_rsa
       path ../..
+      then ./update.sh
       then hugo -s  www.threefoldtoken.com
     }
 
     errors {
     	404 404.html # Not Found
-      403 403/index.html # Forbidden
+        403 403/index.html # Forbidden
     }
 
     proxy /forward/v1/oauth/jwt/refresh https://itsyou.online {
