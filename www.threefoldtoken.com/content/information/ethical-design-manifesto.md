@@ -2,7 +2,7 @@
 # Don't remove name!
 title = "information"
 header = "Ethical design manifesto"
-image = "ethical-product-design.jpg"
+image = "../img/ethical-product-design.jpg"
 author = "Kristof De Spiegeleer"
 subtitle = "How to create products in an ethical, human friendly way."
 weight = 1

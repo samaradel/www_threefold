@@ -3,7 +3,7 @@
      {{ if eq .Section "login" }}
          {{ partial "login/login-header.html" . }}
       {{end}}
-      <div class="container Site-inner">
+      <div class="Site-inner">
           <div class="row clear-fix">
             {{ range .Data.Pages }}
                 {{ if eq .Title "join"}}

@@ -9,7 +9,7 @@
        {{else}}
       {{ partial "header.html" . }}
       {{end}}
-      <div class="container Site-inner">
+      <div class="Site-inner">
           <div class="row clear-fix">
             {{ range $p := (.Paginate .Data.Pages).Pages }}
             	{{ if eq .Section "faq" }}
