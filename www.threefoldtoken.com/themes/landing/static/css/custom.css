@@ -79,7 +79,11 @@ header,
     min-height: 133px;
     margin-left: 0;
     margin-right: 0;
-    overflow: hidden
+    overflow: hidden;
+    padding: 25px 0px
+}
+.Content-outer {
+    min-height: 373px
 }
 .tweak-blog-list-style-grid .BlogList-item {
     float: none
@@ -278,8 +282,7 @@ a {
     top: 0;
     margin-top: 0
 }
-.BlogList-item-excerpt p,
-.BlogList-item-title {
+.BlogList-item-excerpt p {
     font-weight: 400;
     font-style: normal;
     font-size: 14px;
