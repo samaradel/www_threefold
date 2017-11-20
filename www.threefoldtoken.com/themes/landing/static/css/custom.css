@@ -483,7 +483,7 @@ a {
     -o-transition: 0.1s background-color linear, 0.1s color linear;
     transition: 0.1s background-color linear, 0.1s color linear
 }
-.new-page-1 .sqs-block-button .sqs-block-button-element--medium {
+.sqs-block-button-element--medium {
     padding: 21px 34px;
     font-size: 12px;
     font-weight: 700;
