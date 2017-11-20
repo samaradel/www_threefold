@@ -496,9 +496,9 @@ h1,
 h2 {
     text-rendering: optimizeLegibility
 }
-h1:first-child {
+/* h1:first-child {
     margin-top: 0
-}
+} */
 h2:last-child {
     margin-bottom: 0
 }
