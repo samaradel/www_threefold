@@ -79,8 +79,7 @@ header,
     min-height: 133px;
     margin-left: 0;
     margin-right: 0;
-    overflow: hidden;
-    padding: 25px 0px
+    overflow: hidden
 }
 .Content-outer {
     min-height: 373px
@@ -495,9 +494,9 @@ a {
 .tweak-blog-list-style-grid.tweak-blog-list-item-image-aspect-ratio-grid-11-square .BlogList-item-image:before {
     padding-bottom: 80%
 }
-.open-source .BlogList-item .BlogList-item-image:before {
+/* .open-source .BlogList-item .BlogList-item-image:before {
     padding-bottom: 100%
-}
+} */
 .three-objectives,
 .three-objectives .affix,
 .gettingstartedintro,
