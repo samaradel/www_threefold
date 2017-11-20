@@ -1,11 +1,11 @@
 <div class="col-sm-1"></div>
 <div class="col-sm-10">
   <div class="row">
-    <div class="col-sm-12">
+    <div class="col-sm-12 center">
       <article class="BlogList-item clear-fix">
         <div class="BlogList-item-image">
-          <a href="{{ .Permalink }}" class="BlogList-item-image-link" style="overflow: hidden;">
-            <img style="top: 0px;  max-width: 100%; max-height: 100%; position: absolute;" title = "{{ .Params.header }}" alt="{{ .Params.header }}" src="{{ .Params.image }}">
+          <a href="{{ .Permalink }}" class="BlogList-item-image-link">
+            <img title = "{{ .Params.header }}" alt="{{ .Params.header }}" src="{{ .Params.image }}">
           </a>
         </div>
 
@@ -13,7 +13,7 @@
           <!-- Author -->
           <a href="{{ .Permalink }}" class="Blog-meta-item--author">{{ .Params.author }}</a>
           <!-- Date -->
-          <time class="Blog-meta-item">June 27, 2017</time>
+          <!-- <time class="Blog-meta-item">June 27, 2017</time> -->
         </div>
           <a href="{{ .Permalink }}" class="BlogList-item-title">{{ .Params.header }}</a>
         <div class="BlogList-item-excerpt">

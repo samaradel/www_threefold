@@ -109,11 +109,11 @@ html .sqs-block.sqs-block-html .sqs-block-content {
     max-width: none
 }
 .Blog-meta {
-    display: -moz-box;
+    /* display: -moz-box;
     display: -webkit-box;
     display: -ms-flexbox;
     display: -webkit-flex;
-    display: flex;
+    display: flex; */
     letter-spacing: 0;
     text-transform: none;
     font: normal 900 10px 'Open Sans', sans-serif;
@@ -184,9 +184,9 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 }
 .BlogList-item-title, .tweak-blog-list-alignment-center .BlogList-item-title {
     text-align: center;
-    font: normal 700 20px/1.8em 'Open Sans', sans-serif;
+    font: normal 200 16px/1.8em 'Open Sans', sans-serif;
     letter-spacing: .02em;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     text-decoration: none;
 }
 .BlogList-item-excerpt {
@@ -196,7 +196,7 @@ html .sqs-block.sqs-block-html .sqs-block-content {
     text-transform: none;
     letter-spacing: .11em;
     line-height: 2.6em;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     -webkit-box-ordinal-group: 5;
     -moz-box-ordinal-group: 5;
     -ms-flex-order: 5;
