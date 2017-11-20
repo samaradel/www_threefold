@@ -637,6 +637,9 @@ a {
 .register .login {
     background-color: #6fad71
 }
+.login {
+    padding: 35px 0px
+}
 .join .copyright {
     margin-top: 35px
 }
