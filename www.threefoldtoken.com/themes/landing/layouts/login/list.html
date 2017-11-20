@@ -1,14 +1,14 @@
 {{ partial "login/login_head.html" . }}
-   {{ partial "parallax.html" . }}
+   {{ partial "body.html" . }}
      {{ if eq .Section "login" }}
          {{ partial "login/login-header.html" . }}
       {{end}}
       <div class="Site-inner">
           <div class="row clear-fix">
-            {{ range .Data.Pages }}
-                {{ if eq .Title "join"}}
+            <!-- {{ range .Data.Pages }}
+                {{ if eq .Title "join"}} -->
                   <div class="Content-outer">{{ .Render "join_threefold" }}</div>
-                  {{ else if eq .Title "our idea" }}
+                  <!-- {{ else if eq .Title "our idea" }}
                   <div class="Content-outer">{{ .Render "our-idea" }}</div>
                   {{ else if eq .Title "neutral_edge" }}
                   <div class="Content-outer">{{ .Render "neutral_edge" }}</div>
@@ -20,7 +20,7 @@
     						<div class="Content-outer">{{ .Render "summary" }}</div>
           	  {{end}}
             {{ end }}
-            {{ partial "login/join_threefold.html" . }}
+            {{ partial "login/join_threefold.html" . }} -->
 
           </div>
       </div>
