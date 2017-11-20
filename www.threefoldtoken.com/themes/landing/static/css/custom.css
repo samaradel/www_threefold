@@ -407,8 +407,7 @@ a {
     transition: 0.1s background-color linear, 0.1s color linear
 }
 .large-button-style-outline .sqs-block-button .sqs-block-button-element--large:hover,
-.medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium:hover,
-.medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium:hover {
+.sqs-block-button-element--medium:hover {
     background-color: #fff;
     color: #1d1d1d
 }
@@ -429,7 +428,8 @@ a {
 .initial-coin-offering,
 .initial-coin-offering .affix,
 .new-page-1 {
-    background-color: #619e73
+    background-color: #619e73;
+    height: 400px
 }
 .initial-coin-offering .container-fluid,
 .three-objectives .container-fluid,
@@ -458,7 +458,7 @@ a {
     padding-bottom: 65px
 }
 .new-page-1 .Index-page-content {
-    padding: 110px 25px
+    padding: 75px 25px
 }
 .new-page-1 .sqs-block {
     position: relative;
@@ -467,14 +467,15 @@ a {
     outline: 0;
     box-shadow: inset 0 0 0 1px rgba(128, 128, 128, 0);
     -webkit-transition: box-shadow .2s ease-in-out;
-    transition: box-shadow .2s ease-in-out
+    transition: box-shadow .2s ease-in-out;
+    margin: 20px auto
 }
 .new-page-1 p {
     color: #fff
 }
-.new-page-1 .medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium {
-    border-width: 2px;
-    border-style: solid;
+.sqs-block-button-element--medium {
+    border: 2px solid #fff;
+    color: #fff;
     background-color: transparent;
     border-radius: 3px;
     -webkit-transition: 0.1s background-color linear, 0.1s color linear;
@@ -494,9 +495,6 @@ a {
 .tweak-blog-list-style-grid.tweak-blog-list-item-image-aspect-ratio-grid-11-square .BlogList-item-image:before {
     padding-bottom: 80%
 }
-/* .open-source .BlogList-item .BlogList-item-image:before {
-    padding-bottom: 100%
-} */
 .three-objectives,
 .three-objectives .affix,
 .gettingstartedintro,
