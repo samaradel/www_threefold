@@ -53,7 +53,7 @@ http://testthreefold.aydo.com:8523, http://members.testthreefold.aydo.com:8523 {
         allow_extension jpg
         allow_extension jpeg
         allow_extension JPG
-        allow_extension how-it-works
+        allow_extension how-it-works/
         refreshable
 
         login_page /login
