@@ -710,9 +710,9 @@ a:focus {
     -moz-osx-font-smoothing: grayscale;
     color: #fff
 }
-.Index-page--has-image h1 {
+/* .Index-page--has-image h1 {
     color: rgba(34, 34, 34, .9)
-}
+} */
 .Index-page--has-image h2 {
     color: #fff
 }

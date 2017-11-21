@@ -72,7 +72,8 @@ header,
 .navbar-toggle .icon-bar,
 .content-404,
 .logo-container,
-.content-403 {
+.content-403, .large-button-style-outline .sqs-block-button .sqs-block-button-element--large:hover,
+.sqs-block-button-element--medium:hover {
     background-color: #fff
 }
 .Site-inner {
@@ -97,13 +98,10 @@ header,
     display: inline-block;
     float: none
 }
-header {
+header, .BlogList-item-excerpt, .sqs-block-content-home, .content-404, .content-403, 
+.our-dream, .transfer-to-ico, #timer div, .app #expired-overlay, .app #error-overlay,
+.text-name, .team-name, .button {
     text-align: center
-}
-.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item,
-.list a:hover,
-.info a:hover {
-    color: #fff
 }
 body,
 .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover,
@@ -127,7 +125,8 @@ header .nav {
     letter-spacing: .18em;
     text-transform: uppercase
 }
-.smallScreen {
+.smallScreen, .navbar-brand, .nav>li.hideLink, .app #expired-overlay,
+.app #error-overlay, .app #qr-text .expired, .app #qr-text .error, .hiddenn {
     display: none
 }
 a {
@@ -135,11 +134,7 @@ a {
 }
 .BlogList-item-excerpt {
     font-size: 15px;
-    line-height: 1.2em;
-    text-align: center;
-}
-.sqs-block-content-home {
-    text-align: center
+    line-height: 1.2em
 }
 .sqs-block-content-home h1 {
     margin: .67em 0
@@ -157,13 +152,11 @@ a {
     background-color: #757575
 }
 .Footer-inner {
-    padding: 8px 25px;
-    color: #fff
+    padding: 8px 25px
 }
 .list,
 .info {
     list-style: none;
-    color: #fff!important;
     line-height: 2em
 }
 .list h4 {
@@ -185,7 +178,6 @@ a {
 .content-404,
 .content-403 {
     min-height: 493px;
-    text-align: center;
     color: #747474
 }
 .content-404 p,
@@ -206,7 +198,6 @@ a {
 }
 .content-403 .guide {
     background-color: #6da96e;
-    color: #fff;
     margin-top: 60px;
     text-transform: uppercase;
     padding: 15px 25px;
@@ -229,7 +220,6 @@ a {
     float: right
 }
 .navbar-brand {
-    display: none;
     padding: 0 15px
 }
 .navbar-brand img {
@@ -249,7 +239,6 @@ a {
     text-align: left
 }
 .header .introWords h2 {
-    color: #fff;
     font-size: 17px;
     letter-spacing: -.01em;
     line-height: 1.4em;
@@ -344,10 +333,8 @@ a {
 }
 .our-dream,
 .transfer-to-ico {
-    text-align: center;
     background-color: #6ba1e3;
-    padding: 65px 0;
-    color: #fff
+    padding: 65px 0
 }
 .our-dream h1 {
     color: rgba(255, 255, 255, .7);
@@ -360,11 +347,16 @@ a {
 .our-dream p {
     margin-top: 14px
 }
-.transfer-to-ico h1 {
+.transfer-to-ico h1, .sqs-block-content h2, .large-button-shape-rounded .sqs-block-button .sqs-block-button-element--large,
+.medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium,
+.medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium,
+.new-page-1 .Index-page--has-image, .our-dream, .transfer-to-ico, .new-page-1 p, .sqs-block-button-element--medium, 
+#timer div, .rj-team .rj-team-member .rj-team-member-info-text, .rj-team .rj-team-member .rj-team-member-info-text .member-name,
+.button, .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item, .list a:hover, .info a:hover, .Footer-inner, 
+.content-403 .guide, .header .introWords h2, .sqs-block-content h1 {
     color: #fff
 }
-.sqs-block-content h1 a,
-.sqs-block-content h1 {
+.sqs-block-content h1 a {
     color: rgba(255, 255, 255, .7)
 }
 .transfer-to-ico .sqs-block-content h1 a {
@@ -381,7 +373,6 @@ a {
     border-color: rgba(255, 255, 255, .105)
 }
 .sqs-block-content h2 {
-    color: #fff;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -399,7 +390,6 @@ a {
 .medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium,
 .medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium {
     border: 2px solid #fff;
-    color: #fff;
     background-color: transparent;
     -webkit-transition: 0.1s background-color linear, 0.1s color linear;
     -moz-transition: 0.1s background-color linear, 0.1s color linear;
@@ -408,7 +398,6 @@ a {
 }
 .large-button-style-outline .sqs-block-button .sqs-block-button-element--large:hover,
 .sqs-block-button-element--medium:hover {
-    background-color: #fff;
     color: #1d1d1d
 }
 .Index-page-content {
@@ -426,7 +415,9 @@ a {
     padding-bottom: 30px
 }
 .initial-coin-offering,
-.initial-coin-offering .affix,
+.initial-coin-offering .affix {
+    background-color: #619e73    
+}
 .new-page-1 {
     background-color: #619e73;
     height: 400px
@@ -447,8 +438,7 @@ a {
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
-    min-height: 50vh;
-    color: #fff
+    min-height: 50vh
 }
 .new-page-1 .Index-page--has-image .Index-page-content,
 .three-objectives .Index-page--has-image .Index-page-content {
@@ -470,12 +460,8 @@ a {
     transition: box-shadow .2s ease-in-out;
     margin: 20px auto
 }
-.new-page-1 p {
-    color: #fff
-}
 .sqs-block-button-element--medium {
     border: 2px solid #fff;
-    color: #fff;
     background-color: transparent;
     border-radius: 3px;
     -webkit-transition: 0.1s background-color linear, 0.1s color linear;
@@ -523,10 +509,8 @@ a {
     display: table-cell;
     font-size: 32px;
     font-weight: 500;
-    color: #fff;
     padding: 10px;
-    border-radius: 240px;
-    text-align: center
+    border-radius: 240px
 }
 #timer span {
     letter-spacing: 0;
@@ -563,9 +547,6 @@ a {
     overflow: visible;
     padding: 80px 0px 250px
 }
-.nav>li.hideLink {
-    display: none
-}
 .nav>li.showLink {
     display: block
 }
@@ -579,8 +560,6 @@ a {
 }
 .app #expired-overlay,
 .app #error-overlay {
-    display: none;
-    text-align: center;
     margin-left: -7.5px;
     position: absolute;
     height: 100%;
@@ -609,10 +588,6 @@ a {
     max-width: 243px;
     max-height: 243px
 }
-.app #qr-text .expired,
-.app #qr-text .error {
-    display: none
-}
 .join p {
     margin-bottom: 0
 }
@@ -620,14 +595,14 @@ a {
     margin-top: 20px
 }
 .register a {
-    color: #fff!important;
     font-weight: bold;
     padding: 10px 40px;
     text-transform: uppercase;
     font-size: 17px;
     border-radius: 10px
 }
-.register a:hover {
+.register a:hover, .register a, .list,
+.info {
     color: #fff!important
 }
 .register .signup {
@@ -666,11 +641,9 @@ a {
     font-size: 15px
 }
 .text-name {
-    text-align: center;
     margin-bottom: 15px
 }
 .team-name {
-    text-align: center;
     word-spacing: 10px
 }
 .our-team {
@@ -681,9 +654,6 @@ a {
 }
 .close a:hover {
     text-decoration: none
-}
-.hiddenn {
-    display: none
 }
 .rj-team-member-photo-rollover {
     -webkit-filter: grayscale(100%);
@@ -697,11 +667,7 @@ a {
     padding-bottom: 20em
 }
 .rj-team .rj-team-member .rj-team-member-info-text {
-    background-color: #77aae6;
-    color: #fff
-}
-.rj-team .rj-team-member .rj-team-member-info-text .member-name {
-    color: #fff
+    background-color: #77aae6
 }
 .rj-team .member-photo.selected:after {
     border-bottom-color: #77aae6
@@ -738,9 +704,7 @@ section {
     outline: 0;
     display: inline-block;
     padding: 8px;
-    color: #fff;
     background-color: #000;
-    text-align: center;
     cursor: pointer;
     width: 100%
 }
