@@ -734,6 +734,69 @@ section {
 .introTxt h1 {
     line-height: 1.5em
 }
+/* Challenge */
+.main-block1{
+    background-color: #3b3b3b;
+    height: 373px;
+  }
+.head-block1{
+    color: #fff;
+    text-align: center;
+    margin: 70px auto;
+  }
+.text-block1{
+    color: #fff;
+    font-size: 16px !important;
+    letter-spacing: 0.15em;
+    font-weight: 300;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 30px;
+  }
+/* Datacenters */
+.dataCenters {
+    padding: 50px 0 40px;
+    color: #fff;
+    background: url('../img/datacenter.jpg') no-repeat;
+    height: 575px;
+    position: relative;
+    vertical-align: middle
+}
+.dataCenters h1 {
+    margin: 30px auto 40px;
+}
+.data-content .timer {
+    font-size: 80px;
+    margin-bottom: 50px;
+}
+.data-content span {
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    font-weight: bold;
+}
+dataCenters p {
+    margin-top: 20px;
+}
+.dcenter {
+    margin: 30px auto;
+}
+.dcenter p {
+    letter-spacing: 0.17em;
+    font-size: 15px;
+}
+.overlay {
+    position: relative;
+}
+.overlay:before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .7;
+    background-color: #436DA3;
+}
 @media (max-width: 650px) {
     .column {
         width: 100%;

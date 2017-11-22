@@ -46,6 +46,9 @@
                   {{ else if eq .Title "challenge" }}
                     <div class="Content-outer">{{ $p.Render "challenge" }}</div>
                     {{end}}
+                    {{ if eq .Title "datacenters"}}
+                    <div class="Content-outer">{{ $p.Render "datacenters" }}</div>
+                    {{end}}
                   {{ else if eq .Section "pto" }}
                     {{ if eq .Title "pto" }}
                       <div class="Content-outer">{{ $p.Render "pto" }}</div>
