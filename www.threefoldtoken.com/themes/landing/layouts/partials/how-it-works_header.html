@@ -1,0 +1,44 @@
+{{ range $element :=  $.Site.Pages }}
+  {{ if eq .Section "how-it-works" }}
+    {{ if eq .Title "header" }}
+        <div class="logo-container">
+           <img src="{{ .Params.img }}" alt="Threefold">
+        </div>
+        <section class="Index-page Index-page--has-image howWorks-header">
+            <div class="Index-page-content">
+               <nav class="navbar Header-nav center" role="navigation" id="nav" data-spy="affix" data-offset-top="133">
+                 <!-- Brand and toggle get grouped for better mobile display -->
+                 <div class="navbar-header navbar-inner">
+                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                     <span class="sr-only">Toggle navigation</span>
+                     <span class="icon-bar"></span>
+                     <span class="icon-bar"></span>
+                     <span class="icon-bar"></span>
+                     </button>
+                 </div>
+                 <!-- Collect the nav links, forms, and other content for toggling -->
+                 <div id="navbar" class="collapse navbar-collapse">
+                     <ul class="nav navbar-nav left">
+                       <li><a href="/" class="Header-nav-item">Home <span class="sr-only">(current)</span></a></li>
+                       <li><a href="#challenge" class="Header-nav-item">Challenge</a></li>
+                       <li><a href="#dataCenters" class="Header-nav-item">Datacenters</a></li>
+                       <li><a href="#solution" class="Header-nav-item">Solution</a></li>
+                       <li><a href="#token" class="Header-nav-item">Token</a></li>
+                       <li><a href="#pricing" class="Header-nav-item">Pricing</a></li>
+                       <li><a href="#participate" class="Header-nav-item">Participate</a></li>
+                       <li><a href="#join" class="Header-nav-item">Join</a></li>
+                     </ul>
+                 </div>
+               </nav>
+               <div class="col-xs-12">
+                 <div class="row">
+                   <div class="col-sm-1"></div>
+                   <div class="col-sm-10 introTxt">{{ .Content }}</div>
+                   <div class="col-sm-1"></div>
+                 </div>
+               </div>
+          </div>
+        </section>
+    {{end}}
+  {{end}}
+{{end}}

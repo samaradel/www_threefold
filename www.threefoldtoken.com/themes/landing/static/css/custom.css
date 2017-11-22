@@ -412,7 +412,7 @@ a {
 }
 .Index-page--has-image .Index-page-content {
     padding-top: 0;
-    padding-bottom: 30px
+    /* padding-bottom: 30px */
 }
 .initial-coin-offering,
 .initial-coin-offering .affix {
@@ -712,13 +712,27 @@ section {
 }
 .sqs-block-button .sqs-block-button-element--small:hover {
     background-color: #222;
-    color: #fff;
+    color: #3f5a7f;
 }
 #team-test {
     padding-bottom: 130px;
 }
 .rj-section {
     padding: 100px 0 0
+}
+.howWorks-header {
+    background: url('../img/centeralized.png') no-repeat;
+    height:575px;
+    background-position: center;
+}
+.introTxt {
+    margin: 25px auto;
+    color: #3f5a7f;
+    text-align: center;
+    margin: 182px auto
+}
+.introTxt h1 {
+    line-height: 1.5em
 }
 @media (max-width: 650px) {
     .column {
