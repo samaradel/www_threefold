@@ -34,6 +34,8 @@
                   <div class="Content-outer">{{ $p.Render "403" }}</div>
                   {{ else if eq .Section "ambassador" }}
                   <div class="Content-outer">{{ $p.Render "ambassador" }}</div>
+                  {{ else if eq .Section "how-it-works" }}
+                  <div class="Content-outer">{{ $p.Render "how-it-works" }}</div>
                   {{ else if eq .Section "pto" }}
                     {{ if eq .Title "pto" }}
                       <div class="Content-outer">{{ $p.Render "pto" }}</div>
