@@ -1,0 +1,41 @@
+
+<style>
+.main-block1{
+  background-color: #3b3b3b;
+  height: 350px;
+}
+
+  .head-block1{
+    color: #fff;
+    text-align: center;
+    margin: 50px auto;
+}
+
+  .text-block1{
+
+    color: #fff;
+    font-size: 14px !important;
+    font-family: "Open Sans";
+    letter-spacing: 0.15em;
+    font-weight: 300;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 30px;
+
+  }
+</style>
+
+
+  <div class="main-block1">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10 head-block1">{{ .Content }}
+      <p class="text-block1">
+        {{ .Params.paragraph_text1 }}
+      </p>
+     <p class="text-block1">
+      {{ .Params.paragraph_text2 }} 
+     </p>
+    </div>
+    <div class="col-sm-1"></div>
+    </div>
+  </div>
