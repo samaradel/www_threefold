@@ -684,6 +684,42 @@ section {
     -moz-border-radius: 0;
     -o-border-radius: 0
 }
+.sqs-block-button .sqs-block-button-element--small {
+    border-radius: 3px;
+    color: #222;
+    border: 2px solid #222;
+    background-color: transparent;
+    -webkit-transition: 0.1s background-color linear, 0.1s color linear;
+    -moz-transition: 0.1s background-color linear, 0.1s color linear;
+    -o-transition: 0.1s background-color linear, 0.1s color linear;
+    transition: 0.1s background-color linear, 0.1s color linear;
+    padding: 13px 26px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 9px;
+    font-weight: 600;
+    font-style: normal;
+    text-transform: uppercase;
+    display: inline-block;
+    height: auto;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    outline: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    line-height: normal;
+}
+.sqs-block-button .sqs-block-button-element--small:hover {
+    background-color: #222;
+    color: #fff;
+}
+#team-test {
+    padding-bottom: 130px;
+}
+.rj-section {
+    padding: 100px 0 0
+}
 @media (max-width: 650px) {
     .column {
         width: 100%;
