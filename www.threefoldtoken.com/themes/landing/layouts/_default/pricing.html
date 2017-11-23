@@ -1,0 +1,37 @@
+<style>
+.main-pricing{
+    background: url('../img/pricing_right.png') no-repeat;
+    background-position: right;
+    background-color: #f1f1f1;
+    height: 435px;
+  }
+
+  .block-pricing {
+    color: #5f5f5f;
+    text-align: center;
+    margin: 80px auto;
+  }
+
+.pricing_header{
+    font-size: 23px !important;
+    font-weight: 700;
+    margin-bottom:40px;
+    line-height: 140%;
+  }
+
+.pricing_para2{
+        font-size: 23px !important;
+        letter-spacing: 0.13em;
+        line-height: 140%;
+  }
+
+</style>
+
+<div class="main-pricing" id="pricing" >
+  <div class="col-sm-3"></div>
+  <div class="col-sm-6 block-pricing">
+    <h2 class="pricing_header">{{ .Params.text1 }}</h2>
+    <p class="pricing_para2">{{ .Params.text2 }}</p>
+  </div>
+  <div class="col-sm-3"></div>
+</div>
