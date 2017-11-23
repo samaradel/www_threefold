@@ -41,13 +41,20 @@
                   {{ else if eq .Section "ambassador" }}
                   <div class="Content-outer">{{ $p.Render "ambassador" }}</div>
                   {{ else if eq .Section "how-it-works" }}
-                      {{ if eq .Title "token"}}
-                      <div class="Content-outer">{{ $p.Render "token" }}</div>
-                  {{ else if eq .Title "challenge" }}
+                  {{ if eq .Title "challenge" }}
                     <div class="Content-outer">{{ $p.Render "challenge" }}</div>
-                    {{end}}
-                    {{ if eq .Title "datacenters"}}
+                    {{ else if eq .Title "datacenters"}}
                     <div class="Content-outer">{{ $p.Render "datacenters" }}</div>
+                    {{ else if eq .Title "solution"}}
+                    <div class="Content-outer">{{ $p.Render "solution" }}</div>
+                    {{ else if eq .Title "token"}}
+                    <div class="Content-outer">{{ $p.Render "token" }}</div>
+                    {{ else if eq .Title "pricing"}}
+                    <div class="Content-outer">{{ $p.Render "pricing" }}</div>
+                    {{ else if eq .Title "participate"}}
+                    <div class="Content-outer">{{ $p.Render "participate" }}</div>
+                    {{ else if eq .Title "join"}}
+                    <div class="Content-outer">{{ $p.Render "join" }}</div>
                     {{end}}
                   {{ else if eq .Section "pto" }}
                     {{ if eq .Title "pto" }}
