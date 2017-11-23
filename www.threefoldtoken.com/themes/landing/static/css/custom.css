@@ -904,14 +904,15 @@ dataCenters p {
 .panel-wrapper .title {
     display:none;
 }
-.coda-slider img {
-    width: 100%;
-}
 .panel {
     border-radius: 0;
+    border: none;
 }
 .coda-slider-wrapper .coda-nav ul li {
     display: inline-block
+}
+.coda-slider img {
+    width: 710px;
 }
 /*pricing*/
 .main-pricing{
