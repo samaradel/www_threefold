@@ -10,8 +10,4 @@ weight = 9
 +++
 # join threefold
 
-to get access to our full webpage and smartphone app
-<br>
-
-
-###### (available for iOs and Android)
+To get access to our full webpage and smartphone app
