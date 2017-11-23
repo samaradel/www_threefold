@@ -913,6 +913,77 @@ dataCenters p {
 .coda-slider-wrapper .coda-nav ul li {
     display: inline-block
 }
+/*pricing*/
+.main-pricing{
+    background: url('../img/pricing_right.png') no-repeat;
+    background-position: right;
+    background-color: #f1f1f1;
+    height: 435px;
+  }
+
+  .block-pricing {
+    color: #5f5f5f;
+    text-align: center;
+    margin: 80px auto;
+  }
+
+.pricing_header{
+    font-size: 23px !important;
+    font-weight: 700;
+    margin-bottom:40px;
+    line-height: 140%;
+  }
+
+.pricing_para2{
+        font-size: 23px !important;
+        letter-spacing: 0.13em;
+        line-height: 140%;
+  }
+
+/*participate*/
+.main-participate{
+    background: url('../img/participate.jpg') no-repeat;
+    background-position: right;
+    background-color: #f1f1f1;
+    height: 435px;
+  }
+
+  .BG-cover {
+      position: relative;
+  }
+  .BG-cover:before {
+      position: absolute;
+      content: "";
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      opacity: .7;
+      background-color: #fff;
+  }
+
+  .block-participate {
+    color: #363636;
+    text-align: center;
+    margin: 90px auto;
+  }
+
+.participate_header{
+    font-size: 23px !important;
+    font-weight: 400;
+    margin-bottom:20px;
+    line-height: 140%;
+    text-transform: uppercase;
+    letter-spacing: 0.13em;
+  }
+
+.participate_para2{
+        font-size: 18px !important;
+        letter-spacing: 0.12em;
+        line-height: 140%;
+        font-family: "open sans";
+  }
+
 @media (max-width: 650px) {
     .column {
         width: 100%;
