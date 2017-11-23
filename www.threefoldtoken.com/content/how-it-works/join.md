@@ -10,9 +10,8 @@ weight = 9
 +++
 # join threefold
 
-This is required to become an investor or hoster.
+to get access to our full webpage and smartphone app
 <br>
-Also you get access our full webpage and smartphone app.
-<br>
+
 
 ###### (available for iOs and Android)
