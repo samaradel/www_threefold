@@ -98,7 +98,7 @@ header,
     display: inline-block;
     float: none
 }
-header, .BlogList-item-excerpt, .sqs-block-content-home, .content-404, .content-403, 
+header, .BlogList-item-excerpt, .sqs-block-content-home, .content-404, .content-403,
 .our-dream, .transfer-to-ico, #timer div, .app #expired-overlay, .app #error-overlay,
 .text-name, .team-name, .button {
     text-align: center
@@ -350,9 +350,9 @@ a {
 .transfer-to-ico h1, .sqs-block-content h2, .large-button-shape-rounded .sqs-block-button .sqs-block-button-element--large,
 .medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium,
 .medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium,
-.new-page-1 .Index-page--has-image, .our-dream, .transfer-to-ico, .new-page-1 p, .sqs-block-button-element--medium, 
+.new-page-1 .Index-page--has-image, .our-dream, .transfer-to-ico, .new-page-1 p, .sqs-block-button-element--medium,
 #timer div, .rj-team .rj-team-member .rj-team-member-info-text, .rj-team .rj-team-member .rj-team-member-info-text .member-name,
-.button, .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item, .list a:hover, .info a:hover, .Footer-inner, 
+.button, .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item, .list a:hover, .info a:hover, .Footer-inner,
 .content-403 .guide, .header .introWords h2, .sqs-block-content h1 {
     color: #fff
 }
@@ -416,7 +416,7 @@ a {
 }
 .initial-coin-offering,
 .initial-coin-offering .affix {
-    background-color: #619e73    
+    background-color: #619e73
 }
 .new-page-1 {
     background-color: #619e73;
@@ -831,6 +831,51 @@ dataCenters p {
 .sol-details img {
     width: 100px;
 }
+
+/* token */
+.main-token{
+   background: url('../img/token-left.png') no-repeat;
+    background-color: #f1f1f1;
+    height: 435px;
+  }
+
+  .head-token {
+    color: #5f5f5f;
+    text-align: center;
+    margin: 50px auto;
+  }
+
+.token_header{
+    font-weight: 400;
+    letter-spacing: 0.12em;
+    line-height: 140%;
+    margin-bottom:40px;
+  }
+
+.token_text2{
+    font-size: 23px !important;
+    font-weight: 700;
+  }
+
+.token_para1{
+      font-size: 20px !important;
+      letter-spacing: 0.12em;
+      font-weight: 700;
+  }
+
+.token_para2{
+        font-size: 20px !important;
+        letter-spacing: 0.13em;
+  }
+
+.token_para3{
+          font-size: 20px !important;
+          letter-spacing: 0.13em;
+          margin-right: 50px;
+          margin-left: 50px;
+  }
+
+
 @media (max-width: 650px) {
     .column {
         width: 100%;

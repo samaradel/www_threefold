@@ -1,5 +1,16 @@
 +++
+# Don't remove title!
 
 title = "token"
+
+
+text1 =  "To make it happen seamlessly across the world we’re issuing the Threefold token!"
+text2 = "So what is this token?"
+text3 = "Simply put: Internet Capacity"
+text4 = "Bandwidth, Compute & Storage capacity"
+text4_1 = "Everything you need to run the internet,"
+text5 = "but in the Threefold way."
+text6 = "the green and neutral way."
+
+weight = 5
 +++
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
