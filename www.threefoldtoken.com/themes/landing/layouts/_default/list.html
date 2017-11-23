@@ -49,6 +49,8 @@
                     <div class="Content-outer">{{ $p.Render "solution" }}</div>
                     {{ else if eq .Title "token"}}
                     <div class="Content-outer">{{ $p.Render "token" }}</div>
+                    {{ else if eq .Title "tokens arround"}}
+                    <div class="Content-outer">{{ $p.Render "tokens_arround" }}</div>
                     {{ else if eq .Title "pricing"}}
                     <div class="Content-outer">{{ $p.Render "pricing" }}</div>
                     {{ else if eq .Title "participate"}}

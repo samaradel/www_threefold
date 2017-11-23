@@ -1,0 +1,47 @@
+<div class="token-arround center">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+        {{ .Content }}
+
+        <div class="coda-slider" id="slider-id">
+            <div>
+                <h2 class="title">{{ .Params.piller_1_txt }}</h2>
+                <img src="{{ .Params.piller_1_img }}" alt="{{ .Params.piller_1_txt }}">
+            </div>
+            <div>
+                <h2 class="title">{{ .Params.piller_2_txt }}</h2>
+                <img src="{{ .Params.piller_2_img }}" alt="{{ .Params.piller_2_txt }}">
+            </div>
+            <div>
+                <h2 class="title">{{ .Params.piller_3_txt }}</h2>
+                <img src="{{ .Params.piller_3_img }}" alt="{{ .Params.piller_3_txt }}">
+            </div>
+            <div>
+                <h2 class="title">{{ .Params.piller_4_txt }}</h2>
+                <img src="{{ .Params.piller_4_img }}" alt="{{ .Params.piller_4_txt }}">
+            </div>
+            <div>
+                <h2 class="title">{{ .Params.piller_5_txt }}</h2>
+                <img src="{{ .Params.piller_5_img }}" alt="{{ .Params.piller_1_txt }}">
+            </div>
+        </div>
+
+    </div>
+    <div class="col-sm-1"></div>
+</div>
+
+    <!-- Coda Slider relies on jQuery and easing effects-->
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery.easing.min.js"></script>
+
+    <!-- This of course is required. The full version (not .min) is also included in the js directory -->
+    <script src="/js/jquery.coda-slider-3.0.min.js"></script>
+    <script>        
+        $(function(){
+        //   If you want to adjust the settings, you set an option as follows:        
+        $('#slider-id').codaSlider({
+            dynamicArrows: false,
+            slideEaseDuration: 1000
+            });
+        });
+    </script>
