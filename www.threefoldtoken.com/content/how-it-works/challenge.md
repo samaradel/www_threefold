@@ -3,9 +3,9 @@
 
 title = "challenge"
 
-paragraph_text1 = "A few large companies have concentrated the backbone of the internet in a handful of datacenters. Shifting away the internet backbone infrastructure away from the users."
+paragraph_text1 = "A few large companies have concentrated the backbone of the internet in a handful of datacenters. Shifting the internet infrastructure away from the users."
 
-paragraph_text2 = "These few companies own 75% of all internet infrastructure and the data stored on them. Besides being fragile the current internet is far from neutral and this means our privacy is becoming less and less…."
+paragraph_text2 = "These few companies own 75% of the datacenters and the data stored in them. Besides being fragile the current internet is far from neutral. Others are in control of your data stored online. Privacy has become a thing of the past."
 
 weight = 2
 
