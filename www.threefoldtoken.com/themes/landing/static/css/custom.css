@@ -797,6 +797,40 @@ dataCenters p {
     opacity: .7;
     background-color: #436DA3;
 }
+/* solution */
+.solution {
+    padding: 50px 0;
+    color: #747474;
+    overflow: hidden;
+}
+.solution img {
+    width: 136px;
+}
+.sol-content h2, .sol-content h1 {
+    margin: 40px auto;
+    letter-spacing: 0.16em;
+    text-transform: uppercase
+}
+.sol-content h1 {
+    font-weight: bold;
+    font-size: 27px
+}
+.sol-content p {
+    letter-spacing: 0.16em;
+    font-size: 17px;
+}
+.sol-details {
+    margin: 60px auto;
+}
+.sol-details h1 {
+    font-size: 20px;
+    margin: 25px auto 40px;
+    font-weight: 200 !important;
+    width: 50%
+}
+.sol-details img {
+    width: 100px;
+}
 @media (max-width: 650px) {
     .column {
         width: 100%;
