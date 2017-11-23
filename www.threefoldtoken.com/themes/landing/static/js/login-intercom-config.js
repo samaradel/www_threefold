@@ -1,7 +1,8 @@
 // Intercom with IYO
 var APP_ID = "s9uiteqs";
+
 window.intercomSettings = {
- app_id: APP_ID
+  app_id: APP_ID
 };
 
 (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function")

@@ -3,7 +3,7 @@
 title = "faq"
 
 header = "Onboarding FAQ"
-image = "question1.jpg"
+image = "../img/question1.jpg"
 author = ""
 subtitle = ""
 weight = 4

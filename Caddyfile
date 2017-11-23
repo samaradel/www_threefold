@@ -53,6 +53,7 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
         allow_extension jpg
         allow_extension jpeg
         allow_extension JPG
+        allow_extension how-it-works/
         refreshable
 
         login_page /login

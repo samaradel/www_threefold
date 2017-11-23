@@ -3,7 +3,7 @@
 #Don't remove name!
 title = "information"
 header = "Our Magical Zero-Node"
-image = "our-magical-zero-node.jpg"
+image = "../img/our-magical-zero-node.jpg"
 author = "Andreas Hartl"
 subtitle = "Our magic box providing internet capacity."
 weight = 9

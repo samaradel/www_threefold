@@ -1,0 +1,25 @@
+<style media="screen">
+  .how_join{
+    padding-top: 30px;
+  }
+</style>
+
+<div class="how_join" id="join">
+<div class="col-sm-3"></div>
+<div class="col-sm-6">
+  <div class="sqs-block markdown-block sqs-block-markdown join">
+     <div class="sqs-block-content-home">
+        <p>{{ .Content }}</p>
+        <div class="register">
+           <a href="{{ .Params.signup_link }}" class="btn btn-default signup" role="button">{{ .Params.signup_txt }}</a>
+           <a href="{{ .Params.login_url }}" class="btn btn-default login" role="button">{{ .Params.login_txt }}</a>
+            <div class="copyright">
+              <p>powered by</p>
+              <p>ITSYOU.ONLINE</p>
+            </div>
+        </div>
+     </div>
+  </div>
+</div>
+<div class="col-sm-3"></div>
+</div>

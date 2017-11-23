@@ -2,7 +2,7 @@
 # Don't remove title!
 title = "information"
 header = "Rivine: Our Blockchain "
-image = "our-blockchain.png"
+image = "../img/our-blockchain.png"
 author = "Kristof De Spiegeleer"
 subtitle = "A blockchain suitable for the needs of the Foundation and its mission"
 weight = 3

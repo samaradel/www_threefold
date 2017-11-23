@@ -3,7 +3,7 @@
 #Don't remove name!
 title = "information"
 header = "On company valuations and token market caps"
-image = "balance.jpg"
+image = "../img/balance.jpg"
 author = "Andreas Hartl"
 subtitle = "More about our issuance model"
 weight = 1
