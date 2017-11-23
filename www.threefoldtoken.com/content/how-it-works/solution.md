@@ -4,7 +4,7 @@
 title = "solution"
 img = "/img/download.png"
 
-grid_img_1 = "http://via.placeholder.com/350x350"
+grid_img_1 = "/img/eco-friendly.png"
 grid_txt_1 = "Eco Friendly Approach"
 
 grid_img_2 = "/img/connection-1.png"
