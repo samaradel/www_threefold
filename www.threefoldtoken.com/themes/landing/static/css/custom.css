@@ -603,7 +603,7 @@ a {
 }
 .register a:hover, .register a, .list,
 .info {
-    color: #fff!important
+    color: #fff;
 }
 .register .signup {
     background-color: #6a9de1;
@@ -983,6 +983,26 @@ dataCenters p {
         line-height: 140%;
   }
 
+/* Join */
+.how_join{
+    padding-top: 30px;
+    height:373px;
+    background-color: #6eaf70;
+    color: #fff;
+  }
+  .how_join h1 {
+    color: #fff;
+    font-weight: bold;
+  }
+  .how_join .signup, .how_join .login {
+    background-color: #fff;
+  }
+  .how_join .signup { 
+    color: #699ee3;
+  }
+  .how_join .login {
+    color: #6eaf70; 
+  }
 @media (max-width: 650px) {
     .column {
         width: 100%;

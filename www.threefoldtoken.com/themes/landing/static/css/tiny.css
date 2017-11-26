@@ -170,7 +170,7 @@ html .sqs-block.sqs-block-html .sqs-block-content {
     max-height: 100%
 }
 .sqs-block-content-home a {
-    color: #6ca2e7!important;
+    color: #6ca2e7;
     text-decoration: none;
     border-bottom: 1px solid rgba(108, 162, 231, .3)!important
 }
