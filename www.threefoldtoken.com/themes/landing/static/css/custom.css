@@ -997,12 +997,45 @@ dataCenters p {
   .how_join .signup, .how_join .login {
     background-color: #fff;
   }
-  .how_join .signup { 
+  .how_join .signup {
     color: #699ee3;
   }
   .how_join .login {
-    color: #6eaf70; 
+    color: #6eaf70;
   }
+
+/*green_part ar login*/
+
+  .green_part{
+    background: url('../img/centeralized.png') no-repeat;
+    height: 120px;
+    text-align: center;
+    position: relative;
+    background-position:center;
+  }
+
+  .green_part:before {
+      position: absolute;
+      content: "";
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      opacity: .7;
+      background-color: #6EAF70;
+  }
+
+  .button-position{
+    margin: 40px auto;
+  }
+  .how-button{
+    text-transform: uppercase;
+    font-family: "Open Sans";
+    letter-spacing: 0.12em ;
+    color: #6EAF70;
+    padding: 6px 40px;
+  }
+
 @media (max-width: 650px) {
     .column {
         width: 100%;
