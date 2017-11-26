@@ -1012,7 +1012,9 @@ dataCenters p {
     color: #6EAF70;
     padding: 6px 40px;
   }
-
+.team img {
+    width: 100%;
+}
 @media (max-width: 650px) {
     .column {
         width: 100%;
