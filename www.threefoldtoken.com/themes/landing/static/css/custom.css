@@ -936,16 +936,15 @@ dataCenters p {
   }
 
 .pricing_para2{
-        font-size: 23px !important;
-        letter-spacing: 0.13em;
-        line-height: 140%;
+    font-size: 23px !important;
+    letter-spacing: 0.13em;
+    line-height: 140%;
   }
 
 /*participate*/
 .main-participate{
     background: url('../img/participate.jpg') no-repeat;
-    background-position: right;
-    background-color: #f1f1f1;
+    background-position: center;
     height: 435px;
   }
 
@@ -959,12 +958,12 @@ dataCenters p {
       left: 0;
       width: 100%;
       height: 100%;
-      opacity: .7;
-      background-color: #fff;
+      opacity: .75;
+      background-color: #5783BF;
   }
 
   .block-participate {
-    color: #363636;
+    color: #fff;
     text-align: center;
     margin: 40px auto;
   }
