@@ -704,7 +704,7 @@ section {
     background: url('../img/centeralized.png') no-repeat;
     height:575px;
     background-position: center;
-    position: relative    
+    position: relative
 }
   .howWorks-header nav {
     position: absolute;
@@ -745,7 +745,7 @@ section {
     background: url('../img/datacenter.jpg') no-repeat;
     height: 575px;
     position: relative;
-    background-size: cover 
+    background-size: cover
 }
 .dataCenters h1 {
     margin: 30px auto 40px;
@@ -929,7 +929,7 @@ dataCenters p {
 .main-participate{
     background: url('../img/participate.jpg') no-repeat;
     background-position: center;
-    background-size: cover; 
+    background-size: cover;
     min-height: 567px;
     height: 100%;
   }
@@ -1051,7 +1051,18 @@ dataCenters p {
         padding: 10px;
         background-image: none;
     }
+    .main-pricing{
+
+      background-image: none;
+      height: auto;
+      background-color: #EFEFEF;
+
+    }
+    .block-pricing{
+      color: #4d4d4d;
+    }
 }
+
 .container::after,
 .row::after {
     content: "";
@@ -1181,6 +1192,7 @@ dataCenters p {
       letter-spacing: 0.12em ;
       padding: 6px 15px;
     }
+
 }
 @media only screen and (max-width: 375px) {
     .sphere {
