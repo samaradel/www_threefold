@@ -175,7 +175,7 @@ html .sqs-block.sqs-block-html .sqs-block-content {
     border-bottom: 1px solid rgba(108, 162, 231, .3)!important
 }
 .sqs-block-content-home a:hover {
-    color: rgba(108, 162, 231, .6)!important;
+    /* color: rgba(108, 162, 231, .6)!important; */
     text-decoration: none;
     border-bottom: 1px solid rgba(108, 162, 231, .15)!important
 }

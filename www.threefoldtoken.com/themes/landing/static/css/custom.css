@@ -60,7 +60,8 @@ header,
     overflow: hidden
 }
 .Content-outer {
-    min-height: 373px
+    min-height: 373px;
+    overflow: hidden;
 }
 .tweak-blog-list-style-grid .BlogList-item {
     float: none
@@ -706,7 +707,7 @@ section {
     margin: 25px auto;
     color: #3f5a7f;
     text-align: center;
-    margin: 182px auto
+    margin: 187px auto
 }
 .introTxt h1 {
     line-height: 1.5em
@@ -719,7 +720,7 @@ section {
 .head-block1{
     color: #fff;
     text-align: center;
-    margin: 70px auto;
+    padding: 59px 0;
   }
 .text-block1{
     color: #fff;
@@ -896,7 +897,7 @@ dataCenters p {
     background: url('../img/pricing_right.png') no-repeat;
     background-position: right;
     background-color: #f1f1f1;
-    height: 435px;
+    height: 406px;
   }
 
   .block-pricing {
@@ -1110,9 +1111,9 @@ dataCenters p {
     .navbar-nav {
         float: none
     }
-    .navbar-nav>li {
+    /* .navbar-nav>li {
         margin: 5px 0
-    }
+    } */
     .sqs-block-button .sqs-block-button-element--small {
         width: 30%
     }
