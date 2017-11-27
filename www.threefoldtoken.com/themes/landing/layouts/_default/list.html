@@ -55,8 +55,6 @@
                     <div class="Content-outer">{{ $p.Render "pricing" }}</div>
                     {{ else if eq .Title "participate"}}
                     <div class="Content-outer">{{ $p.Render "participate" }}</div>
-                    {{ else if eq .Title "join"}}
-                    <div class="Content-outer">{{ $p.Render "join" }}</div>
                     {{end}}
                   {{ else if eq .Section "pto" }}
                     {{ if eq .Title "pto" }}
