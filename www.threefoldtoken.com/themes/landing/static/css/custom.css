@@ -931,6 +931,7 @@ dataCenters p {
 .main-participate{
     background: url('../img/participate.jpg') no-repeat;
     background-position: center;
+    background-size: cover; 
     height: 435px;
   }
 
@@ -955,7 +956,7 @@ dataCenters p {
   }
 
 .participate_header{
-    font-size: 23px !important;
+    font-size: 23px;
     font-weight: 400;
     margin-bottom:20px;
     line-height: 140%;
@@ -964,9 +965,9 @@ dataCenters p {
   }
 
 .participate_para2{
-        font-size: 17px !important;
-        letter-spacing: 0.10em;
-        line-height: 140%;
+    font-size: 17px;
+    letter-spacing: 0.10em;
+    line-height: 140%;
   }
 
 /* Join */
@@ -1028,6 +1029,9 @@ dataCenters p {
     h1 {
         font-size: 110%;
     }
+    p {
+        font-size: 100%;
+    }
     .introTxt {
         margin: 237px auto;
     }
@@ -1035,7 +1039,7 @@ dataCenters p {
         width: 100%;
         display: block
     }
-    .main-block1, .dataCenters {
+    .main-block1, .dataCenters, .main-participate {
         padding: 25px;
         height: 100%;
     }
