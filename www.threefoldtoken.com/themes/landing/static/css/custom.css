@@ -864,7 +864,9 @@ dataCenters p {
     overflow: hidden;
 }
 /*slider*/
-
+.sy-slide, .sy-slide.sy-active {
+    z-index: 0;
+}
 
 /*pricing*/
 .main-pricing{
