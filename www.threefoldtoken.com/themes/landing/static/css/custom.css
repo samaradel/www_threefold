@@ -1064,6 +1064,14 @@ dataCenters p {
     .container{
       padding: 0;
     }
+
+    .sol-details h1 {
+        font-size: 13px;
+        margin: 25px auto 40px;
+        font-weight: 200 !important;
+        width: auto;
+    }
+
 }
 
 .container::after,
@@ -1150,6 +1158,7 @@ dataCenters p {
     .navbar-brand {
         display: block
     }
+
 }
 @media (min-width: 768px) {
     .navbar {
@@ -1167,6 +1176,7 @@ dataCenters p {
     .Site .header {
         background-size: 13%
     }
+    
 }
 @media screen and (max-width: 640px) {
     .sqs-block-button .sqs-block-button-element--large {
