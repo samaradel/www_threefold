@@ -654,7 +654,7 @@ section {
     padding: 0
 }
 #nav > .navbar-inner {
-    float: left;
+    /* float: left; */
     border-left: 0;
     border-right: 0;
     border-radius: 0;
@@ -702,7 +702,13 @@ section {
     background: url('../img/centeralized.png') no-repeat;
     height:575px;
     background-position: center;
+    position: relative    
 }
+  .howWorks-header nav {
+    position: absolute;
+    width: 100%;
+    z-index: 99999;
+  }
 .introTxt {
     margin: 25px auto;
     color: #3f5a7f;

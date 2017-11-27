@@ -91,6 +91,10 @@
       </div>
        {{ partial "footer.html" . }}
    </div>
+   {{ if eq .Section "how-it-works" }}
+   {{ partial "login/login-js.html" . }}   
+    {{else}}
    {{ partial "js.html" . }}
+   {{end}}
 </body>
 </html>
