@@ -1,6 +1,8 @@
 <script src="/js/jquery.min.js"></script>
 <script src="/js/jquery-ui.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery.easing.min.js"></script>
+<script src="/js/jquery.coda-slider-3.0.min.js"></script>
 <script type="text/javascript" charset="utf-8">
    // Creating custom :external selector
    $.expr[':'].external = function(obj){
@@ -17,6 +19,11 @@
      $('a[href*="register"]').each(function() {
          $(this).attr('target', '_self');
      });
+
+     $('#slider-id').codaSlider({
+        dynamicArrows: false,
+        slideEaseDuration: 1000
+        });
    
    })
    
