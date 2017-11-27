@@ -861,43 +861,11 @@ dataCenters p {
 /* token arround*/
 .token-arround {
     padding: 60px 0;
-    overflow: hidden
+    overflow: hidden;
 }
-.coda-slider-wrapper .coda-nav a {
-    background: transparent;
-    text-transform: uppercase;
-    color: #a5a5a5;
-}
-.coda-slider-wrapper .arrows, #slider-id-wrapper {
-    width: auto;
-    margin: 10px auto;
-}
-.coda-slider-wrapper .coda-nav .current, .coda-slider-wrapper .coda-nav a:hover {
-    background: transparent;
-    color: #699ee3;
-    text-decoration: underline
-}
-.coda-slider-wrapper .coda-nav ul li a {
-    margin-right: 20px;
-    letter-spacing: 0.14em;
-    font-size: 16px;
-}
-.coda-slider-wrapper .coda-nav ul {
-    width: auto !important;
-}
-.panel-wrapper .title {
-    display:none;
-}
-.panel {
-    border-radius: 0;
-    border: none;
-}
-.coda-slider-wrapper .coda-nav ul li {
-    display: inline-block
-}
-.coda-slider img {
-    width: 710px;
-}
+/*slider*/
+
+
 /*pricing*/
 .main-pricing{
     background: url('../img/pricing_right.png') no-repeat;

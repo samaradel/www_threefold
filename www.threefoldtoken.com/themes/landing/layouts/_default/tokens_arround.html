@@ -2,30 +2,51 @@
     <div class="col-sm-2"></div>
     <div class="col-sm-8">
         {{ .Content }}
-
-        <div class="coda-slider" id="slider-id">
-            <div>
-                <h2 class="title">{{ .Params.piller_1_txt }}</h2>
-                <img src="{{ .Params.piller_1_img }}" alt="{{ .Params.piller_1_txt }}">
-            </div>
-            <div>
-                <h2 class="title">{{ .Params.piller_2_txt }}</h2>
-                <img src="{{ .Params.piller_2_img }}" alt="{{ .Params.piller_2_txt }}">
-            </div>
-            <div>
-                <h2 class="title">{{ .Params.piller_3_txt }}</h2>
-                <img src="{{ .Params.piller_3_img }}" alt="{{ .Params.piller_3_txt }}">
-            </div>
-            <div>
-                <h2 class="title">{{ .Params.piller_4_txt }}</h2>
-                <img src="{{ .Params.piller_4_img }}" alt="{{ .Params.piller_4_txt }}">
-            </div>
-            <div>
-                <h2 class="title">{{ .Params.piller_5_txt }}</h2>
-                <img src="{{ .Params.piller_5_img }}" alt="{{ .Params.piller_5_txt }}">
-            </div>
-        </div>
+        <ul id="portfolio-demo">
+            <li>
+              <a href="#slide1"><img src="{{ .Params.piller_1_img }}" alt="demo1_1"></a>
+            </li>
+            <li>
+              <a href="#slide2"><img src="{{ .Params.piller_2_img }}"  alt="demo1_2"></a>
+            </li>
+            <li>
+              <a href="#slide3"><img src="{{ .Params.piller_3_img }}" alt="demo1_3"></a>
+            </li>
+            <li>
+              <a href="#slide4"><img src="{{ .Params.piller_4_img }}" alt="demo1_4"></a>
+            </li>
+          </ul>
+        
 
     </div>
     <div class="col-sm-2"></div>
 </div>
+<script src="/js/jquery.min.js"></script>
+<script src="/js/slippry.min.js"></script>
+<script>
+    (function(){
+        jQuery('#portfolio-demo').slippry({
+        // general elements & wrapper
+        slippryWrapper: '<div class="sy-box portfolio-slider" />', // wrapper to wrap everything, including pager
+
+        // options
+        adaptiveHeight: false, // height of the sliders adapts to current slide
+        start: 'random', // num (starting from 1), random
+        loop: false, // first -> last & last -> first arrows
+        captionsSrc: 'li',
+        captions: 'below', // Position: overlay, below, custom, false
+        captionsEl: '.external-captions',
+        // pager: false,
+        controls: false,
+
+        // transitions
+        transition: 'fade', // fade, horizontal, kenburns, false
+        easing: 'linear', // easing to use in the animation [(see... [jquery www])]
+        continuous: false,
+
+        // slideshow
+        auto: false
+        });
+
+    })();
+</script>

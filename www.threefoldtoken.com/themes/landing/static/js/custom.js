@@ -70,5 +70,4 @@
         offset: $('#nav').position()
     });
 
-    
 })();

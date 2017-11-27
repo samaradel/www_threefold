@@ -2,8 +2,8 @@
 <script src="/js/jquery-ui.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/jquery.easing.min.js"></script>
-<script src="/js/jquery.coda-slider-3.0.min.js"></script>
 <script src="/js/smooth-scroll.min.js"></script>
+<script src="/js/slippry.min.js"></script>
 <script type="text/javascript" charset="utf-8">
    // Creating custom :external selector
    $.expr[':'].external = function(obj){
@@ -21,24 +21,20 @@
          $(this).attr('target', '_self');
      });
 
-     $('#slider-id').codaSlider({
-        dynamicArrows: false,
-        slideEaseDuration: 1000
-        });
+    // init smooth scroll
+    var scroll = new SmoothScroll('a[href*="#"]');
+    $('a[href^="#"]').on('click', function (e) {
+            e.preventDefault();
 
-        var scroll = new SmoothScroll('a[href*="#"]');
-        $('a[href^="#"]').on('click', function (e) {
-                e.preventDefault();
+            var target = this.hash,
+                $target = $(target);
 
-                var target = this.hash,
-                    $target = $(target);
-
-                $('html, body').stop().animate({
-                    'scrollTop': $target.offset().top - document.getElementById('nav').offsetHeight  //get top-position of target-element and set it as scroll target
-                }, 900, function () {
-                    window.location.hash = target;
-                });
+            $('html, body').stop().animate({
+                'scrollTop': $target.offset().top - document.getElementById('nav').offsetHeight  //get top-position of target-element and set it as scroll target
+            }, 900, function () {
+                window.location.hash = target;
             });
+        });
    
    })
    
