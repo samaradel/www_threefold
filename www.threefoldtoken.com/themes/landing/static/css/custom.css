@@ -932,11 +932,13 @@ dataCenters p {
     background: url('../img/participate.jpg') no-repeat;
     background-position: center;
     background-size: cover; 
-    height: 435px;
+    min-height: 567px;
+    height: 100%;
   }
 
   .BG-cover {
       position: relative;
+      overflow: overlay;
   }
   .BG-cover:before {
       position: absolute;
@@ -952,7 +954,8 @@ dataCenters p {
   .block-participate {
     color: #fff;
     text-align: center;
-    margin: 40px auto;
+    padding: 40px 0;
+    margin: 80px auto;
   }
 
 .participate_header{
@@ -1136,9 +1139,9 @@ dataCenters p {
     .navbar-nav {
         float: none
     }
-    /* .navbar-nav>li {
-        margin: 5px 0
-    } */
+    p {
+        font-size: 100%;
+    }
     .sqs-block-button .sqs-block-button-element--small {
         width: 30%
     }
