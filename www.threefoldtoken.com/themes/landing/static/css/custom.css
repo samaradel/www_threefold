@@ -64,7 +64,6 @@ header,
 }
 .Content-outer {
     min-height: 373px;
-    overflow: hidden;
 }
 .tweak-blog-list-style-grid .BlogList-item {
     float: none
@@ -821,44 +820,43 @@ dataCenters p {
 /* token */
 .main-token{
    background: url('../img/token-left.png') no-repeat;
-    background-color: #f1f1f1;
-    height: 435px;
+   height: 437px;
+   background-color: #efefef
   }
 
   .head-token {
     color: #5f5f5f;
     text-align: center;
-    margin: 50px auto;
+    padding: 65px 0;
   }
 
-.token_header{
+  .main-token h2{
     font-weight: 400;
     letter-spacing: 0.12em;
     line-height: 140%;
-    margin-bottom:40px;
   }
 
 .token_text2{
-    font-size: 23px !important;
+    font-size: 23px;
     font-weight: 700;
   }
 
 .token_para1{
-      font-size: 20px !important;
-      letter-spacing: 0.12em;
-      font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0.12em;
+    font-weight: 700;
   }
 
 .token_para2{
-        font-size: 20px !important;
-        letter-spacing: 0.13em;
+    font-size: 20px;
+    letter-spacing: 0.13em;
   }
 
 .token_para3{
-          font-size: 20px !important;
-          letter-spacing: 0.13em;
-          margin-right: 50px;
-          margin-left: 50px;
+    font-size: 20px;
+    letter-spacing: 0.13em;
+    margin-right: 50px;
+    margin-left: 50px;
   }
 /* token arround*/
 .token-arround {
@@ -1032,6 +1030,9 @@ dataCenters p {
     h1 {
         font-size: 110%;
     }
+    h2 {
+        font-size:120%;
+    }
     p {
         font-size: 100%;
     }
@@ -1045,6 +1046,10 @@ dataCenters p {
     .main-block1, .dataCenters, .main-participate {
         padding: 25px;
         height: 100%;
+    }
+    .main-token {
+        padding: 10px;
+        background-image: none;
     }
 }
 .container::after,
