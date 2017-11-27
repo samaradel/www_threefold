@@ -2,6 +2,9 @@
 * {
     font-family: "'Open Sans'", sans-serif
 }
+html {
+    font-size: 100%;
+}
 body {
     font-weight: 400;
     background-color: #fafafa;
@@ -710,10 +713,9 @@ section {
     z-index: 99999;
   }
 .introTxt {
-    margin: 25px auto;
     color: #3f5a7f;
     text-align: center;
-    margin: 187px auto
+    margin: 214px auto
 }
 .introTxt h1 {
     line-height: 1.5em
@@ -721,7 +723,7 @@ section {
 /* Challenge */
 .main-block1{
     background-color: #3b3b3b;
-    height: 373px;
+    height: 468px;
   }
 .head-block1{
     color: #fff;
@@ -744,7 +746,7 @@ section {
     background: url('../img/datacenter.jpg') no-repeat;
     height: 575px;
     position: relative;
-    vertical-align: middle
+    background-size: cover 
 }
 .dataCenters h1 {
     margin: 30px auto 40px;
@@ -1023,9 +1025,19 @@ dataCenters p {
     width: 100%;
 }
 @media (max-width: 650px) {
+    h1 {
+        font-size: 110%;
+    }
+    .introTxt {
+        margin: 237px auto;
+    }
     .column {
         width: 100%;
         display: block
+    }
+    .main-block1, .dataCenters {
+        padding: 25px;
+        height: 100%;
     }
 }
 .container::after,
@@ -1075,8 +1087,11 @@ dataCenters p {
     .navbar-header {
         min-height: 60px
     }
-    .collapsed {
+    /* .collapsed {
         margin-right: 0
+    } */
+    .navbar-toggle {
+        margin-top: 18px;
     }
     .navbar-toggle .collapsed {
         padding: 15px 20px
@@ -1160,12 +1175,11 @@ dataCenters p {
         left: 14%;
         max-width: 70%!important
     }
-    p {
+    /* p {
         padding-left: 25px;
         padding-right: 33px
-    }
+    } */
     .how-button {
-
       font-size: 10px;
       letter-spacing: 0.12em ;
       padding: 6px 15px;
