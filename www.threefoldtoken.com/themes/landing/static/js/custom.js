@@ -59,11 +59,11 @@
         event.preventDefault();
     });
 
-    for (var i = 0; i < decoded.scope.length; i++) {
-        if (decoded.scope[i].includes("user:memberof:threefold.ito-gs")) {
-            $('.nav>li.hideLink').css("display", "block");
-        }
-    }
+    // for (var i = 0; i < decoded.scope.length; i++) {
+    //     if (decoded.scope[i].includes("user:memberof:threefold.ito-gs")) {
+    //         $('.nav>li.hideLink').css("display", "block");
+    //     }
+    // }
 
     $('#nav-wrapper').height($("#nav").height());
     $('#nav').affix({
