@@ -21,6 +21,7 @@ body {
 h1 {
     font-size: 23px;
     /* letter-spacing: .2em; */
+    
     line-height: 1.2em;
     text-transform: uppercase
 }
@@ -52,7 +53,8 @@ header,
 .navbar-toggle .icon-bar,
 .content-404,
 .logo-container,
-.content-403, .large-button-style-outline .sqs-block-button .sqs-block-button-element--large:hover,
+.content-403,
+.large-button-style-outline .sqs-block-button .sqs-block-button-element--large:hover,
 .sqs-block-button-element--medium:hover {
     background-color: #fff
 }
@@ -78,9 +80,19 @@ header,
     display: inline-block;
     float: none
 }
-header, .BlogList-item-excerpt, .sqs-block-content-home, .content-404, .content-403,
-.our-dream, .transfer-to-ico, #timer div, .app #expired-overlay, .app #error-overlay,
-.text-name, .team-name, .button {
+header,
+.BlogList-item-excerpt,
+.sqs-block-content-home,
+.content-404,
+.content-403,
+.our-dream,
+.transfer-to-ico,
+#timer div,
+.app #expired-overlay,
+.app #error-overlay,
+.text-name,
+.team-name,
+.button {
     text-align: center
 }
 body,
@@ -105,8 +117,14 @@ header .nav {
     letter-spacing: .18em;
     text-transform: uppercase
 }
-.smallScreen, .navbar-brand, .nav>li.hideLink, .app #expired-overlay,
-.app #error-overlay, .app #qr-text .expired, .app #qr-text .error, .hiddenn {
+.smallScreen,
+.navbar-brand,
+.nav>li.hideLink,
+.app #expired-overlay,
+.app #error-overlay,
+.app #qr-text .expired,
+.app #qr-text .error,
+.hiddenn {
     display: none
 }
 a {
@@ -284,6 +302,7 @@ a {
 /* .BlogList-item a {
     text-transform: uppercase
 } */
+
 .affix,
 .affix-top,
 .navbar-fixed,
@@ -327,13 +346,27 @@ a {
 .our-dream p {
     margin-top: 14px
 }
-.transfer-to-ico h1, .sqs-block-content h2, .large-button-shape-rounded .sqs-block-button .sqs-block-button-element--large,
+.transfer-to-ico h1,
+.sqs-block-content h2,
+.large-button-shape-rounded .sqs-block-button .sqs-block-button-element--large,
 .medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium,
 .medium-button-style-outline .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium,
-.new-page-1 .Index-page--has-image, .our-dream, .transfer-to-ico, .new-page-1 p, .sqs-block-button-element--medium,
-#timer div, .rj-team .rj-team-member .rj-team-member-info-text, .rj-team .rj-team-member .rj-team-member-info-text .member-name,
-.button, .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item, .list a:hover, .info a:hover, .Footer-inner,
-.content-403 .guide, .header .introWords h2, .sqs-block-content h1 {
+.new-page-1 .Index-page--has-image,
+.our-dream,
+.transfer-to-ico,
+.new-page-1 p,
+.sqs-block-button-element--medium,
+#timer div,
+.rj-team .rj-team-member .rj-team-member-info-text,
+.rj-team .rj-team-member .rj-team-member-info-text .member-name,
+.button,
+.tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item,
+.list a:hover,
+.info a:hover,
+.Footer-inner,
+.content-403 .guide,
+.header .introWords h2,
+.sqs-block-content h1 {
     color: #fff
 }
 .sqs-block-content h1 a {
@@ -581,7 +614,9 @@ a {
     font-size: 17px;
     border-radius: 10px
 }
-.register a:hover, .register a, .list,
+.register a:hover,
+.register a,
+.list,
 .info {
     color: #fff;
 }
@@ -657,6 +692,7 @@ section {
 }
 #nav > .navbar-inner {
     /* float: left; */
+    
     border-left: 0;
     border-right: 0;
     border-radius: 0;
@@ -702,15 +738,15 @@ section {
 }
 .howWorks-header {
     background: url('../img/centeralized.png') no-repeat;
-    height:575px;
+    height: 575px;
     background-position: center;
     position: relative
 }
-  .howWorks-header nav {
+.howWorks-header nav {
     position: absolute;
     width: 100%;
     z-index: 99999;
-  }
+}
 .introTxt {
     color: #3f5a7f;
     text-align: center;
@@ -720,16 +756,17 @@ section {
     line-height: 1.5em
 }
 /* Challenge */
-.main-block1{
+
+.main-block1 {
     background-color: #3b3b3b;
     height: 468px;
-  }
-.head-block1{
+}
+.head-block1 {
     color: #fff;
     text-align: center;
     padding: 59px 0;
-  }
-.text-block1{
+}
+.text-block1 {
     color: #fff;
     font-size: 16px !important;
     letter-spacing: 0.15em;
@@ -737,8 +774,9 @@ section {
     margin-right: 15px;
     margin-left: 15px;
     margin-top: 30px;
-  }
+}
 /* Datacenters */
+
 .dataCenters {
     padding: 50px 0 40px;
     color: #fff;
@@ -783,6 +821,7 @@ dataCenters p {
     background-color: #436DA3;
 }
 /* solution */
+
 .solution {
     padding: 50px 0;
     color: #747474;
@@ -791,7 +830,8 @@ dataCenters p {
 .solution img {
     width: 136px;
 }
-.sol-content h2, .sol-content h1 {
+.sol-content h2,
+.sol-content h1 {
     margin: 40px auto;
     letter-spacing: 0.16em;
     text-transform: uppercase
@@ -816,183 +856,171 @@ dataCenters p {
 .sol-details img {
     width: 100px;
 }
-
 /* token */
-.main-token{
-   background: url('../img/token-left.png') no-repeat;
-   height: 437px;
-   background-color: #efefef
-  }
 
-  .head-token {
+.main-token {
+    background: url('../img/token-left.png') no-repeat;
+    height: 437px;
+    background-color: #efefef
+}
+.head-token {
     color: #5f5f5f;
     text-align: center;
     padding: 40px 0;
-  }
-
-  .main-token h2{
+}
+.main-token h2 {
     font-weight: 400;
     letter-spacing: 0.12em;
     line-height: 140%;
-  }
-
-.token_text2{
+}
+.token_text2 {
     font-size: 23px;
     font-weight: 700;
-  }
-
-.token_para1{
+}
+.token_para1 {
     font-size: 20px;
     letter-spacing: 0.12em;
     font-weight: 700;
-  }
-
-.token_para2{
+}
+.token_para2 {
     font-size: 20px;
     letter-spacing: 0.13em;
-  }
-
-.token_para3{
+}
+.token_para3 {
     font-size: 20px;
     letter-spacing: 0.13em;
     margin-right: 50px;
     margin-left: 50px;
-  }
+}
 /* token arround*/
+
 .token-arround {
     padding: 60px 0;
     overflow: hidden;
 }
 /*slider*/
-.sy-slide, .sy-slide.sy-active {
+
+.sy-slide,
+.sy-slide.sy-active {
     z-index: 0;
 }
-
 /*pricing*/
-.main-pricing{
+
+.main-pricing {
     background: url('../img/pricing_right.png') no-repeat;
     background-position: right;
     background-color: #f1f1f1;
     height: 406px;
-  }
-
-  .block-pricing {
+}
+.block-pricing {
     color: #5f5f5f;
     text-align: center;
     margin: 70px auto;
-  }
-
-.pricing_header{
-    font-size: 23px !important;
+}
+.pricing_header {
+    font-size: 23px;
     font-weight: 700;
-    margin-bottom:40px;
+    margin-bottom: 40px;
     line-height: 140%;
-  }
-
-.pricing_para2{
-    font-size: 23px !important;
+}
+.pricing_para2 {
+    font-size: 23px;
     letter-spacing: 0.13em;
     line-height: 140%;
-  }
-
+}
 /*participate*/
-.main-participate{
+
+.main-participate {
     background: url('../img/participate.jpg') no-repeat;
     background-position: center;
     background-size: cover;
     min-height: 567px;
     height: 100%;
-  }
-
-  .BG-cover {
-      position: relative;
-      overflow: overlay;
-  }
-  .BG-cover:before {
-      position: absolute;
-      content: "";
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      opacity: .75;
-      background-color: #5783BF;
-  }
-
-  .block-participate {
+}
+.BG-cover {
+    position: relative;
+    overflow: overlay;
+}
+.BG-cover:before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .75;
+    background-color: #5783BF;
+}
+.block-participate {
     color: #fff;
     text-align: center;
     padding: 40px 0;
     margin: 80px auto;
-  }
-
-.participate_header{
+}
+.participate_header {
     font-size: 23px;
     font-weight: 400;
-    margin-bottom:20px;
+    margin-bottom: 20px;
     line-height: 140%;
     text-transform: uppercase;
     letter-spacing: 0.13em;
-  }
-
-.participate_para2{
+}
+.participate_para2 {
     font-size: 17px;
     letter-spacing: 0.10em;
     line-height: 140%;
-  }
-
+}
 /* Join */
-.how_join{
+
+.how_join {
     padding-top: 30px;
-    height:373px;
+    height: 373px;
     background-color: #6eaf70;
     color: #fff;
-  }
-  .how_join h1 {
+}
+.how_join h1 {
     color: #fff;
     font-weight: bold;
-  }
-  .how_join .signup, .how_join .login {
+}
+.how_join .signup,
+.how_join .login {
     background-color: #fff;
-  }
-  .how_join .signup {
+}
+.how_join .signup {
     color: #699ee3;
-  }
-  .how_join .login {
+}
+.how_join .login {
     color: #6eaf70;
-  }
-
+}
 /*green_part ar login*/
 
-  .green_part{
+.green_part {
     background: url('../img/centeralized.png') no-repeat;
     height: 120px;
     text-align: center;
     position: relative;
-    background-position:center;
-  }
-
-  .green_part:before {
-      position: absolute;
-      content: "";
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      opacity: .7;
-      background-color: #6EAF70;
-  }
-
-  .button-position{
+    background-position: center;
+}
+.green_part:before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .7;
+    background-color: #6EAF70;
+}
+.button-position {
     margin: 40px auto;
-  }
-  .how-button{
+}
+.how-button {
     text-transform: uppercase;
     font-family: "Open Sans";
-    letter-spacing: 0.12em ;
+    letter-spacing: 0.12em;
     color: #6EAF70;
     padding: 6px 40px;
-  }
+}
 .team img {
     width: 100%;
 }
@@ -1001,7 +1029,7 @@ dataCenters p {
         font-size: 110%;
     }
     h2 {
-        font-size:120%;
+        font-size: 120%;
     }
     p {
         font-size: 100%;
@@ -1013,7 +1041,9 @@ dataCenters p {
         width: 100%;
         display: block
     }
-    .main-block1, .dataCenters, .main-participate {
+    .main-block1,
+    .dataCenters,
+    .main-participate {
         padding: 25px;
         height: 100%;
     }
@@ -1021,29 +1051,24 @@ dataCenters p {
         padding: 10px;
         background-image: none;
     }
-    .main-pricing{
-
-      background-image: none;
-      height: auto;
-      background-color: #EFEFEF;
-
+    .main-pricing {
+        background-image: none;
+        height: auto;
+        background-color: #EFEFEF;
     }
-    .block-pricing{
-      color: #4d4d4d;
+    .block-pricing {
+        color: #4d4d4d;
     }
-    .container{
-      padding: 0;
+    .container {
+        padding: 0;
     }
-
     .sol-details h1 {
         font-size: 13px;
         margin: 25px auto 40px;
         font-weight: 200 !important;
         width: auto;
     }
-
 }
-
 .container::after,
 .row::after {
     content: "";
@@ -1094,6 +1119,7 @@ dataCenters p {
     /* .collapsed {
         margin-right: 0
     } */
+    
     .navbar-toggle {
         margin-top: 18px;
     }
@@ -1128,7 +1154,6 @@ dataCenters p {
     .navbar-brand {
         display: block
     }
-
 }
 @media (min-width: 768px) {
     .navbar {
@@ -1140,13 +1165,15 @@ dataCenters p {
     p {
         font-size: 100%;
     }
+    h2, .pricing_para2 {
+        font-size: 120%;
+    }
     .sqs-block-button .sqs-block-button-element--small {
         width: 30%
     }
     .Site .header {
         background-size: 13%
     }
-
 }
 @media screen and (max-width: 640px) {
     .sqs-block-button .sqs-block-button-element--large {
@@ -1170,12 +1197,10 @@ dataCenters p {
         font-size: 50%
     }
     .how-button {
-
-      font-size: 10px;
-      letter-spacing: 0.12em ;
-      padding: 6px 15px;
+        font-size: 10px;
+        letter-spacing: 0.12em;
+        padding: 6px 15px;
     }
-
 }
 @media only screen and (max-width: 375px) {
     .sphere {
@@ -1186,9 +1211,10 @@ dataCenters p {
         padding-left: 25px;
         padding-right: 33px
     } */
+    
     .how-button {
-      font-size: 10px;
-      letter-spacing: 0.12em ;
-      padding: 6px 15px;
+        font-size: 10px;
+        letter-spacing: 0.12em;
+        padding: 6px 15px;
     }
 }
