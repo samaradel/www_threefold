@@ -11,7 +11,7 @@ uglyURLs = false
 copyright = "(c) COPYRIGHT GIG TECHNOLOGY N.V"
 paginate = 15
 enableRobotsTXT = true
-ignorefiles = [ "pto/.*" ]
+ignorefiles = [ "pto/.*", "login/.*" ]
 [Params]
   logo = "img/Icons-05 copy.png"
   favicon = "img/favicon.ico"
