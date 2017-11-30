@@ -30,5 +30,5 @@ What do we mean when we say our Token has a specific “utility?”  We mean tha
 
 This utility creates benefits for Token Holders.  Because purchasers of IT capacity are not in the business of investing in digital coins - and they need to use our Tokens to pay for their IT capacity - this results in additional transaction activity, higher  daily trading volumes and better liquidity / exchangeability for Token Holders.
 
-Furthermore, Internet capacity is among the fastest growing commodities in the world - and linking the Token directly to the value of IT Capacity provides further support and stability for the Token.  The exchange rate used for Tokens vs IT capacity is calculated dynamically via an algorithmic pricing model
+Furthermore, Internet capacity is among the fastest growing commodities in the world - and linking the Token directly to the value of IT Capacity provides further support and stability for the Token.
 
