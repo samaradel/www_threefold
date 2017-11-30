@@ -6,7 +6,7 @@ button_name = "READ MORE, YOU MIGHT BE THE EXACT PERSON WE ARE LOOKING FOR"
 button_link = "/community"
 weight = 2
 +++
-# CONTRIBUTE TO THE FOUNDATION BEFORE THE ICO
+# CONTRIBUTE TO THE FOUNDATION BEFORE THE PTO
 
 We are aware our project is very ambitious and can use many hands to make this happen.
 
