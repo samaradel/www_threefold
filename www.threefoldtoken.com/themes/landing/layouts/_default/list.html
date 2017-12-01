@@ -9,6 +9,8 @@
          {{ partial "pto-header.html" . }}
       {{ else if eq .Section "ito" }}
           {{ partial "ito-header.html" . }}
+          {{ else if eq .Section "whitepaper" }}
+              {{ partial "whitepaper-header.html" . }}    
       {{ else if eq .Section "gettingstarted" }}
           {{ partial "gettingstarted-header.html" . }}
        {{else}}
@@ -68,6 +70,14 @@
                       {{ else if eq .Title "contribute" }}
                         <div class="Content-outer">{{ $p.Render "contribute" }}</div>
                         {{end}}
+
+                        {{ else if eq .Section "whitepaper" }}
+                          {{ if eq .Title "whitepaper" }}
+                            <div class="Content-outer">{{ $p.Render "whitepaper" }}</div>
+                          {{ else if eq .Title "contribute" }}
+                            <div class="Content-outer">{{ $p.Render "contribute" }}</div>
+                            {{end}}
+
                     {{ else if eq .Section "gettingstarted" }}
                       {{ if eq .Title "gettingstarted" }}
                         <div class="Content-outer">{{ $p.Render "gettingstarted" }}</div>
@@ -90,7 +100,7 @@
        {{ partial "footer.html" . }}
    </div>
    {{ if eq .Section "how-it-works" }}
-   {{ partial "login/login-js.html" . }}   
+   {{ partial "login/login-js.html" . }}
     {{else}}
    {{ partial "js.html" . }}
    {{end}}
