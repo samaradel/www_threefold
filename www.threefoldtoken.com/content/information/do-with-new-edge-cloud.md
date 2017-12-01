@@ -3,7 +3,7 @@
 #Don't remove name!
 title = "information"
 header = "What can I do with the New Edge Cloud"
-image = "what-can-i-do.jpg"
+image = "../img/what-can-i-do.jpg"
 author = "Weynand Kujipers"
 subtitle = "Some description of use cases of how the ThreeFold Edge Cloud can be used."
 weight = 7

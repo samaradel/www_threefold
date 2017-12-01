@@ -1,0 +1,57 @@
+<div id="dataCenters" class="dataCenters center overlay">
+    <div class="col-sm-12">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-8">
+            <div class="data-content">
+                <h1>datacenters are not the solution</h1>
+                <div class="row">
+                <div class="col-sm-4">
+                    <h1>Cost</h1>
+                    <p class="timer" id="datacen" data-to="1" data-speed="500"></p>
+                    <span>billion <br/>a piece</span>
+                </div>
+                <div class="col-sm-4">
+                    <h1>Electricity</h1>
+                    <p class="timer" id="datacen" data-to="40" data-speed="2000"></p>
+                    <span>Mega <br/> watt</span>            
+                </div>
+                <div class="col-sm-4">
+                    <h1>Need</h1>
+                    <p class="timer" id="datacen" data-to="4000" data-speed="2000"></p>
+                    <span>In Next <br/> 5 Years</span>  
+                </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-2"></div>
+        <div class="col-sm-12">
+            <div class="col-sm-1"></div>
+            <div class="col-sm-10">
+                <div class="dcenter">{{ .Content }}</div>
+            </div>
+            <div class="col-sm-1"></div>
+        </div>
+    </div>
+    </div>
+<script src="/js/jquery.min.js"></script>
+<script src="/js/jquery.countTo.js"></script>
+
+<script>
+    (function(){
+    // custom formatting example
+    $('#datacen').data('countToOptions', {
+        formatter: function (value, options) {
+        return value.toFixed(options.decimals).replace(/\B(?=(?:\d{3})+(?!\d))/g, ',');
+        }
+    });
+
+    // start all the timers
+    $('.timer').each(count);
+
+    function count(options) {
+        var $this = $(this);
+        options = $.extend({}, options || {}, $this.data('countToOptions') || {});
+        $this.countTo(options);
+    }
+    })();
+</script>

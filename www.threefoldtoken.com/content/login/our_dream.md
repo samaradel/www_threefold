@@ -21,4 +21,6 @@ last_text = "We want to empower anyone to become part of the Threefold Foundatio
 token_holder ="First Token Holder"
 token_holder_name = "Kristof De Spiegeleer"
 
+button_how = "click here to find out why & how"
+
 +++

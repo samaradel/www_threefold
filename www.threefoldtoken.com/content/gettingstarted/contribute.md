@@ -2,10 +2,10 @@
 #Don't remove title!
 title = "contribute"
 
-button_name = "CLICK HERE IF YOU WANT TO HELP."
-button_link = "/community"
+button_name = "VIEW WHITEPAPER"
+button_link = "/pdf/ThreeFold-Public-Token-Offerin-Whitepaper-v0.9.4 .pdf"
 weight = 3
 +++
-# OUR PROJECT IS VERY AMBITIOUS
-# WE NEED HELP
-# TO MAKE OUR JOINT DREAM REALITY.
+# WE HAVE UPDATED THE THREEFOLD WHITEPAPER.
+## YOU CAN DOWNLOAD IT THE PDF BY CLICKING THE BUTTON BELOW.
+

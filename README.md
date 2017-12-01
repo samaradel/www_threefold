@@ -59,3 +59,5 @@ ssh -l root 212.23.52.72 -p 3331
 - caddy is in ~/root/caddy
 - running under tmux
 - website is in /opt/code/...
+
+more it info e.g. dns see: https://docs.greenitglobe.com/gig/org_it

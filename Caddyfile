@@ -28,6 +28,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
         403 403/index.html # Forbidden
     }
 
+<<<<<<< HEAD
     proxy /forward/v1/oauth/jwt/refresh https://itsyou.online {
         without /forward
     }
@@ -57,4 +58,38 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
         login_url /oauth
         extra_scopes  user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address
     }
+=======
+#   proxy /forward/v1/oauth/jwt/refresh https://staging.itsyou.online {
+#       without /forward
+#   }
+#   
+#   oauth {
+#       client_id       threefold
+#       client_secret   dxUIMndhdVXKU470S24PvzOchXQn5qHAPGMZSJekRwUtwqluYp8n
+#       auth_url        https://staging.itsyou.online/v1/oauth/authorize
+#       token_url       https://staging.itsyou.online/v1/oauth/access_token
+#       jwt_url         https://staging.itsyou.online/v1/oauth/jwt
+#       redirect_url    http://members.threefold.aydo.com/oauth/callback
+#       organizations   /ito threefold.ito-gs
+#       organizations   /gettingstarted threefold.ito-gs
+#   
+#       authentication_required /
+#       allow_extension css
+#       allow_extension js
+#       allow_extension png
+#       allow_extension svg
+#       allow_extension ico
+#       allow_extension ttf
+#       allow_extension woff2
+#       allow_extension jpg
+#       allow_extension jpeg
+#       allow_extension JPG
+#       allow_extension how-it-works/
+#       refreshable
+#   
+#       login_page /login
+#       login_url /oauth
+#       extra_scopes  user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address
+#   }
+>>>>>>> master
 }

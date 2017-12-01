@@ -3,7 +3,7 @@
 #Don't remove name!
 title = "information"
 header = "10x times power savings, is this possible?"
-image = "10x-times-power.jpg"
+image = "../img/10x-times-power.jpg"
 author = "Andreas Hartl"
 subtitle = "10x times power savings, is this possible?"
 weight = 8

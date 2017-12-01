@@ -3,7 +3,7 @@
 title = "faq"
 
 header = "ThreeFold Technology FAQ"
-image = "tech.jpg"
+image = "../img/tech.jpg"
 author = ""
 subtitle = ""
 weight = 3
