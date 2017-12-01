@@ -1,12 +1,17 @@
 {{ range $element :=  $.Site.Pages }}
   {{ if eq .Section "whitepaper" }}
     {{ if eq .Title "whitepaper header" }}
+    <style>
+      .three-objectives, .three-objectives .affix, .gettingstartedintro, .gettingstartedintro .affix{
+        background-color: #699ee2 !important;
+      }
+    </style>
       <div class="logo-container">
          <a href="/"><img src="/img/threefold.svg" alt="Threefold"></a>
       </div>
-      <section class="three-objectives Index-page Index-page--has-image" style="min-height: calc(50vh - 150px); background-color: #699ee2 !important;">
+      <section class="three-objectives Index-page Index-page--has-image" style="min-height: calc(50vh - 150px);">
          <div class="Index-page-content sqs-alternate-block-style-container">
-            <nav class="navbar Header-nav" role="navigation" id="nav" data-spy="affix" data-offset-top="133">
+            <nav class="navbar Header-nav" role="navigation" id="nav" data-spy="affix" data-offset-top="133" style="background-color: #699ee2 !important;">
               <!-- Brand and toggle get grouped for better mobile display -->
               <div class="navbar-header navbar-inner">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
@@ -23,8 +28,8 @@
                     <!-- <li><a href="/pto" class="Header-nav-item">PTO</a></li> -->
                     <li><a href="/how-it-works" class="Header-nav-item">how it works</a></li>
                     <li><a href="/gettingstarted" class="Header-nav-item">get started</a></li>
-                    <li><a href="/ito" class="Header-nav-item">ITO</a></li>
                     <li><a href="/whitepaper" class="Header-nav-item">Whitepaper</a></li>
+                    <li><a href="/ito" class="Header-nav-item">ITO</a></li>
                     <li><a href="/information" class="Header-nav-item">Information</a></li>
                     <li><a href="/faq" class="Header-nav-item">FAQ</a></li>
                     <li><a href="/community" class="Header-nav-item">Community</a></li>
