@@ -3,7 +3,7 @@
 title = "contribute"
 
 button_name = "READ MORE, YOU MIGHT BE THE EXACT PERSON WE ARE LOOKING FOR"
-button_link = "/community"
+button_link = "/pdf/ThreeFold Public Token Offering Whitepaper v0.9.4.pdf"
 weight = 2
 +++
 # CONTRIBUTE TO THE FOUNDATION BEFORE THE PTO
