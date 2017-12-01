@@ -2,10 +2,8 @@
 #Don't remove title!
 title = "contribute"
 
-button_name = "CLICK HERE IF YOU WANT TO HELP."
-button_link = "/community"
+button_name = "VIEW WHITEPAPER"
+button_link = "gw.threefoldtoken.com/whitepaper.pdf"
 weight = 3
 +++
-# OUR PROJECT IS VERY AMBITIOUS
-# WE NEED HELP
-# TO MAKE OUR JOINT DREAM REALITY.
+# VIEW OUR UPDATED WHITEPAPER
