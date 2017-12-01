@@ -2,6 +2,10 @@
   {{ partial "login/login_head.html" . }}
   {{ partial "body.html" . }}
   {{ partial "how-it-works_header.html" . }}
+  {{ else if eq .Section "information"}}
+    {{ partial "head.html" . }}
+    {{ partial "body.html" . }}
+    {{ partial "information-header.html" . }}
 {{else}}
 {{ partial "head.html" . }}
    {{ partial "body.html" . }}
