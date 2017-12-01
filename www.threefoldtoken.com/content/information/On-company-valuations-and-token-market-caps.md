@@ -38,7 +38,7 @@ Let's now consider what it would mean for token valuation and the value of the f
 
 #### Token issuance
 
-How do we do this? There will be at most 100 million tokens printed. The first 10 million tokens are assigned to the ThreeFold Foundation. We will sell up to 25 million tokens during the Public Token Offering, at 10 to 12 USD, depending on the bonus schedule. The remaining (vast majority) 65 million of tokens will get released through the Operator Incentive Program.
+How do we do this? There will be at most 100 million tokens printed. The first 10 million tokens are assigned to the ThreeFold Foundation. We will sell up to 20 million tokens during the Public Token Offering, at 10 to 12 USD, depending on the bonus schedule. The remaining (vast majority) 70 million of tokens will get released through the Operator Incentive Program.
 
 The Operator Incentive Program states that any operator buying hardware from the ThreeFold Foundation (or its hardware partner) will receive an amount of tokens corresponding to the dollar value of the purchased hardware one year later. To be more precise, the ThreeFold Foundation will communicate a current token price on the website, and reward hardware purchases with the corresponding number of tokens in a smart contract with a one year lockup period.
 > For example, let's say an operator purchases 60K worth of hardware while the current token price as communicated by the ThreeFold Foundation is 15 USD. This means that the operator will receive 60K/15 = 4000 ThreeFold Tokens in a smart contract with a lock-up period of one year. Provided that the operator keeps his hardware running, those 4000 tokens will be released after that year.
