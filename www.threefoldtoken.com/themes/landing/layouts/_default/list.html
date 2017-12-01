@@ -2,7 +2,7 @@
   {{ partial "login/login_head.html" . }}
   {{ partial "body.html" . }}
   {{ partial "how-it-works_header.html" . }}
-  {{ else if or (eq .Section "information") (eq .Section "faq") }}
+  {{ else if or (eq .Section "information") (eq .Section "faq") (eq .Section "team") }}
     {{ partial "head.html" . }}
     {{ partial "body.html" . }}
     {{ partial "information-header.html" . }}
