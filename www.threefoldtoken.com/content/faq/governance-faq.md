@@ -1,14 +1,14 @@
 +++
-#Don't remove title!
+# Don't remove name!
+title = "information"
 
-title = "governance"
 header = "HOW IS THE FOUNDATION GOVERNED?"
+image = "../img/governance.jpg"
+author = ""
 subtitle = ""
+weight = 1
 
 +++
-
-![governance](/img/governance.jpg)
-
 
 ## The Foundation’s Governance Objectives
 
