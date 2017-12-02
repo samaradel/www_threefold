@@ -15,7 +15,7 @@ weight = 2
 
 ### Why do we need a new, neutral “Edge” Internet Grid
 
-The Internet has a USD Trillion problem. Today demand for Internet capacity is far outstripping the available infrastructure due to new applications like Big Data, Internet of Things (IoT) and Artificial Intelligence.
+The Internet has a USD Trillion problem. Today demand for Internet capacity is far outstripping the available infrastructure due to new applications like Big Data, Internet of Things (IoT) and Self Healing Technology.
 
 The existing hyperscale cloud infrastructure cannot cope with this outsize demand as the requirements for land, power and funding are just too great. We (and most other experts) believe the solution to these $trillion problems is migration of Internet IT capacity to the Edge - ie a “hyper-distributed” network infrastructure.
 

@@ -16,11 +16,11 @@ Our open-source tech addresses the scalability, security, storage, energy and op
 
 ### What is our Technology Toolbox?
 
-Our technology is based on three primary building blocks:  Stateless Computing, Artificial Intelligence and Blockchain technology - this is the core of our “Technology Toolbox".
+Our technology is based on three primary building blocks:  Stateless Computing, Self Healing Technology and Blockchain technology - this is the core of our “Technology Toolbox".
 
 - Stateless Computing: a stateless operating system, Zero-OS, enabling distributed hardware to form an Edge Internet grid generating IT storage and compute capacity
 
-- Artificial Intelligence controls and operates a distributed cloud and reserves, procures and executes workloads on the grid using our Jumpscale platform. It delivers autoscaling and automation frameworks that enable self-healing and can be adapted for any kind of IT workload.
+- Self Healing Technology controls and operates a distributed cloud and reserves, procures and executes workloads on the grid using our Jumpscale platform. It delivers autoscaling and automation frameworks that enable self-healing and can be adapted for any kind of IT workload.
 
 - Blockchain Technology, via Rivine.io,  our secure, scalable “proof of stake” blockchain, along with our identity management platform, ItsYou.online. Our blockchain technology enables user authentication, access controls, secure workloads and heightened security.
 
@@ -41,13 +41,13 @@ We have developed the open-source components, Zero-OS,for the deployment of bare
 - Secure: open-source distributed software with transparent code. No security backdoors
 - Green: energy-efficient OS resulting in very low node power consumption.
 
-## Artificial Intelligence: Self healing and self driving
+## Self Healing Technology: Self healing and self driving
 
 GIG has developed Jumpscale and At Your Service (AYS) which allows the creation of blueprints to auto-deploy applications within the compute environment.
 
 Our robots are constantly checking the health and uptime of the infrastructure and runtime environments, guaranteeing performance & availability of applications.
 
-### The benefits of our Artificial Intelligence protocols include the following:
+### The benefits of our Self Healing Technology protocols include the following:
 
 - Self Healing: the platform regenerates when health issues are detected that cause downtime for infrastructure and applications
 - Intelligence: agents capture information from the grid and make intelligent decisions to provide an ideal and optimal host environment for software code and containerized applications

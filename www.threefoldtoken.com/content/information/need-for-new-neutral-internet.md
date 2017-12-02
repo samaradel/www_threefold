@@ -31,7 +31,7 @@ Solutions which can lower the cost with a factor of 10 are required.
 
 Today cloud computing is a $100+ billion industry - mostly owned by approximately 20 global cooperations. Experts such as Bell Labs and Cisco believe the capacity requirement in the next decade will dramatically outstrip existing infrastructure - requiring an additional 400m servers - or approximately 4000 hyperscale datacenters - at a cost of c $250 mio to $1 bn each.
 
-The spectacular growth and advances of cloud computing that occurred over the last decade resulted in large part from “hyper-scale” efficiencies - ie centralising Internet infrastructure in very large $ billion data centers.  Today demand for Internet capacity is far outstripping the available infrastructure due to new applications like Big Data, Internet of Things (IoT) and Artificial Intelligence.  The existing hyperscale cloud architecture cannot cope with this outsize demand as the requirements for land, power and funding are just too great.  
+The spectacular growth and advances of cloud computing that occurred over the last decade resulted in large part from “hyper-scale” efficiencies - ie centralising Internet infrastructure in very large $ billion data centers.  Today demand for Internet capacity is far outstripping the available infrastructure due to new applications like Big Data, Internet of Things (IoT) and Self Healing Technology.  The existing hyperscale cloud architecture cannot cope with this outsize demand as the requirements for land, power and funding are just too great.  
 
 The challenges facing the Internet include the following::
 
