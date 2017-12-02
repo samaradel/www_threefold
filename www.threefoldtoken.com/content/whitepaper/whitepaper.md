@@ -15,4 +15,4 @@ body copy
 
 - [frequently asked questions](/faq)
 - [pto info](/pto)
-- [White Paper](http://tiny.cc/tf_whitepaper_pto)
+- [White Paper](../pdf/ThreeFold-Public-Token-Offerin-Whitepaper-v0.9.5.pdf)
