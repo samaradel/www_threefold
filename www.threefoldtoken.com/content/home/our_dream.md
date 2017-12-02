@@ -7,7 +7,7 @@ subtitle_2 = "We want to help at the positive side and help the world to become 
 subtitle_3 = "The Foundation has 3 focal points"
 
 title_1 = "Green & Power Efficient Internet"
-text_1 = "by changing the way how the internet is expanding and by building a more efficient grid, we save tremendous amounts of energy up to 10x times."
+text_1 = "by changing the way how the internet is expanding and by building a more efficient IT infrastructure, we save tremendous amounts of energy (upto 10 times)."
 
 title_2 = "Education & Equal Chances"
 text_2 = "by providing internet capacity all over the world close to the users, we improve performance and allow anyone to get access to the required resources for their business or education at affordable prices"

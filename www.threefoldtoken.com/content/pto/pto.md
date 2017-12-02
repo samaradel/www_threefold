@@ -7,11 +7,11 @@ weight = 1
 +++
 
 # SUMMARY TOKEN SALE TERMS
-The Tokens purchased in this private token offering will provide the purchasers with access to our Grid and Directory service, and will also allow purchasers of the Tokens to participate in our mission of building a new neutral internet.
+The Tokens purchased in this Public Token offering will provide the purchasers with access to our Grid and Directory service, and will also allow purchasers of the Tokens to participate in our mission of building a new neutral internet.
 
-## Private Token Offering (PTO)
+## Public Token Offering (PTO)
 
-We are organizing our Private Token Offering (PTO) to raise additional capital to deploy more infrastructure and capacity on our Grid.  The Foundation is issuing ThreeFold Tokens to a limited number of identified individuals and legal entities via our Token Issuance Mechanism (explained below).
+We are organizing our Public Token Offering (PTO) to raise additional capital to deploy more infrastructure and capacity on our Grid.  The Foundation is issuing ThreeFold Tokens to a limited number of identified individuals and legal entities via our Token Issuance Mechanism (explained below).
 
 ## ThreeFold Token
 
@@ -38,7 +38,7 @@ Today there are 10,000,000 Tokens created, in keeping with the internet capacity
 
 We will use the majority of the PTO proceeds to invest in infrastructure and capacity on our Grid.  Given the attractive economics of our infrastructure, the value of our Grid and our Foundation potentially  increases based on the amount of investment we deploy.  Accordingly, our Token price will could be expected to increase based on the amount of funding we raise.  
 
-We are organizing our Private Token Offering (PTO) to raise additional capital to deploy more capacity on our Grid. We plan to issue a variable number of tokens, but only at ever increasing prices. Formally, there is no target amount.
+We are organizing our Public Token Offering (PTO) to raise additional capital to deploy more capacity on our Grid. We plan to issue a variable number of tokens, but only at ever increasing prices. Formally, there is no target amount.
 
 ## Price per Unit
 

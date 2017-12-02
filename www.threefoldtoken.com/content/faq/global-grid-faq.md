@@ -21,7 +21,7 @@ The existing hyperscale cloud infrastructure cannot cope with this outsize deman
 
 For more on this see [“Why do we need a new Internet” blog post](/information/need-for-new-neutral-internet/).
 
-### What is our Grid?
+### What is our TF Grid?
 
 Our Grid is the network of all the distributed infrastructure and capacity that is available for sale via our Directory (for Tokens).
 
@@ -48,7 +48,7 @@ Our Directory service is a global directory service running on top of our blockc
 
 ### When will I be able to use the Grid and Directory Service?
 
-Our Grid is already up and running. At the time of our Private Token Offering more than 200 TF Miners are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via our Directory service. All purchases are made with Tokens through an API.
+Our Grid is already up and running. At the time of our Public Token Offering more than 200 TF Miners are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via our Directory service. All purchases are made with Tokens through an API.
 
 ### What is the value of our Directory for TF Operator Miners?
 

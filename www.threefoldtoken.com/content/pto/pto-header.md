@@ -2,7 +2,7 @@
 # Don't remove title!
 title = "pto header"
 
-header = "PRIVATE TOKEN OFFER"
+header = "Public Token OFFER"
 subtitle_1 = "Create a safe digital currency with real utility,"
 subtitle_2 = "Building a new, neutral, “Edge” Internet"
 button_name = "White Paper"

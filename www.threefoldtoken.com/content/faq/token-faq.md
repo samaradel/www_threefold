@@ -14,10 +14,10 @@ weight = 4
 
 ## Why should I buy Tokens?
 
-The reasons for people to buy Tokens in the private token offering include the following:
+The reasons for people to buy Tokens in the Public Token offering include the following:
 
 * Good cause: purchasers are helping us build a new neutral edge Internet
-* Potential upside: ThreeFold sits at the intersection of three of today’s most important technologies - Blockchain, Cloud Computing and Artificial Intelligence, and we believe that as our global Grid expands and the capacity available for sale grows, the demand for our Tokens will increas
+* Potential upside: ThreeFold sits at the intersection of three of today’s most important technologies - Blockchain, Cloud Computing and Artificial Intelligence, and we believe that as our global Grid expands and the capacity available for sale grows, the demand for our Tokens will increase.
 * Downside Protection and reduced volatility (ie Token price less likely to decrease substantially):  Our Tokens are given utility by the grid deployed by the Foundation.  Our Technology and Grid are already up and running and we believe our Foundation and its assets represent significant value, including sufficient liquidity
 * High quality team with extensive technology and financial experience
 * Existing technology that is very well positioned for Edge networking and outperforms  leading technologies in many categories
@@ -58,14 +58,14 @@ We designed our Token to be different from other Tokens in several respects incl
 When we talk about “utility”, we mean that our Token has a designated “use” as the exclusive payment currency for buying and selling Internet capacity via our Directory on our Grid.  
 This utility is important because it generates additional demand, diversification, volumes and liquidity for Token Holders.  This is an important differentiator for our Token - as digital currencies today generally have limited utility.
 
-# PTO = Private Token Offering
+# PTO = Public Token Offering
 
 [Read more about our PTO here](/pto).
 
 
 ## Why do we use the term PTO (unlike ICO)
 
-We refer to our token sale as a private token offering (PTO) instead of an initial coin offering (ICO).
+We refer to our token sale as a Public Token offering (PTO) instead of an initial coin offering (ICO).
 
 We believe our token offering is different from some of the other ICOs.  We are already up and running - our technology is fully developed (>10 years) and our Grid is already operational prior to the PTO.
 
@@ -77,25 +77,19 @@ One needs only sign up with our [ItsYou.Online](http://itsyou.online) identity m
 
 As payment, we currently accept BTC, USD, GBP and EUR.
 
-## How many tokens already exists?
+## What is the token issuing mechanism?
 
-Today there are 10,000,000 Tokens created and rooted in the value of our Foundation and internet capacity which is committed to be deployed by our operators and TF Miners over more than 200 locations.
+There will be no more than 100,000,000 TF tokens in existence (Max Supply). No additional TF tokens will ever be generated. Tokens will be tradable on public digital currency exchanges subject to applicable regulations by citizenship and/or country of residence. On these exchanges token holders would be free to buy, sell and trade tokens at market prices. 
 
-See bottom of our home page where you can see where existing capacity has been deployed.
+10% of TF tokens are reserved by the TFF for its founders, partners, ambassadors and promoters. A maximum of 1/48 of these tokens are issued per month (vesting scheme of 48 months). 
 
-## What is the Token Issuance Mechanism?
+Not more than 20,000,000 TF tokens will be sold during the Public Token Offering, which constitutes max 20% of total token supply. 
 
-During the initial investment phase for our Grid through December 2019, we want to protect value for our Token Holders.  To do this we have created our Token Issuance Mechanism (the Mechanism) which sets the prescribed Token price at which each tranche of Tokens shall be issued as follows:
+All remaining TF tokens, or no less than 70,000,000 are mined by our Miners.
 
-US$ 10.00 per Token for the first 1 million tokens, initially increasing by US$ 2 for every 1 million sold.
+Miners purchase Zero-Nodes/Clusters from ThreeFold Producers. Once the capacity has been validated by our TF Blockchain the TF Miner will receive TF tokens valued at 100% of the price paid for the Zero-Nodes/Clusters. These are new tokens that are created, up and until the 100,000,000 total TF token Max Supply limit is reached. This is the only way TF tokens are created after the Public Token Offering (see the section on Finance and Token Economy).
 
-After 6 million tokens have sold in this way, implying all tokens priced up to US$ 20.00 per token have been sold, we slightly change the increase per 1 million tokens sold. The price increase per 1 million tokens then becomes equal to 10% of the price of the previous batch (rounded down to US$ 0.10). In other words, after the US$ 20.00 batch, the next batch is priced at US$ 22.00, the one after that at US$ 24.20, the next will be at US$ 26.60, and so on.
-
-After December 2019, at the discretion of both governing boards, the above system of continuous issuance at ever increasing prices can remain in place as is, or it can be adjusted and, possibly, stopped.
-
-## Can the Token Issuance Mechanism be stopped? What is the process?
-
-The Token Issuance Mechanism can be stopped if a vote of 60% of both the Director and Ambassador Board elects to stop it
+Incentive TF tokens created for Miners are locked up for the first 12 months. After this period the tokens begin to vest on a monthly basis from month 13 to 24, i.e. released 1/12 each month. 
 
 
 ## How will we create liquidity for Token Holders who wish to sell their Tokens?
@@ -121,7 +115,7 @@ The Tokens will be tradable on the Foundation’s private exchange.
 
 ## When will the PTO be held.
 
-The Private Token Offering will be done Q4 2017.
+The Public Token Offering will be done Q4 2017.
 
 ## More details about the PTO
 

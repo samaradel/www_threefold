@@ -2,7 +2,7 @@
 #Don't remove title!
 title = "ito header"
 header = "INTERNAL TOKEN OFFERING (ITO)"
-subtitle_1 = "Before its Private Token Offering (PTO), the Threefold Foundation is launching an Internal Token Offering (ITO)"
+subtitle_1 = "Before its Public Token Offering (PTO), the Threefold Foundation is launching an Internal Token Offering (ITO)"
 subtitle_2 = "for friends, family and ambassadors."
 subtitle_3 = "The ITO will raise up to USD 5 million."
 

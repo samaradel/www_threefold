@@ -2,27 +2,27 @@
 
 #Don't remove name!
 title = "information"
-header = "On company valuations and token market caps"
+header = "Our Token Is A Real Utility"
 image = "../img/balance.jpg"
 author = "Andreas Hartl"
 subtitle = "More about our issuance model"
-weight = 1
+weight = 10
 
 +++
 
-On company valuations and token market caps
+Our Token Is A Real Utility
 ---
-> We wanted to make a digital currency that is rooted in true value, both physically and ethically. We think we managed to do that.
+> We want to make a digital currency that is rooted in true value, both physically and ethically. We think we managed to do that.
 >
-> We did so by linking our ThreeFold Token to an internet capacity providing global grid, run by a foundation that has an implied valuation of more than the total market cap of all ThreeFold Tokens in existence. The technology keeping this grid up and running will be open source, increasing transparency and neutrality. It will also be very power efficient, resulting in cost effective internet capacity.
+> We did so by linking our ThreeFold Token to an internet capacity providing global grid, run by a foundation that has an implied valuation of more than the total market cap of all ThreeFold Tokens in existence. The technology keeping this grid up and running is open source, increasing transparency and neutrality. Our technology is also very power efficient, resulting in cost effective internet IT capacity.
 >
-> The token sale will start a virtuous cycle: The proceeds kickstart the deployment of our ThreeFold Grid, third parties joining the Grid unlock new tokens in the system, and the tokens serve as the sole means of payment to pay for capacity on our Grid.
+> The token sale will start a virtuous cycle: The proceeds kickstart the deployment of our ThreeFold Grid, Tf Miners joining the Grid unlock new tokens in the system, and the tokens serve as the sole means of payment to pay for capacity on our Grid.
 
 ### The ThreeFold Token and ThreeFold Foundation
 
 We imagined ThreeFold Token with a seemingly simple goal in mind: To make a widely accepted cryptocurrency that is rooted in assets which have room for growth. We believe we managed to do this - we peg the token value in fiat to the biggest commodity on the planet: the internet. Let's explain how.
 
-The Threefold Foundation will deploy internet server technology that is up to ten times more power-efficient than current technology. This implies we are able to run efficiently on a wide range of hardware, while offering capacity living up to current expectations at attractive pricepoints. This capacity can be sold to IT companies and other users profitably.
+The TF Miners using TF Nodes will deploy internet IT Capacity that is up to ten times more efficient than current technology, while offering capacity living up to current expectations at attractive pricepoints. This capacity can be sold to IT companies and other users profitably.
 
 Selling capacity on our Grid happens via our machine to machine Directory service. Purchases of computing capacity via our Directory service can only be transacted using our Tokens, providing guaranteed and seamless transactions without concerns about currency fluctuations or other factors.
 
@@ -38,12 +38,19 @@ Let's now consider what it would mean for token valuation and the value of the f
 
 #### Token issuance
 
-How do we do this? There will be at most 100 million tokens printed. The first 10 million tokens are assigned to the ThreeFold Foundation. We will sell up to 20 million tokens during the Public Token Offering, at 10 to 12 USD, depending on the bonus schedule. The remaining (vast majority) 70 million of tokens will get released through the Operator Incentive Program.
+How do we do this? 
 
-The Operator Incentive Program states that any operator buying hardware from the ThreeFold Foundation (or its hardware partner) will receive an amount of tokens corresponding to the dollar value of the purchased hardware one year later. To be more precise, the ThreeFold Foundation will communicate a current token price on the website, and reward hardware purchases with the corresponding number of tokens in a smart contract with a one year lockup period.
-> For example, let's say an operator purchases 60K worth of hardware while the current token price as communicated by the ThreeFold Foundation is 15 USD. This means that the operator will receive 60K/15 = 4000 ThreeFold Tokens in a smart contract with a lock-up period of one year. Provided that the operator keeps his hardware running, those 4000 tokens will be released after that year.
+There will be at most 100 million tokens printed. 
 
-This means that the operators will receive a bonus on top of any capacity that they sell. By tying the release of the vast majority to actual growth of the ThreeFold Grid, it is our belief that this will result in the ThreeFold Token being rooted in value, by having the number of tokens out there correlate with the size of third party investments in the ThreeFold Grid.
+The first 10 million tokens are assigned to the ThreeFold Foundation and will be used to reward our founders and friends. Everyone receiving these tokens will have a vesting period of 48 months, which means he/she only gets 1/48 of the tokens per month.
+
+We will sell up to 20 million tokens during the Public Token Offering, at 10 to 15 USD, depending on the bonus schedule. 
+
+The remaining 70 million of tokens are minted by our blokchain when TF Miners connect capacity to the network (the mining) for the same value as the investment. The TF Miner need to buy a TF Node from a TF Producers (see definitions for more info about all these terms).
+
+> For example, let's say an operator purchases 60K worth of hardware while the current token price as communicated by the ThreeFold Foundation is 15 USD. This means that the operator will receive 60K/15 = 4000 ThreeFold Tokens in a smart contract with a lock-up period of one year and additional vesting period of 12 months. Provided that the TF Miner keeps his hardware running, those 4000 tokens will be released over a year starting after the first year.
+
+By tying the release of the vast majority to actual growth of the ThreeFold Grid, it is our belief that this will result in the ThreeFold Token being rooted in value, by having the number of tokens out there correlate with the size of third party investments in the ThreeFold Grid.
 
 #### The ThreeFold Foundation
 
