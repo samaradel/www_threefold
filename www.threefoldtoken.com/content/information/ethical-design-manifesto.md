@@ -32,6 +32,9 @@ weight = 1
 - Products should look good, it will give us a better feeling
 - TRANSPARENT: sales, pricing, processes, …
 
+
+![EthicalDesign](https://docs.greenitglobe.com/teal.university/whatis/raw/master/images/ethical_design.png)
+
 Design your organisations so that your core values are respect for human rights, respect for human effort, and respect for human experience.
 
 credits
