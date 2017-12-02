@@ -28,4 +28,4 @@ weight = 4
 
 # Break the datacenters apart into nodes
 
-A node is a small scale replacement for a datacenter. Each node serves the immediate area where it is located, but they connect to each other. Together they provide all the internet capacity required, exactly where it is needed.
+A ThreeFold Node is a small scale replacement for a datacenter. Each node serves the immediate area where it is located, but they connect to each other. Together they provide all the internet capacity required, exactly where it is needed.
