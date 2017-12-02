@@ -5,7 +5,7 @@ header = "Technology for a New Internet"
 image = "../img/technology-for-internet.jpg"
 author = "Andreas Hartl"
 subtitle = "Our technology breaks with the traditional IT model. The Edge internet needs a different approach."
-weight = 5
+weight = 1
 
 +++
 

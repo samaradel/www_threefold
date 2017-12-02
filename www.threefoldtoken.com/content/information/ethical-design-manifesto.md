@@ -5,7 +5,7 @@ header = "Ethical design manifesto"
 image = "../img/ethical-product-design.jpg"
 author = "Kristof De Spiegeleer"
 subtitle = "How to create products in an ethical, human friendly way."
-weight = 1
+weight = 5
 
 +++
 

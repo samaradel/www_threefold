@@ -11,7 +11,6 @@ weight = 4
 +++
 
 # Why THREEFOLD Token
-
 ## Why should I buy Tokens?
 
 The reasons for people to buy Tokens in the Public Token offering include the following:
@@ -97,38 +96,23 @@ Miners purchase Zero-Nodes/Clusters from ThreeFold Producers. Once the capacity 
 Incentive TF tokens created for Miners are locked up for the first 12 months. After this period the tokens begin to vest on a monthly basis from month 13 to 24, i.e. released 1/12 each month. 
 
 
-## How will we create liquidity for Token Holders who wish to sell their Tokens?
+## How will we maximize chance on liquidity for Token Holders who wish to sell their Tokens?
 
-We want Token Holders to be able to sell their Tokens, and at the same time allow the Foundation to sell new Tokens, if demand is great enough. To this end, we are installing a queue system on token sales, guaranteeing that Token Holders always receive priority over Foundation sales at each prescribed Token price point ($10, $12...$22, $24.20, ...).
+Our Token is an ERC20 compatible token and you will be able to exchange the token on most exchanges.
 
-There will be two separate sell queues, the Token Holder sell queue and the Foundation sell queue. The Token Holder sell queue will receive strict and absolute priority over the Foundation sell queue, meaning the Foundation will only ever sell a token if no Token Holder is offering Tokens for sale at that price.
+Because the Token is used for selling & buying capacity on the threefold network, we create additional liquidity.
 
-The Token Holder queue will allow Token Holders to list as many tokens as they want, but will take measures to prevent one large seller from preventing other sellers from entering the queue in any meaningful way. 
+## Can Token holders just send Tokens to other users of the ThreeFold app? 
 
-Only when the Foundation has sold all the newly printed Tokens at a given price point, does the price go up.
-
-The intention of the Foundation is that this system should enable sufficient liquidity for Token Holders who wish to sell Tokens during periods when the Foundation is issuing new Tokens.
-
-The white paper will contain more detailed information.
-
-## Can Token holders just send Tokens to other users of the app? 
 Yes.
 
 ## On what exchange will the Tokens be listed?
 
-The Tokens will be tradable on the Foundation’s private exchange.
+The Tokens will be tradable on multiple Exchanges (anyone supporting ERC20 tokens)
 
 ## When will the PTO be held.
 
-The Public Token Offering will be done Q4 2017.
-
-## More details about the PTO
-
-[Read more about our PTO here](/pto).
-
-## What will be my ROI if I buy token? What is your projection for the Token price?
-
-During the PTO, we only sell tokens at ever increasing prices in batches of 1 million tokens. We make no other predictions or guarantees. However, thanks to the utility of our Tokens as designated payment currency for Internet capacity sold on our Grid, we believe our Tokens will be supported by additional demand, volume and diversification.
+The Public Token Offering will be between March 1 and end of April.
 
 ##  Can I buy Tokens with bank transfer?
 
@@ -137,23 +121,14 @@ We also allow BTC payments at first, adding ETH at a later date.
 
 ## Can I buy Tokens if I am in US or I am a US citizen?
 
-No.
+Yes at PTO timing.
 
 
 ## Can I buy Tokens if I am in China or I am a Chinese citizen?
 
-No.
+Not defined yet. Rules seem to be unclear at this point.
 
 # Guarantees & Safety
-
-## How does TF control the issuing of further tokens?
-
-As per the Token Issuance Mechanism, the Foundation sells tokens at increasing prices up to December 2019.
-
-
-## Can I reclaim assets owned by ThreeFold foundation?
-
-No. Token Holders should not expect to profit from reclaiming assets or cash from the Foundation. Profits for Token Holders should come from selling the Tokens at a price that is higher than the price at which the Token was purchased.
 
 ## KYC and AML Procedures
 
@@ -169,13 +144,13 @@ See our [FOUNDATION FAQ](/faq/foundation-faq).
 
 ## How are the proceeds of the Tokens Used?
 
-The Foundation will use the net proceeds of the PTO for working capital and to deploy additional Internet capacity on our global Grid.  Part of the proceeds of the PTO will be held as cash on balance sheet to support Token liquidity.
+The Foundation uses the proceeds to co-invest in Mining projects or good cause projects which are approved by the Ambassador board. Any returns generate from these investments gets re-invested.
 
 # Technical
 
 ## Which blockchain is used? What is the issuing format for the ThreeFold Token?
 
-At the PTO, our Tokens will be issued on Ethereum blockchain as ERC20 compliant Tokens.  Over time we intend to migrate our Tokens to our own blockchain called Rivine.io.
+Our Tokens will be issued on Ethereum blockchain as ERC20 compliant Tokens.  
 
 ## Where can I find the smart contract code?
 

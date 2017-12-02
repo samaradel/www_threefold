@@ -6,7 +6,7 @@ header = "AirBnB for Internet Capacity"
 image = "../img/uber-for-internet-capacity.jpg"
 author = "Nicolay Babenko"
 subtitle = "Everyone should be able to deliver capacity to the new neutral internet. "
-weight = 10
+weight = 4
 
 +++
 
@@ -39,7 +39,7 @@ With our Zero OS technology, you can jump into the market even if you have a cou
 
 The process to become a TF TF Miner is very straightforward.  Anyone - whether individual, professional or corporate - can join the TF Grid by buying a Zero Node and downloading the Zero-OS open source software. You can even do it with your existing spare hardware.
 
-Now you can operate your micro datacenter and earn money on it
+Now you can operate your micro datacenter and earn money on it, we call this process TF Mining.
 
 Our Zero-Nodes are designed to be “plug and play” with full self driving capability - meaning TF TF Miners do not need to have IT experience.
 
