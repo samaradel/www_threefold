@@ -11,7 +11,6 @@ weight = 10
 
 +++
 
-![governance](/img/ambassador.jpg)
 # Ambassador
 
 ## What  does it mean to be a Threefold Ambassador?
@@ -38,7 +37,7 @@ If you are able to work more closely with us strategically, or as a media commen
 
 ## What is the function of the Ambassador Board?
 
-The Ambassador Board is a crucial part of our neutral Foundation structure, documented in - [governance](/governance).
+The Ambassador Board is a crucial part of our neutral Foundation structure, documented in - [governance](/faq/governance-faq).
 
 ## Can I take a more active role?
 

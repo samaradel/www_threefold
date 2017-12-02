@@ -76,7 +76,7 @@ The Tokens will be tradable on the Foundation’s private exchange.
 The Foundation will be structured as a Dutch Stichting based in the Dutch Antilles.
 Our legal & financial structure has been setup by "Orrick, Herrington & Sutcliffe" which is one of the leading law firms in the world.
 
-The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There are 2 levels of boards to ensure transparency for Token Holders. For detailled information see: [Our Foundation's Governance ](/governance)
+The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There are 2 levels of boards to ensure transparency for Token Holders. For detailled information see: [Our Foundation's Governance ](/faq/governance-faq)
 
 The Foundation has a management team appointed by the Board. The management team oversees daily operations and is highly experienced across technology, growth businesses and Finance. Members of our team have successfully built and exited numerous technology start-ups and several have extensive C-Level experience in high profile companies.
 
@@ -102,6 +102,6 @@ We currently plan to reserve 5% of the proceeds from the sale of Tokens to cover
 ## More Info
 
 - [White Paper](../pdf/ThreeFold-Public-Token-Offerin-Whitepaper-v0.9.5.pdf)
-- [Foundation Governance](/governance)
+- [Foundation Governance](/faq/governance-faq)
 - [Foundation FAQ](/faq/foundation-faq/)
 - [Token FAQ](/faq/token-faq/)
