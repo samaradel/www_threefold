@@ -1,16 +1,28 @@
+{{ if eq .Section "how-it-works" }}
+  {{ partial "login/login_head.html" . }}
+  {{ partial "body.html" . }}
+  {{ partial "how-it-works_header.html" . }}
+  {{ else if or (eq .Section "information") (eq .Section "faq") (eq .Section "team") }}
+    {{ partial "head.html" . }}
+    {{ partial "body.html" . }}
+    {{ partial "information-header.html" . }}
+{{else}}
 {{ partial "head.html" . }}
-   {{ partial "parallax.html" . }}
+   {{ partial "body.html" . }}
      {{ if eq .Section "pto" }}
          {{ partial "pto-header.html" . }}
       {{ else if eq .Section "ito" }}
           {{ partial "ito-header.html" . }}
+          {{ else if eq .Section "whitepaper" }}
+              {{ partial "whitepaper-header.html" . }}    
       {{ else if eq .Section "gettingstarted" }}
           {{ partial "gettingstarted-header.html" . }}
        {{else}}
       {{ partial "header.html" . }}
       {{end}}
-      <div class="container Site-inner">
-          <div class="row clear-fix">
+{{end}}
+      <div class="Site-inner" style="min-height:768px;">
+          <div class="clear-fix">
             {{ range $p := (.Paginate .Data.Pages).Pages }}
             	{{ if eq .Section "faq" }}
           		  <div class="col-sm-4 col-xs-12">{{ $p.Render "faq" }}</div>
@@ -30,8 +42,28 @@
                   <div class="Content-outer">{{ $p.Render "team-test" }}</div>
                   {{ else if eq .Section "governance" }}
                   <div class="Content-outer">{{ $p.Render "governance" }}</div>
+                  {{ else if eq .Section "403" }}
+                  <div class="Content-outer">{{ $p.Render "403" }}</div>
                   {{ else if eq .Section "ambassador" }}
                   <div class="Content-outer">{{ $p.Render "ambassador" }}</div>
+                  {{ else if eq .Section "how-it-works" }}
+                  {{ if eq .Title "challenge" }}
+                    <div class="Content-outer">{{ $p.Render "challenge" }}</div>
+                    {{ else if eq .Title "datacenters"}}
+                    <div class="Content-outer">{{ $p.Render "datacenters" }}</div>
+                    {{ else if eq .Title "solution"}}
+                    <div class="Content-outer">{{ $p.Render "solution" }}</div>
+                    {{ else if eq .Title "token"}}
+                    <div class="Content-outer">{{ $p.Render "token" }}</div>
+                    {{ else if eq .Title "tokens arround"}}
+                    <div class="Content-outer">{{ $p.Render "tokens_arround" }}</div>
+                    {{ else if eq .Title "pricing"}}
+                    <div class="Content-outer">{{ $p.Render "pricing" }}</div>
+                    {{ else if eq .Title "participate"}}
+                    <div class="Content-outer">{{ $p.Render "participate" }}</div>
+                    {{ else if eq .Title "contribute" }}
+                    <div class="Content-outer">{{ $p.Render "contribute" }}</div>
+                    {{end}}
                   {{ else if eq .Section "pto" }}
                     {{ if eq .Title "pto" }}
                       <div class="Content-outer">{{ $p.Render "pto" }}</div>
@@ -44,6 +76,14 @@
                       {{ else if eq .Title "contribute" }}
                         <div class="Content-outer">{{ $p.Render "contribute" }}</div>
                         {{end}}
+
+                        {{ else if eq .Section "whitepaper" }}
+                          {{ if eq .Title "whitepaper" }}
+                            <div class="Content-outer">{{ $p.Render "whitepaper" }}</div>
+                          {{ else if eq .Title "contribute" }}
+                            <div class="Content-outer">{{ $p.Render "contribute" }}</div>
+                            {{end}}
+
                     {{ else if eq .Section "gettingstarted" }}
                       {{ if eq .Title "gettingstarted" }}
                         <div class="Content-outer">{{ $p.Render "gettingstarted" }}</div>
@@ -56,8 +96,8 @@
             {{ end }}
             {{ range .Data.Pages }}
               {{ if eq .Section "team" }}
-                {{ if eq .Title "complete" }}
-                    <div class="Content-outer">{{ .Render "complete" }}</div>
+                {{ if eq .Title "new team" }}
+                <section class="rj-section">{{ .Render "new-team" }}</section>
                 {{end}}
               {{end}}
             {{end}}
@@ -65,8 +105,10 @@
       </div>
        {{ partial "footer.html" . }}
    </div>
+   {{ if eq .Section "how-it-works" }}
+   {{ partial "login/login-js.html" . }}
+    {{else}}
    {{ partial "js.html" . }}
-   <!-- <script src="js/site-bundle.js" type="text/javascript"></script> -->
-   <!-- <script type="text/javascript" data-sqs-type="imageloader-bootstraper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script> -->
+   {{end}}
 </body>
 </html>

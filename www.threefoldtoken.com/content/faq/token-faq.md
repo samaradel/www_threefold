@@ -3,7 +3,7 @@
 title = "faq"
 
 header = "Threefold Token FAQ"
-image = "token.jpg"
+image = "../img/question2.jpg"
 author = ""
 subtitle = ""
 weight = 4

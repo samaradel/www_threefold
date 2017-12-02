@@ -1,0 +1,130 @@
+{{ range $element :=  $.Site.Pages }}
+  {{ if eq .Section "how-it-works" }}
+    {{ if eq .Title "header" }}
+    <style>
+    .nav > li.dropdown.open {
+        position: static;
+    }
+    .nav > li.dropdown.open .dropdown-menu {
+        display: table;
+        width: 100%;
+        text-align: center;
+        left: 0;
+        right: 0;
+    }
+    .dropdown-menu>li {
+        display: inline-block;
+    }
+    .nav .open>a,
+    .nav .open>a:focus,
+    .nav .open>a:hover {
+        background-color: transparent;
+    }
+    .dropdown-menu>li>a {
+        display: block;
+        padding: 3px 20px;
+        clear: both;
+        font-weight: 400;
+        line-height: 1.42857143;
+        color: #fff;
+        white-space: nowrap;
+    }
+    .dropdown-menu {
+        position: absolute;
+        top: 100%;
+        z-index: 1000;
+        float: left;
+        min-width: 160px;
+        padding: 15px 0;
+        margin: 2px 0 0;
+        font-size: 14px;
+        list-style: none;
+        background-color: #3b3b3b;
+    }
+    .dropdown-menu>li>a:focus,
+    .dropdown-menu>li>a:hover {
+        color: #699ee2;
+        text-decoration: none;
+        background-color: transparent;
+    }
+
+
+
+    @media only screen and (max-width: 767px) {
+        /*dropdown menu*/
+
+        .navbar .navbar-nav {
+            text-align: center;
+            display: block;
+            float: none;
+        }
+        .navbar-nav .open .dropdown-menu {
+            background-color: #3b3b3b;
+        }
+        .nav > li.dropdown.open .dropdown-menu {
+            display: inline-grid;
+        }
+        .nav {
+            padding-left: 0px;
+        }
+    }
+</style>
+        <div class="logo-container">
+           <img src="{{ .Params.img }}" alt="Threefold">
+        </div>
+        <section class="Index-page Index-page--has-image howWorks-header">
+            <div class="Index-page-content">
+              <nav class="navbar Header-nav center" role="navigation" id="nav" data-spy="affix" data-offset-top="133">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header navbar-inner">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    </button>
+                    <!-- <a href="/" class="navbar-brand" >
+                      <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
+                      </a> -->
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div id="navbar" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav left">
+                      <li><a href="/" class="Header-nav-item">Idea <span class="sr-only">(current)</span></a></li>
+                      <!-- <li><a href="/pto" class="Header-nav-item">PTO</a></li> -->
+                      <!-- <li><a href="/how-it-works" class="Header-nav-item">how it works</a></li> -->
+                      <li class="dropdown open">
+                         <a href="/how-it-works" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="true">how it works</a>
+                         <ul class="dropdown-menu">
+                           <li><a href="/how-it-works/#challenge">Challenge</a></li>
+                           <li><a href="/how-it-works/#solution">Solution</a></li>
+                           <li><a href="/how-it-works/#token">Token</a></li>
+                           <li><a href="/how-it-works/#pricing">Pricing</a></li>
+                           <li><a href="/how-it-works/#participate">Participate</a></li>
+                         </ul>
+                       </li>
+                      <li><a href="/gettingstarted" class="Header-nav-item">get started</a></li>
+                      <!-- <li><a href="/whitepaper" class="Header-nav-item">Whitepaper</a></li> -->
+                      <!-- <li><a href="/ito" class="Header-nav-item">ITO</a></li> -->
+                      <li><a href="/information" class="Header-nav-item">Information</a></li>
+                      <li><a href="/faq" class="Header-nav-item">FAQ</a></li>
+                      <li><a href="/community" class="Header-nav-item">Community</a></li>
+                      <li><a href="/team" class="Header-nav-item">Team</a></li>
+                      <li><a href="/app" class="Header-nav-item">app</a></li>
+                      <!-- <li class="showLink"><a href="/oauth" class="Header-nav-item">Login</a></li>
+                      <li class="showLink"><a href="https://itsyou.online/register?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://threefold2.aydo.com:4040/oauth/callback&response_type=code&state=/#/" class="Header-nav-item">SignUp</a></li> -->
+                    </ul>
+                </div>
+              </nav>
+               <div class="col-xs-12">
+                 <div class="row">
+                   <div class="col-sm-1"></div>
+                   <div class="col-sm-10 introTxt">{{ .Content }}</div>
+                   <div class="col-sm-1"></div>
+                 </div>
+               </div>
+          </div>
+        </section>
+    {{end}}
+  {{end}}
+{{end}}

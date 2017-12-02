@@ -1,24 +1,16 @@
-http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
+http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.threefoldtoken.com:88, http://www.member.threefoldtoken.com:88 {
     bind 0.0.0.0
     gzip
     root www.threefoldtoken.com/en
 
-#    git {
-#      repo ssh://git@docs.greenitglobe.com:10022/gig/gig_team.git
-#      branch production
-#      interval 60
-#      key ~/.ssh/id_rsa
-#      path ../../../gig_team/
-#      then ./update.sh
-#    }
-
     git {
-      repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold.git
+      repo ssh://git@docs.greenitglobe.com:10022/gig/data_team.git
       branch production
       interval 60
       key ~/.ssh/id_rsa
-      path ../../../www_threefold/
-      then ./update.sh
+      path ../../../data_team/
+      then python3 scripts/process.py
+      then hugo -s ../www_threefold2.0/www.threefoldtoken.com
     }
 
     git {
@@ -27,46 +19,45 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88 {
       interval 60
       key ~/.ssh/id_rsa
       path ../..
+      then ./update.sh
       then hugo -s  www.threefoldtoken.com
     }
 
     errors {
     	404 404.html # Not Found
+        403 403/index.html # Forbidden
     }
 
-    oauth {
-        client_id       threefold
-        client_secret   Pb5LV6eoQqqdJx_x2kIOFe7BA5xOLGxZaBaFO1_2HggGyK4GAj3x
-        auth_url        https://itsyou.online/v1/oauth/authorize
-        token_url       https://itsyou.online/v1/oauth/access_token
-        redirect_url    http://www.threefoldtoken.com/oauth/callback
-
-        authentication_required /
-        allow_extension css
-        allow_extension js
-        allow_extension png
-        allow_extension svg
-        allow_extension ico
-        allow_extension ttf
-        allow_extension woff2
-        allow_extension jpg
-        allow_extension jpeg
-
-        login_page  /login
-        login_url /oauth
-        extra_scopes  user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address
-       }
-
-  # mailout /www_threefold2.0 {
-  #      to
-  #      subject "Text Email from {{ .Form.Get \"name\" }}"
-  #      body template.txt
-
-  #      username ""
-  #      password ""
-  #      host smtp.gmail.com
-  #      port 465
-  #      ratelimit_capacity 3
-  #      ratelimit_interval 6s
-  #  }
+#   proxy /forward/v1/oauth/jwt/refresh https://staging.itsyou.online {
+#       without /forward
+#   }
+#   
+#   oauth {
+#       client_id       threefold
+#       client_secret   dxUIMndhdVXKU470S24PvzOchXQn5qHAPGMZSJekRwUtwqluYp8n
+#       auth_url        https://staging.itsyou.online/v1/oauth/authorize
+#       token_url       https://staging.itsyou.online/v1/oauth/access_token
+#       jwt_url         https://staging.itsyou.online/v1/oauth/jwt
+#       redirect_url    http://members.threefold.aydo.com/oauth/callback
+#       organizations   /ito threefold.ito-gs
+#       organizations   /gettingstarted threefold.ito-gs
+#   
+#       authentication_required /
+#       allow_extension css
+#       allow_extension js
+#       allow_extension png
+#       allow_extension svg
+#       allow_extension ico
+#       allow_extension ttf
+#       allow_extension woff2
+#       allow_extension jpg
+#       allow_extension jpeg
+#       allow_extension JPG
+#       allow_extension how-it-works/
+#       refreshable
+#   
+#       login_page /login
+#       login_url /oauth
+#       extra_scopes  user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address
+#   }
 }

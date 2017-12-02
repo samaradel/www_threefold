@@ -2,7 +2,7 @@
 # Don't remove name!
 title = "information"
 header = "Open Source Technology"
-image = "open-source--technology.jpg"
+image = "../img/open-source--technology.jpg"
 author = "Andreas Hartl"
 subtitle = "Overview of our technology components and links to repositories"
 weight = 6

@@ -2,7 +2,7 @@
 # Don't remove name!
 title = "information"
 header = "Internet is growing wild"
-image = "internet-is-growing.jpg"
+image = "../img/internet-is-growing.jpg"
 author = "Andreas Hartl"
 subtitle = "Internet is growing in a way which is not sustainable, there needs to be an alternative"
 weight = 2

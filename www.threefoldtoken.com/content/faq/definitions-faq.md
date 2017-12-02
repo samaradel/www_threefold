@@ -3,7 +3,7 @@
 title = "faq"
 
 header = "Threefold Definitions FAQ"
-image = "definitions.jpg"
+image = "../img/definitions.jpg"
 author = ""
 subtitle = ""
 weight = 1

@@ -1,0 +1,156 @@
+[provider]
+    name = "Green it Globe"
+    iyo_org = "ma-g8-1"
+    description = "GIG"
+    website_url = "https://ma-g8-1.demo.greenitglobe.com"
+    email = "support@gig.tech"
+    tel = ""
+
+[[resourcepool]]
+
+    iyo_org = "ma-g8-1"
+
+    network_speed = "90"
+    network_redundant = false
+    ipv4_nr_pub = 247
+    ipv4_ranges = [ "196.251.148.0/24","197.227.35.152/29" ]
+    ipv4_enable = true
+    ipv6_enable = false
+    pricing_currency = "usd"
+    status="active"
+
+    cu_planned = 1000
+    su_planned = 2000
+    tu_planned = 10000
+
+    cu_max = 1000
+    su_max = 2000
+    tu_max = 10000
+
+    datacenter_tier = 1
+    datacenter_uptime_sla_min = "99.95%"
+
+    [[resourcepool.pricing]]
+    min_nr_months = 1
+    cu = 15
+    su = 8
+    tu = 2
+
+    [[resourcepool.pricing]]
+    min_nr_months = 24
+    cu = 10
+    su = 6
+    tu = 1
+
+    [[resourcepool.pricing]]
+    min_nr_months = 36
+    cu = 8
+    su = 5
+    tu = 1
+
+    [[resourcepool.location]]
+    name = "GIG"
+    description = "..."
+    remarks = "..."
+    longitute = "57.583458"
+    latitude = "-20.267003"
+    address = "mauritius"
+
+    [[resourcepool.node]]
+    uid = ["0cc47aac2a36"]
+    location = "ma-g8-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 29
+    nr_su = 3
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47a3b3ea0"]
+    location = "ma-g8-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 29
+    nr_su = 3
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47a3b3d72"]
+    location = "ma-g8-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 29
+    nr_su = 3
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47aac2e1a"]
+    location = "ma-g8-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 29
+    nr_su = 3
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47aac2daa"]
+    location = "ma-g8-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 29
+    nr_su = 3
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["0cc47a3b3d92"]
+    location = "ma-g8-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 29
+    nr_su = 3
+    nr_tu = 60
+
+
+    [[resourcepool.node]]
+    uid = ["2c600ccd2c60"]
+    location = "ma-g8-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 31
+    nr_su = 58
+    nr_tu = 1168
+
+
+    [[resourcepool.node]]
+    uid = ["2c600ccd2c42"]
+    location = "ma-g8-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 31
+    nr_su = 58
+    nr_tu = 1168
+
+
+    [[resourcepool.node]]
+    uid = ["2c600ccd2a0b"]
+    location = "ma-g8-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 31
+    nr_su = 58
+    nr_tu = 1168
+
+
+    [[resourcepool.node]]
+    uid = ["2c600ccd2ad4"]
+    location = "ma-g8-1"
+    description = "..."
+    remarks = "..."
+    nr_cu = 31
+    nr_su = 58
+    nr_tu = 1168

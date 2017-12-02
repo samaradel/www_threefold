@@ -3,7 +3,7 @@
 title = "faq"
 
 header = "ThreeFold Global Grid & Directory FAQ"
-image = "grid.jpg"
+image = "../img/grid.jpg"
 author = ""
 subtitle = ""
 weight = 2

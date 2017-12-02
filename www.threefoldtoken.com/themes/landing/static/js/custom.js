@@ -1,82 +1,73 @@
-(function () {
+(function() {
 
     function makeTimer() {
 
-      var endTime = new Date("December 1, 2017 12:00:00 EST");
-      var endTime = (Date.parse(endTime)) / 1000;
+        var endTime = new Date("December 1, 2017 12:00:00 EST");
+        var endTime = (Date.parse(endTime)) / 1000;
 
-      var now = new Date();
-      var now = (Date.parse(now) / 1000);
+        var now = new Date();
+        var now = (Date.parse(now) / 1000);
 
-      var timeLeft = endTime - now;
+        var timeLeft = endTime - now;
 
-      var days = Math.floor(timeLeft / 86400);
-      var hours = Math.floor((timeLeft - (days * 86400)) / 3600);
-      var minutes = Math.floor((timeLeft - (days * 86400) - (hours * 3600 )) / 60);
-      var seconds = Math.floor((timeLeft - (days * 86400) - (hours * 3600) - (minutes * 60)));
+        var days = Math.floor(timeLeft / 86400);
+        var hours = Math.floor((timeLeft - (days * 86400)) / 3600);
+        var minutes = Math.floor((timeLeft - (days * 86400) - (hours * 3600)) / 60);
+        var seconds = Math.floor((timeLeft - (days * 86400) - (hours * 3600) - (minutes * 60)));
 
-      if (hours < "10") { hours = "0" + hours; }
-      if (minutes < "10") { minutes = "0" + minutes; }
-      if (seconds < "10") { seconds = "0" + seconds; }
+        if (hours < "10") {
+            hours = "0" + hours;
+        }
+        if (minutes < "10") {
+            minutes = "0" + minutes;
+        }
+        if (seconds < "10") {
+            seconds = "0" + seconds;
+        }
 
-      $("#days").html(days + "<span>Days</span>");
-      $("#hours").html(hours + "<span>Hours</span>");
-      $("#minutes").html(minutes + "<span>Minutes</span>");
-      $("#seconds").html(seconds + "<span>Seconds</span>");
+        $("#days").html(days + "<span>Days</span>");
+        $("#hours").html(hours + "<span>Hours</span>");
+        $("#minutes").html(minutes + "<span>Minutes</span>");
+        $("#seconds").html(seconds + "<span>Seconds</span>");
     }
 
-    setInterval(function() { makeTimer(); }, 1000);
+    setInterval(function() {
+        makeTimer();
+    }, 1000);
 
     $('nav a[href$="/' + location.pathname.split("/")[1] + '"]').addClass('active');
 
     // Mailout
 
-     $('#contact-us').submit(function (event) {
-      $.ajax({
-        type     : 'POST',
-        url      : 'http://www.threefoldtoken.com/www_threefold2.0',
-        data     : $('#contact-us').serialize(),
-        dataType : 'json',
-        encode   : true
-      })
-      .done(function (data) {
-        console.log(data);
-        $('#contactThankYou').show();
-        $('#contact-us').hide();
-        $('#test').hide();
-      })
-      .fail(function () {
-          alert("error");
-      });
-      event.preventDefault();
+    $('#contact-us').submit(function(event) {
+        $.ajax({
+                type: 'POST',
+                url: 'http://www.threefoldtoken.com/www_threefold2.0',
+                data: $('#contact-us').serialize(),
+                dataType: 'json',
+                encode: true
+            })
+            .done(function(data) {
+                console.log(data);
+                $('#contactThankYou').show();
+                $('#contact-us').hide();
+                $('#test').hide();
+            })
+            .fail(function() {
+                alert("error");
+            });
+        event.preventDefault();
     });
 
-    // Display Links
-
-    // if (sessionStorage.getItem('status') != null) {
-    //   $('.nav>li.showLink').css("display", "none");
-    //   $('.nav>li.hideLink').css("display", "block");
-    // }
-    // else {
-    //   $('.nav>li.showLink').css("display", "block");
-    //   $('.nav>li.hideLink').css("display", "none");
+    // for (var i = 0; i < decoded.scope.length; i++) {
+    //     if (decoded.scope[i].includes("user:memberof:threefold.ito-gs")) {
+    //         $('.nav>li.hideLink').css("display", "block");
+    //     }
     // }
 
-    // QR Code
-
-    var qrcode = new QRCode(document.getElementById("qrcode"), {
-      	text: "https://itsyou.online/login?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://testthreefold.aydo.com:8523/oauth/callback&response_type=code&scope=user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address&state=/oauth#/",
-      	width: 128,
-      	height: 128,
-      	colorDark : "#000000",
-      	colorLight : "#ffffff",
-      	correctLevel : QRCode.CorrectLevel.H
-      });
-
-      setTimeout(function() {
-        qrcode.clear(); // clear the code.
-        qrcode.makeCode("https://itsyou.online/login?client_id=threefold&endpoint=/v1/oauth/authorize&redirect_uri=http://testthreefold.aydo.com:8523/oauth/callback&response_type=code&scope=user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address&state=/oauth#/"); // make another code.
-        console.log('done');
-      }, 60000);
+    $('#nav-wrapper').height($("#nav").height());
+    $('#nav').affix({
+        offset: $('#nav').position()
+    });
 
 })();
