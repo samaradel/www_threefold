@@ -10,9 +10,6 @@ subtitle = ""
 
 Our Ambassadors are the first 30 people who are supporting us on our journey to a better world. Each of them believes in our values and mission and are proud Token holders.
 
-Together these 30 people serve on our community board driving the Foundation forward.
-
-
 ## Our first 200 Individual TF Miners.
 
 Our TF Miners are the first 200 individuals who received a ThreeFold Node and want to help us to get neutral capacity out which is used to run our own blockchain which is used to host the TF Directory and ItsYou.Online.
