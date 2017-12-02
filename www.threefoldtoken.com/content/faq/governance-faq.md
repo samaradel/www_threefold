@@ -2,11 +2,11 @@
 # Don't remove name!
 title = "information"
 
-header = "HOW IS THE FOUNDATION GOVERNED?"
+header = "Governance FAQ"
 image = "../img/governance.jpg"
 author = ""
 subtitle = ""
-weight = 1
+weight = 3
 
 +++
 

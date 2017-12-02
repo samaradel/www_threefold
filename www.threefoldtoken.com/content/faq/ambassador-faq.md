@@ -1,11 +1,11 @@
 
 +++
 # Don't remove name!
-title = "faq"
+title = "ambassador_faq"
 
 header = "Ambassador FAQ"
 image = "../img/ambassador.jpg"
-author = "Kristof"
+author = ""
 subtitle = ""
 weight = 10
 
