@@ -11,8 +11,8 @@ weight = 10
 
 +++
 
+![governance](/img/ambassador.jpg)
 # Ambassador
-
 
 ## What  does it mean to be a Threefold Ambassador?
 
