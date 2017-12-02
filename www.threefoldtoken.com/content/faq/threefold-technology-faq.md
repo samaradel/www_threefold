@@ -24,7 +24,7 @@ The Foundation funds further development from its cash flows. Included in the te
 - [**Rivine.io**](https://github.com/rivine)  
     - The Rivine.io blockchain is a distributed, “proof of stake” blockchain.  As a multi-chain platform, Rivine.io is not constrained in terms of scalability and slow transaction processing times - also Rivine.io does not consume impossible amounts of energy
 - [**ItsYou.Online**](https://github.com/itsyouonline)
-    - Itsyou.online is a  secure identity management platform.  Its relevance as an identity management tool extends far beyond Tokens and buying and selling IT capacity.
+    - Itsyou.online is a  secure identity management platform.  Its relevance as an identity management tool extends far beyond Tokens and buying and selling Internet IT capacity.
 
 ### ​How was our technology developed?
 
@@ -36,7 +36,7 @@ We 100% understand every component used - meaning we have all our source code an
 
 Our Zero OS is ideally suited for Edge infrastructure which requires automation, self-healing and hyper-distribution.
 
-Our Zero-Nodes are Secure, Self Driving and Green.  Our “Zero” components are super simple - the Zero-OS has no filesystem, no volume driver, no shell (terminal), no SSH server, etc. which results in better security, fast installation and does not require upgrades.  Also our Zero Nodes are plug and play “self driving” for Hosters who are not technical.  
+Our Zero-Nodes are Secure, Self Driving and Green.  Our “Zero” components are super simple - the Zero-OS has no filesystem, no volume driver, no shell (terminal), no SSH server, etc. which results in better security, fast installation and does not require upgrades.  Also our Zero Nodes are plug and play “self driving” for TF Miners who are not technical.  
 
 [see our magical Zero-Node blog](/information/magical-zero-node/)
 

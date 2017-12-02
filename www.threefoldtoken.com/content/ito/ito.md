@@ -15,7 +15,7 @@ We plan our Private Token Offering for December 2017.
 
 ## What is a ThreeFold Token?
 
-- A ThreeFold Token is a smart contract digital token (the Token) that is the exclusive payment instrument or currency for which operators can sell IT capacity via our Directory service - ThreeFold operators sell their capacity for Tokens, ThreeFold users buy capacity with Tokens.
+- A ThreeFold Token is a smart contract digital token (the Token) that is the exclusive payment instrument or currency for which operators can sell Internet IT capacity via our Directory service - ThreeFold operators sell their capacity for Tokens, ThreeFold users buy capacity with Tokens.
 
 - The ThreeFold Foundation will be the issuer of the Tokens.
 
@@ -42,7 +42,7 @@ The Foundation will use the net proceeds of the ITO for working capital and to d
 
 ## Utility of iTokens
 
-Purchased iTokens are endowed with immediate utility for purchasing IT capacity through our partners and on our Grid. Contact us for more details.
+Purchased iTokens are endowed with immediate utility for purchasing Internet IT capacity through our partners and on our Grid. Contact us for more details.
 
 ## What is the process to buy tokens?
 

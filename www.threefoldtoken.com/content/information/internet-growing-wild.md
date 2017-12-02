@@ -38,7 +38,7 @@ Ten times more power efficiency can be achieved in e.g. storage systems
 
 Today global Internet infrastructure requires enormous amounts of energy - well north of the entire annual electricity consumption of the United Kingdom - ranking among the more pollutive industries globally (similar to airlines!)
 
-We believe IT can do a lot better - in fact we believe we can reduce the Internet’s carbon footprint by 10 times compared to other industry standard IT capacity producing solutions.
+We believe IT can do a lot better - in fact we believe we can reduce the Internet’s carbon footprint by 10 times compared to other industry standard Internet IT capacity producing solutions.
 
 Power consumption is a function of better compute and storage performance requiring more racks and more cooling. Our solutions achieve roughly 3 times the performance per rack (so we use fewer racks) - and our racks require less energy than typical racks in the industry :-)
 

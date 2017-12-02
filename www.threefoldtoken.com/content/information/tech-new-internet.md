@@ -68,7 +68,7 @@ In addition to our blockchain technology, we have also developed itsyou.online, 
 - Lowest possible cost of transactions make it an efficient and fast payment system
 - Neutral: state of the network and applications are recorded in a transparent and immutable manner
 - Payment fulfillment: transactions are automatically paid using ThreeFold Tokens
-- Smart Contracts: fully automated execution of contracts from customers buying IT capacity.
+- Smart Contracts: fully automated execution of contracts from customers buying Internet IT capacity.
 
 All of our technology is open-source and can be accessed in the following Github Repos:
 

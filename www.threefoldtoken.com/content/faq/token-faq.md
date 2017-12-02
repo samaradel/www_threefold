@@ -41,13 +41,13 @@ The Foundation’s long term objective is to migrate the TF Token firmly into th
 
 ## Why did we use the word Token vs Coin?
 
-We use the word “Token” because our Tokens are much more than a simple coin.  In our view, coins really only have one function:  to act as simple stores of value.  Our Tokens represent an  economic interest in our Foundation and is the exclusive payment instrument or currency for which operators can sell IT capacity via our Directory service.
+We use the word “Token” because our Tokens are much more than a simple coin.  In our view, coins really only have one function:  to act as simple stores of value.  Our Tokens represent an  economic interest in our Foundation and is the exclusive payment instrument or currency for which operators can sell Internet IT capacity via our Directory service.
 
 ## Is our Token different from other digital currencies?
 
 We designed our Token to be different from other Tokens in several respects including the following:
 
-* Utility.  From inception, our Tokens have a specific designated use as the payment currency for buying and selling IT capacity on our Grid.  
+* Utility.  From inception, our Tokens have a specific designated use as the payment currency for buying and selling Internet IT capacity on our Grid.  
 * Neutral.  Our Foundation is mission- and value-based, has no shareholders and is not owned or controlled by any institution or government.  
 * Green.  Our blockchain is different - and enables much greater scalability to millions  of transactions without requiring outsize energy consumption
 * Secure.  Also our blockchain is less vulnerable to large miner consortia controlling hashrates or DDOS and other attacks.  All users and nodes are registered on our blockchain-based identity management platform enhancing security and privacy.
@@ -79,7 +79,7 @@ As payment, we currently accept BTC, USD, GBP and EUR.
 
 ## How many tokens already exists?
 
-Today there are 10,000,000 Tokens created and rooted in the value of our Foundation and internet capacity which is committed to be deployed by our operators and hosters over more than 200 locations.
+Today there are 10,000,000 Tokens created and rooted in the value of our Foundation and internet capacity which is committed to be deployed by our operators and TF Miners over more than 200 locations.
 
 See bottom of our home page where you can see where existing capacity has been deployed.
 

@@ -7,7 +7,7 @@ header = "Our Idea"
 weight = 2
 
 # First column
-header_1 = "The Token is designed to have real utility: they are the payment mechanism for buying and selling IT capacity on our grid."
+header_1 = "The Token is designed to have real utility: they are the payment mechanism for buying and selling Internet IT capacity on our grid."
 image_1_header = "utility"
 image_1 = "/img/backed.png"
 author_1 = ""

@@ -29,7 +29,7 @@ Selling capacity on our Grid happens via our machine to machine Directory servic
 
 #### Token utility
 
-The token has built-in utility by being redeemable for IT capacity in this Grid. Because cloud storage and computation are becoming bigger and bigger forces in the economic landscape, we feel confident saying this results in tokens having a dynamic and growing market, serving a highly actual need. This functions as a utility with room for growth.
+The token has built-in utility by being redeemable for Internet IT capacity in this Grid. Because cloud storage and computation are becoming bigger and bigger forces in the economic landscape, we feel confident saying this results in tokens having a dynamic and growing market, serving a highly actual need. This functions as a utility with room for growth.
 
 Should tokens go up (or down) in price relative to fiat currencies, the amount of capacity one can buy for one token goes up (or down) correspondingly. In other words, capacity gets fixed in fiat prices, meaning token growth will not result in capacity becoming more expensive.
 
@@ -47,11 +47,11 @@ This means that the operators will receive a bonus on top of any capacity that t
 
 #### The ThreeFold Foundation
 
-We have started the Threefold Foundation to support and deploy this technology to build a global ThreeFold Grid delivering IT capacity in a flexible shape: in traditional datacenter architectures where that is required, local and decentralized "edge" architecture where it is possible. The combination of these two factors results in a new global grid that can function as a new Internet.
+We have started the Threefold Foundation to support and deploy this technology to build a global ThreeFold Grid delivering Internet IT capacity in a flexible shape: in traditional datacenter architectures where that is required, local and decentralized "edge" architecture where it is possible. The combination of these two factors results in a new global grid that can function as a new Internet.
 
 We will organize the foundation as a not-for profit, having a board of ambassadors coming from all parts of the globe and a diversity of backgrounds. We will practice open bookkeeping, allowing anyone to consult where the revenue flows.
 
 
 ### Conclusion
 
-The Threefold Foundation is building a global grid delivering IT capacity at competitive pricing. The token we issue will both jumpstart the rollout of this ThreeFold Grid and be used as a means of payment within the Grid. In order to increase price stability of the token, we aim to issue tokens whenever new operators join the ThreeFold Grid until the hard cap of 100 million tokens is reached. This results in a token that will remain spendable through the global grid maintained by the ThreeFold Foundation.
+The Threefold Foundation is building a global grid delivering Internet IT capacity at competitive pricing. The token we issue will both jumpstart the rollout of this ThreeFold Grid and be used as a means of payment within the Grid. In order to increase price stability of the token, we aim to issue tokens whenever new operators join the ThreeFold Grid until the hard cap of 100 million tokens is reached. This results in a token that will remain spendable through the global grid maintained by the ThreeFold Foundation.

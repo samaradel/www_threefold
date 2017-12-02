@@ -13,9 +13,9 @@ Our Ambassadors are the first 30 people who are supporting us on our journey to 
 Together these 30 people serve on our community board driving the Foundation forward.
 
 
-## Our first 200 Hosters.
+## Our first 200 TF Miners.
 
-Our Hosters are the first 200 individual Hosters putting capacity on our network. Each of them believes in what we do, and they want to help to make this dream reality.
+Our TF Miners are the first 200 individual TF Miners putting capacity on our network. Each of them believes in what we do, and they want to help to make this dream reality.
 
 Each of them put at least 3.5TB of storage and 8 logical CPU cores of computing capacity onto our Grid.
 

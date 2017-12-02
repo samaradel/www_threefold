@@ -14,7 +14,7 @@ As a first step please download the first version of the Threefold app. It is av
 
 The app will keep you updated on latest developments through its News service.
 
-The app also the apps allow you to become a member of our organization, become a hoster and purchase our tokens.
+The app also the apps allow you to become a member of our organization, become a TF Miner and purchase our tokens.
 
 ## News
 
@@ -22,7 +22,7 @@ Status
 
 * We have (verbal) commitments for about 3m USD now (we would like to get to 5m USD)
 * We have confirmation of about 30 ambassadors (we would like to get to at least 50)
-* We have about 120 hosters for our blockchain (we need at least 80 more)
+* We have about 120 TF Miners for our blockchain (we need at least 80 more)
 * We are on track to have more than 100m USD committed internet capacity before oct-nov.
 
 The first version of the Threefold app is ready! It is available on both the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token).
@@ -31,16 +31,16 @@ The first version of the Threefold app is ready! It is available on both the [Ap
 Open issues we are working on
 
 * We need Orrick to check all the legal documents again
-* We need oral confirmation for at least 200 hosters (we have the hardware ready to be shipped)
+* We need oral confirmation for at least 200 TF Miners (we have the hardware ready to be shipped)
 * more tech info about the technology
 * more info about the business case for capacity
-* start populating the pages for ambassadors & hosters
+* start populating the pages for ambassadors & TF Miners
 * create a better budget & make transparent
 * link to GIG website (the technology)
 
 ## Links to our information
 
-* [Community page featuring our Ambassadors and Hosters](/ambassador/)
+* [Community page featuring our Ambassadors and TF Miners](/ambassador/)
 * [Presentation](http://tiny.cc/threefold_intro)
 * [White Paper](http://tiny.cc/tf_whitepaper_pto)
 * [Organization Structure & Best Practices](https://docs.greenitglobe.com/teal.university/whatis/src/master/README.md)

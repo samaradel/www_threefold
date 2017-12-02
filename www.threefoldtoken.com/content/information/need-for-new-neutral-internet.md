@@ -14,7 +14,7 @@ weight = 13
 
 ## The Problem
 
-- Internet is no longer the neutral place it used to be. 80+% of internet IT capacity is delivered by a handful of companies. This results in loss of neutrality and openness and brings inequality.
+- Internet is no longer the neutral place it used to be. 80+% of Internet capacity is delivered by a handful of companies. This results in loss of neutrality and openness and brings inequality.
 
 - To support the continuous growth of the Internet and connect billions of new Internet Of Things devices, 400 million new servers are needed by 2020. The world needs another 4,000 large- scale data centers that each consume 200 MWe of electricity: source http://bit.ly/1UPUZYG.
 
@@ -43,7 +43,7 @@ The challenges facing the Internet include the following::
 
 - Non-secure / at risk of choke point failures.  There are plenty of recent well publicized problems with security, outages and lost data.  The reason for this is that centralised hyperscale architectures are inherently non-secure - and failures at a single hyperscale location can cause widespread contagion and outages.
 
-ThreeFold believes the solution to these $trillion problems is migration of IT capacity to the Edge - ie a “hyper-distributed” network architecture.  Edge networks will not necessarily replace the existing hyperscale capacity powering today’s cloud - rather, Edge networks will scale to meet the increased capacity demands going forward.
+ThreeFold believes the solution to these $trillion problems is migration of Internet IT capacity to the Edge - ie a “hyper-distributed” network architecture.  Edge networks will not necessarily replace the existing hyperscale capacity powering today’s cloud - rather, Edge networks will scale to meet the increased capacity demands going forward.
 
 In 2025 c 60% of new internet infrastructure will be decentralized and located at the edge of the operator networks, using alternative locations which have stable (renewable) power and reliable connectivity.
 
@@ -63,7 +63,7 @@ Our solution is to migrate cloud capacity to the edge - ie located proximate to 
 
 ### Neutral
 
-- Our solution enables 100% neutral & private IT capacity.
+- Our solution enables 100% neutral & private Internet IT capacity.
 - Our blockchain technology provides security, neutrality & scale.
 
 
@@ -83,7 +83,7 @@ Our nodes are modular - scaling from 8 vCPUs and 3.5 TB of storage (smallest) to
 ### Our Zero-Nodes are at the edge and safe a lot of network traffic.
 
 Our Zero OS is ideally suited for Edge networking - where automation, self-healing and hyper-distribution are must-haves.  
-- The Zero-Nodes are deployed as close as possible to the consumers of IT capacity (IoT, residential, business, government, education, …).
+- The Zero-Nodes are deployed as close as possible to the consumers of Internet IT capacity (IoT, residential, business, government, education, …).
 - This results in massive bandwidth savings, we estimate to be able to keep 99% of the required bandwidth locally which has huge impact on cost.
 - This is the only viable solution to be able to provide internet to the 3.2 billion people waiting.
 

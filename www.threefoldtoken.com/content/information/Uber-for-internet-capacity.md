@@ -29,26 +29,26 @@ Blockchain technology facilitates this trend. Participants can interact on a pee
 
 It is surprising that - despite aleady seeing well known examples of decentralized currencies, transportation, lodging and ledgers - we do not yet have decentralized datacenter technology, the very core of the internet as we know it.
 
-At the moment, it requires tremendous $ investment and massive scale to compete effectively in the IT Capacity market. Large companies like Alibaba, Amazon, EMC, Google and Microsoft are dominant.
+At the moment, it requires tremendous $ investment and massive scale to compete effectively in the Internet IT capacity market. Large companies like Alibaba, Amazon, EMC, Google and Microsoft are dominant.
 
-We, at the ThreeFold foundation, have developed for the last years on distributed datacenter technology. One of the benefits of distributed datacenter technology is that it allows small organizations - even individuals - to participate in the IT capacity market.
+We, at the ThreeFold foundation, have developed for the last years on distributed datacenter technology. One of the benefits of distributed datacenter technology is that it allows small organizations - even individuals - to participate in the Internet IT capacity market.
 
-With our Zero OS technology, you can jump into the market even if you have a couple of hundred dollars to invest. We call all such participants TF Hosters (ThreeFold Hosters).
+With our Zero OS technology, you can jump into the market even if you have a couple of hundred dollars to invest. We call all such participants TF TF Miners (ThreeFold TF Miners).
 
 ### How you can join
 
-The process to become a TF Hoster is very straightforward.  Anyone - whether individual, professional or corporate - can join the TF Grid by buying a Zero Node and downloading the Zero-OS open source software. You can even do it with your existing spare hardware.
+The process to become a TF TF Miner is very straightforward.  Anyone - whether individual, professional or corporate - can join the TF Grid by buying a Zero Node and downloading the Zero-OS open source software. You can even do it with your existing spare hardware.
 
 Now you can operate your micro datacenter and earn money on it
 
-Our Zero-Nodes are designed to be “plug and play” with full self driving capability - meaning TF Hosters do not need to have IT experience.
+Our Zero-Nodes are designed to be “plug and play” with full self driving capability - meaning TF TF Miners do not need to have IT experience.
 
 The Internet Capacity produced by the Zero-Node is automatically registered on the TF Directory which is made public to global purchasers of Internet Capacity. There is no need to build a marketing department or promote your micronode. As long as the price is reasonable, there will be demand capacity near your location.
 
-For convenience, pricing is set by the TF Directory algorithm based on numerous factors including real time local supply and demand, competition, network connection, hardware type and the environment.  More advanced TF Hosters can set their pricing if desired.
+For convenience, pricing is set by the TF Directory algorithm based on numerous factors including real time local supply and demand, competition, network connection, hardware type and the environment.  More advanced TF TF Miners can set their pricing if desired.
 
 
-Now you essentially can become an ‘AirBnB’ hoster for the new, neutral internet which belongs to all of us.
+Now you essentially can become an ‘AirBnB’ TF Miner for the new, neutral internet which belongs to all of us.
 
  - No more big corporations are controlling the grid and wasting resources..
  - Yes to the new decentralized, neutral and green internet.
