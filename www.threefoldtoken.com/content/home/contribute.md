@@ -3,7 +3,7 @@
 title = "contribute"
 
 button_name = "VIEW WHITEPAPER"
-button_link = "pdf/ThreeFold-Public-Token-Offerin-Whitepaper-v0.9.5.pdf"
+button_link = "pdf/tf_whitepaper.pdf"
 weight = 9
 +++
 # WE HAVE UPDATED THE THREEFOLD WHITEPAPER.
