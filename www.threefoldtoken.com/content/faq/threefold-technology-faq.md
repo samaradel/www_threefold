@@ -2,7 +2,7 @@
 # Don't remove name!
 title = "faq"
 
-header = "ThreeFold Technology FAQ"
+header = "ThreeFold Technology"
 image = "../img/tech.jpg"
 author = ""
 subtitle = ""
