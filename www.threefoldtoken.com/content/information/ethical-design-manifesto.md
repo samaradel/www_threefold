@@ -33,7 +33,7 @@ weight = 1
 - TRANSPARENT: sales, pricing, processes, …
 
 
-![EthicalDesign](https://docs.greenitglobe.com/teal.university/whatis/raw/master/images/ethical_design.png)
+![EthicalDesign](https://docs.greenitglobe.com/teal.university/whatis/raw/master/images/ethical_design_small.png)
 
 Design your organisations so that your core values are respect for human rights, respect for human effort, and respect for human experience.
 
