@@ -60,7 +60,7 @@ This utility is important because it generates additional demand, diversificatio
 
 # PTO = Public Token Offering
 
-[Read more about our PTO here](/pto).
+[Read more about our Public Token Offering here](/pto).
 
 
 ## Why do we use the term PTO (unlike ICO)
@@ -86,6 +86,11 @@ There will be no more than 100,000,000 TF tokens in existence (Max Supply). No a
 Not more than 20,000,000 TF tokens will be sold during the Public Token Offering, which constitutes max 20% of total token supply. 
 
 All remaining TF tokens, or no less than 70,000,000 are mined by our Miners.
+
+The total distribution of the TF tokens can be represented on a pie-chart.
+
+![tokendistr](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/raw/master/images/token_distr.png)
+
 
 Miners purchase Zero-Nodes/Clusters from ThreeFold Producers. Once the capacity has been validated by our TF Blockchain the TF Miner will receive TF tokens valued at 100% of the price paid for the Zero-Nodes/Clusters. These are new tokens that are created, up and until the 100,000,000 total TF token Max Supply limit is reached. This is the only way TF tokens are created after the Public Token Offering (see the section on Finance and Token Economy).
 
