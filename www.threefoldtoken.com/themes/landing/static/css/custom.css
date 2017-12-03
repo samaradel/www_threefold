@@ -616,7 +616,7 @@ a {
 .register a:hover,
 .register a,
 .list,
-.info {
+.info, .sqs-block-content h1, .sqs-block-content h2 {
     color: #fff;
 }
 .register .signup {
