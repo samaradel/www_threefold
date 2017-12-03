@@ -12,7 +12,6 @@ weight = 3
 
 
 ### What is included in the Foundation’s portfolio of open-source technology?
-
 All of our IP is open-source and is constantly being improved upon and extended.  
 
 The Foundation funds further development from its cash flows. Included in the technology portfolio are the following key elements:
@@ -29,13 +28,11 @@ The Foundation funds further development from its cash flows. Included in the te
     - This account on Github will also host our future Blockchain As A Service platform.
 
 ### ​How was our technology developed?
-
 Our open-source technology has been developed over a period of 15 years with over USD 100 million invested.  We developed all the core components.  We do not use 3rd party commercial technology components (this allows us to change, check and modify everything we use).  We use open-source components like Linux, however, we check, build and version control these components ourselves.  
 
 We 100% understand every component used - meaning we have all our source code and can be more reliable.  We do not provide backdoors for any government or security organization.  We believe in 100% freedom of choice and 100% privacy for all our customers
 
 ### What are the most important attributes of the Zero-OS and Zero Nodes?
-
 Our Zero OS is ideally suited for Edge infrastructure which requires automation, self-healing and hyper-distribution.
 
 Our Zero-Nodes are Secure, Self Driving and Green.  Our “Zero” components are super simple - the Zero-OS has no filesystem, no volume driver, no shell (terminal), no SSH server, etc. which results in better security, fast installation and does not require upgrades.  Also our Zero Nodes are plug and play “self driving” for TF Miners who are not technical.  
@@ -44,11 +41,9 @@ Our Zero-Nodes are Secure, Self Driving and Green.  Our “Zero” components ar
 
 
 ### Why did we choose to build our own blockchain?
-
 We originally built our blockchain to power our identity management system and our cloud-computing technology. We believe our blockchain has certain advantages relative to existing blockchains like scalability and improved security.
 
 ### What are the most important attributes of our blockchain?
-
 Our blockchain technology is scalable, secure and green.  
 
 The key differentiators of our blockchain include:
