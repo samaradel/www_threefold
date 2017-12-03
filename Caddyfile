@@ -1,11 +1,11 @@
-http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
+http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.threefoldtoken.com:88, http://www.member.threefoldtoken.com:88 {
     bind 0.0.0.0
     gzip
     root www.threefoldtoken.com/en
 
     git {
       repo ssh://git@docs.greenitglobe.com:10022/gig/data_team.git
-      branch master
+      branch production
       interval 60
       key ~/.ssh/id_rsa
       path ../../../data_team/
@@ -15,7 +15,7 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
 
     git {
       repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
-      branch master
+      branch production
       interval 60
       key ~/.ssh/id_rsa
       path ../..
