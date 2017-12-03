@@ -1023,6 +1023,9 @@ dataCenters p {
 .team img {
     width: 100%;
 }
+.contribute h1, .contribute h2 {
+    color: #fff;
+}
 @media (max-width: 650px) {
     h1 {
         font-size: 110%;
