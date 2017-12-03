@@ -616,7 +616,7 @@ a {
 .register a:hover,
 .register a,
 .list,
-.info {
+.info, .sqs-block-content h1, .sqs-block-content h2 {
     color: #fff;
 }
 .register .signup {
@@ -1022,6 +1022,9 @@ dataCenters p {
 }
 .team img {
     width: 100%;
+}
+.contribute h1, .contribute h2 {
+    color: #fff;
 }
 @media (max-width: 650px) {
     h1 {
