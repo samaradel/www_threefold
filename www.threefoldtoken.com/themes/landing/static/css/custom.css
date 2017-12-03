@@ -365,8 +365,7 @@ a {
 .info a:hover,
 .Footer-inner,
 .content-403 .guide,
-.header .introWords h2,
-.sqs-block-content h1 {
+.header .introWords h2 {
     color: #fff
 }
 .sqs-block-content h1 a {

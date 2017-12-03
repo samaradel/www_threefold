@@ -1,11 +1,11 @@
-http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.threefoldtoken.com:88, http://www.member.threefoldtoken.com:88 {
+http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
     bind 0.0.0.0
     gzip
     root www.threefoldtoken.com/en
 
     git {
       repo ssh://git@docs.greenitglobe.com:10022/gig/data_team.git
-      branch production
+      branch master
       interval 60
       key ~/.ssh/id_rsa
       path ../../../data_team/
@@ -15,7 +15,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
 
     git {
       repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
-      branch production
+      branch master
       interval 60
       key ~/.ssh/id_rsa
       path ../..
@@ -25,7 +25,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
 
     errors {
     	404 404.html # Not Found
-        403 403/index.html # Forbidden
+      403 403/index.html # Forbidden
     }
 
 #   proxy /forward/v1/oauth/jwt/refresh https://staging.itsyou.online {
