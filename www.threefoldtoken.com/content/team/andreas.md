@@ -16,6 +16,7 @@ telegrem_txt = ""
 
 weight = 4
 +++
-Establishing new brands and building solid successful teams have been Andreas passion for more than 15 years. He held several senior roles at major ICT firms in both global and regional management responsibilities. Andreas was the Head of Global Channel Sales at GIG Technology, a technology company at the forefront of distributed IT infrastructure. Prior to this Andreas spent eight years at Riverbed in numerous senior roles including Regional Head for Germany, Austria and Switzerland and also EMEA Head of Channel Sales.
-Andreas has a strong track record of developing and executing business strategies and delivering revenues in new markets. He has a degree in Business Economics from the University of Regensburg in Regensburg, Germany.
+Andreas strongly believes that behind every so called problem lays a big opportunity. He loves to build symbiotic relationships for people and businesses to create wealth. For Andreas true passion only arises if you live up to the secret formula of ‘do what you love and love what you do’. 
+In his former business life Andreas was the leader of multinational sales teams for a number of US IT companies in both startup and mature stages. Before joining ThreeFold Andreas was responsible for GIG’s global channel sales activities.
+
 
