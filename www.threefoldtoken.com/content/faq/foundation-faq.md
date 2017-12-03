@@ -2,7 +2,7 @@
 # Don't remove name!
 title = "faq"
 
-header = "Threefold Foundation FAQ"
+header = "Threefold Foundation"
 image = "../img/foundation.jpg"
 author = ""
 subtitle = ""
@@ -33,14 +33,14 @@ The Foundation is mission- and value-based and not “owned” by anyone per se.
 
 The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There is also a separate Ambassador board to keep track of the Boards of Directors.
 
-- [please read  more in our governance document.](/governance).
+- [please read  more in our governance document.](/faq/governance-faq).
 
 ## Who will manage and operate the Foundation?
 
 The Foundation has a management team appointed by the Board.  
 The management team oversees daily operations.
 
-- [please read  more in our governance document.](/governance).
+- [please read  more in our governance document.](/faq/governance-faq).
 
 ## How experienced are the ThreeFold Foundation Founders and Management team?
 

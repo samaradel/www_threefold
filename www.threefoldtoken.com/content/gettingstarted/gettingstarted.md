@@ -40,9 +40,9 @@ Open issues we are working on
 
 ## Links to our information
 
-* [Community page featuring our Ambassadors and TF Miners](/ambassador/)
+* [Community page featuring our Ambassadors and TF Miners](/faq/ambassador-faq/)
 * [Presentation](http://tiny.cc/threefold_intro)
-* [White Paper](http://tiny.cc/tf_whitepaper_pto)
+* [White Paper](../pdf/tf_whitepaper.pdf)
 * [Organization Structure & Best Practices](https://docs.greenitglobe.com/teal.university/whatis/src/master/README.md)
 * [Getting Started Tutorial & Onboarding Guide](http://tiny.cc/tf_tutorials_sponsors)
 

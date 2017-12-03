@@ -1,14 +1,14 @@
 +++
-#Don't remove title!
+# Don't remove name!
+title = "information"
 
-title = "governance"
-header = "HOW IS THE FOUNDATION GOVERNED?"
+header = "Governance"
+image = "../img/governance.jpg"
+author = ""
 subtitle = ""
+weight = 3
 
 +++
-
-![governance](/img/governance.jpg)
-
 
 ## The Foundation’s Governance Objectives
 
@@ -18,7 +18,8 @@ Our goal is to keep the foundation:
 * fully accountable and controllable (by means of a board)
 * transparent just like a public institution;
 
-The governance framework must preserve and protect the Foundation’s mission see [foundation faq](/faq/foundation-faq/) and our [White Paper](http://tiny.cc/tf_whitepaper_pto)
+The governance framework must preserve and protect the Foundation’s mission see [foundation faq](/faq/foundation-faq/) and our [White Paper](/pdf/tf_whitepaper.pdf).
+
 
 In order to balance these two (sometimes competing) priorities - the Foundation adopted a governance structure consisting of a Ambassador Board, a Foundation Board and a strong management team of 3 company directors.
 
@@ -55,6 +56,6 @@ In particular the Ambassador Board can
 * replace the Foundation Board members if needed (this requires a 60% Ambassador Board majority).
 The Ambassador Board is less active than the Foundation Board - with only two scheduled mandatory meetings per year and ad hoc meetings requiring a minimum quorum if called by the Foundation Board.
 
-
+The Ambassador board also votes for projects the Foundation wants to fund (e.g. doing good projects).
 
 
