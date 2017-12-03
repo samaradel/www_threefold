@@ -22,7 +22,7 @@ However, major problems remain such as:
 
 The Foundation seeks to address these issues with the ThreeFold Token by:
 
-* Creating a safe, alternative currency to current digital currencies
+* Creating a safe, backed, alternative currency to current digital currencies
 * Giving our Tokens a designated utility by linking the Token to the growth of the Internet
 * Supporting our Tokens - prioritise liquidity, stability, transparency and exchangeability for Token Holders
 * Ensuring the integrity and security of the Tokens for Token Holders
