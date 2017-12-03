@@ -8,4 +8,4 @@ weight = 1
 +++
 # ThreeFold is building a decentralized, selfhealing, neutral internet infrastructure.
 
-# But how and why?
+# Why and How?
