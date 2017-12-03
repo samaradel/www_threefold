@@ -21,7 +21,7 @@ body {
 h1 {
     font-size: 23px;
     /* letter-spacing: .2em; */
-    
+
     line-height: 1.2em;
     text-transform: uppercase
 }
@@ -371,6 +371,16 @@ a {
 .sqs-block-content h1 a {
     color: rgba(255, 255, 255, .7)
 }
+
+.sqs-block-content a {
+    color: #337ab7 !important;
+  }
+.sqs-block-button-container--center a{
+  color: #fff !important;
+}
+.large-button-style-outline .sqs-block-button .sqs-block-button-element--large:hover, .sqs-block-button-element--medium:hover{
+      color: #1d1d1d !important;
+}
 .transfer-to-ico .sqs-block-content h1 a {
     padding-bottom: .05em;
     border-bottom: 1px solid rgba(255, 255, 255, .21);
@@ -691,7 +701,7 @@ section {
 }
 #nav > .navbar-inner {
     /* float: left; */
-    
+
     border-left: 0;
     border-right: 0;
     border-radius: 0;
@@ -727,7 +737,11 @@ section {
 }
 .sqs-block-button .sqs-block-button-element--small:hover {
     background-color: #222;
-    color: #3f5a7f;
+    /*color: #3f5a7f;*/
+    color: #fff !important;
+}
+.sqs-block-content .buttons a {
+  color:#000 !important;
 }
 #team-test {
     padding-bottom: 130px;
@@ -1121,7 +1135,7 @@ dataCenters p {
     /* .collapsed {
         margin-right: 0
     } */
-    
+
     .navbar-toggle {
         margin-top: 18px;
     }
@@ -1213,7 +1227,7 @@ dataCenters p {
         padding-left: 25px;
         padding-right: 33px
     } */
-    
+
     .how-button {
         font-size: 10px;
         letter-spacing: 0.12em;
