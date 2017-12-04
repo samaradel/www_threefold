@@ -1,31 +1,24 @@
 # New ThreeFold Website
 
-- promotor: Sacha
-- guardian: Andreas
+- promotor: Roel
+- guardian: Michael
 
 
 ## Scrum Details for Web Team
 
 * Daily scrum at 10am Brussels/Cairo
-* Scrum is lead by @svekeman and backed by @roelvansabben
-* Scrum development team is lead by @hassane and backed by @adelsamar
-* Starts at **Sunday** till **Thursday**
+* Development team is lead by @hassane and backed by @adelsamar
+* Sprints start at **Sunday** till **Thursday**
 * ALL COMMUNICATION is handled through the issues in gogs
 * EVERY ACTIVITY and certainly BLOCKERS are reported in in the gogs issues
-* Friday @svekeman and @hartla cleans up issues from repo's and we create new milestones
-* Friday we also check and review carefully all active web projects and shoot more issues/bugs
+* UI Testing is done each friday by @roelvansabben
+* Sprintplanning is done each thursday
 
 
 ## Information
 
 The new threefold website is being created using hugo/git.
 Input for this site is being collected using issues being creating in git
-
-Following sprints will be defined:
-* DONE Sprint 1.3
-* TODO Sprint 1.4
-
-TODO: *1 redefine sprints
 
 This repo has the website content:
 
