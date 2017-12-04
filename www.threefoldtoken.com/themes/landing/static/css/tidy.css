@@ -140,7 +140,7 @@ a:focus {
 }
 h3 {
     margin: 0 0 1.4rem;
-    font-size: 1.75rem;
+    /* font-size: 1.75rem; */
     font-weight: 600;
     line-height: 1.3em;
     text-transform: initial
