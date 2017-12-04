@@ -549,7 +549,10 @@ a {
 }
 .our-mission-and-goals {
     overflow: visible;
-    padding: 80px 0px 250px
+    padding: 80px 0px 250px;
+}
+.our-mission-and-goals .sqs-block-content h2 {
+    color: #777;
 }
 .nav>li.showLink {
     display: block
