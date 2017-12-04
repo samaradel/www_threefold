@@ -48,6 +48,17 @@ Nickolay Babenko through telegram @nbabenko
 
 - [Running](docs/Running.md)
 
+
+## Editing at community page
+
+if you need to add person at community page follow this link
+[community](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/www.threefoldtoken.com/data/www_threefold/data/community)
+- put the pictures at avatar 
+- update data at ambassadors.toml or hosters.toml, operators.toml
+
+
+
+
 ## IT info
 
 server running on
@@ -61,3 +72,4 @@ ssh -l root 212.23.52.72 -p 3331
 - website is in /opt/code/...
 
 more it info e.g. dns see: https://docs.greenitglobe.com/gig/org_it
+
