@@ -262,3 +262,23 @@ nationality="Belgian"
 why="Thanks to Threefold Foundation robust technology comes available in good organisational design. A design that takes in account that humankind strives for prosperity for all. "
 bio="In 1999, I started my own business in the market of recruitment, the time internet got introduced in the business world. Wicked problems for matching talent to job opportunities were faced. I realised we could do far better by giving back control over personal data to the individual and start redefining business processes and businesses. Therefore I shared, learned and connected myself. I connected myself to initiatives for knowledge sharing, networking and innovation. Because I do believe it is the responsibility and the opportunity of our generation to get the appropriate digitale infrastructure available to move to our next level of prosperity.  "
 avatar="lieve_vereycken.jpg"
+
+
+[[ambassador]]
+x=3 # 0 <= X < 4
+y=9 # 0 <= Y < 5
+name="Ali Omari"
+nationality="Emirati"
+why="I believe in Threefold Foundation’s dream in helping the world to become a better place. "
+bio="Ali is the CEO of Safe City Group in Abu Dhabi, United Arab Emirates. 20 years of accumulative experience in the industry with a passion to concentrate on providing the latest technologies and solutions.  "
+avatar="Ali Omari.jpg"
+
+
+[[ambassador]]
+x=4 # 0 <= X < 4
+y=0 # 0 <= Y < 5
+name="Michael Gaffney"
+nationality="American"
+why="What's not to love about a foundation that has the technological skill and know how to build a new Internet and the compassion and heart to give it to the people. I love Threefold's vision and mission and I'm thrilled to be able to be a part of it."
+bio="Michael is extremely grateful to be serving as a Threefold ambassador and fully supports Threefold’s mission of a sustainable internet in the hands of the people.  Michael believes in humanity’s inherent goodness and its willingness to help and lift others up –Threefold holds this view as well and challenges us to believe it can and will be accomplished. Michael is currently an information specialist with an energy policy think tank in Saudi Arabia and in his spare time is a fitness/calisthenics junkie and an avid traveler."
+avatar="Michael Gaffney.jpg"

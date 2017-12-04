@@ -56,6 +56,8 @@ if you need to add person at community page follow this link
 - put the pictures at avatar 
 - update data at ambassadors.toml or hosters.toml, operators.toml
 
+update will show up at [master branch](http://threefold2.aydo.com:4040/community/) after 1 minut ,it appear at production when merge master.
+
 
 
 
