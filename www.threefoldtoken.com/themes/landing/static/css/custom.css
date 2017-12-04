@@ -1079,9 +1079,9 @@ dataCenters p {
         padding: 0;
     }
     .sol-details h1 {
-        font-size: 13px;
+        font-size: 11px;
         margin: 25px auto 40px;
-        font-weight: 200 !important;
+        font-weight: 600 !important;
         width: auto;
     }
 }
@@ -1107,6 +1107,14 @@ dataCenters p {
     background-color: #555
 }
 @media only screen and (max-width: 767px) {
+ .row{
+   margin-right: 0;
+   margin-left: 0;
+ }
+ .sqs-block-button-element--medium{
+   font-size: 10px;
+ }
+
     .Header-branding {
         display: none
     }
