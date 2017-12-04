@@ -19,7 +19,7 @@ body {
     overflow: visible
 }
 h1 {
-    font: normal 600 2em/1.2em 'Open Sans', sans-serif;    
+    font: normal 400 2em/1.2em 'Open Sans', sans-serif;    
     text-transform: uppercase
 }
 h2 {
@@ -830,10 +830,6 @@ dataCenters p {
     margin: 40px auto;
     letter-spacing: 0.16em;
     text-transform: uppercase
-}
-.sol-content h1 {
-    font-weight: bold;
-    font-size: 27px
 }
 .sol-content p {
     letter-spacing: 0.16em;
