@@ -743,7 +743,7 @@ a:focus {
 @media screen and (max-width: 640px) {
     .Index-page--has-image .Index-page-content {
         padding-top: 60px;
-        padding-bottom: 60px
+        /*padding-bottom: 60px*/
     }
 }
 @-moz-keyframes anim-opacity-full{
