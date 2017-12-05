@@ -6,7 +6,6 @@
 
 ## Scrum Details for Web Team
 
-* Daily scrum at 10am Brussels/Cairo
 * Development team is lead by @hassane and backed by @adelsamar
 * Sprints start at **Sunday** till **Thursday**
 * ALL COMMUNICATION is handled through the issues in gogs
