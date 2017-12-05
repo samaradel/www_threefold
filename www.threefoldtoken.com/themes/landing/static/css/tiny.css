@@ -502,12 +502,12 @@ h2 {
 h2:last-child {
     margin-bottom: 0
 }
-@media screen and (max-width: 640px) {
+/* @media screen and (max-width: 640px) {
     h1 {
         font-size: 32px;
         letter-spacing: .11789473684210527px
     }
-}
+} */
 h2 {
     letter-spacing: 0;
     font: normal 300 24px/1.2em 'Open Sans', sans-serif;

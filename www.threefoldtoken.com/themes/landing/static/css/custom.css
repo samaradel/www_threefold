@@ -19,7 +19,7 @@ body {
     overflow: visible
 }
 h1 {
-    font: normal 400 2em/1.2em 'Open Sans', sans-serif;    
+    font: normal 400 2em/1.2em 'Open Sans', sans-serif;
     text-transform: uppercase
 }
 h2 {
@@ -28,7 +28,7 @@ h2 {
     letter-spacing: .2em;
 }
 h3 {
-    font: normal 600 1.17em/1.2em 'Open Sans', sans-serif;    
+    font: normal 600 1.17em/1.2em 'Open Sans', sans-serif;
     text-transform: none;
     letter-spacing: 0.2em;
 }
@@ -55,7 +55,8 @@ header,
     overflow: hidden
 }
 .Content-outer {
-    min-height: 373px;
+    /* min-height: 373px; */
+    height: auto;
 }
 .tweak-blog-list-style-grid .BlogList-item {
     float: none
@@ -361,15 +362,15 @@ a {
 .sqs-block-content h1 a {
     color: rgba(255, 255, 255, .7)
 }
-
 .sqs-block-content a {
     color: #337ab7 !important;
-  }
-.sqs-block-button-container--center a{
-  color: #fff !important;
 }
-.large-button-style-outline .sqs-block-button .sqs-block-button-element--large:hover, .sqs-block-button-element--medium:hover{
-      color: #1d1d1d !important;
+.sqs-block-button-container--center a {
+    color: #fff !important;
+}
+.large-button-style-outline .sqs-block-button .sqs-block-button-element--large:hover,
+.sqs-block-button-element--medium:hover {
+    color: #1d1d1d !important;
 }
 .transfer-to-ico .sqs-block-content h1 a {
     padding-bottom: .05em;
@@ -419,12 +420,13 @@ a {
     /* padding-bottom: 30px */
 }
 .initial-coin-offering,
-.initial-coin-offering .affix {
+.initial-coin-offering .affix, .new-page-1  {
     background-color: #619e73
 }
 .new-page-1 {
-    background-color: #619e73;
-    height: 400px
+    height: auto;
+    overflow: hidden;
+    padding: 60px 0;
 }
 .initial-coin-offering .container-fluid,
 .three-objectives .container-fluid,
@@ -451,9 +453,9 @@ a {
     padding-top: 65px;
     padding-bottom: 65px
 }
-.new-page-1 .Index-page-content {
+/* .new-page-1 .Index-page-content {
     padding: 75px 25px
-}
+} */
 .new-page-1 .sqs-block {
     position: relative;
     height: auto;
@@ -611,7 +613,9 @@ a {
 .register a:hover,
 .register a,
 .list,
-.info, .sqs-block-content h1, .sqs-block-content h2 {
+.info,
+.sqs-block-content h1,
+.sqs-block-content h2 {
     color: #fff;
 }
 .register .signup {
@@ -686,7 +690,7 @@ section {
 }
 #nav > .navbar-inner {
     /* float: left; */
-
+    
     border-left: 0;
     border-right: 0;
     border-radius: 0;
@@ -723,10 +727,11 @@ section {
 .sqs-block-button .sqs-block-button-element--small:hover {
     background-color: #222;
     /*color: #3f5a7f;*/
+    
     color: #fff !important;
 }
 .sqs-block-content .buttons a {
-  color:#000 !important;
+    color: #000 !important;
 }
 #team-test {
     padding-bottom: 130px;
@@ -736,9 +741,10 @@ section {
 }
 .howWorks-header {
     background: url('../img/centeralized.png') no-repeat;
-    height: 575px;
+    height: auto;
     background-position: center;
-    position: relative
+    position: relative;
+    background-size: cover;
 }
 .howWorks-header nav {
     position: absolute;
@@ -748,7 +754,7 @@ section {
 .introTxt {
     color: #3f5a7f;
     text-align: center;
-    margin: 214px auto
+    padding: 200px 0;
 }
 .introTxt h1 {
     line-height: 1.5em
@@ -757,12 +763,13 @@ section {
 
 .main-block1 {
     background-color: #3b3b3b;
-    height: 468px;
+    height: auto;
+    overflow: hidden;
 }
 .head-block1 {
     color: #fff;
     text-align: center;
-    padding: 59px 0;
+    padding: 94px 0;
 }
 .text-block1 {
     color: #fff;
@@ -776,12 +783,13 @@ section {
 /* Datacenters */
 
 .dataCenters {
-    padding: 50px 0 40px;
+    padding: 55px 0 0;
     color: #fff;
     background: url('../img/datacenter.jpg') 45% 50% no-repeat;
-    height: 650px;
-    position: relative;
-    background-size: cover
+    height: auto;
+    background-size: cover;
+    overflow: hidden;
+    padding: 60px 0;
 }
 .dataCenters h1 {
     margin: 30px auto 40px;
@@ -821,7 +829,7 @@ dataCenters p {
 /* solution */
 
 .solution {
-    padding: 50px 0;
+    padding: 50px 0 0;
     color: #747474;
     overflow: hidden;
 }
@@ -854,13 +862,14 @@ dataCenters p {
 
 .main-token {
     background: url('../img/token-left.png') no-repeat;
-    height: 437px;
-    background-color: #efefef
+    height: auto;
+    background-color: #efefef;
+    overflow: hidden;
 }
 .head-token {
     color: #5f5f5f;
     text-align: center;
-    padding: 65px 0;
+    padding: 60px 0;
 }
 .main-token h2 {
     font-weight: 400;
@@ -889,8 +898,9 @@ dataCenters p {
 /* token arround*/
 
 .token-arround {
-    padding: 60px 0;
+    padding: 50px 0;
     overflow: hidden;
+    height: auto
 }
 /*slider*/
 
@@ -898,18 +908,22 @@ dataCenters p {
 .sy-slide.sy-active {
     z-index: 0;
 }
+.portfolio-slider {
+    padding: 20px 0;
+}
 /*pricing*/
 
 .main-pricing {
     background: url('../img/pricing_right.png') no-repeat;
     background-position: right;
     background-color: #f1f1f1;
-    height: 406px;
+    height: auto;
+    padding: 60px 0;
+    overflow: hidden;
 }
 .block-pricing {
     color: #5f5f5f;
     text-align: center;
-    margin: 70px auto;
 }
 .pricing_header {
     font-size: 23px;
@@ -928,12 +942,12 @@ dataCenters p {
     background: url('../img/participate.jpg') no-repeat;
     background-position: center;
     background-size: cover;
-    min-height: 567px;
-    height: 100%;
+    height: auto;
+    padding: 95px 0;
+    overflow: hidden
 }
 .BG-cover {
     position: relative;
-    overflow: overlay;
 }
 .BG-cover:before {
     position: absolute;
@@ -948,8 +962,6 @@ dataCenters p {
 .block-participate {
     color: #fff;
     text-align: center;
-    padding: 40px 0;
-    margin: 80px auto;
 }
 .participate_header {
     font-size: 23px;
@@ -1018,53 +1030,10 @@ dataCenters p {
 .team img {
     width: 100%;
 }
-.contribute h1, .contribute h2 {
+.contribute h1,
+.contribute h2 {
     color: #fff;
-}
-@media (max-width: 650px) {
-    h1 {
-        font-size: 110%;
-    }
-    h2 {
-        font-size: 120%;
-    }
-    p {
-        font-size: 100%;
-    }
-    .introTxt {
-        margin: 237px auto;
-    }
-    .column {
-        width: 100%;
-        display: block
-    }
-    .main-block1,
-    .dataCenters,
-    .main-participate {
-        padding: 25px;
-        height: 100%;
-    }
-    .main-token {
-        padding: 10px;
-        background-image: none;
-    }
-    .main-pricing {
-        background-image: none;
-        height: auto;
-        background-color: #EFEFEF;
-    }
-    .block-pricing {
-        color: #4d4d4d;
-    }
-    .container {
-        padding: 0;
-    }
-    .sol-details h1 {
-        font-size: 11px;
-        margin: 25px auto 40px;
-        font-weight: 600 !important;
-        width: auto;
-    }
+    font-size: 100%;
 }
 .container::after,
 .row::after {
@@ -1087,15 +1056,75 @@ dataCenters p {
 .button:hover {
     background-color: #555
 }
-@media only screen and (max-width: 767px) {
- .row{
-   margin-right: 0;
-   margin-left: 0;
- }
- .sqs-block-button-element--medium{
-   font-size: 10px;
- }
-
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .navbar {
+        border-radius: 0
+    }
+    .navbar-nav {
+        float: none
+    }
+    p, .dataCenters h1 {
+        font-size: 100%;
+    }
+    .pricing_para2 {
+        font-size: 120%;
+    }
+    .sqs-block-button .sqs-block-button-element--small {
+        width: 30%
+    }
+    .Site .header {
+        background-size: 13%
+    }
+    .sol-details h1 {
+        font-size: 86%;
+    }
+    .container {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    h1 {
+        font-size: 110%;
+    }
+    h2 {
+        font-size: 120%;
+    }
+    p {
+        font-size: 100%;
+    }
+    .column {
+        width: 100%;
+        display: block
+    }
+    .main-token {
+        padding: 10px;
+        background-image: none;
+    }
+    .main-pricing {
+        background-image: none;
+        background-color: #EFEFEF;
+    }
+    .block-pricing {
+        color: #4d4d4d;
+    }
+    .container {
+        padding: 0;
+    }
+    .sol-details h1 {
+        font-size: 11px;
+        margin: 25px auto 40px;
+        font-weight: 600 !important;
+        width: auto;
+    }
+    .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .sqs-block-button-element--medium {
+        font-size: 10px;
+    }
     .Header-branding {
         display: none
     }
@@ -1113,7 +1142,7 @@ dataCenters p {
         text-align: left
     }
     .Site .header {
-        background-size: 50%
+        background-size: 45%;
     }
     .navbar .navbar-nav {
         float: left
@@ -1122,9 +1151,9 @@ dataCenters p {
         min-height: 60px
     }
     /* .collapsed {
-        margin-right: 0
-    } */
-
+             margin-right: 0
+         } */
+    
     .navbar-toggle {
         margin-top: 18px;
     }
@@ -1159,37 +1188,12 @@ dataCenters p {
     .navbar-brand {
         display: block
     }
-}
-@media (min-width: 768px) {
-    .navbar {
-        border-radius: 0
-    }
-    .navbar-nav {
-        float: none
-    }
-    p {
-        font-size: 100%;
-    }
-    .pricing_para2 {
-        font-size: 120%;
-    }
-    .sqs-block-button .sqs-block-button-element--small {
-        width: 30%
-    }
-    .Site .header {
-        background-size: 13%
-    }
-    .sol-details h1 {
-        font-size: 86%;
-    }
-}
-@media screen and (max-width: 640px) {
     .sqs-block-button .sqs-block-button-element--large {
         padding: 21px 15px;
         font-size: 60%
     }
 }
-@media only screen and (max-width: 320px) {
+@media only screen and (min-width: 320px) and (max-width: 479px) {
     .list {
         line-height: 1.6em
     }
@@ -1209,20 +1213,43 @@ dataCenters p {
         letter-spacing: 0.12em;
         padding: 6px 15px;
     }
-}
-@media only screen and (max-width: 375px) {
     .sphere {
         left: 14%;
         max-width: 70%!important
     }
-    /* p {
-        padding-left: 25px;
-        padding-right: 33px
-    } */
-
+    .container {
+        padding: 0;
+    }    
     .how-button {
         font-size: 10px;
         letter-spacing: 0.12em;
         padding: 6px 15px;
     }
+    .navbar .navbar-nav {
+        display: block;
+    }
+    .BlogList-item-excerpt p, .sqs-block, .our-dream {
+        padding: 10px;
+    }
+    h1, h2, .sol-details h1 {
+        font-size: 100%;
+        font-weight: 600;
+    }
+    .sqs-block-button-element--medium {
+        padding: 21px 29px;
+    }
+    .introTxt {
+        margin: 147 auto 0;
+        height: auto;
+    }
+    .sol-details h1 {
+        min-height: 70px;
+        width: 100%;
+        margin: 25px auto;
+    }
+
+    .pricing_para2 {
+        font-size: 100%;
+    }
+
 }
