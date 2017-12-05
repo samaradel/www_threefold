@@ -2,8 +2,8 @@ import pytoml as toml
 import json
 import os
 
-source = './www.threefoldtoken.com/data/www_threefold/data/providers'
-target = './www.threefoldtoken.com/data/www_threefold/web/js/contents.js'
+source = './www.threefoldtoken.com/data/content/providers'
+target = './www.threefoldtoken.com/data/web/js/contents.js'
 
 providers = {}
 output = []

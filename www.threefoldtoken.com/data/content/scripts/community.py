@@ -6,8 +6,8 @@ from PIL import Image
 
 avatar_dimension = dict(ambassador=252, hoster=252, operator=252)
 
-source = './www.threefoldtoken.com/data/www_threefold/data/community'
-target = './www.threefoldtoken.com/data/www_threefold/data/community_data.js'
+source = './www.threefoldtoken.com/data/content/community'
+target = './www.threefoldtoken.com/data/content/community_data.js'
 
 output = dict()
 
