@@ -1082,6 +1082,7 @@ dataCenters p {
         margin: 0;
         padding: 0;
         width: 100%;
+        overflow: hidden;
     }
 }
 @media only screen and (min-width: 480px) and (max-width: 767px) {
