@@ -37,12 +37,13 @@ For any GOGS related questions please contact:
 
 Nickolay Babenko through telegram @nbabenko
 
-## Technical content
+## Editing Website contents
+All webpages are found here [content webpages](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/www.threefoldtoken.com/content)
+Please make sure before editing you are using the master branch to do so.
+To review your changes please view: [Staging](https://threefold2.aydo.com/).
+(it might take up to a minute for changes to show up)
 
-- [Running](docs/Running.md)
-
-
-## Editing at community page
+## Editing Community page contents
 
 if you need to add person at community page follow this link
 [community](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/www.threefoldtoken.com/data)
@@ -57,6 +58,12 @@ update will show up at [Staging](http://threefold2.aydo.com:4040/community/) aft
 All pictures used on blogs, faq and other parts the website should be stored here. [Original_Pictures](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/www.threefoldtoken.com/data/fotos_original)
 Never should we use these a source files for our website due to extremely large sized pictures.
 Please refer to @roelvansabben if you need an image altered for web use.
+
+
+
+## Technical content
+
+- [Running](docs/Running.md)
 
 
 
