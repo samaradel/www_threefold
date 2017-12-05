@@ -45,12 +45,18 @@ Nickolay Babenko through telegram @nbabenko
 ## Editing at community page
 
 if you need to add person at community page follow this link
-[community](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/www.threefoldtoken.com/data/www_threefold/data/community)
+[community](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/www.threefoldtoken.com/data)
 - put the pictures at avatar 
 - update data at ambassadors.toml or hosters.toml, operators.toml
 
-update will show up at [master branch](http://threefold2.aydo.com:4040/community/) after 1 minut ,it appear at production when merge master.
+update will show up at [Staging](http://threefold2.aydo.com:4040/community/) after 1 minut ,it will appear at production environment after merge master>production.
 
+
+## Original Pictures
+
+All pictures used on blogs, faq and other parts the website should be stored here. [Original_Pictures](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/www.threefoldtoken.com/data/fotos_original)
+Never should we use these a source files for our website due to extremely large sized pictures.
+Please refer to @roelvansabben if you need an image altered for web use.
 
 
 
