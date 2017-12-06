@@ -76,7 +76,13 @@ One needs only sign up with our [ItsYou.Online](http://itsyou.online) identity m
 
 As payment, we currently accept BTC, USD, GBP and EUR.
 
-## What is the token issuing mechanism?
+## How many tokens already exists?
+
+Today there are 10,000,000 Tokens created and rooted in the value of our Foundation and internet capacity which is committed to be deployed by our operators and TF Miners over more than 200 locations.
+
+See bottom of our home page where you can see where existing capacity has been deployed.
+
+## What is the Token Issuance Mechanism?
 
 There will be no more than 100,000,000 TF tokens in existence (Max Supply). No additional TF tokens will ever be generated. Tokens will be tradable on public digital currency exchanges subject to applicable regulations by citizenship and/or country of residence. On these exchanges token holders would be free to buy, sell and trade tokens at market prices. 
 

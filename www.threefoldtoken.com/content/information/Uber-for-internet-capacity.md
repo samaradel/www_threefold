@@ -47,7 +47,6 @@ The Internet Capacity produced by the Zero-Node is automatically registered on t
 
 For convenience, pricing is set by the TF Directory algorithm based on numerous factors including real time local supply and demand, competition, network connection, hardware type and the environment.  More advanced TF TF Miners can set their pricing if desired.
 
-
 Now you essentially can become an ‘AirBnB’ TF Miner for the new, neutral internet which belongs to all of us.
 
  - No more big corporations are controlling the grid and wasting resources..

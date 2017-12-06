@@ -17,7 +17,7 @@ weight = 2
 
 The Internet has a USD Trillion problem. Today demand for Internet capacity is far outstripping the available infrastructure due to new applications like Big Data, Internet of Things (IoT) and Self Healing Technology.
 
-The existing hyperscale cloud infrastructure cannot cope with this outsize demand as the requirements for land, power and funding are just too great. We (and most other experts) believe the solution to these $trillion problems is migration of Internet IT capacity to the Edge - ie a “hyper-distributed” network infrastructure.
+The existing hyperscale cloud infrastructure cannot cope with this outsize demand as the requirements for land, power and funding are just too great. We (and most other experts) believe the solution to these $trillion problems is migration of IT capacity to the Edge - ie a “hyper-distributed” network infrastructure.
 
 For more on this see [“Why do we need a new Internet” blog post](/information/need-for-new-neutral-internet/).
 
@@ -36,7 +36,7 @@ This is very different from the majority of Internet infrastructure which is cen
 For more on this see [“Why do we need a new Internet” blog post](/information/need-for-new-neutral-internet/).
 
 ### What infrastructure is operating on our Grid?
-Our Grid today is comprised mainly of infrastructure that operates our Zero-Nodes.
+Our Grid today is comprised mainly of infrastructure that operates our Zero OS operating system.  This includes large racks using off-the-shelf hardware that are typically located in data centers - as well as our pre-fabricated smaller / mobile  for hyperdistributed Zero-Nodes.
 
 [Read more in our Zero-Node blog](/information/magical-zero-node/)
 
@@ -54,6 +54,6 @@ Our Grid is already up and running. At the time of our Public Token Offering mor
 
 TF Operator Miners who generate Internet IT capacity on their own infrastructure can make their capacity available for sale on our TF Directory.  Operator Miners who use our Directory (and therefore accept our Tokens as payment) benefit from enhanced marketing and distribution for their capacity (at no extra cost) as well as providing certain and seamless transactions without concerns about currency fluctuations or other factors.
 
-### How are Internet IT capacity sales transacted?
+### How are IT capacity sales transacted?
 
 Once a TF Miner is registered on our Directory, the available capacity becomes visible to Users of our Grid. Transactions are machine to machine - meaning they are API-driven based on smart contracts. The smart contract specifies the key information such as the capacity or service, duration, price per unit, location, etc.  All transactions on the Directory are executed using our Tokens.  The Tokens are automatically deposited in the TF Miner’s e-Wallet.

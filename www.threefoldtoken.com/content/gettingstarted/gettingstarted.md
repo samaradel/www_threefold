@@ -22,7 +22,7 @@ Status
 
 * We have (verbal) commitments for about 3m USD now (we would like to get to 5m USD)
 * We have confirmation of about 30 ambassadors (we would like to get to at least 50)
-* We have about 120 TF Miners for our blockchain (we need at least 80 more)
+* We have about 120 hosters for our blockchain (we need at least 80 more)
 * We are on track to have more than 100m USD committed internet capacity before oct-nov.
 
 The first version of the Threefold app is ready! It is available on both the [Apple store](http://itunes.apple.com/app/id1276543091) and [Google play](https://market.android.com/details?id=com.mobicage.rogerthat.em.be.threefold.token).
@@ -34,8 +34,7 @@ Open issues we are working on
 * We need oral confirmation for at least 200 TF Miners (we have the hardware ready to be shipped)
 * more tech info about the technology
 * more info about the business case for capacity
-* start populating the pages for ambassadors & TF Miners
-* create a better budget & make transparent
+* start populating the pages for ambassadors & TF Miners* create a better budget & make transparent
 * link to GIG website (the technology)
 
 ## Links to our information
