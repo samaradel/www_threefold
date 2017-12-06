@@ -18,7 +18,7 @@ Our goal is to keep the foundation:
 * fully accountable and controllable (by means of a board)
 * transparent just like a public institution;
 
-The governance framework must preserve and protect the Foundation’s mission see [foundation faq](/faq/foundation-faq/) and our [White Paper](/pdf/ThreeFold Public Token Offering Whitepaper v0.9.5.pdf).
+The governance framework must preserve and protect the Foundation’s mission see [foundation faq](/faq/foundation-faq/) and our [White Paper](/pdf/tf_whitepaper.pdf).
 
 The governance framework must preserve and protect the Foundation’s values and mission see [foundation faq](/faq/foundation-faq/) but still accomplish our ambituous goals of building a new neutral internet as described in  our [White Paper](/pdf/ThreeFold Public Token Offering Whitepaper v0.9.5.pdf).
 
