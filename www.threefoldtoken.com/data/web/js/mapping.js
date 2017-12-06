@@ -101,7 +101,7 @@ $(function () {
             position: coords,
             map: map,
             cursor: 'pointer',
-						icon: 'http://chart.apis.google.com/chart?cht=d&chdp=mapsapi&chl=pin%27i%5c%27%5b%27-2%27f%5chv%27a%5c%5dh%5c%5do%5c'+iconColor+'%27fC%5c000000%27tC%5c000000%27eC%5cLauto%27f%5c&ext=.png'
+						icon: 'https://chart.apis.google.com/chart?cht=d&chdp=mapsapi&chl=pin%27i%5c%27%5b%27-2%27f%5chv%27a%5c%5dh%5c%5do%5c'+iconColor+'%27fC%5c000000%27tC%5c000000%27eC%5cLauto%27f%5c&ext=.png'
         });
 
         markers.push(marker);
