@@ -16,6 +16,11 @@ linkedin_txt = "View my profile"
 
 weight = 1
 +++
-Kristof is a humanist & motivated entrepreneur, passionate to help make the world a better place. He knows a thing or two about cloud computing and IT too! 
 
-Kristof founded more than 20 companies in a time period of 15 years. Currently Kristof is founder of GIG Technology and ThreeFold Foundation.
+Kristof is a humanist & motivated entrepreneur, passionate to help make the world a better place.
+
+He knows a thing or two about cloud computing and IT! 
+
+Kristof has founded more than 10 companies in a time period of 17 years. 
+
+Currently Kristof is founder of GIG Technology and ThreeFold Foundation.
