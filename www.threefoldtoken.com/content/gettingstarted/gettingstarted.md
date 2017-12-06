@@ -42,7 +42,7 @@ Open issues we are working on
 
 * [Community page featuring our Ambassadors and TF Miners](/faq/ambassador-faq/)
 * [Presentation](http://tiny.cc/threefold_intro)
-* [White Paper](../pdf/tf_whitepaper.pdf)
+* [White Paper](../pdf/ThreeFold Public Token Offering Whitepaper v0.9.5.pdf)
 * [Organization Structure & Best Practices](https://docs.greenitglobe.com/teal.university/whatis/src/master/README.md)
 * [Getting Started Tutorial & Onboarding Guide](http://tiny.cc/tf_tutorials_sponsors)
 
