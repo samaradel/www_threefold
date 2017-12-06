@@ -42,6 +42,9 @@ Please make sure before editing you are using the master branch to do so.
 To review your changes please view: [Staging](https://threefold2.aydo.com/).
 (it might take up to a minute for changes to show up)
 
+### PDF
+To add pdf just upload it in [/pdf](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/www.threefoldtoken.com/themes/landing/static/pdf) and modify the value of pdf in the markdown file.
+
 ## Editing Community page contents
 
 if you need to add person at community page follow this link

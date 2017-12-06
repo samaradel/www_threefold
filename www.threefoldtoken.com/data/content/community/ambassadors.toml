@@ -282,3 +282,12 @@ nationality="American"
 why="What's not to love about a foundation that has the technological skill and know how to build a new Internet and the compassion and heart to give it to the people. I love Threefold's vision and mission and I'm thrilled to be able to be a part of it."
 bio="Michael is extremely grateful to be serving as a Threefold ambassador and fully supports Threefold’s mission of a sustainable internet in the hands of the people.  Michael believes in humanity’s inherent goodness and its willingness to help and lift others up –Threefold holds this view as well and challenges us to believe it can and will be accomplished. Michael is currently an information specialist with an energy policy think tank in Saudi Arabia and in his spare time is a fitness/calisthenics junkie and an avid traveler."
 avatar="Michael Gaffney.jpg"
+
+[[ambassador]]
+x=4 # 0 <= X < 4
+y=0 # 0 <= Y < 5
+name="Marina Achillea"
+nationality="Swedish"
+why="I believe that the internet should be a fundamental right for every person in the world. That belief is shared by the Threefold foundation in it’s quest to expand the reach of the web to every corner of the world."
+bio="My name is Marina Achillea and I am a 36 year old fashion designer from Sweden working and living in London with my husband. I am proud to be reperesenting the Threefold foundatoin and look forward to exciting and changing times ahead"
+avatar="Marina Achillea.jpg"
