@@ -18,13 +18,10 @@ Our goal is to keep the foundation:
 * fully accountable and controllable (by means of a board)
 * transparent just like a public institution;
 
-The governance framework must preserve and protect the Foundation’s mission see [foundation faq](/faq/foundation-faq/) and our [White Paper](/pdf/ThreeFold Public Token Offering Whitepaper v0.9.5.pdf).
+The governance framework must preserve and protect the Foundation’s mission see [foundation faq](/faq/foundation-faq/) and our [White Paper](/pdf/tf_whitepaper.pdf).
 
-The governance framework must preserve and protect the Foundation’s values and mission see [foundation faq](/faq/foundation-faq/) but still accomplish our ambituous goals of building a new neutral internet as described in  our [White Paper](/pdf/ThreeFold Public Token Offering Whitepaper v0.9.5.pdf).
 
 In order to balance these two (sometimes competing) priorities - the Foundation adopted a governance structure consisting of a Ambassador Board, a Foundation Board and a strong management team of 3 company directors.
-
-Visit our [intranet](https://docs.greenitglobe.com/teal.university/whatis/src/master/README.md) for more information about our values.
 
 ## Company Directors
 
@@ -58,6 +55,7 @@ In particular the Ambassador Board can
 * appoint the four non-executive directors of the Foundation Board.
 * replace the Foundation Board members if needed (this requires a 60% Ambassador Board majority).
 The Ambassador Board is less active than the Foundation Board - with only two scheduled mandatory meetings per year and ad hoc meetings requiring a minimum quorum if called by the Foundation Board.
-* approve investments in doing good projects or TF mining companies.
+
+The Ambassador board also votes for projects the Foundation wants to fund (e.g. doing good projects).
 
 

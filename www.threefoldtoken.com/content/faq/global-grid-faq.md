@@ -43,13 +43,17 @@ Our Grid today is comprised mainly of infrastructure that operates our Zero-Node
 ## Our Directory
 
 ### What is our Directory service?
+
 Our Directory service is a global directory service running on top of our blockchain that publishes all available capacity, services and pricing on our Grid. All capacity that is sold via our Directory must be purchased using our Tokens.
 
 ### When will I be able to use the Grid and Directory Service?
+
 Our Grid is already up and running. At the time of our Public Token Offering more than 200 TF Miners are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via our Directory service. All purchases are made with Tokens through an API.
 
 ### What is the value of our Directory for TF Operator Miners?
+
 TF Operator Miners who generate Internet IT capacity on their own infrastructure can make their capacity available for sale on our TF Directory.  Operator Miners who use our Directory (and therefore accept our Tokens as payment) benefit from enhanced marketing and distribution for their capacity (at no extra cost) as well as providing certain and seamless transactions without concerns about currency fluctuations or other factors.
 
 ### How are Internet IT capacity sales transacted?
+
 Once a TF Miner is registered on our Directory, the available capacity becomes visible to Users of our Grid. Transactions are machine to machine - meaning they are API-driven based on smart contracts. The smart contract specifies the key information such as the capacity or service, duration, price per unit, location, etc.  All transactions on the Directory are executed using our Tokens.  The Tokens are automatically deposited in the TF Miner’s e-Wallet.
