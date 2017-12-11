@@ -12,7 +12,7 @@ author_1 = ""
 subtitle_1 = "Read more"
 url_1 = "/information/the-need-for-a-new-digital-currency/"
 # Second column
-header_2 = "The OS running our grid allows us to bring power costs down to one tenth of current standards. Our blockchain is scalable and power-efficient proof-of-stake driven."
+header_2 = "The operating system (OS) running our grid allows us to bring power costs down to one tenth of current standards. Our blockchain is scalable and power-efficient proof-of-stake driven."
 image_2_header = "green"
 image_2 = "img/green.png"
 author_2 = ""
