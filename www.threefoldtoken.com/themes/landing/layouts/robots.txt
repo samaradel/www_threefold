@@ -2,4 +2,4 @@ User-Agent: *
 Disallow: 
 Allow: /
 Allow: /login
-sitemap: http://threefold2.aydo.com/sitemap.xml
+sitemap: http://threefold2.aydo.com/index.xml
