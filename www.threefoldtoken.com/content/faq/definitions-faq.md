@@ -14,7 +14,7 @@ weight = 1
 ### ThreeFold (TF)
 
 <h2>Hosters</h2>
-<!-- please right this header title inside h2 tags because it overwrite with some ids -->
+<!-- please write this header title inside h2 tags because it overwrite with some ids -->
 
 ### TF Token (TFT)
 
