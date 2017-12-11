@@ -705,7 +705,7 @@ a:focus {
     -moz-osx-font-smoothing: auto
 }
 .Index-page--has-image {
-    background-color: #322f2f;
+    /* background-color: #322f2f; */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff
