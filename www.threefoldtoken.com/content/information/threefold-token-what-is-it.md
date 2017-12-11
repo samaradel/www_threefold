@@ -1,8 +1,7 @@
 +++
 
 #Don't remove name!
-title = "information"
-header = "Threefold Token?  What is it?"
+title = "Threefold Token?  What is it?"
 image = "../img/threefold_token.jpg"
 author = "Baker Yanicelli"
 subtitle = "What is our ThreeFold Token, how to buy, what is the utility, how safe is it?"

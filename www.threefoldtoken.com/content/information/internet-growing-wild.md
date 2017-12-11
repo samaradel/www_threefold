@@ -1,7 +1,6 @@
 +++
 # Don't remove name!
-title = "information"
-header = "Internet is growing wild"
+title = "Internet is growing wild"
 image = "../img/internet-is-growing.jpg"
 author = "Andreas Hartl"
 subtitle = "Internet is growing in a way which is not sustainable, there needs to be an alternative"

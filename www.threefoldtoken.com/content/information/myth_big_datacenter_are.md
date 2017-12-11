@@ -1,7 +1,6 @@
 +++
 # Don't remove name!
-title = "information"
-header = "Datacenter Myths"
+title = "Datacenter Myths"
 image = "../img/myth-big-datacenters-are-efficient.jpg"
 author = "Andreas Hartl"
 subtitle = "Hyperscale realities"
