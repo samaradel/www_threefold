@@ -1,8 +1,6 @@
 +++
 # Don't remove name!
-title = "faq"
-
-header = "Threefold Token"
+title = "Threefold Token"
 image = "../img/question2.jpg"
 author = ""
 subtitle = ""

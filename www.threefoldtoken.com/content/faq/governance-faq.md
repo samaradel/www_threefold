@@ -1,8 +1,6 @@
 +++
 # Don't remove name!
-title = "information"
-
-header = "Governance"
+title = "Governance"
 image = "../img/governance.jpg"
 author = ""
 subtitle = ""

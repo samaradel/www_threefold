@@ -1,8 +1,6 @@
 +++
 # Don't remove name!
-title = "faq"
-
-header = "Threefold Definitions"
+title = "Threefold Definitions"
 image = "../img/definitions.jpg"
 author = ""
 subtitle = ""

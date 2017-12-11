@@ -1,8 +1,6 @@
 +++
 # Don't remove name!
-title = "faq"
-
-header = "ThreeFold Global Grid & Directory"
+title = "ThreeFold Global Grid & Directory"
 image = "../img/grid.jpg"
 author = ""
 subtitle = ""
