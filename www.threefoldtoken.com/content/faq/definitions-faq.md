@@ -22,9 +22,9 @@ The ThreeFold Token is our utility green and neutral Token.  The Token is the de
 
 ### TF Directory (TFD)
 
-<h2>Operators</h2>
-<!-- please right this header title inside h2 tags because it overwrite with some ids -->
-Operators deploy IT infrastructure and help build out our Grid.  The capacity produced by Operators is made available for sale for Tokens via our Directory
+<h2>Operator Miners</h2>
+<!-- please write this header title inside h2 tags because it overwrite with some ids -->
+Operator Miners deploy IT infrastructure and help build out our Grid.  The capacity produced by Operator Miners is made available for sale for Tokens via our Directory
 
 ## ThreeFold App
 
