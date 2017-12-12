@@ -291,3 +291,12 @@ nationality="Swedish"
 why="I believe that the internet should be a fundamental right for every person in the world. That belief is shared by the Threefold foundation in it’s quest to expand the reach of the web to every corner of the world."
 bio="My name is Marina Achillea and I am a 36 year old fashion designer from Sweden working and living in London with my husband. I am proud to be reperesenting the Threefold foundatoin and look forward to exciting and changing times ahead"
 avatar="Marina Achillea.jpg"
+
+[[ambassador]]
+x=4 # 0 <= X < 4
+y=1 # 0 <= Y < 5
+name="Stela Suils Cuesta"
+nationality="Spanish"
+why="I always had faith that business could be done different, from the heart. That’s precisely what Threefold is doing: adding value to Society through bespoke technology and strong values."
+bio="Stela is a firm believer that it’s possible to do business from the heart."
+avatar="Stela Suils Cuesta.jpg"
