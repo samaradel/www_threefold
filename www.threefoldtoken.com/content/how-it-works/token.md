@@ -15,6 +15,6 @@ Bandwidth, Compute & Storage capacity
 
 Everything you need to run the internet,
 
-but in the Threefold way.
+but in the ThreeFold way.
 
 the green and neutral way.
