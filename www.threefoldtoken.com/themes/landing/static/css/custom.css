@@ -302,9 +302,7 @@ a {
     background-color: #699ee2
 }
 #nav.affix {
-    top: 0!important;
     left: 0;
-    width: 95%;
     z-index: 999;
     padding-right: 0;
     box-shadow: 0 7px 7px 0 rgba(0, 0, 0, .15);
