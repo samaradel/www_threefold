@@ -300,3 +300,12 @@ nationality="Spanish"
 why="I always had faith that business could be done different, from the heart. That’s precisely what Threefold is doing: adding value to Society through bespoke technology and strong values."
 bio="Stela is a firm believer that it’s possible to do business from the heart."
 avatar="Stela Suils Cuesta.jpg"
+
+[[ambassador]]
+x=4 # 0 <= X < 4
+y=2 # 0 <= Y < 5
+name="Osama Shihab Fitoria"
+nationality="Nicaraguan/Jordanian"
+why="Threefold's vision is an ambitious one: to create a neutral, efficient and affordable net. Threefold's team has already developed breakthrough technology which can and will enable this"
+bio="Osama is a cryptoeconomy investor and entrepreneur. He has been based in the Middle East for 3 decades during which he led business expansion roles for global tech firms and founded e-commerce startups. "
+avatar="Osama Shihab Fitoria.jpg"
