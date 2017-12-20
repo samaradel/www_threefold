@@ -3,7 +3,7 @@
 title = "contribute"
 
 button_name = "VIEW WHITEPAPER"
-button_link = "pdf/tf-whitepaper.pdf"
+button_link = "pdf/tf_whitepaper.pdf"
 weight = 9
 +++
 # OUR WHITEPAPER V. 0.95 IS NOW AVAILABLE.

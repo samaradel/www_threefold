@@ -16,7 +16,7 @@ Our goal is to keep the foundation:
 * Fully accountable and controllable (by means of a board).
 * Transparent just like a public institution;
 
-The governance framework must preserve and protect the Foundation’s mission see [foundation faq](/faq/foundation-faq/) and our [White Paper](/pdf/tf-whitepaper.pdf).
+The governance framework must preserve and protect the Foundation’s mission see [foundation faq](/faq/foundation-faq/) and our [White Paper](/pdf/tf_whitepaper.pdf).
 
 
 In order to balance these two (sometimes competing) priorities - the Foundation adopted a governance structure consisting of a Ambassador Board, a Foundation Board and a strong management team of 3 company directors.

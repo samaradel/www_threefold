@@ -15,4 +15,4 @@ body copy
 
 - [frequently asked questions](/faq)
 - [pto info](/pto)
-- [White Paper](../pdf/tf-whitepaper.pdf)
+- [White Paper](../pdf/tf_whitepaper.pdf)

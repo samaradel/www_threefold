@@ -3,7 +3,7 @@
 title = "contribute"
 
 button_name = "READ MORE, YOU MIGHT BE THE EXACT PERSON WE ARE LOOKING FOR"
-button_link = "/pdf/tf-whitepaper.pdf"
+button_link = "/pdf/tf_whitepaper.pdf"
 weight = 2
 +++
 # CONTRIBUTE TO THE FOUNDATION BEFORE THE PTO

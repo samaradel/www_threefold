@@ -99,7 +99,7 @@ We currently plan to reserve 5% of the proceeds from the sale of Tokens to cover
 
 ## More Info
 
-- [White Paper](../pdf/tf-whitepaper.pdf)
+- [White Paper](../pdf/tf_whitepaper.pdf)
 - [Foundation Governance](/faq/governance-faq)
 - [Foundation FAQ](/faq/foundation-faq/)
 - [Token FAQ](/faq/token-faq/)
