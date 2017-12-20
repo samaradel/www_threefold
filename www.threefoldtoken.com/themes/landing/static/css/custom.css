@@ -302,9 +302,7 @@ a {
     background-color: #699ee2
 }
 #nav.affix {
-    top: 0!important;
     left: 0;
-    width: 95%;
     z-index: 999;
     padding-right: 0;
     box-shadow: 0 7px 7px 0 rgba(0, 0, 0, .15);
@@ -690,7 +688,7 @@ section {
 }
 #nav > .navbar-inner {
     /* float: left; */
-    
+
     border-left: 0;
     border-right: 0;
     border-radius: 0;
@@ -727,7 +725,7 @@ section {
 .sqs-block-button .sqs-block-button-element--small:hover {
     background-color: #222;
     /*color: #3f5a7f;*/
-    
+
     color: #fff !important;
 }
 .sqs-block-content .buttons a {
@@ -1033,7 +1031,7 @@ dataCenters p {
 .contribute h1,
 .contribute h2 {
     color: #fff;
-    font-size: 100%;
+    /*font-size: 100%;*/
 }
 .container::after,
 .row::after {
@@ -1101,7 +1099,6 @@ dataCenters p {
     }
     .main-token {
         padding: 10px;
-        background-image: none;
     }
     .main-pricing {
         background-image: none;
@@ -1154,7 +1151,7 @@ dataCenters p {
     /* .collapsed {
              margin-right: 0
          } */
-    
+
     .navbar-toggle {
         margin-top: 18px;
     }
@@ -1220,7 +1217,7 @@ dataCenters p {
     }
     .container {
         padding: 0;
-    }    
+    }
     .how-button {
         font-size: 10px;
         letter-spacing: 0.12em;
@@ -1251,6 +1248,16 @@ dataCenters p {
 
     .pricing_para2 {
         font-size: 100%;
+    }
+    .main-token {
+        background-image: none;
+        background-color:#EFEFEF;
+        color: #4d4d4d;
+    }
+    .main-pricing {
+        background-image: none;
+        background-color:#EFEFEF;
+        color: #4d4d4d;
     }
 
 }

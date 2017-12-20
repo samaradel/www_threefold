@@ -1,6 +1,6 @@
 baseurl = "/"
 LanguageCode = "en"
-title = "Threefold Foundation"
+title = "ThreeFold Foundation"
 theme = "landing"
 contentdir = "content"
 staticdir = "static"
@@ -11,11 +11,14 @@ uglyURLs = false
 copyright = "(c) COPYRIGHT GIG TECHNOLOGY N.V"
 paginate = 15
 enableRobotsTXT = true
-ignorefiles = [ "pto/.*", "login/.*" ]
+ignorefiles = [ "pto/.*", "login/.*", "whitepaper/.*" ]
 [Params]
   logo = "img/Icons-05 copy.png"
   favicon = "img/favicon.ico"
-
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 [permalinks]
     post = "/:filename"
     # Navigation Links

@@ -1,7 +1,6 @@
 +++
 # Don't remove title!
-title = "information"
-header = "Rivine: Our Blockchain "
+title = "Rivine: Our Blockchain "
 image = "../img/our-blockchain.png"
 author = "Kristof De Spiegeleer"
 subtitle = "A blockchain suitable for the needs of the Foundation and its mission"

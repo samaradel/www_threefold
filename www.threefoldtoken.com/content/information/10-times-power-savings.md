@@ -1,8 +1,7 @@
 +++
 
 #Don't remove name!
-title = "information"
-header = "10x times power savings, is this possible?"
+title = "10x times power savings, is this possible?"
 image = "../img/10x-times-power.jpg"
 author = "Andreas Hartl"
 subtitle = "10x times power savings, is this possible?"
@@ -10,11 +9,11 @@ weight = 8
 
 +++
 
-### How do we achieve the efficient power usage in our Zero-Node
+### How do we achieve the efficient power usage in our Zero-OS node
 
 Today global Internet infrastructure requires enormous amounts of energy - well north of the entire annual electricity consumption of the United Kingdom - ranking among the more pollutive industries globally (similar to airlines!)
 
-We believe IT can do a lot better - in fact we believe we can reduce the Internet’s carbon footprint by 10 times compared to other industry standard Internet IT capacity producing solutions.
+We believe IT can do a lot better - in fact we believe we can reduce the Internet’s carbon footprint by 10 times compared to other industry standard IT capacity producing solutions.
 
 Power consumption is a function of better compute and storage performance requiring more racks and more cooling.
 
@@ -36,7 +35,7 @@ Keeping things up and running is a business model in modern day IT.  Major vendo
 
 Do not cut corners. If a specific piece of software or hardware is not delivering the required  performance or reliability look at the core design / algorithm and its usage of soft / hard components. Do not follow the path of least resistance and start swapping components for faster ones - look for the root cause and innovate on that. This has been used a lot by storage vendors to improve on performance - if performance is not met letś use a faster component (CPU, Memory, Network card, proprietary acceleration). This eliminates the need to actually look at the core algorithms and innovate on it but make you rely on other companies innovation to achieve higher performance.
 
-By using these three principles the  Zero-Node has got a minimal footprint in terms of power consumption. Some key examples how this is achieved:
+By using these three principles the  Zero-OS node has got a minimal footprint in terms of power consumption. Some key examples how this is achieved:
 
 #### Minimise the number of context switches
 

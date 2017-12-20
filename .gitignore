@@ -6,6 +6,13 @@ www.threefoldtoken.com/themes/landing/static/js/data.js
 www.threefoldtoken.com/themes/landing/static/avatars/*
 www.threefoldtoken.com/themes/landing/static/js/intercom-config.js
 www.threefoldtoken.com/themes/landing/static/js/login-intercom-config.js
+<<<<<<< HEAD
 www.threefoldtoken.com/data/content/community/avatars/*
 www.threefoldtoken.com/data/content/community_data.js
 www.threefoldtoken.com/data/web/js/contents.js
+=======
+#www.threefoldtoken.com/data/content/community/avatars/*
+www.threefoldtoken.com/data/content/community_data.js
+www.threefoldtoken.com/data/web/js/contents.js
+www.threefoldtoken.com/themes/landing/layouts/robots.txt
+>>>>>>> master

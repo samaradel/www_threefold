@@ -2,10 +2,10 @@
       <article class="BlogList-item clear-fix">
       <div class="BlogList-item-image">
             <a href="{{ .Permalink }}" class="BlogList-item-image-link">
-            <img title = "{{ .Params.header }}" alt="{{ .Params.header }}" src="{{ .Params.image }}">
+            <img title = "{{ .Title }}" alt="{{ .Title }}" src="{{ .Params.image }}">
             </a>
       </div>
-      <a href="{{ .Permalink }}" class="BlogList-item-title">{{ .Params.header }}</a>
+      <a href="{{ .Permalink }}" class="BlogList-item-title">{{ .Title }}</a>
       <div class="BlogList-item-excerpt">
             <p>{{ .Params.subtitle }}</p>
             <a href="/" class="BlogList-item-readmore"></a>

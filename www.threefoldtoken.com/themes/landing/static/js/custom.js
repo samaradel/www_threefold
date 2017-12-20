@@ -1,3 +1,4 @@
+'use strict';
 (function() {
 
     function makeTimer() {
@@ -65,9 +66,9 @@
     //     }
     // }
 
-    $('#nav-wrapper').height($("#nav").height());
-    $('#nav').affix({
-        offset: $('#nav').position()
-    });
+    // $('#nav-wrapper').height($("#nav").height());
+    // $('#nav').affix({
+    //     offset: $('#nav').position()
+    // });
 
 })();

@@ -1,8 +1,7 @@
 +++
 
 #Don't remove name!
-title = "information"
-header = "Our Magical Zero-Node"
+title = "Our Magical Zero-Node"
 image = "../img/our-magical-zero-node.jpg"
 author = "Andreas Hartl"
 subtitle = "Our magic box providing internet capacity."

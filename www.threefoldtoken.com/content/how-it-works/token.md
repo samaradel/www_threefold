@@ -5,7 +5,7 @@ title = "token"
 
 weight = 5
 +++
-## To make it happen seamlessly across the world we’re issuing the Threefold token!
+## To make it happen seamlessly across the world we’re issuing the ThreeFold Token (TFF)!
 
 ## **So what is this token?**
 
@@ -15,6 +15,6 @@ Bandwidth, Compute & Storage capacity
 
 Everything you need to run the internet,
 
-but in the Threefold way.
+but in the ThreeFold way.
 
 the green and neutral way.

@@ -1,7 +1,6 @@
 +++
 # Don't remove name!
-title = "information"
-header = "Ethical design manifesto"
+title = "Ethical design manifesto"
 image = "../img/ethical-product-design.jpg"
 author = "Kristof De Spiegeleer"
 subtitle = "How to create products in an ethical, human friendly way."

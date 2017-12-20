@@ -1,8 +1,6 @@
 +++
 # Don't remove name!
-title = "faq"
-
-header = "Threefold Token"
+title = "Threefold Token"
 image = "../img/question2.jpg"
 author = ""
 subtitle = ""
@@ -15,15 +13,15 @@ weight = 4
 
 The reasons for people to buy Tokens in the Public Token offering include the following:
 
-* Good cause: purchasers are helping us build a new neutral edge Internet
+* Good cause: purchasers are helping us build a new neutral edge Internet.
 * Potential upside: ThreeFold sits at the intersection of three of today’s most important technologies - Blockchain, Cloud Computing and Self Healing Technology, and we believe that as our global Grid expands and the capacity available for sale grows, the demand for our Tokens will increase.
-* Downside Protection and reduced volatility (ie Token price less likely to decrease substantially):  Our Tokens are given utility by the grid deployed by the Foundation.  Our Technology and Grid are already up and running and we believe our Foundation and its assets represent significant value, including sufficient liquidity
+* Downside Protection and reduced volatility (i.e. Token price less likely to decrease substantially). Our Tokens are given utility by the grid deployed by the Foundation. Our Technology and Grid are already up and running and we believe our Foundation and its assets represent significant value, including sufficient liquidity
 * High quality team with extensive technology and financial experience
-* Existing technology that is very well positioned for Edge networking and outperforms  leading technologies in many categories
+* Existing technology that is very well positioned for Edge networking and outperforms leading technologies in many categories
 
 ## Why do we need a ThreeFold Token?
 
-Decentralized digital currencies are well on the way to full acceptance as a mainstream currency in the future.  Benefits include direct peer to peer transactions (requiring no intermediaries such as banks); greater trust (secured by cryptography and mathematics); lower friction charges; faster transaction times and no single point of failure.
+Decentralized digital currencies are well on the way to full acceptance as a mainstream currency in the future. Benefits include direct peer to peer transactions (requiring no intermediaries such as banks); greater trust (secured by cryptography and mathematics); lower friction charges; faster transaction times and no single point of failure.
 
 Major problems remain, however, such as scalability issues, impossible energy requirements, certain perceived reputational issues and, most importantly, a general absence of intrinsic value collateralized by real assets.
 
@@ -31,20 +29,20 @@ We designed our Token as a safe, scalable currency with real utility and intrins
 
 ## What are the Foundation’s objectives for the TF Token?
 
-The Foundation’s long term objective is to migrate the TF Token firmly into the mainstream as a payment instrument used to purchase IT and other services. We seek  to:
+The Foundation’s long term objective is to migrate the ThreeFold Token firmly into the mainstream as a payment instrument used to purchase IT and other services. We seek  to:
 
-* Create a safe, alternative currency with intrinsic value rooted in real assets
-* Give our Tokens a designated utility by linking the  Token directly to the growth of the Internet
-* Support our Tokens - prioritise liquidity, stability, transparency and exchangeability for Token Holders
-* Ensure the integrity and security of the Tokens for Token Holders
+* Create a safe, alternative currency with intrinsic value rooted in real assets.
+* Give our Tokens a designated utility by linking the Token directly to the growth of the Internet.
+* Support our Tokens - prioritise liquidity, stability, transparency and exchangeability for Token Holders.
+* Ensure the integrity and security of the Tokens for Token Holders.
 
 ## Why did we use the word Token vs Coin?
 
-We use the word “Token” because our Tokens are much more than a simple coin.  In our view, coins really only have one function:  to act as simple stores of value.  Our Tokens represent an  economic interest in our Foundation and is the exclusive payment instrument or currency for which operators can sell Internet IT capacity via our Directory service.
+We use the word “Token” because our Tokens are much more than a simple coin.  In our view, coins really only have one function:  to act as simple stores of value. Our Tokens represent an  economic interest in our Foundation and is the exclusive payment instrument or currency for which operators can sell Internet IT capacity via our Directory service.
 
 ## Is our Token different from other digital currencies?
 
-We designed our Token to be different from other Tokens in several respects including the following:
+We designed our Token to be different from other digital currencies in several respects including the following:
 
 * Utility.  From inception, our Tokens have a specific designated use as the payment currency for buying and selling Internet IT capacity on our Grid.  
 * Neutral.  Our Foundation is mission- and value-based, has no shareholders and is not owned or controlled by any institution or government.  
@@ -76,7 +74,13 @@ One needs only sign up with our [ItsYou.Online](http://itsyou.online) identity m
 
 As payment, we currently accept BTC, USD, GBP and EUR.
 
-## What is the token issuing mechanism?
+## How many tokens already exists?
+
+Today there are 10,000,000 Tokens created and rooted in the value of our Foundation and internet capacity which is committed to be deployed by our operators and TF Miners over more than 200 locations.
+
+See bottom of our home page where you can see where existing capacity has been deployed.
+
+## What is the Token Issuance Mechanism?
 
 There will be no more than 100,000,000 TF tokens in existence (Max Supply). No additional TF tokens will ever be generated. Tokens will be tradable on public digital currency exchanges subject to applicable regulations by citizenship and/or country of residence. On these exchanges token holders would be free to buy, sell and trade tokens at market prices. 
 

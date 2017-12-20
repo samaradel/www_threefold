@@ -1,8 +1,7 @@
 +++
 
 #Don't remove name!
-title = "information"
-header = "AirBnB for Internet Capacity"
+title = "AirBnB for Internet Capacity"
 image = "../img/uber-for-internet-capacity.jpg"
 author = "Nicolay Babenko"
 subtitle = "Everyone should be able to deliver capacity to the new neutral internet. "
@@ -33,20 +32,19 @@ At the moment, it requires tremendous $ investment and massive scale to compete 
 
 We, at the ThreeFold foundation, have developed for the last years on distributed datacenter technology. One of the benefits of distributed datacenter technology is that it allows small organizations - even individuals - to participate in the Internet IT capacity market.
 
-With our Zero OS technology, you can jump into the market even if you have a couple of hundred dollars to invest. We call all such participants TF TF Miners (ThreeFold TF Miners).
+With our Zero OS technology, you can jump into the market even if you have a couple of hundred dollars to invest. We call all such participants ThreeFold Miners (TFM).
 
 ### How you can join
 
-The process to become a TF TF Miner is very straightforward.  Anyone - whether individual, professional or corporate - can join the TF Grid by buying a Zero Node and downloading the Zero-OS open source software. You can even do it with your existing spare hardware.
+The process to become a TF Miner is very straightforward.  Anyone - whether individual, professional or corporate - can join the TF Grid by buying a Zero Node and downloading the Zero-OS open source software. You can even do it with your existing spare hardware.
 
 Now you can operate your micro datacenter and earn money on it, we call this process TF Mining.
 
-Our Zero-Nodes are designed to be “plug and play” with full self driving capability - meaning TF TF Miners do not need to have IT experience.
+Our Zero-Nodes are designed to be “plug and play” with full self driving capability - meaning TF Miners do not need to have IT experience.
 
 The Internet Capacity produced by the Zero-Node is automatically registered on the TF Directory which is made public to global purchasers of Internet Capacity. There is no need to build a marketing department or promote your micronode. As long as the price is reasonable, there will be demand capacity near your location.
 
-For convenience, pricing is set by the TF Directory algorithm based on numerous factors including real time local supply and demand, competition, network connection, hardware type and the environment.  More advanced TF TF Miners can set their pricing if desired.
-
+For convenience, pricing is set by the TF Directory algorithm based on numerous factors including real time local supply and demand, competition, network connection, hardware type and the environment.  More advanced TF Miners can set their pricing if desired.
 
 Now you essentially can become an ‘AirBnB’ TF Miner for the new, neutral internet which belongs to all of us.
 

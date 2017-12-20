@@ -2,3 +2,4 @@ User-Agent: *
 Disallow: 
 Allow: /
 Allow: /login
+sitemap: http://threefoldtoken.com/sitemap.xml

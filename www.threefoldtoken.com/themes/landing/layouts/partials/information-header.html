@@ -1,5 +1,5 @@
 {{ range $element :=  $.Site.Pages }}
-  {{ if eq .Section "information" }}
+  {{ if eq .Section "head" }}
     {{ if eq .Title "information header"}}
       <div class="logo-container">
          <a href="/"><img src="/img/threefold.svg" alt="Threefold"></a>

@@ -48,7 +48,7 @@ To add pdf just upload it in [/pdf](https://docs.greenitglobe.com/ThreeFold/www_
 ## Editing Community page contents
 
 if you need to add person at community page follow this link
-[community](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/www.threefoldtoken.com/data)
+[community](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/www.threefoldtoken.com/data/content/community)
 - put the pictures at avatar 
 - update data at ambassadors.toml or hosters.toml, operators.toml
 

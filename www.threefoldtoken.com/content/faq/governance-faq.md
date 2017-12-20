@@ -1,8 +1,6 @@
 +++
 # Don't remove name!
-title = "information"
-
-header = "Governance"
+title = "Governance"
 image = "../img/governance.jpg"
 author = ""
 subtitle = ""
@@ -14,9 +12,9 @@ weight = 3
 
 Our goal is to keep the foundation:
 
-* effective and agile with just enough freedom
-* fully accountable and controllable (by means of a board)
-* transparent just like a public institution;
+* Effective and agile with just enough freedom.
+* Fully accountable and controllable (by means of a board).
+* Transparent just like a public institution;
 
 The governance framework must preserve and protect the Foundation’s mission see [foundation faq](/faq/foundation-faq/) and our [White Paper](/pdf/tf_whitepaper.pdf).
 
@@ -25,13 +23,13 @@ In order to balance these two (sometimes competing) priorities - the Foundation 
 
 ## Company Directors
 
-* The company is legally run by 3 directors. Foundation Chairman, a CEO and a CFO. These 3 people report into the Foundation Board.
+* The company is legally run by 3 directors. Foundation Chairman, a CEO and a CFO. These 3 people report to the Foundation Board.
 * To allow the Foundation to stay flexible these directors can operate within the guidelines as approved by the Foundation Board. They also have to follow any budgets approved by the Foundation Board.
 * This group of directors runs the company from a day to day basis and are paid by the Foundation for their services.
 * Every month these directors need to report to the Foundation board.
 * There are well defined lists of decisions for which these directors need approval from the Foundation Board.
 
-The Chairman, CEO and CFO are tasked with running the Foundation day-to-day. They manage the Foundation’s engineering efforts, ensuring that they are done according the the goals and in time. They also manage the Foundation’s marketing efforts and communication with publican, prepare regular updates for the Foundation Board (and others) - and are in charge of submitting all required decision proposals (DPs or Decision Proposals) to the Foundation Board when appropriate.
+The Chairman, CEO and CFO are tasked with running the Foundation day-to-day. They manage the Foundation’s engineering efforts, ensuring that they are done according the the goals and in time. They also manage the Foundation’s marketing efforts and communication with the public, prepare regular updates for the Foundation Board (and others) - and are in charge of submitting all required Decision Proposals (DPs) to the Foundation Board when appropriate.
 
 ## Two Boards
 
@@ -48,12 +46,12 @@ The Foundation Board has to agree on the strategy and management of the Foundati
 
 The Ambassador Board is comprised of 30 to 100 members. The Ambassador Board members have no time limits on their terms. They can only be removed or replaced by a majority vote of other Ambassadors.
 
-The primary function of the Ambassador Board is to serve as a safeguard for the Foundation Board. and to vote on certain Decision Proposals requiring Ambassador Board consent.
+The primary function of the Ambassador Board is to serve as a safeguard for the Foundation Board, and to vote on certain Decision Proposals requiring Ambassador Board consent.
 
 In particular the Ambassador Board can
 
-* appoint the four non-executive directors of the Foundation Board.
-* replace the Foundation Board members if needed (this requires a 60% Ambassador Board majority).
+* Appoint the four non-executive directors of the Foundation Board.
+* Replace the Foundation Board members if needed (this requires a 60% Ambassador Board majority).
 The Ambassador Board is less active than the Foundation Board - with only two scheduled mandatory meetings per year and ad hoc meetings requiring a minimum quorum if called by the Foundation Board.
 
 The Ambassador board also votes for projects the Foundation wants to fund (e.g. doing good projects).

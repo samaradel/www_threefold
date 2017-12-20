@@ -1,7 +1,6 @@
 +++
 # Don't remove name!
-title = "information"
-header = "Open Source Technology"
+title = "Open Source Technology"
 image = "../img/open-source--technology.jpg"
 author = "Andreas Hartl"
 subtitle = "Overview of our technology components and links to repositories"
