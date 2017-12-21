@@ -25,4 +25,4 @@ This inspired us to create more effective IT architectures powering IT workloads
 * Create a low level power management device that is able to manage and monitor the whole upstream power feed and create efficient power consumption.  One of the key aspects of this technology is that it measure Voltage and Amperage 25k times a second, which provides very detailed information about how the power supply is “consuming” the power  and allows for analytical failure prediction.
 
 
-A Zero-Node consists of hardware and software. A Zero Node can be purchased from the TF Foundation or by downloading and installing software on existing re-purposed hardware. The software components are:
+A Zero-Node consists of hardware and software. A Zero Node can be purchased from the TF Foundation or by downloading and installing software on existing re-purposed hardware.
