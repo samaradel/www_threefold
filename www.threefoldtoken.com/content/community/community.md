@@ -2,11 +2,11 @@
 #Don't remove title!
 
 title = "community"
-ambassadors_header = "The ThreeFold Ambassadors."
+ambassadors_header = "ThreeFold Ambassadors."
 ambassadors_sub = "Our Ambassadors are the first 30 people who are supporting us on our journey to a better world. Each of them believes in our values and mission and are proud Token holders."
 ambassadors_sub2 = "Together these 30 people serve on our community board driving the Foundation forward."
 
-hosters_header = "Our first 200 ThreeFold Miners."
+hosters_header = "The ThreeFold Miners."
 hosters_sub = "Our TF Miners are the first 200 individual TF Miners putting capacity on our network. Each of them believes in what we do, and they want to help to make this dream reality."
 hosters_sub2 = "Each of them put at least 1TB of storage and 4 logical CPU cores of computing capacity onto our Grid."
 
