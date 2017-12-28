@@ -162,15 +162,6 @@ avatar="philippe.jpg"
 
 [[ambassador]]
 x=2 # 0 <= X < 4
-y=4 # 0 <= Y < 5
-name="Owen Kemp"
-nationality="Austrian"
-why="I believe in Threefold Foundation because I think it’s time for a sea-change in the way the internet develops going forward, and it’s time for Digital Currencies to get a better image – Threefold is the solution to both.."
-bio="Owen Kemp is an experienced executive in the IT space, having led several multi-billion dollar businesses for HP in all world-wide markets. He was responsible for HP’s world-wide Finance Industry business, launched HP in to emerging markets of Sub-Saharan Africa and Middle East and ran HP’s subsidiary in Russia with an emphasis on improving balance of trade, R&D and corporate citizenship."
-avatar="Owen Kemp.jpg"
-
-[[ambassador]]
-x=2 # 0 <= X < 4
 y=5 # 0 <= Y < 5
 name="Brian Bogaerts"
 nationality="Belgian"
