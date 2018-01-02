@@ -23,7 +23,7 @@ Be an opinion shaper in your particular field, and use your network and reach to
 
 ## In what way does a ThreeFold Ambassador become a part of the ThreeFold Foundation?
 
-As a ThreeFold Ambassador you are a Founding member of the Foundation. On the Ambassador board, you are involved in overseeing how the foundation will be run. To recognize your contribution, you are entrusted with 2,000 TF Tokens which will be rewarded with vesting over 4 years.
+As a ThreeFold Ambassador you are a Founding member of the Foundation. On the Ambassador board, you are involved in overseeing how the foundation will be run. To recognize your contribution, you are entrusted with 1000 TF Tokens which will be rewarded with vesting over 4 years.
 
 ## What can I do to help as a ThreeFold Ambassador?
 
