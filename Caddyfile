@@ -10,11 +10,11 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
       key ~/.ssh/id_rsa
       path ../../../data_team/
       then python3 scripts/process.py
-      then hugo -s ../www_threefold2.0/www.threefoldtoken.com
+      then hugo -s ../www_threefold/www.threefoldtoken.com
     }
 
     git {
-      repo ssh://git@docs.greenitglobe.com:10022/ThreeFold/www_threefold2.0.git
+      repo ssh://git@docs.grid.tf:7022/threefold/www_threefold.git
       branch master
       interval 60
       key ~/.ssh/id_rsa
@@ -24,40 +24,7 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
     }
 
     errors {
-    	404 404.html # Not Found
+      404 404.html # Not Found
       403 403/index.html # Forbidden
     }
-
-#   proxy /forward/v1/oauth/jwt/refresh https://staging.itsyou.online {
-#       without /forward
-#   }
-#   
-#   oauth {
-#       client_id       threefold
-#       client_secret   dxUIMndhdVXKU470S24PvzOchXQn5qHAPGMZSJekRwUtwqluYp8n
-#       auth_url        https://staging.itsyou.online/v1/oauth/authorize
-#       token_url       https://staging.itsyou.online/v1/oauth/access_token
-#       jwt_url         https://staging.itsyou.online/v1/oauth/jwt
-#       redirect_url    http://members.threefold.aydo.com/oauth/callback
-#       organizations   /ito threefold.ito-gs
-#       organizations   /gettingstarted threefold.ito-gs
-#   
-#       authentication_required /
-#       allow_extension css
-#       allow_extension js
-#       allow_extension png
-#       allow_extension svg
-#       allow_extension ico
-#       allow_extension ttf
-#       allow_extension woff2
-#       allow_extension jpg
-#       allow_extension jpeg
-#       allow_extension JPG
-#       allow_extension how-it-works/
-#       refreshable
-#   
-#       login_page /login
-#       login_url /oauth
-#       extra_scopes  user:name,user:see,user:keystore,user:validated:email,user:validated:phone,user:address
-#   }
 }
