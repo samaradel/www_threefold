@@ -37,18 +37,18 @@ For any GOGS related questions please contact:
 Nickolay Babenko through telegram @nbabenko
 
 ## Editing Website contents
-All webpages are found here [content webpages](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/www.threefoldtoken.com/content)
+All webpages are found here [content webpages](https://docs.grid.tf/threefold/www_threefold/src/branch/master/www.threefoldtoken.com/content)
 Please make sure before editing you are using the master branch to do so.
 To review your changes please view: [Staging](https://threefold2.aydo.com/).
 (it might take up to a minute for changes to show up)
 
 ### PDF
-To add pdf just upload it in [/pdf](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/www.threefoldtoken.com/themes/landing/static/pdf) and modify the value of pdf in the markdown file.
+To add pdf just upload it in [/pdf](https://docs.grid.tf/threefold/www_threefold/src/branch/master/www.threefoldtoken.com/themes/landing/static/pdf) and modify the value of pdf in the markdown file.
 
 ## Editing Community page contents
 
 if you need to add person at community page follow this link
-[community](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/www.threefoldtoken.com/data/content/community)
+[community](https://docs.grid.tf/threefold/www_threefold/src/branch/master/www.threefoldtoken.com/data/content/community)
 - put the pictures at avatar 
 - update data at ambassadors.toml or hosters.toml, operators.toml
 
@@ -57,7 +57,7 @@ update will show up at [Staging](http://threefold2.aydo.com:4040/community/) aft
 
 ## Original Pictures
 
-All pictures used on blogs, faq and other parts the website should be stored here. [Original_Pictures](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/src/master/www.threefoldtoken.com/data/fotos_original)
+All pictures used on blogs, faq and other parts the website should be stored here. [Original_Pictures](https://docs.grid.tf/threefold/www_threefold/src/branch/master/www.threefoldtoken.com/data/fotos_original)
 Never should we use these a source files for our website due to extremely large sized pictures.
 Please refer to @roelvansabben if you need an image altered for web use.
 
