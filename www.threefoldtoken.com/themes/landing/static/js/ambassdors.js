@@ -67,9 +67,10 @@ $(function() {
     };
 
     function toggleBio() {
-        $(".rj-team-member .member-photo").click(function() {
+        $(".rj-team-member .member-photo").click(function(event) {
+            event.preventDefault();
             $(this).parent().siblings().children(".member-photo").removeClass("selected"), $(this).toggleClass("selected"), $(this).parent().siblings().children(".rj-team-member-info-text").hide(), $(this).siblings(".rj-team-member-info-text").toggle();
-            var a = $(this).siblings(".rj-team-member-info-text").offset().top - 300;
+            var a = $(this).siblings(".rj-team-member-info-text").offset();
             $("body").animate({
                 scrollTop: a
             }), $(".close-bio").click(function() {
@@ -94,8 +95,4 @@ $(function() {
     $("#ambassadors").append(render(ambassadors));
     $("#hosters").append(render(hosters));
     $("#operators").append(render(operators));
-
-    toggleBio();
-    unselectDiv();
-    activateTeamFilter();
 });
