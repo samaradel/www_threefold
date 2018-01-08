@@ -318,3 +318,12 @@ nationality="Russian"
 why="I believe in the Threefold Foundation since it provides the innovative solutions to the revolutionary crypto currency technology. It solves challenges of complexity, costs and energy usage."
 bio="Maria has over 10 years experience on Russian IT market. Now she is the Founder & CEO of Data Frame (www.data-frame.ru). She holds an MBA in Finance from California State University, East Bay, USA and degree in Economics from Moscow StateUniversity of Economics, Statistic and Computer Technologies. Prior to founding Data Frame, Maria spent five years  as a Vice President for Business Development working in DataSpace — the leading data center colocation operator where she managed to sign service contracts with number of domestic and international companies, including leading Russian banks and closed the most important and significant deal with Moscow Exchange. From 2004 to 2010, Maria served as Leasing Account Director at Cisco Capital, the leading vendor finance company owned by Cisco Systems, Inc. She was awarded Best Deal Achiever FY’06 and Sales Achiever Award FY ’08."
 avatar="Maria Marchenko.jpg"
+
+[[ambassador]]
+x=4 # 0 <= X < 4
+y=6 # 0 <= Y < 5
+name="Xander van der Heijden"
+nationality="Dutch"
+why="I strongly believe in decentralized infrastructure as the foundation for creating the real Web 3.0 Internet. Empowering us to handle the increasing amounts of data traffic and to respond to the growing need for internet capacity, Blockchain and edge computing are providing the tools and Threefold is how we get to the Web 3.0 world! Contributing to a better place for everybody."
+bio="Xander is a serial entrepreneur and venture mentor. He started his first software development / Internet company – Beeyond, back in 1995, where he created and patented InterLingua™ - a pioneering cloud technology in the areas of electronic data communications, database organized, flexible format electronic data message management, client-server and distributed software applications. Currently, Xander is founder and CEO of 2SQRS – a research, development and investment company that grows human-tech concepts to global ventures. He is also a co-founder of Web3 Ventures – an incubator for decentralized autonomous services that enables entrepreneurs and developers in bringing infrastructural innovation to the growing blockchain community."
+avatar="Xander Malta.jpg"
