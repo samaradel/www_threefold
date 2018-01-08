@@ -309,3 +309,12 @@ nationality="Austrian"
 why="I believe in the Threefold Foundation, because I have experienced in my former business life the huge complexity of datacenters, cloud infrastructure and services around the globe. This amazing TFF project is addressing today’s challenges of complexity, costs and energy usage.TFF will be at the heart of empowering the internet, generating new mind blowing efficiency and economy."
 bio="Wolfgang is an IT Sales and Service veteran with 38 years at Hewlett Packard, Compaq and Digital Equipment, with global VP sales experience in Europe, Asia and the emerging markets. He has a strong track record of making things happen through execution and has completed some of the largest Merger and Spin-of projects in the IT sector."
 avatar="Wolfgang W.jpg"
+
+[[ambassador]]
+x=4 # 0 <= X < 4
+y=5 # 0 <= Y < 5
+name="Marchenko Maria"
+nationality="Russian"
+why="I believe in the Threefold Foundation since it provides the innovative solutions to the revolutionary crypto currency technology. It solves challenges of complexity, costs and energy usage."
+bio="Maria has over 10 years experience on Russian IT market. Now she is the Founder & CEO of Data Frame (www.data-frame.ru). She holds an MBA in Finance from California State University, East Bay, USA and degree in Economics from Moscow StateUniversity of Economics, Statistic and Computer Technologies. Prior to founding Data Frame, Maria spent five years  as a Vice President for Business Development working in DataSpace — the leading data center colocation operator where she managed to sign service contracts with number of domestic and international companies, including leading Russian banks and closed the most important and significant deal with Moscow Exchange. From 2004 to 2010, Maria served as Leasing Account Director at Cisco Capital, the leading vendor finance company owned by Cisco Systems, Inc. She was awarded Best Deal Achiever FY’06 and Sales Achiever Award FY ’08."
+avatar="Maria Marchenko.jpg"
