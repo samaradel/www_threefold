@@ -14,7 +14,7 @@ twitter_txt = ""
 telegram = ""
 telegrem_txt = ""
 
-weight = 8
+weight = 10
 +++
-Jan is our systems architect of ThreeFold Foundation and GIG Technology. He was working at Incubaid as CTO for the last 15 years. He hacks open-source software and Linux operating systems to simply make them different and better.
-
+Jan is our CTO platforms at ThreeFold Foundation and GIG Technology. He was CTO at Incubaid as for the past decade. 
+Incubaid was a disruptor in the tech scene after having successfully exited a portfolio of 6 high-value exits. He hacks open-source software and Linux operating systems to simply make them different and better.

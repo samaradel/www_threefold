@@ -9,7 +9,7 @@ publishdir = "en"
 pluralizeListTitles = false
 uglyURLs = false
 copyright = "(c) COPYRIGHT GIG TECHNOLOGY N.V"
-paginate = 15
+paginate = 20
 enableRobotsTXT = true
 ignorefiles = [ "pto/.*", "login/.*", "whitepaper/.*" ]
 [Params]

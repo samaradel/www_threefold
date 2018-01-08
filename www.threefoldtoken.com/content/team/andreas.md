@@ -14,11 +14,6 @@ twitter_txt = ""
 telegram = ""
 telegrem_txt = ""
 
-weight = 4
+weight = 5
 +++
-Andreas strongly believes that behind every so called problem lays a big opportunity.
-For Andreas true passion only arises if you live up to the secret formula of ‘do what you love and love what you do’. 
-
-In his former business life Andreas was the leader of multinational sales teams for a number of US IT companies in both startup and mature stages. Before joining ThreeFold Andreas was responsible for GIG’s global channel sales activities.
-
-
+Andreas has been building new brands and successful teams for more than 15 years. Of course our German guru also supports the most successful German football team - Bayern Munich.
