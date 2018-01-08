@@ -2,7 +2,7 @@
 
 #Don't Remove title!
 title = "team"
-image = "../img/weynand.jpg"
+image = "../img/weynand.png"
 name = "Weynand Kuijpers"
 linkedin = "https://www.linkedin.com/in/weynandkuijpers/"
 linkedin_txt = "View my profile"
