@@ -54,6 +54,6 @@ In particular the Ambassador Board can
 * Replace the Foundation Board members if needed (this requires a 60% Ambassador Board majority).
 The Ambassador Board is less active than the Foundation Board - with only two scheduled mandatory meetings per year and ad hoc meetings requiring a minimum quorum if called by the Foundation Board.
 
-The Ambassador board also votes for projects the Foundation wants to fund (e.g. doing good ).
+The Ambassador board also votes for projects the Foundation wants to fund (e.g. doing good projects).
 
 
