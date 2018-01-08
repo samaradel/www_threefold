@@ -32,7 +32,7 @@ weight = 5
 - TRANSPARENT: sales, pricing, processes, …
 
 
-![EthicalDesign](https://docs.grid.tf/dividi/values/src/branch/master/images/ethical_design_small.png)
+![EthicalDesign](https://docs.grid.tf/dividi/values/raw/branch/master/images/ethical_design_small.png)
 
 Design your organisations so that your core values are respect for human rights, respect for human effort, and respect for human experience.
 
