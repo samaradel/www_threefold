@@ -36,7 +36,7 @@ We 100% understand every component used - meaning we have all our source code an
 
 Our Zero OS is ideally suited for Edge infrastructure which requires automation, self-healing and hyper-distribution.
 
-Our Zero-Nodes are Secure, Self Driving and Green. Our “Zero” components are super straightforward - the Zero-OS has no filesystem, no volume driver, no shell (terminal), no SSH server, etc. which results in better security, fast installation and does not require upgrades.  Also our Zero Nodes are plug and play “self driving” so anyone can become a TF Miners by simply connecting it to the internet and a powersource. 
+--- Our Zero-Nodes are Secure, Self Driving and Green. Our “Zero” components are super straightforward - the Zero-OS has no filesystem, no volume driver, no shell (terminal), no SSH server, etc. which results in better security, fast installation and does not require upgrades.  Also our Zero Nodes are plug and play “self driving” so anyone can become a TF Farmer by simply connecting it to the internet and a powersource. 
 
 [see our magical Zero-Node blog](/information/magical-zero-node/)
 
