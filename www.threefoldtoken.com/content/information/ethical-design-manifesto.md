@@ -38,3 +38,4 @@ Design your organisations so that your core values are respect for human rights,
 
 credits
 original ideas, graphics & text come from https://ind.ie/ethical-design/ (we’ve added our own twist to it)
+test
