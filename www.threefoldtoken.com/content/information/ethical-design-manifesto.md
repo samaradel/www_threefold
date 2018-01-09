@@ -37,4 +37,4 @@ weight = 5
 Design your organisations so that your core values are respect for human rights, respect for human effort, and respect for human experience.
 
 credits
-original ideas, graphics & text come from https://ind.ie/ethical-design/ (we’ve added our own twist to it)test
+original ideas, graphics & text come from https://ind.ie/ethical-design/ (we’ve added our own twist to it)
