@@ -27,3 +27,6 @@ only 1 page, remove team
 - Coders
     - link to their github repo and als product/repo's they work on
     - why do they like threefold 
+
+- Guardians (is only for later)
+    - first we need to have X guardians
