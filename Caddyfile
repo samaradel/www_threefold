@@ -6,7 +6,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
     git {
       repo ssh://git@docs.greenitglobe.com:10022/gig/data_team.git
       branch production
-      interval 60
+      hook /gitea/pull/data_team "zU3687$aJEb6"
       key ~/.ssh/id_rsa
       path ../../../data_team/
       then python3 scripts/process.py
@@ -16,7 +16,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
     git {
       repo ssh://git@docs.grid.tf:7022/threefold/www_threefold.git
       branch production
-      interval 60
+      hook /gitea/pull/www_threefold "zU3687$aJEb6"
       key ~/.ssh/id_rsa
       path ../..
       then ./update.sh
@@ -24,7 +24,7 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
     }
 
     errors {
-    	404 404.html # Not Found
+      404 404.html # Not Found
       403 403/index.html # Forbidden
     }
 }

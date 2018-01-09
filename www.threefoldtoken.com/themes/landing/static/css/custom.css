@@ -106,7 +106,8 @@ header .nav {
     font-style: normal;
     font-size: 13px;
     letter-spacing: .18em;
-    text-transform: uppercase
+    text-transform: uppercase;
+    background-color: #699ee2
 }
 .smallScreen,
 .navbar-brand,
@@ -295,7 +296,6 @@ a {
 } */
 
 .affix,
-.affix-top,
 .navbar-fixed,
 .Site .header,
 .navbar.navbar-fixed-top.fixed-theme {
