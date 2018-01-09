@@ -52,9 +52,11 @@ TFF is 100% independent from any of the further mentioned organizations and aims
 
 ### ThreeFold Community (TFC)
 
-Members all over the world buying the ThreeFold Token (TFT). By means of these TFTs the TFC can buy capacity available on the ThreeFold Grid (TFG).
+--- The Community is everybody committed to the Threefold Values and mission. This means all people involved in our Ecosystem. The Founders, Ambassadors, Evangelists and Team Members. 
 
-### ThreeFold Producer (TFP)
+Members all over the world buying the ThreeFold Token (TFT). By means of these TFTs the TFC can buy capacity available on the ThreeFold Grid (TFG). 
+
+### --- ThreeFold Producer (TFP)
 
 A TFP produces the ThreeFold Nodes following guidelines provided by the TFF.
 
@@ -62,22 +64,22 @@ A TFP will assemble, compile the software, insert the initial bootstrap private 
 
 All TFP’s are independant from each other. In this way the TFF ensures neutrality & security. It's important to note, that source code gets compiled by different parties.
 
-### ThreeFold Miner (TFM)
+### --- ThreeFold Farmer (TFF)
 
-TFMs are independent organizations which buy ThreeFold Nodes/Clusters and connect them to the internet.
+TFFs are independent organizations which buy ThreeFold Nodes/Clusters and connect them to the internet.
 
-As a result of mining, i.e. creating additional capacity, TF tokens are automatically created by a TF blockchain smart contract. TFMs need to keep the nodes up and running which means managing the power & network connection.
+As a result of farming, i.e. creating additional capacity, TF tokens are automatically created by a TF blockchain smart contract. TFFs need to keep the nodes up and running for at least 98%, which means managing the power & network connection.
 
-TFMs have NO access to the ThreeFold Nodes or Clusters they have provisioned. They can only use that capacity like any other TFC member would: through the blockchain, in all neutrality, privacy and security.
+TFFs have NO access to the ThreeFold Nodes or Clusters they have provisioned. They can only use that capacity like any other TFC member would: through the blockchain, in all neutrality, privacy and security.
 
 
-### ThreeFold University (TFU)
+### --- ThreeFold University (TFU)
 The Foundation is actively working to establish centers of knowledge and expertise, in multiple strategic locations worldwide.
 
 Community engagement: all of our software is open-source and we understand the importance of feedback and contribution from the developer community. This will significantly increase stability, trust and understanding of this technology.
 Partnerships:  In order to propagate new conceptual thinking in the IT community, we have to make the technology and knowledge base open to the community (business & education).
 Engineering meetups and roadshows: To spread the knowledge about the platform and its possibilities.
-Wiki-style knowledge platforms
+Wiki-style knowledge platforms.
 
 ## Components
 ### ThreeFold Blockchain
