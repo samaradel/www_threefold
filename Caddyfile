@@ -6,7 +6,7 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
     git {
       repo ssh://git@docs.greenitglobe.com:10022/gig/data_team.git
       branch master
-      interval 60
+      hook /gitea/pull "zU3687$aJEb6"
       key ~/.ssh/id_rsa
       path ../../../data_team/
       then python3 scripts/process.py
@@ -16,7 +16,7 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
     git {
       repo ssh://git@docs.grid.tf:7022/threefold/www_threefold.git
       branch master
-      interval 60
+      hook /gitea/pull "zU3687$aJEb6"
       key ~/.ssh/id_rsa
       path ../..
       then ./update.sh
