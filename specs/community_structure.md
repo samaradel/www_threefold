@@ -1,11 +1,11 @@
 
-only 1 page, remove team
+Community Page
 
-- Universally Applicable
+- For each we need to specify
     - What does each group do
-    - Small B&W thumbnails (white background)
-    - Need LinkedIn Profile Links
-    - Need mini-bios
+    - Small B&W thumbnails like now for ambassadors (white background)
+    - Need LinkedIn Profile Links (not for coders)
+    - Need mini-bios (need to express the doing good thing)
     - Identify the List of from who?
 
 - team
@@ -15,12 +15,12 @@ only 1 page, remove team
 
 - Ambassadors
     - Identify the list of Ambassadors
-    - Remove the first "30 people" copy
+    - Remove the first "30 people" statement
 
 - Individual Farmers
-    - Ask Andreas
+    - the current list I guess + ...
 
-- Commercial Ranchers
+- Commercial Farmers
     - Ask Andreas
     - why they like it
 
