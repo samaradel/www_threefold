@@ -9,7 +9,7 @@ weight = 4
 +++
 
 # Why THREEFOLD Token
-## Why should I buy Tokens?
+## Why should I buy Tokens now ?
 
 The reasons for people to buy Tokens in the Public Token offering include the following:
 
@@ -154,7 +154,7 @@ The Foundation uses the proceeds to co-invest in Mining projects or good cause p
 
 ## Which blockchain is used? What is the issuing format for the ThreeFold Token?
 
-Our Tokens will be issued on Ethereum blockchain as ERC20 compliant Tokens.  
+XXX Our Tokens will be issued on Ethereum blockchain as ERC20 compliant Tokens.  
 
 ## Where can I find the smart contract code?
 
