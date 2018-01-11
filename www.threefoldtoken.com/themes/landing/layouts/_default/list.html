@@ -14,7 +14,7 @@
       {{ else if eq .Section "ito" }}
           {{ partial "ito-header.html" . }}
           {{ else if eq .Section "whitepaper" }}
-              {{ partial "whitepaper-header.html" . }}    
+              {{ partial "whitepaper-header.html" . }}
       {{ else if eq .Section "gettingstarted" }}
           {{ partial "gettingstarted-header.html" . }}
        {{else}}
@@ -59,8 +59,7 @@
                     <div class="Content-outer">{{ $p.Render "pricing" }}</div>
                     {{ else if eq .Title "participate"}}
                     <div class="Content-outer">{{ $p.Render "participate" }}</div>
-                    {{ else if eq .Title "contribute" }}
-                    <div class="Content-outer">{{ $p.Render "contribute" }}</div>
+                    
                     {{end}}
                   {{ else if eq .Section "pto" }}
                     {{ if eq .Title "pto" }}
