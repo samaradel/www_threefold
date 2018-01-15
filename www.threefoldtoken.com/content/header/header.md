@@ -3,5 +3,5 @@
 title = "header"
 
 header_1 = "Threefold Token"
-header_2 = "a safe digital currency backing a new, neutral green Internet"
+header_2 = "a digital currency backed by neutral and sustainable internet capacity"
 +++
