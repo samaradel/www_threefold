@@ -20,4 +20,4 @@ Download the ThreeFold Foundation App on your mobile device, and log in using yo
 
 ### Questions?
 
-If you have any questions or problems with the ThreeFold Foundation App please reach out to us using the Live Chat function on our website or app. We will make sure to get back to you as soon as possible.
+If you have any questions or problems with the ThreeFold Foundation App please reach out to us using the Live Chat function on our website or app. We will make sure to get back to you as soon as possible.test
