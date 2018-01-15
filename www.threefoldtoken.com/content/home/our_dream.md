@@ -12,8 +12,8 @@ text_1 = "By changing the way how the internet is expanding and by building a mo
 title_2 = "Education & Equal Chances"
 text_2 = "By providing internet capacity all over the world close to the users, we improve performance and allow anyone to get access to the required resources for their business or education at affordable prices"
 
-title_3 = "A Safe Utility Currency"
-text_3 = " Digital currencies like Bitcoin and Ethereum are super popular, but they are not backed by assets and very speculative, together we want to create the safest, greenest and most stable digital currency in the world."
+title_3 = "A Utility Currency"
+text_3 = " Digital currencies like Bitcoin and Ethereum are super popular, but they are not backed by assets and are very speculative. We want to create a token with actual utility and purpose."
 
 last_text = "We want to empower anyone to become part of the ThreeFold Foundation and work with us to accomplish our objectives. The Foundation is a 100% transparent tokenized organization driven by a strong set of values. You can join us by buying & using tokens - or become one of our Miners or Operators."
 token_holder ="First Token Holder"
