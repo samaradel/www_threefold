@@ -11,7 +11,7 @@ weight = 1
 
 ## General
 
-### TF Grid (TFG)
+### ThreeFold Grid (TFG)
 
 The ThreeFold Grid is a global new neutral and sustainable network of IT infrastructure. On this Grid IT capacity is indexed registered on the ThreeFold Directory for easy discovery by purchasers.
 
@@ -19,7 +19,7 @@ This Internet capacity is produced and allocated locally - similar to the way el
 
 In this Grid, your data is local to and controlled by you.
 
-### TF Token (TFT)
+### ThreeFold Token (TFT)
 
 The ThreeFold Token is a green and neutral utility Token what is the designated currency for IT capacity bought and sold on the ThreeFold Grid.
 
@@ -45,7 +45,7 @@ Each ThreeFold Farmer defines the price at which they want to sell their capacit
 The Directory is integrated with our identity management platform, ItsYou.Online, for authentication.
 
 
-### Internet IT capacity (capacity)
+### Internet IT capacity
 
 The Information Technology capacity like storage, compute, applications, ...
 Example: docker container, database, website, blog, archive storage system, ...
@@ -78,52 +78,4 @@ Although Architects are independent from each other we expect the ThreeFold to p
 
 ThreeFold Guardians protect the values and principles of the TF Foundation within the TF Ecosystem. All Foundation activities are transparent, open and visible to all.  The guardians also have the responsibility of how and when to allocate funds from the ThreeFold Token Pool. 
 
-There will be up to 100 Guardians. 
-
-
-### ThreeFold Foundation: Ecosystem for safeguarding the decentralized functioning of the above ecosystem
-
-
-
-**ThreeFold Founders**
-
-
-**ThreeFold Ambassadors**
-
-
-**ThreeFold Team Members**
-
-
-**ThreeFold Evengalists**
-
-
-(old)
-### ThreeFold Foundation (TFF)
-
-TFF is a non-profit organization which issues the tokens and is controlled by an independent Board who in turn are overseen by independent Ambassadors.
-
-TFF also promotes our network and further develops our existing technology.
-
-TFF is 100% independent from any of the further mentioned organizations and aims to remain small & effective.
-
-### ThreeFold Community (TFC)
-
-The Community is everybody committed to the Threefold Values and mission. This means all people involved in our Ecosystem. The Founders, Ambassadors, Evangelists and Team Members.
-
-Members all over the world buying the ThreeFold Token (TFT). By means of these TFTs the TFC can buy capacity available on the ThreeFold Grid (TFG).
-
-
-## Components
-### ThreeFold Blockchain
-
-Our blockchain is different from some of the other blockchains in that it is run on a separate dedicated pool of Zero-Nodes and has numerous additional features including support for storage, secure execution environments, metadata servers and identity management.  
-
-## Varia
-
-### ThreeFold Reservation
-
-The TF Reservation is a smart contract defining capacity transactions.  The TF Contract specifies the key information such as the capacity or service, duration, price per unit, location, etc.
-
-### ThreeFold Service API
-
-TF Services API is a rest-based API specified in RAML (a definition language).  When registering a service to our Directory the specific TF Service API must be registered with it
+There will be up to 100 Guardians.
