@@ -16,8 +16,8 @@ Dear ThreeFold Foundation member, to make onboarding easier we developed the Thr
 
 ### Easy to use
 
-Download the ThreeFold Foundation App on your mobile device, and log in using your ItsYou.Online credentials. This allows you to easily remain up to date with latest news and to contact us with any questions you may have. To access token purchase and TF Miner functionalities, you need a referral code. Please contact the person who introduced you to the ThreeFold Foundation. After having registered, you can invite other people using the app. Your personal referral code can be consulted there.
+Download the ThreeFold App on your mobile device, and log in using your ItsYou.Online credentials. This allows you to easily remain up to date with latest news and to contact us with any questions you may have. To access token purchase and TF Miner functionalities, you need a referral code. Please contact the person who introduced you to the ThreeFold Foundation. After having registered, you can invite other people using the app. Your personal referral code can be consulted there.
 
 ### Questions?
 
-If you have any questions or problems with the ThreeFold Foundation App please reach out to us using the Live Chat function on our website or app. We will make sure to get back to you as soon as possible.
+If you have any questions or problems with the ThreeFold App please reach out using the Live Chat function on the website or app. It will make sure to get back to you as soon as possible.
