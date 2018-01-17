@@ -1058,7 +1058,7 @@ dataCenters p {
     border-radius: 0px;
 }
 /* App Page */
-.app {
+.app, .community {
     padding: 60px 0;
     overflow: hidden;
   }
@@ -1089,6 +1089,9 @@ dataCenters p {
         padding: 0;
         width: 100%;
         overflow: hidden;
+    }
+    .rj-team {
+        padding-bottom: 10rem;
     }
 }
 @media only screen and (min-width: 480px) and (max-width: 767px) {
@@ -1266,6 +1269,13 @@ dataCenters p {
         background-image: none;
         background-color:#EFEFEF;
         color: #4d4d4d;
+    }
+    .member-name {
+        text-align: center
+    }
+    .rj-team {
+        padding-top: 1rem;
+        padding-bottom: 2rem;
     }
 }
 @media (min-width: 768px) {

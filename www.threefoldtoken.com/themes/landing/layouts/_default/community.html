@@ -1,86 +1,41 @@
-<main class="Index">
-  <section class="Index-page our-mission-and-goals">
-     <div class="Index-page-content">
-        <div class="sqs-layout col-xs-12">
-           <div class="row">
-              <div class="col-sm-1">
-                 <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
-                    <div class="sqs-block-content">&nbsp;</div>
-                 </div>
-              </div>
-              <div class="col-sm-3">
-                 <div class="sqs-block markdown-block sqs-block-markdown">
-                    <div class="sqs-block-content">
-                       <h2>{{ .Params.ambassadors_header }}</h2>
-                       <p>{{ .Params.ambassadors_sub }}</p>
-                       <p>{{ .Params.ambassadors_sub2 }}</p>
-                    </div>
-                 </div>
-              </div>
-              <div class="col-sm-8">
-                 <div class="sqs-block image-block sqs-block-image sqs-text-ready">
-                    <div class="sqs-block-content">
-                      <div id="ambassadors"></div>
-                    </div>
-                 </div>
-              </div>
-           </div>
-           <div class="row">
-              <div class="col-sm-12">
-                 <div class="row">
-                    <div class="col-sm-1">
-                       <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
-                          <div class="sqs-block-content">&nbsp;</div>
-                       </div>
-                    </div>
-                    <div class="col-sm-3">
-                       <div class="sqs-block markdown-block sqs-block-markdown">
-                          <div class="sqs-block-content">
-                             <h2>{{ .Params.hosters_header}}</h2>
-                             <p>{{ .Params.hosters_sub }}</p>
-                             <p>{{ .Params.hosters_sub2 }}</p>
-                          </div>
-                       </div>
-                    </div>
-                    <div class="col-sm-8">
-                       <div class="sqs-block image-block sqs-block-image sqs-text-ready">
-                          <div class="sqs-block-content">
-                            <div id="hosters"></div>
-                          </div>
-                       </div>
-                    </div>
-                 </div>
-              </div>
-           </div>
-           <div class="row">
-              <div class="col-xs-12">
-                 <div class="row">
-                    <div class="col-sm-1">
-                       <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
-                          <div class="sqs-block-content">&nbsp;</div>
-                       </div>
-                    </div>
-                    <div class="col-sm-3">
-                       <div class="sqs-block markdown-block sqs-block-markdown">
-                          <div class="sqs-block-content">
-                             <h2>{{ .Params.ops_header }}</h2>
-                             <p>{{ .Params.ops_sub }}
-                             </p>
-                             <p>{{ .Params.ops_sub2 }}</p>
-                          </div>
-                       </div>
-                    </div>
-                    <div class="col-sm-8">
-                       <div class="sqs-block image-block sqs-block-image sqs-text-ready">
-                          <div class="sqs-block-content">
-                            <div id="operators"></div>
-                          </div>
-                       </div>
-                    </div>
-                 </div>
-              </div>
-           </div>
-        </div>
-     </div>
-  </section>
-</main>
+<div class="community">
+
+  <!-- ambassdors sec -->
+  <div class="ambassdors">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-3">
+      <h2>{{ .Params.ambassadors_header }}</h2>
+      <p>{{ .Params.ambassadors_sub }}</p>
+      <p>{{ .Params.ambassadors_sub2 }}</p>
+    </div>
+    <div class="col-sm-8">
+      <div id="ambassadors"></div>
+    </div>
+  </div>
+
+  <!-- hosters sec -->
+  <div class="hosters">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-3">
+      <h2>{{ .Params.hosters_header}}</h2>
+      <p>{{ .Params.hosters_sub }}</p>
+      <p>{{ .Params.hosters_sub2 }}</p>
+    </div>
+    <div class="col-sm-8">
+      <div id="hosters"></div>
+    </div>
+  </div>
+
+  <!-- ops sec -->
+  <div class="ops">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-3">
+      <h2>{{ .Params.ops_header }}</h2>
+      <p>{{ .Params.ops_sub }}</p>
+      <p>{{ .Params.ops_sub2 }}</p>
+    </div>
+    <div class="col-sm-8">
+      <div id="operators"></div>
+    </div>
+  </div>
+</div>
