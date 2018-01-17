@@ -15,7 +15,7 @@ A ThreeFold Token is a smart contract digital token that is the exclusive paymen
 
 One of the Foundation’s primary goals is to migrate our Token firmly into the mainstream as a payment mechanism used to purchase IT and other services.  To do this, the Foundation prioritizes the Token’s liquidity, stability, transparency and exchangeability - as these metrics heavily influence acceptance and demand for digital (and fiat) currencies.
 
-We designed our Token as a safe, scalable currency with real utility.  Our Token Holders benefit from the following:
+We designed our Token as a scalable currency with real utility.  Our Token Holders benefit from the following:
 
 * Real Utility.  From inception, our Tokens have a specific designated use as the payment mechanism for buying and selling Internet IT capacity on our Grid.  The Token’s utility - in particular its use by IT companies and other buyers of capacity who are not traditional digital coin investors - facilitates liquidity by supporting daily trading volumes and exchangeability
 * Neutrality.  Our Foundation is mission- and value-based, has no shareholders and is not owned or controlled by any institution or government.  
