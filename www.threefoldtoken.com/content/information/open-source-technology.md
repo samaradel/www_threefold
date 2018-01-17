@@ -10,7 +10,7 @@ weight = 6
 
 ### Open Source Components Overview
 
-The following components are used to build our grid and deliver us unequivalent benefits in power optimization, performance & scale.
+The following components are used to build our grid and deliver unequivalent benefits in power optimization, performance & scale.
 
 - [Jumpscale  = Automation Framework](https://github.com/Jumpscale)
 - [Distributed OS = Zero-OS](https://github.com/zero-os)
@@ -33,12 +33,12 @@ It is a very different type of OS
 
 Zero OS Components
 
-- 0-OS Orchestrator (controls all the nodes running Zero-OS in a resource pool)
-- 0-OS core (replacement of systemd, kernel boots this first process)
-- 0-OS filesystem (virtual filesystem for Zero-OS, OS files are not installed on local storage)
-- 0-OS vDisk (virtual Disks running 0-OS FS)
-- 0-OS cockpit (AYS - selfhealing, jumpscale portal, restAPI, Telegram interface)
-- 0-OS CLI - command line tools
+- Zero-OS Orchestrator (controls all the nodes running Zero-OS in a resource pool)
+- Zero-OS core (replacement of systemd, kernel boots this first process)
+- Zero-OS filesystem (virtual filesystem for Zero-OS, OS files are not installed on local storage)
+- Zero-OS vDisk (virtual Disks running 0-OS FS)
+- Zero-OS cockpit (AYS - selfhealing, jumpscale portal, restAPI, Telegram interface)
+- Zero-OS CLI - command line tools
 
 see https://github.com/zero-os
 

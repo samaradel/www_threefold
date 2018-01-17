@@ -9,9 +9,9 @@ weight = 9
 
 +++
 
-Our guiding design principle is that simpler solutions increase efficiency and productivity “Less = More”
+The guiding design principle is that simpler solutions increase efficiency and productivity “Less = More”
 
-The Zero-OS (Stateless Operating System) node technology is based on technology that has been developed and innovated upon for 15 years by our founders and their incubation center. Mid to late 90’s some of us were working for a large American firm that was investing in creating Europe’s first large scale (internet) datacenters and internet connectivity.  In that period we built and put into production 5 major datacenters. We became frustrated with the amount of money, time and energy required to architect, install, operate and maintain complex IT infrastructures  - we became so passionate about this we decided to create better technology which addresses these issues.
+The Zero-OS (Stateless Operating System) node technology is based on technology that has been developed and innovated upon for 15 years in a incubation center. Mid to late 90’s some were working for a large American firm that was investing in creating Europe’s first large scale (internet) datacenters and internet connectivity.  In that period 5 major datacenters were built and put into production. It became frustrated with the amount of money, time and energy required to architect, install, operate and maintain complex IT infrastructures  - It became such a passionate period in which better technology was created which addresses these issues.
 
 
 To build a technology stack from point solutions from A-brand vendors requires a tremendous amount of integration software, equipment and knowledge / human resource effort.  The result is a very complicated operational setup that costs too much money, uses a lot of power and requires a large amount of maintenance contracts and engineers.
