@@ -1,13 +1,12 @@
 +++
 # Don't remove title!
-title = "Rivine: Our Blockchain "
+title = "Blockchain Basics "
 image = "../img/our-blockchain.png"
 author = "Kristof De Spiegeleer"
-subtitle = "A blockchain suitable for the needs of the Foundation and its mission"
+subtitle = "Blockchain is suitable for the needs of the Foundation and its mission"
 weight = 30
 +++
 
-### General blockchain information
 
 A blockchain, as first introduced in the Bitcoin protocol, is a technological concept that allows reaching consensus about the state of a digital distributed ledger in a system where the stakeholders don't know and don't necessarily trust each other. Think of it as a way to timestamp and validate transactions in a decentralized peer2peer network without externally trusted parties.
 An excellent non-technical introduction can be found here: https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348
@@ -37,17 +36,4 @@ So, what is the solution? An option would be to use an existing, public chain to
 While leveraging an existing public chain would be the simplest thing to do, the base currency would be the one of that chain. Using Ethereum and creating the extra functionality in smart contracts there would still require Eth to be used as gas when interacting with the smart contract. Next to having a limit of 20 transactions/second for the entire global Ethereum network, syncing and having a copy of the entire Ethereum chain while we are only interested in the interactions with our own contracts is quite the overhead, especially during initial block download. Forking such a general platform is no option either, especially not if they are POW based like current Ethereum. It’s not green and it would require a tremendous amount of mining power to secure such a fork. One can argue that even though this doesn’t overcome the POW issue, it’s still moderately green since the mining power is there anyway. We would however still end up contributing to transaction fees and stimulate more mining capacity to be deployed.  
 
 General purpose blockchain platforms are complex. Smart contracts are written in higher level languages like Solidity, compiled to some sort of bytecode and executed in sandboxes. Mistakes can happen everywhere, even with people that know the system very well, like the well known DAO hack proved.
-Some of the goals like authorized addresses, hierarchical deterministic wallets, notary, micropayments... are simple to accomplish when entering the blockchain code itself but would require custom wallet implementations that handle both the more complex blockchain and the smart contract interaction levels. Hence, we need a different blockchain. We proposed our own to meet these needs. Enter the Rivine blockchain.
-
-Basic Rivine concepts
--------------------
-
-
-1. Rivine is a **Bitcoin variant** and builds upon the principles and concepts of Bitcoin for transaction validity and token transfer. A good read is the original Bitcoin whitepaper by Satoshi Nakamoto. 
-2. Rivine introduced **Proof Of BlockStake (POS)**: In a rivine network, two digital assets exist, normal coins and BlockStakes. BlockStakes are digital tokens as well and can be transferred to normal rivine addresses. The founder of a chain distributes these BlockStakes to other people and or nodes. The POS algorithm in Rivine can only be performed by BlockStakes, the normal coins can not participate to enlarge the chain, which does not mean they do not validate incoming transactions and blocks themselves off course. A node containing BlockStakes and that participates in the Proof Of BlockStake (POBS) protocol is called a Block Creator Node (BCN).  You can think of BlockStakes as being the shares of the blockchain. Since shareholders are the owners of a company (and if real world assets are linked, are liable if something goes wrong), they collaboratively control what eventually ends up in the chain or not according to the defined rules. It’s important that these BlockStakes are well distributed so a hack of systems containing BlockStakes does not allow an attacker to do a 51% attack. 
-3. Rivine supports **Multiple chains**: Because the POBS consensus protocol does not require massive amounts of distributed mining power to secure it, starting special purpose chains does not pose a security threat. 
-4. Rivine supports **Off chain payment channels**: Within a specific contract, micropayments can be exchanged to reflect the used amount of compute resources for example. While the contracts themselves are registered on the chain, the updates and micro payments themselves are not. The payment updates are negotiated off chain and only the updated version that both parties agreed upon can be posted back on the chain, effectively executing the combined payments. This allows for a lot of transactions while not consuming the transactions/second limitations of a normal blockchain. 
-5. Rivine enables **Smart contracts with locked collateral**: When creating smart contracts, collateral can be locked on it, it’s a guarantee that the parties are agreeing to keep their promise since they will lose the collateral if they don’t. In this case, the collateral is burned, no one benefits from it since that would be an incentive for people that are able to become the beneficiary of collateral to try to make a party unable to fulfill its promise (like a DOS attack on a provider for example). Collateral is formed in normal coins, blockstakes are not eligible for collateral deposits. 
-6. Rivine supports **Gateways and offline transaction signing:** In order to support lightweight clients like mobile phones, a full node can expose a gateway to the consensus that also accepts posting fully signed transactions back to the network. A lightweight client can connect to multiple gateways it chooses itself to validate the data they return. It can post a signed transaction multiple times to different gateways but it will end up uniquely in the chain. 
-
-In coming blogposts, we will go deeper into each of the above functionalities. Stay tuned!
+Some of the goals like authorized addresses, hierarchical deterministic wallets, notary, micropayments... are simple to accomplish when entering the blockchain code itself but would require custom wallet implementations that handle both the more complex blockchain and the smart contract interaction levels. Hence, we need a different blockchain. We proposed our own to meet these needs. 
