@@ -1,12 +1,10 @@
 /*** uncss> filename: themes/landing/static/css/tiny.css ***/
-
 html {
     font-family: "'Open Sans'", sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     pointer-events: auto
 }
-
 body {
     margin: 0;
     letter-spacing: 0;
@@ -16,71 +14,139 @@ body {
     text-transform: none;
     color: rgba(0, 0, 0, .7)
 }
-
+article {
+    display: block
+}
 a {
     background-color: transparent;
     color: inherit;
     text-decoration: none
 }
-
 a:active,
 a:hover {
     outline: 0
 }
-
-
+img {
+    border: 0
+}
+.Blog-meta {
+    /* display: -moz-box;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex; */
+    letter-spacing: 0;
+    text-transform: none;
+    font: normal 900 10px 'Open Sans', sans-serif;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    color: rgba(82, 82, 82, .7)
+}
+.Blog-meta a {
+    color: rgba(82, 82, 82, .7);
+    -webkit-transition: color .15s ease-out;
+    -moz-transition: color .15s ease-out;
+    -ms-transition: color .15s ease-out;
+    transition: color .15s ease-out;
+    text-decoration: none
+}
+.Blog-meta a:hover {
+    color: rgba(82, 82, 82, .35)
+}
+.faq-image, .info-image {
+    position: relative;
+    margin-bottom: 17.798000000000002px;
+    -webkit-box-ordinal-group: 1;
+    -moz-box-ordinal-group: 1;
+    -ms-flex-order: 1;
+    -webkit-order: 1;
+    order: 1
+}
+.info-image img, .faq-image img {
+    max-width: 100%;
+    max-height: 100%
+}
+.faq-title, .info-title {
+    text-align: center;
+    font: normal 200 16px/1.8em 'Open Sans', sans-serif;
+    letter-spacing: .02em;
+    /* text-transform: uppercase; */
+    text-decoration: none;
+}
+.faq-excerpt, .info-excerpt {
+    margin-bottom: 11px;
+    letter-spacing: 0;
+    font: normal 400 11px/1.6em 'Open Sans';
+    text-transform: none;
+    letter-spacing: .11em;
+    line-height: 2.6em;
+    /* text-transform: uppercase; */
+    -webkit-box-ordinal-group: 5;
+    -moz-box-ordinal-group: 5;
+    -ms-flex-order: 5;
+    -webkit-order: 5;
+    order: 5
+}
+.faq-excerpt p:first-of-type, .info-excerpt p:first-of-type {
+    margin-top: 0
+}
+.faq-excerpt p:last-of-type, .info-excerpt p:last-of-type {
+    margin-bottom: 0
+}
+.faq-readmore, .info-readmore {
+    vertical-align: baseline;
+    font: normal 400 14px 'din-condensed-web';
+    letter-spacing: 0;
+    text-transform: none;
+    text-decoration: none;
+    color: #1d1d1d;
+    -webkit-transition: color .15s ease-out;
+    -moz-transition: color .15s ease-out;
+    -ms-transition: color .15s ease-out;
+    transition: color .15s ease-out;
+    white-space: nowrap
+}
+.faq-readmore:hover, .info-readmore:hover {
+    color: rgba(29, 29, 29, .5)
+}
 /* .BlogList-item-readmore:before {
     content: 'Read More \2192'
 } */
-
-
 /* .tweak-blog-list-style-grid .BlogList-item {
     float: left
 } */
-
 .ProductItem-details [data-unselected-options='[]']:not([data-selected-variant])~.sqs-add-to-cart-button-wrapper .sqs-add-to-cart-button {
     cursor: default;
     opacity: .4
 }
-
 .ProductItem-details [data-unselected-options='[]']:not([data-selected-variant])~.sqs-add-to-cart-button-wrapper .sqs-add-to-cart-button:hover {
     opacity: .4
 }
-
 .tweak-product-item-details-add-to-cart-button-style-outline .ProductItem-details [data-unselected-options='[]']:not([data-selected-variant])~.sqs-add-to-cart-button-wrapper .sqs-add-to-cart-button {
     background-color: transparent;
     color: #222
 }
-
 .social-icons-color-standard.social-icons-style-border .sqs-svg-icon--wrapper:not(:hover) {
     background-color: transparent
 }
-
 p:first-child {
     margin-top: 0
 }
-
 p:last-child {
     margin-bottom: 0
 }
-
 h2 {
     text-rendering: optimizeLegibility
 }
-
-
 /* h1:first-child {
     margin-top: 0
 } */
-
-
 /* @media screen and (max-width: 640px) {
     h1 {
         font-size: 32px;
         letter-spacing: .11789473684210527px
     }
 } */
-
 h2 {
     letter-spacing: 0;
     font: normal 300 24px/1.2em 'Open Sans', sans-serif;
@@ -90,7 +156,6 @@ h2 {
     text-transform: uppercase;
     color: #4d4d4d
 }
-
 @media screen and (max-width: 640px) {
     h2 {
         -webkit-hyphens: auto;
@@ -99,28 +164,21 @@ h2 {
         hyphens: auto
     }
 }
-
 a:active,
 a:focus {
     outline: 0
 }
-
-
 /* .Main-content {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     padding: 19px 25px
 } */
-
-
 /* .Index-page--has-image h1 {
     color: rgba(34, 34, 34, .9)
 } */
-
-
+ 
 /*** uncss> filename: themes/landing/static/css/tidy.css ***/
-
 html {
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
@@ -130,22 +188,23 @@ html {
     -webkit-font-smoothing: antialiased;
     color: #444
 }
-
 body {
     margin: 0
 }
-
 a {
     background-color: transparent;
     text-decoration: none;
     color: inherit
 }
-
 a:active,
 a:hover {
     outline: 0
 }
-
+img {
+    /* width: 100%; */
+    border: 0;
+    vertical-align: middle
+}
 @media print {
     * {
         background: transparent!important;
@@ -161,95 +220,81 @@ a:hover {
     a[href]:after {
         content: " (" attr(href) ")"
     }
+    img {
+        page-break-inside: avoid;
+        max-width: 100%!important
+    }
 }
-
 @font-face {
     font-family: 'Glyphicons Halflings';
     src: url(../fonts/glyphicons-halflings-regular.eot);
     src: url(../fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'), url(../fonts/glyphicons-halflings-regular.woff2) format('woff2'), url(../fonts/glyphicons-halflings-regular.woff) format('woff'), url(../fonts/glyphicons-halflings-regular.ttf) format('truetype'), url(../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')
 }
-
 a:focus,
 a:hover {
     color: #23527c;
     text-decoration: underline
 }
-
 a:focus {
     outline: 5px;
     outline-offset: -2px;
     color: inherit
 }
-
 @-ms-viewport {
     width: device-width
 }
-
 @media screen and (max-width: 1440px) {
     html {
         font-size: 17px
     }
 }
-
 @media screen and (max-width: 992px) {
     html {
         font-size: 14px
     }
 }
-
 @media screen and (max-width: 767px) {
     html {
         font-size: 15px
     }
 }
-
 a:active,
 a:focus,
 a:hover {
     text-decoration: none
 }
-
 @media screen and (max-width: 1600px) {
     /* .container {
         width: 1140px
     } */
 }
-
 @media screen and (max-width: 1200px) {
     /* .container {
         width: 1020px
     } */
 }
-
 @media screen and (max-width: 992px) {
     /* .container {
         width: 720px;
         padding: 0 30px
     } */
 }
-
 @media screen and (max-width: 992px) {
     /* section {
         padding: 50px 0
     } */
 }
-
 vertical-align:middle .rj-investor div.rj-investor-svangel {
     padding-top: 20px!important
-}
-
-
+} 
 /*** uncss> filename: themes/landing/static/css/custom.css ***/
-
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
 * {
     font-family: "'Open Sans'", sans-serif
 }
-
 html {
     font-size: 100%;
 }
-
 body {
     font-weight: 400;
     background-color: #fafafa;
@@ -259,38 +304,40 @@ body {
     line-height: 1.6em;
     text-transform: none
 }
-
 h2 {
     font: normal 400 1.5em/1.2em 'Open Sans', sans-serif;
     text-transform: none;
     letter-spacing: .05em;
 }
-
+.center {
+    text-align: center
+}
 .content-403 {
     background-color: #fff
 }
-
+.clear-fix {
+    clear: both
+}
 .content-403 {
     text-align: center
 }
-
 body {
     color: #757575
 }
-
 a {
     text-decoration: none
 }
-
+.faq-excerpt, .info-excerpt {
+    font-size: 15px;
+    line-height: 1.2em
+}
 .content-403 {
     min-height: 423px;
     color: #747474
 }
-
 .content-403 p {
     margin: 30px auto 50px
 }
-
 .content-403 .guide {
     background-color: #6da96e;
     margin-top: 60px;
@@ -298,22 +345,46 @@ a {
     padding: 15px 25px;
     font-weight: bold
 }
-
-
+.faq-excerpt p, .info-excerpt p {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 1.6em;
+    text-transform: none
+}
+.faq-title, .info-title {
+    color: #6ca2e7;
+    -webkit-transition: color .15s ease-out;
+    -moz-transition: color .15s ease-out;
+    -ms-transition: color .15s ease-out;
+    -o-transition: color .15s ease-out;
+    transition: color .15s ease-out;
+    padding-bottom: .05em;
+    border-bottom-width: 1px;
+    border-bottom-color: rgba(108, 162, 231, .3);
+    -webkit-transition: border-color .15s ease-out, color .15s ease-out;
+    -moz-transition: border-color .15s ease-out, color .15s ease-out;
+    -ms-transition: border-color .15s ease-out, color .15s ease-out;
+    -o-transition: border-color .15s ease-out, color .15s ease-out;
+    transition: border-color .15s ease-out, color .15s ease-out
+}
+.faq-title:hover, .info-title:hover {
+    color: rgba(108, 162, 231, .6);
+    border-color: rgba(108, 162, 231, .15)
+}
+.faq-item, .info-item {
+    margin-top: 50px
+}
 /* .BlogList-item a {
     text-transform: uppercase
 } */
-
 .content-403 .guide {
     color: #fff
 }
-
-
 /* .new-page-1 .Index-page-content {
     padding: 75px 25px
 } */
-
-
 /* Challenge */
 
 .main-block1 {
@@ -321,13 +392,11 @@ a {
     height: auto;
     overflow: hidden;
 }
-
 .head-block1 {
     color: #fff;
     text-align: center;
     padding: 94px 0;
 }
-
 .text-block1 {
     color: #fff;
     font-size: 16px !important;
@@ -337,53 +406,28 @@ a {
     margin-left: 15px;
     margin-top: 30px;
 }
-
-
 /* Datacenters */
-
-
 /* solution */
-
-
 /* token */
-
-
 /* token arround*/
-
-
 /*slider*/
-
-
 /*pricing*/
-
-
 /*participate*/
-
-
 /* Join */
-
-
 /*green_part ar login*/
-
-
 /* App Page */
-
-.community {
+.app, .community {
     padding: 60px 0;
     overflow: hidden;
-}
-
-
+  }
 /* contribute */
-
 .contribute {
     background-color: #619e73;
     padding: 30px 0;
     overflow: hidden;
     color: #fff;
     text-align: center
-}
-
+  }
 .contribute-content {
     height: auto;
     padding: 17px 0;
@@ -393,7 +437,6 @@ a {
     transition: box-shadow .2s ease-in-out;
     margin: 20px auto;
 }
-
 .contribute a {
     display: inline-block;
     padding: 21px 34px;
@@ -411,18 +454,15 @@ a {
     transition: 0.1s background-color linear, 0.1s color linear;
     margin: 20px auto;
 }
-
 .contribute a:hover {
     color: #1d1d1d;
     background-color: #fff;
 }
-
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     p {
         font-size: 100%;
     }
 }
-
 @media only screen and (min-width: 480px) and (max-width: 767px) {
     h2 {
         font-size: 120%;
@@ -434,8 +474,10 @@ a {
              margin-right: 0
          } */
 }
-
 @media only screen and (min-width: 320px) and (max-width: 479px) {
+    .faq-excerpt p, .info-excerpt p {
+        padding: 10px;
+    }
     h2 {
         font-size: 100%;
         font-weight: 600;
