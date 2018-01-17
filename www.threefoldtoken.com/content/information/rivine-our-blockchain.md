@@ -20,7 +20,7 @@ From here on, we assume more experience and knowledge about the current state of
 
 When we set out to find a blockchain suitable for our needs, we kept the following issues in mind:
 
-1. **Green**: Traditional Proof Of Work (POW) requires a lot mining power to secure the chain. Proof Of Stake (POS) is planned as a big Ethereal upgrade addressing this exact issue. 
+1. **Green**: Traditional Proof Of Work (POW) requires a lot mining power to secure the chain. Proof Of Stake (POS) is planned as a big Ethereal upgrade addressing this exact issue. This results in very low node power consumption (upto 10x benefit) 
 2. **Secure**: Blockchains are a solution to the “double spending problem”. They give a timestamp to published transactions by having a broad consensus over which transactions are valid and included in the blockchain. By distributing the power to participate in the consensus, failing/hacked nodes or malicious participants do no longer pose a threat. POW requires to have a tremendous amount of mining power to be secure and Traditional Proof Of Stake (POS) is not perfect either. 
 3. **Scalable**: Blockchains do not scale very well, the amount of transactions per second is limited. We need a way to overcome this limitation.
 4. **Smart contracts**: A token transfer transaction is the simplest kind of contract, it just states that some inputs are being converted to some (spendable) outputs. We need more advanced contracts to be supported like making reservations for compute capacity where a consuming party might be able to stop the contract if the provider fails to deliver. 
