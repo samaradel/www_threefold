@@ -25,7 +25,7 @@ Our solutions achieve roughly 3 times the performance per rack (so we use fewer 
 
 #### Eliminate layers of complexity - Keep it Simple.
 
-Over time integration suites, middleware solutions, enterprise service buses have been invented and implemented to cover integration challenges. This has overly complicated IT architectures and is resulting in loss of actual end user workload performance. By eliminating layers of complexity the resulting cloud stack presents minimal overhead and therefore requires less hardware - resulting in lower heat generation requiring less cooling facility. By producing less power the net results is a factor of 2 to 5 of total energy consumption decrease
+Over time integration suites, middleware solutions, enterprise service buses have been invented and implemented to cover integration challenges. This has overly complicated IT architectures and is resulting in loss of actual end user workload performance. By eliminating layers of complexity the resulting cloud stack presents minimal overhead and therefore requires less hardware - resulting in lower heat generation requiring less cooling facility. By producing less power the net results is a factor of 2 to 5 of total energy consumption decrease.
 
 #### Self Healing
 
@@ -51,4 +51,4 @@ By using a different, more efficient means to exchange data between physical CPU
 
 Our storage solution uses slow and big - the bigger the better - HDD disks which drive in rack density and as they spin slower they consume less power and need less cooling. But you might say how can you deal with read/write intensive workloads? Our storage algorithm uses a SSD cache to acknowledge I/O coming from the application, fills the erasure coded data blocks in large up to 64MB storage containers and writes these big chunks of data on the big and slow HHDs. If you are familiar with what HDD disks you know they like to be streamed on instead of a ton of small bits in scratchy way.
 
-Continuous innovation in all of these areas have lead to a very efficient technology stack
+Continuous innovation in all of these areas have lead to a very efficient technology stack.
