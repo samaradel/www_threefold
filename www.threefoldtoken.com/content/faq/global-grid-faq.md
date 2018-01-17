@@ -23,7 +23,7 @@ For more on this see [“Why do we need a new Internet” blog post](/informatio
 
 Our Grid is the network of all the distributed infrastructure capacity that is available for sale via our Directory (TF Directory).
 
-At the bottom of our [homepage](https://threefoldtoken.com),  you can see a  map which shows how much capacity is available.
+At the bottom of our [homepage](/),  you can see a  map which shows how much capacity is available.
 
 ### How is our Grid different from existing IT infrastructure?
 
