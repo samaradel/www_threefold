@@ -17,11 +17,11 @@ Short name for our foundation = TFF.
 
 ### TF Token (TFT)
 
-The ThreeFold Token is our utility green and neutral Token.  The Token is the designated currency for capacity sold on our Grid
+The ThreeFold Token is our utility green and neutral Token.  The Token is the designated currency for capacity sold on our Grid.
 
 ### TF Directory (TFD)
 
-The blockchain powered directory service in which all ThreeFold Miners can list their capacity.
+The blockchain powered directory service in which all ThreeFold Farmer can list their capacity.
 Each TF Miner defines the price at which he/she wants to sell their capacity.
 
 The Directory is integrated with our identity management platform, ItsYou.Online, for authentication.
