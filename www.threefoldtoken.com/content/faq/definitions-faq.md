@@ -73,24 +73,24 @@ Wiki-style knowledge platforms.
 
 ### ThreeFold Guardians
 
-A pool of 100 Guardians. Main function is to guard the decentralized organization of Threefold. 
+A pool of 100 Guardians. Main function is to guard the decentralized organization of Threefold.
 
 
 
-## ThreeFold Foundation: Ecosystem for safeguarding the decentralized functioning of the above ecosystem
+### ThreeFold Foundation: Ecosystem for safeguarding the decentralized functioning of the above ecosystem
 
 
 
-### ThreeFold Founders 
+**ThreeFold Founders**
 
 
-### ThreeFold Ambassadors
+**ThreeFold Ambassadors**
 
 
-### ThreeFold Team Members
+**ThreeFold Team Members**
 
 
-### ThreeFold Evengalists 
+**ThreeFold Evengalists**
 
 
 (old)
@@ -104,9 +104,9 @@ TFF is 100% independent from any of the further mentioned organizations and aims
 
 ### ThreeFold Community (TFC)
 
-The Community is everybody committed to the Threefold Values and mission. This means all people involved in our Ecosystem. The Founders, Ambassadors, Evangelists and Team Members. 
+The Community is everybody committed to the Threefold Values and mission. This means all people involved in our Ecosystem. The Founders, Ambassadors, Evangelists and Team Members.
 
-Members all over the world buying the ThreeFold Token (TFT). By means of these TFTs the TFC can buy capacity available on the ThreeFold Grid (TFG). 
+Members all over the world buying the ThreeFold Token (TFT). By means of these TFTs the TFC can buy capacity available on the ThreeFold Grid (TFG).
 
 
 ## Components
