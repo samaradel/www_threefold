@@ -20,7 +20,7 @@ ThreeFold will fund further development from its proceeds. Included in the techn
 - [**Zero-OS**](https://github.com/zero-os)
     - The Zero-OS is among the greenest and most efficient IT operating systems globally
     - it  contains a full blown block based storage system and an object stor.
-- [**Rivine.io**](https://github.com/rivine)  
+- [**TF Blockchain**](https://github.com/rivine)  
     - The blockchain is a distributed, “proof of stake” blockchain.  As a multi-chain platform, it is not constrained in terms of scalability and slow transaction processing times - also proof of stake blockchain implementations do not consume impossible amounts of energy
 - [**ItsYou.Online**](https://github.com/itsyouonline)
     - Itsyou.online is a  secure identity management platform.  Its relevance as an identity management tool extends far beyond Tokens and buying and selling Internet IT capacity. This account on Github will also host our future Blockchain As A Service platform.
