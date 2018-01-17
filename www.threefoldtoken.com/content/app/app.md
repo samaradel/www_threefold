@@ -8,7 +8,7 @@ header = "We'd love to hear from you"
 
 ### Get On Board with our ThreeFold App
 
-Dear ThreeFold Foundation member, to make onboarding easier we developed the ThreeFold Foundation App, available on both the Apple store and Google play.
+Dear ThreeFold member, to make onboarding easier we developed the ThreeFold App, available on both the Apple store and Google play.
 
 
 [![Apple_App_Badge_New.svg](/img/Apple_App_Badge_New.svg)](http://itunes.apple.com/app/id1276543091)
