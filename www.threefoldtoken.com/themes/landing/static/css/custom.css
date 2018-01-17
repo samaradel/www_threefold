@@ -23,9 +23,9 @@ h1 {
     text-transform: uppercase
 }
 h2 {
-    font: normal 600 1.5em/1.2em 'Open Sans', sans-serif;
+    font: normal 400 1.5em/1.2em 'Open Sans', sans-serif;
     text-transform: none;
-    letter-spacing: .2em;
+    letter-spacing: .05em;
 }
 h3 {
     font: normal 600 1.17em/1.2em 'Open Sans', sans-serif;
@@ -1261,7 +1261,7 @@ dataCenters p {
         background-image: none;
         background-color:#EFEFEF;
         color: #4d4d4d;
-    }    
+    }
 }
 @media (min-width: 768px) {
     .navbar {
