@@ -14,7 +14,7 @@ The TF-node runs containers natively - therefore it can run any Docker service. 
 
 ### IAAS
 
-The TF-node technology enables hardware capabilities to be used for IAAS services in a very efficient way.  Overhead is reduced to a minimum by stripping out unnecessary layers of software that have been invented and implemented over the last decade to patch scaling and performance problems.  OUr engineers have always looked at the root cause of issues and by innovating at the core algorithm level solved issues. Examples are:
+The TF-node technology enables hardware capabilities to be used for IAAS services in a very efficient way.  Overhead is reduced to a minimum by stripping out unnecessary layers of software that have been invented and implemented over the last decade to patch scaling and performance problems.  The engineers have always looked at the root cause of issues and by innovating at the core algorithm level solved issues. Examples are:
 
 - **Less is more**: Scale down the operating system for a virtualisation architecture to a minimum and boot it over the network - no local operating system files installed on local storage.
 - **Look at root causes, do not invent painkillers**: Step away from existing storage solutions that have a need for proprietary acceleration hardware and use standard off the shelf, affordable and efficient components with a 100% software based storage solution that is able to withstand hardware failures without requiring human intervention - creating a very efficient, reliable and performing storage solution that can operate standalone.
@@ -34,7 +34,7 @@ Never run into scalability problems again - the TF-node data store can expand ho
 
 ### Smart Contracts
 
-Smart contracts are applications that run on a decentralised platform, exactly as programmed without any possibility of downtime, censorship, fraud or third party interference . These apps run on a blockchain, an enormously powerful shared global infrastructure that can move value around and represent the ownership of property. Smart contracts enable developers to create markets, store registries of debts (or promises), move funds in accordance with instructions given long in the past (like a will or a futures contract) and many other things without a middleman or counterparty risk.  TF-nodes run 
+Smart contracts are applications that run on a decentralised platform, exactly as programmed without any possibility of downtime, censorship, fraud or third party interference . These apps run on a blockchain, an enormously powerful shared global infrastructure that can move value around and represent the ownership of property. Smart contracts enable developers to create markets, store registries of debts (or promises), move funds in accordance with instructions given long in the past (like a will or a futures contract) and many other things without a middleman or counterparty risk.  TF-nodes run. 
 
 
 The TF-node technology natively supports the existing Ethereum network  and will have it's own way of running smart contracts by deploying a new blockchain technology, presenting a whole new approach on how to run  blockchain.
