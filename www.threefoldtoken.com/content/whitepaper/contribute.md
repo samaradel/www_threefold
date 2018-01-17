@@ -8,6 +8,6 @@ weight = 2
 +++
 # CONTRIBUTE TO THE FOUNDATION 
 
-The project is very ambitious and can use many hands to make this happen.
+This project is very ambitious and can use many hands to make this happen.
 
 You can support it by buying ThreeFold Tokens, but you can help in many other ways as well, see the whitepaper for more info.
