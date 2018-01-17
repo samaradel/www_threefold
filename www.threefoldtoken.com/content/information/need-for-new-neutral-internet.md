@@ -44,13 +44,13 @@ The challenges facing the Internet include the following::
 
 ThreeFold believes the solution to these $trillion problems is migration of Internet IT capacity to the Edge - ie a “hyper-distributed” network architecture.  Edge networks will not necessarily replace the existing hyperscale capacity powering today’s cloud - rather, Edge networks will scale to meet the increased capacity demands going forward.
 
-In 2025 c 60% of new internet infrastructure will be decentralized and located at the edge of the farmer networks, using alternative locations which have stable (renewable) power and reliable connectivity.
+In 2025 circa 60% of new internet infrastructure will be decentralized and located at the edge of the farmer networks, using alternative locations which have stable (renewable) power and reliable connectivity.
 
 ## The ThreeFold Solution
 
 Our solution is to migrate cloud capacity to the edge - ie located proximate to users (in cities, schools, offices, homes and even vehicles) with the following main benefits.
 
-### Safe
+### Secure
 
 - Our network is distributed and benefits from our ItsYou.Online identity management platform - making it much more secure
 
@@ -79,7 +79,7 @@ Our nodes are modular - scaling from 8 vCPUs and 3.5 TB of storage (smallest) to
 
 - For storage our boxes use about 10 times less energy, for other workloads typically about 2 to 3 times less energy
 
-### Our Zero-Nodes are at the edge and safe a lot of network traffic.
+### Our Zero-Nodes are at the edge and save a lot of network traffic.
 
 Our Zero OS is ideally suited for Edge networking - where automation, self-healing and hyper-distribution are must-haves.  
 - The Zero-Nodes are deployed as close as possible to the consumers of Internet IT capacity (IoT, residential, business, government, education, …).
