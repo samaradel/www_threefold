@@ -11,7 +11,7 @@ weight = 11
 
 ## Threefold Token?  What is it?
 
-A ThreeFold Token is a smart contract digital token that is the exclusive payment instrument or currency for which operators can sell Internet IT capacity via our Directory service.   
+A ThreeFold Token is a smart contract digital token that is the exclusive payment instrument or currency for which farmers can sell Internet IT capacity via our Directory service.   
 
 One of the Foundation’s primary goals is to migrate our Token firmly into the mainstream as a payment mechanism used to purchase IT and other services.  To do this, the Foundation prioritizes the Token’s liquidity, stability, transparency and exchangeability - as these metrics heavily influence acceptance and demand for digital (and fiat) currencies.
 

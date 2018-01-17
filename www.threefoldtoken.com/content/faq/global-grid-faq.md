@@ -49,9 +49,9 @@ Our Directory service is a global directory service running on top of our blockc
 
 --- Our Grid is already up and running. At the time of the launch of ThreeFold of march 1st 2018, more than 200 TF Farmers, are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via our Directory service. All purchases are made with Tokens through an API.
 
-### What is the value of our Directory for TF Operator Miners?
+### What is the value of our Directory for TF Farmer Miners?
 
---- TF Operator Farmers who generate Internet IT capacity on their own infrastructure can make their capacity available for sale on our TF Directory.  Operator Farmers who use our Directory (and therefore accept our Tokens as payment) benefit from marketing and distribution for their capacity (at no extra cost) as well as providing certain and seamless transactions without concerns about currency fluctuations or other factors.
+--- TF Farmer Farmers who generate Internet IT capacity on their own infrastructure can make their capacity available for sale on our TF Directory.  Farmer Farmers who use our Directory (and therefore accept our Tokens as payment) benefit from marketing and distribution for their capacity (at no extra cost) as well as providing certain and seamless transactions without concerns about currency fluctuations or other factors.
 
 ### How are IT capacity sales transacted?
 

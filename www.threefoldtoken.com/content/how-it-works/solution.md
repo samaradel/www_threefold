@@ -24,8 +24,8 @@ grid_txt_6 = "The code of a netural internet"
 
 weight = 4
 +++
-## Threefold has a Solution
+## The Threefold Grid could be the Solution
 
-# Break the datacenters apart into nodes
+# Replace 1 big datacenter with many small nodes
 
 A node is a small scale replacement for a datacenter. Each node serves the immediate area where it is located, but they connect to each other. Together they provide all the internet capacity required, exactly where it is needed.

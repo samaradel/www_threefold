@@ -38,7 +38,7 @@ The Foundation’s long term objective is to migrate the ThreeFold Token firmly 
 
 ## Why did we use the word Token vs Coin?
 
-We use the word “Token” because our Tokens are much more than a simple coin.  In our view, coins really only have one function:  to act as simple stores of value. Our Tokens represent an  economic interest in our Foundation and is the exclusive payment instrument or currency for which operators can sell Internet IT capacity via our Directory service.
+We use the word “Token” because our Tokens are much more than a simple coin.  In our view, coins really only have one function:  to act as simple stores of value. Our Tokens represent an  economic interest in our Foundation and is the exclusive payment instrument or currency for which farmers can sell Internet IT capacity via our Directory service.
 
 ## Is our Token different from other digital currencies?
 
@@ -56,16 +56,9 @@ When we talk about “utility”, we mean that our Token has a designated “use
 This utility is important because it generates additional demand, diversification, volumes and liquidity for Token Holders.  This is an important differentiator for our Token - as digital currencies today generally have limited utility.
 
 
-# --- (r)PTO = (reversed) Public Token Offering
+# Tokens
 
 [Read more about our Public Token Offering here](/pto).
-
-
-## --- Why do we use the term (R)PTO (unlike ICO)
-
-We refer to our token sale as a (Reversed) Public Token offering (PTO) instead of an initial coin offering (ICO).
-
---- We believe our token offering is different from some of the other ICOs.  We are already up and running - our technology is fully developed (>10 years) and our Grid is already operational prior to the PTO.
 
 ## Where can I buy a Token?
 
@@ -77,7 +70,7 @@ As payment, we currently accept BTC, USD, GBP and EUR.
 
 ## How many tokens already exists?
 
---- Today there are 10,000,000 Tokens created and rooted in the value of our Foundation and internet capacity which is committed to be deployed by our operators and TF Miners over more than 200 locations.
+--- Today there are 10,000,000 Tokens created and rooted in the value of our Foundation and internet capacity which is committed to be deployed by our farmers and TF Miners over more than 200 locations.
 
 See bottom of our home page where you can see where existing capacity has been deployed.
 
