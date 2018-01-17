@@ -44,7 +44,7 @@ The challenges facing the Internet include the following::
 
 ThreeFold believes the solution to these $trillion problems is migration of Internet IT capacity to the Edge - ie a “hyper-distributed” network architecture.  Edge networks will not necessarily replace the existing hyperscale capacity powering today’s cloud - rather, Edge networks will scale to meet the increased capacity demands going forward.
 
-In 2025 c 60% of new internet infrastructure will be decentralized and located at the edge of the operator networks, using alternative locations which have stable (renewable) power and reliable connectivity.
+In 2025 c 60% of new internet infrastructure will be decentralized and located at the edge of the farmer networks, using alternative locations which have stable (renewable) power and reliable connectivity.
 
 ## The ThreeFold Solution
 

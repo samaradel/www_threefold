@@ -18,9 +18,9 @@ In reality keeping things simple &amp; small is much more cost effective than a 
 
 ### Myth 2: big data center can be made green.
 
-The carbon footprint of a big datacenter is enormous. To improve the PUE (Power Usage Effectiveness) most data center operators have adopted windy, hydro and/or solar power technologies, which indeed does help drop their PUE by an estimated 20%.
+The carbon footprint of a big datacenter is enormous. To improve the PUE (Power Usage Effectiveness) most data center farmers have adopted windy, hydro and/or solar power technologies, which indeed does help drop their PUE by an estimated 20%.
 
-While this 20% looks great on paper and in the operators' corporate social responsibility reports. It is mostly just an improvement on the cooling technology, not the actual energy power consumed by the equipment that runs in their data centers (servers, storage chassis', physical disks, etc) and this equipment is what makes up the 100% of the carbon footprint. While the PUE only speaks about overhead power consumption to cool the facility, open and close doors, power security systems, etc.
+While this 20% looks great on paper and in the farmers' corporate social responsibility reports. It is mostly just an improvement on the cooling technology, not the actual energy power consumed by the equipment that runs in their data centers (servers, storage chassis', physical disks, etc) and this equipment is what makes up the 100% of the carbon footprint. While the PUE only speaks about overhead power consumption to cool the facility, open and close doors, power security systems, etc.
 
 So the real improvement lies in deploying technologies that actually consume less power to deliver the actual Internet IT capacity to run the workloads, real CPU chassis, physical disks and storage cabinets. Working on how hardware is being more effectively used can have an impact of 1000% and lead to 10 times more power efficiency.
 
