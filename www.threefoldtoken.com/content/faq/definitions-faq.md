@@ -17,7 +17,7 @@ Short name for our foundation = TFF.
 
 ### TF Token (TFT)
 
-The ThreeFold Token is our utility green and neutral Token.  The Token is the designated currency for capacity sold on our Grid.
+The ThreeFold Token is a green and neutral utility Token what is the designated currency for capacity sold on the ThreeFold Grid.
 
 ### TF Directory (TFD)
 
