@@ -93,27 +93,3 @@ features:
 
 
 https://github.com/itsyouonline
-
-
-#### Rivine
-
-Blockchain toolkit
-
-- Green and Secure
-- No mining but Proof of BlockStake
-- Scalable
-  - Off chain micropayments
-  - Application specific chain support
-- Smart contracts
-- Custom transaction validity rules
-- Notary
-  - Register and time the existence of
-contracts/documents/...
-- Secure lightweight (mobile) client support
-- Authorized addresses support
-  - Compliance with KYC and AML
-- Deterministic wallets:
-  - Allows for offline master keys
-
-
-  see https://github.com/rivine
