@@ -9,7 +9,7 @@ weight = 8
 
 +++
 
-### How do we achieve the efficient power usage in our Zero-OS node
+### How does ThreeFold achieve the efficient power usage in the Zero-OS node
 
 Today global Internet infrastructure requires enormous amounts of energy - well north of the entire annual electricity consumption of the United Kingdom - ranking among the more pollutive industries globally (similar to airlines!)
 
@@ -17,7 +17,7 @@ We believe IT can do a lot better - in fact we believe we can reduce the Interne
 
 Power consumption is a function of better compute and storage performance requiring more racks and more cooling.
 
-Our solutions achieve roughly 3 times the performance per rack (so we use fewer racks) - and our racks require less energy than typical racks in the industry :-) for storage upto 10x benefit can be achieved.
+Our solutions achieve roughly 3 times the performance per rack (so we use fewer racks) - and the racks require less energy than typical racks in the industry :-) for storage upto 10x benefit can be achieved.
 
 
 ### Less = More
@@ -49,6 +49,6 @@ By using a different, more efficient means to exchange data between physical CPU
 
 #### Minimise the use of number of disks
 
-Our storage solution uses slow and big - the bigger the better - HDD disks which drive in rack density and as they spin slower they consume less power and need less cooling. But you might say how can you deal with read/write intensive workloads? Our storage algorithm uses a SSD cache to acknowledge I/O coming from the application, fills the erasure coded data blocks in large up to 64MB storage containers and writes these big chunks of data on the big and slow HHDs. If you are familiar with what HDD disks you know they like to be streamed on instead of a ton of small bits in scratchy way.
+The storage solution uses slow and big - the bigger the better - HDD disks which drive in rack density and as they spin slower they consume less power and need less cooling. But you might say how can you deal with read/write intensive workloads? The storage algorithm uses a SSD cache to acknowledge I/O coming from the application, fills the erasure coded data blocks in large up to 64MB storage containers and writes these big chunks of data on the big and slow HHDs. If you are familiar with what HDD disks you know they like to be streamed on instead of a ton of small bits in scratchy way.
 
 Continuous innovation in all of these areas have lead to a very efficient technology stack.
