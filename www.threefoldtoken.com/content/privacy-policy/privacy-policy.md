@@ -1,10 +1,11 @@
 +++
 #Don't remove title!
 
-title = "privacy-policy"
-header = "ThreefoldToken Privacy Policy"
+title = "privacy policy"
 
 +++
+# ThreefoldToken Privacy Policy
+
 ### Version 1.0 of the ThreefoldToken Privacy Policy
 In the spirit of our firm believes in open source technology we are as transparant as can be. For this reason our Privacy policy is short and simple. All changes and updates to our privacy policy can be found here [add link to open repo].
 

@@ -9,11 +9,7 @@
 {{else}}
 {{ partial "head.html" . }}
    {{ partial "body.html" . }}
-     {{ if eq .Section "pto" }}
-         {{ partial "pto-header.html" . }}
-       {{else}}
       {{ partial "header.html" . }}
-      {{end}}
 {{end}}
       <div class="Site-inner">
           <div class="clear-fix">
@@ -52,12 +48,6 @@
                     {{ else if eq .Title "contribute" }}
                     <div class="Content-outer">{{ $p.Render "contribute" }}</div>
 
-                    {{end}}
-                  {{ else if eq .Section "pto" }}
-                    {{ if eq .Title "pto" }}
-                      <div class="Content-outer">{{ $p.Render "pto" }}</div>
-                    {{ else if eq .Title "contribute" }}
-                      <div class="Content-outer">{{ $p.Render "contribute" }}</div>
                     {{end}}
                   {{else}}
     						<div class="Content-outer">{{ $p.Render "summary" }}</div>

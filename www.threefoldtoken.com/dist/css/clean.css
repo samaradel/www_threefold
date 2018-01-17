@@ -541,6 +541,11 @@ a {
     color: #1d1d1d;
     background-color: #fff;
 }
+/* privacy page */
+.privacy {
+    padding: 30px 0;
+    overflow: hidden
+  }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     p {
         font-size: 100%;
