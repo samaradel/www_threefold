@@ -5,13 +5,13 @@ title = "participate"
 
 header = "How To Get Tokens"
 
-text1 = "Join the ThreeFold foundation."
+text1 = "Buy tokens from public exchanges, our tokens are ERC20 compatible tokens."
 
-text2 = "You can help by buying ThereFold tokens, you can become a farmer by hosting a node in your home or office to help the network grow fast."
+text2 = "You can become a farmer by hosting TF Nodes to help the network grow fast."
 
-text3 = "Please contact us through the chat widget on the website or the live chat in the smartphone app for more information on becoming a TF Farmer"
+text3 = "You can invest in an independent Farming Cooperative which will deploy capacity globally."
 
-text4 = "The Token is a digital currency and can be traded on public exchanges."
+text4 = "Please contact us through the chat widget on the website or the live chat in the smartphone app for more information on becoming a TF Farmer."
 
 weight = 8
 +++
