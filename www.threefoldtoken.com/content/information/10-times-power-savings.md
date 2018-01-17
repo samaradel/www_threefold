@@ -25,11 +25,11 @@ Our solutions achieve roughly 3 times the performance per rack (so we use fewer 
 
 #### Eliminate layers of complexity - Keep it Simple.
 
-Over time integration suites, middleware solutions, enterprise service buses have been invented and implemented to cover integration challenges. This has overly complicated IT architectures and is resulting in loss of actual end user workload performance. By eliminating layers of complexity the resulting cloud stack presents minimal overhead and therefore requires less hardware - resulting in lower heat generation requiring less cooling facility. By producing less power the net results is a factor of 2 to 5 of total energy consumption decrease
+Over time integration suites, middleware solutions, enterprise service buses have been invented and implemented to cover integration challenges. This has overly complicated IT architectures and is resulting in loss of actual end user workload performance. By eliminating layers of complexity the resulting cloud stack presents minimal overhead and therefore requires less hardware - resulting in lower heat generation requiring less cooling facility. By producing less power the net results is a factor of 2 to 5 of total energy consumption decrease.
 
 #### Self Healing
 
-Keeping things up and running is a business model in modern day IT.  Major vendors earn most of their margin by selling maintenance contracts, performance guarantees and professional services. Therefore there is no incentive to make things simple and effective. Creating a self healing environment requires minimal manual intervention to replace broken hardware components. Broken hardware components are inevitable and the 0-OS distributed node architecture deals with hardware failures by turning off broken components and provisions unused capacity. Not shipping broken parts back and forth with the corresponding installation knowledge (=engineers) means a much smaller carbon emission footprint.
+Keeping things up and running is a business model in modern day IT.  Major vendors earn most of their margin by selling maintenance contracts, performance guarantees and professional services. Therefore there is no incentive to make things simple and effective. Creating a self healing environment requires minimal manual intervention to replace broken hardware components. Broken hardware components are inevitable and the Zero-OS distributed node architecture deals with hardware failures by turning off broken components and provisions unused capacity. Not shipping broken parts back and forth with the corresponding installation knowledge (=engineers) means a much smaller carbon emission footprint.
 
 #### “No painkiller” approach
 
@@ -39,7 +39,7 @@ By using these three principles the  Zero-OS node has got a minimal footprint in
 
 #### Minimise the number of context switches
 
-Virtualization add layers of software between the actual end-user workload and physical hardware, but is also allow for multiple workloads to run on the same hardware using excess capacity.  So there is definitely merit in building a virtualization solution. Building an effective virtualization solution that does not require abundant context switching is key and therefore 0-OS has been developed.  0-OS uses a minimal linux kernel that allows for a number of user spaces to co-exist. In these user space containerised version of software can run taking away the needs to have a hypervisor and virtual OS fueling virtual machines. This minimises the required overhead for the host OS and takes away for a large part the need for a hypervisor and guest OS’s
+Virtualization add layers of software between the actual end-user workload and physical hardware, but is also allow for multiple workloads to run on the same hardware using excess capacity.  So there is definitely merit in building a virtualization solution. Building an effective virtualization solution that does not require abundant context switching is key and therefore 0-OS has been developed.  Zero-OS uses a minimal linux kernel that allows for a number of user spaces to co-exist. In these user space containerised version of software can run taking away the needs to have a hypervisor and virtual OS fueling virtual machines. This minimises the required overhead for the host OS and takes away for a large part the need for a hypervisor and guest OS’s.
 
 #### Minimise the use of network connections
 
@@ -51,4 +51,4 @@ By using a different, more efficient means to exchange data between physical CPU
 
 Our storage solution uses slow and big - the bigger the better - HDD disks which drive in rack density and as they spin slower they consume less power and need less cooling. But you might say how can you deal with read/write intensive workloads? Our storage algorithm uses a SSD cache to acknowledge I/O coming from the application, fills the erasure coded data blocks in large up to 64MB storage containers and writes these big chunks of data on the big and slow HHDs. If you are familiar with what HDD disks you know they like to be streamed on instead of a ton of small bits in scratchy way.
 
-Continuous innovation in all of these areas have lead to a very efficient technology stack
+Continuous innovation in all of these areas have lead to a very efficient technology stack.
