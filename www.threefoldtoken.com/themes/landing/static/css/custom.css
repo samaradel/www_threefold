@@ -929,7 +929,7 @@ dataCenters p {
     margin-bottom: 40px;
     line-height: 140%;
 }
-.pricing_para2 {
+.block-pricing p {
     font-size: 23px;
     letter-spacing: 0.13em;
     line-height: 140%;
@@ -1110,7 +1110,7 @@ dataCenters p {
     p, .dataCenters h1 {
         font-size: 100%;
     }
-    .pricing_para2 {
+    .block-pricing p {
         font-size: 120%;
     }
     .sqs-block-button .sqs-block-button-element--small {
@@ -1295,7 +1295,7 @@ dataCenters p {
         margin: 25px auto;
     }
 
-    .pricing_para2 {
+    .block-pricing p {
         font-size: 100%;
     }
     .main-token {

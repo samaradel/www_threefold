@@ -224,6 +224,11 @@ img {
         page-break-inside: avoid;
         max-width: 100%!important
     }
+    h3 {
+        orphans: 3;
+        widows: 3;
+        page-break-after: avoid
+    }
 }
 @font-face {
     font-family: 'Glyphicons Halflings';
@@ -239,6 +244,17 @@ a:focus {
     outline: 5px;
     outline-offset: -2px;
     color: inherit
+}
+.container:after,
+.container:before,
+.row:after,
+.row:before {
+    content: " ";
+    display: table
+}
+.container:after,
+.row:after {
+    clear: both
 }
 @-ms-viewport {
     width: device-width
@@ -258,10 +274,20 @@ a:focus {
         font-size: 15px
     }
 }
+h3 {
+    margin: 0 0 1.4rem;
+    /* font-size: 1.75rem; */
+    font-weight: 600;
+    line-height: 1.3em;
+    text-transform: initial
+}
 a:active,
 a:focus,
 a:hover {
     text-decoration: none
+}
+.text-center {
+    text-align: center
 }
 @media screen and (max-width: 1600px) {
     /* .container {
@@ -278,6 +304,13 @@ a:hover {
         width: 720px;
         padding: 0 30px
     } */
+}
+@media screen and (max-width: 767px) {
+    .container {
+        width: 100%;
+        /* max-width: 500px; */
+        /* margin: 0 auto */
+    }
 }
 @media screen and (max-width: 992px) {
     /* section {
@@ -308,6 +341,11 @@ h2 {
     font: normal 400 1.5em/1.2em 'Open Sans', sans-serif;
     text-transform: none;
     letter-spacing: .05em;
+}
+h3 {
+    font: normal 600 1.17em/1.2em 'Open Sans', sans-serif;
+    text-transform: none;
+    letter-spacing: 0.05em;
 }
 .center {
     text-align: center
@@ -412,9 +450,54 @@ a {
 /* token arround*/
 /*slider*/
 /*pricing*/
+
+.main-pricing {
+    background: url('../img/pricing_right.png') no-repeat;
+    background-position: right;
+    background-color: #f1f1f1;
+    height: auto;
+    padding: 60px 0;
+    overflow: hidden;
+}
+.block-pricing {
+    color: #5f5f5f;
+    text-align: center;
+}
 /*participate*/
+
+.main-participate {
+    background: url('../img/participate.jpg') no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    padding: 95px 0;
+    overflow: hidden
+}
+.BG-cover {
+    position: relative;
+}
+.BG-cover:before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .75;
+    background-color: #5783BF;
+}
+.block-participate {
+    color: #fff;
+    text-align: center;
+}
 /* Join */
 /*green_part ar login*/
+.container::after,
+.row::after {
+    content: "";
+    clear: both;
+    display: table
+}
 /* App Page */
 .app, .community {
     padding: 60px 0;
@@ -462,6 +545,12 @@ a {
     p {
         font-size: 100%;
     }
+    .container {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        overflow: hidden;
+    }
 }
 @media only screen and (min-width: 480px) and (max-width: 767px) {
     h2 {
@@ -470,16 +559,38 @@ a {
     p {
         font-size: 100%;
     }
+    .main-pricing {
+        background-image: none;
+        background-color: #EFEFEF;
+    }
+    .block-pricing {
+        color: #4d4d4d;
+    }
+    .container {
+        padding: 0;
+    }
+    .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
     /* .collapsed {
              margin-right: 0
          } */
 }
 @media only screen and (min-width: 320px) and (max-width: 479px) {
+    .container {
+        padding: 0;
+    }
     .faq-excerpt p, .info-excerpt p {
         padding: 10px;
     }
     h2 {
         font-size: 100%;
         font-weight: 600;
+    }
+    .main-pricing {
+        background-image: none;
+        background-color:#EFEFEF;
+        color: #4d4d4d;
     }
 }
