@@ -32,8 +32,6 @@
                   <div class="Content-outer">{{ $p.Render "privacy-policy" }}</div>
                   {{ else if eq .Section "community" }}
                   <div class="Content-outer">{{ $p.Render "community" }}</div>
-                  {{ else if eq .Section "team-test" }}
-                  <div class="Content-outer">{{ $p.Render "team-test" }}</div>
                   {{ else if eq .Section "403" }}
                   <div class="Content-outer">{{ $p.Render "403" }}</div>
                   {{ else if eq .Section "how-it-works" }}
@@ -67,8 +65,8 @@
             {{ end }}
             {{ range .Data.Pages }}
               {{ if eq .Section "team" }}
-                {{ if eq .Title "new team" }}
-                <section class="rj-section">{{ .Render "new-team" }}</section>
+                {{ if eq .Title "complete cast" }}
+                <section class="rj-section">{{ .Render "complete-cast" }}</section>
                 {{end}}
               {{end}}
             {{end}}
