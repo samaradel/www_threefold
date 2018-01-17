@@ -86,8 +86,6 @@ All remaining TF tokens, or no less than 90% or 180.0000.000 ( x 10 ?) are mined
 
 The total distribution of the TF tokens can be represented on a pie-chart.
 
-![tokendistr](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/raw/master/images/token_distr.png)
-
 
 Miners purchase Zero-Nodes/Clusters from ThreeFold Producers. Once the capacity has been validated by our TF Blockchain the TF Miner will receive TF tokens valued at 100% of the price paid for the Zero-Nodes/Clusters. These are new tokens that are created, up and until the 100,000,000 total TF token Max Supply limit is reached. This is the only way TF tokens are created after the Public Token Offering (see the section on Finance and Token Economy).
 
