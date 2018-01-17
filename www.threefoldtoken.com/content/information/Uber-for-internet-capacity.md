@@ -32,7 +32,7 @@ At the moment, it requires tremendous $ investment and massive scale to compete 
 
 We, at the ThreeFold foundation, have developed for the last years on distributed datacenter technology. One of the benefits of distributed datacenter technology is that it allows small organizations - even individuals - to participate in the Internet IT capacity market.
 
-With our Zero OS technology, you can jump into the market even if you have a couple of hundred dollars to invest. We call all such participants ThreeFold Miners (TFM).
+With our Zero-OS technology, you can jump into the market even if you have a couple of hundred dollars to invest. We call all such participants ThreeFold Miners (TFM).
 
 ### How you can join
 
@@ -44,7 +44,7 @@ Our Zero-Nodes are designed to be “plug and play” with full self driving cap
 
 The Internet Capacity produced by the Zero-Node is automatically registered on the TF Directory which is made public to global purchasers of Internet Capacity. There is no need to build a marketing department or promote your micronode. As long as the price is reasonable, there will be demand capacity near your location.
 
-For convenience, pricing is set by the TF Directory algorithm based on numerous factors including real time local supply and demand, competition, network connection, hardware type and the environment.  More advanced TF Miners can set their pricing if desired.
+For convenience, pricing is set by the TF Directory algorithm based on numerous factors including real time local supply and demand, competition, network connection, hardware type and the environment. More advanced TF Miners can set their pricing if desired.
 
 Now you essentially can become an ‘AirBnB’ TF Miner for the new, neutral internet which belongs to all of us.
 
