@@ -58,11 +58,9 @@ This utility is important because it generates additional demand, diversificatio
 
 # Tokens
 
-[Read more about our Public Token Offering here](/pto).
-
 ## Where can I buy a Token?
 
---- ThreeFold Tokens will be available for sale directly through our app.
+ThreeFold Tokens will be available for sale directly through our app.
 
 One needs only sign up with our [ItsYou.Online](http://itsyou.online) identity management platform and open their e-Wallet on our App.
 
@@ -70,35 +68,35 @@ As payment, we currently accept BTC, USD, GBP and EUR.
 
 ## How many tokens already exists?
 
---- Today there are 10,000,000 Tokens created and rooted in the value of our Foundation and internet capacity which is committed to be deployed by our farmers and TF Miners over more than 200 locations.
+Today there are 10,000,000 Tokens created and rooted in the value of our Foundation and internet capacity which is committed to be deployed by our farmers and TF Miners over more than 200 locations.
 
 See bottom of our home page where you can see where existing capacity has been deployed.
 
 ## What is the Token Issuance Mechanism?
 
---- There will be no more than 200,000,000 TF tokens in existence (Max Supply). No additional TF tokens will ever be generated. Tokens will be tradable on public digital currency exchanges subject to applicable regulations by citizenship and/or country of residence. On these exchanges token holders would be free to buy, sell and trade tokens at market prices. 
+There will be no more than 200,000,000 TF tokens in existence (Max Supply). No additional TF tokens will ever be generated. Tokens will be tradable on public digital currency exchanges subject to applicable regulations by citizenship and/or country of residence. On these exchanges token holders would be free to buy, sell and trade tokens at market prices. 
 
 5% of TF tokens are reserved for GIG
 
 5% of TF tokens are reserved by the TFF for its founders, partners, ambassadors and promoters. A maximum of 1/48 of these tokens are issued per month (vesting scheme of 48 months). 
 
---- Not more than 20,000,000 TF tokens will be sold during the Public Token Offering, which constitutes max 20% of total token supply. 
+Not more than 20,000,000 TF tokens will be sold during the Public Token Offering, which constitutes max 20% of total token supply. 
 
 All remaining TF tokens, or no less than 90% or 180.0000.000 ( x 10 ?) are mined by our Miners.
 
---- The total distribution of the TF tokens can be represented on a pie-chart.
+The total distribution of the TF tokens can be represented on a pie-chart.
 
 ![tokendistr](https://docs.greenitglobe.com/ThreeFold/www_threefold2.0/raw/master/images/token_distr.png)
 
 
---- Miners purchase Zero-Nodes/Clusters from ThreeFold Producers. Once the capacity has been validated by our TF Blockchain the TF Miner will receive TF tokens valued at 100% of the price paid for the Zero-Nodes/Clusters. These are new tokens that are created, up and until the 100,000,000 total TF token Max Supply limit is reached. This is the only way TF tokens are created after the Public Token Offering (see the section on Finance and Token Economy).
+Miners purchase Zero-Nodes/Clusters from ThreeFold Producers. Once the capacity has been validated by our TF Blockchain the TF Miner will receive TF tokens valued at 100% of the price paid for the Zero-Nodes/Clusters. These are new tokens that are created, up and until the 100,000,000 total TF token Max Supply limit is reached. This is the only way TF tokens are created after the Public Token Offering (see the section on Finance and Token Economy).
 
---- Incentive TF tokens created for Miners are locked up for the first 12 months. After this period the tokens begin to vest on a monthly basis from month 13 to 24, i.e. released 1/12 each month. 
+Incentive TF tokens created for Miners are locked up for the first 12 months. After this period the tokens begin to vest on a monthly basis from month 13 to 24, i.e. released 1/12 each month. 
 
 
 ## How will we maximize chance on liquidity for Token Holders who wish to sell their Tokens?
 
---- Our Token is an ERC20 compatible token and you will be able to exchange the token on most exchanges.
+Our Token is an ERC20 compatible token and you will be able to exchange the token on most exchanges.
 
 Because the Token is used for selling & buying capacity on the threefold network, we create additional liquidity.
 
@@ -108,11 +106,11 @@ Yes.
 
 ## On what exchange will the Tokens be listed?
 
---- The Tokens will be tradable on multiple Exchanges (anyone supporting ERC20 tokens)
+The Tokens will be tradable on multiple Exchanges (anyone supporting ERC20 tokens)
 
 ## When will the PTO be held.
 
---- The Public Token Offering will be between March 1 and end of April.
+The Public Token Offering will be between March 1 and end of April.
 
 ##  Can I buy Tokens with bank transfer?
 
@@ -121,7 +119,7 @@ We also allow BTC payments at first, adding ETH at a later date.
 
 ## Can I buy Tokens if I am in US or I am a US citizen?
 
---- Yes at PTO timing.
+Yes at PTO timing.
 
 
 ## Can I buy Tokens if I am in China or I am a Chinese citizen?
@@ -134,7 +132,7 @@ Not defined yet. Rules seem to be unclear at this point.
 
 We take our Know Your Client (KYC) and Anti-Money Laundering (AML) obligations seriously.  We employ robust onboarding protocols and identity management via itsyou.online.
 
-## --- Will you have an escrow during the PTO?
+## Will you have an escrow during the PTO?
 
 No. We are already up and running and we invest the PTO proceeds in additional Internet capacity on our Grid.  We are not awaiting technology or other “development” milestones - so there is no need to have an escrow.
 
@@ -144,17 +142,17 @@ See our [FOUNDATION FAQ](/faq/foundation-faq).
 
 ## How are the proceeds of the Tokens Used?
 
---- The Foundation uses the proceeds to co-invest in Mining projects or good cause projects which are approved by the Ambassador board. Any returns generate from these investments gets re-invested.
+The Foundation uses the proceeds to co-invest in Mining projects or good cause projects which are approved by the Ambassador board. Any returns generate from these investments gets re-invested.
 
 # Technical
 
 ## Which blockchain is used? What is the issuing format for the ThreeFold Token?
 
---- Our Tokens will be issued on Ethereum blockchain as ERC20 compliant Tokens.  
+Our Tokens will be issued on Ethereum blockchain as ERC20 compliant Tokens.  
 
 ## Where can I find the smart contract code?
 
---- The ThreeFold Token Smart Contract will be publicly available prior to the start of the PTO.
+The ThreeFold Token Smart Contract will be publicly available prior to the start of the PTO.
 
 ## Where can I find more technical information
 
