@@ -23,11 +23,11 @@ On a humanitarian level the opportunities for creativity, learning and developme
 
 ### more performance required
 
-Compute & Storage vendors create poor performing solutions. We have enjoyed year on year improvements of hardware following [Moore's law][3]. While this has allowed us to progress and innovate it has also lead to software developers taking these advances for granted and cutting corners where they could creating sub optimals code and allowing software components to be layered on top of each other to achieve certain functionality of behavior.
+Compute & Storage vendors create poor performing solutions. There has been now year on year improvements of hardware following [Moore's law][3]. While this has allowed ThreeFold to progress and innovate it has also lead to software developers taking these advances for granted and cutting corners where they could creating sub optimals code and allowing software components to be layered on top of each other to achieve certain functionality of behavior.
 
 The inefficiencies have now lead us to be in a situation where organically grown IT architecture are immensely complex and use a variety of components from different soft and hardware vendors integrates by a so called integrator. The overall effort and cost involved to create, operate and maintain such architectures is growing continuously and requiring an ever increasing budget and resourcing to continue.
 
-If we could go down to the core algorithms and take another looks at these, innovate at the heart of technology instead of applying patches and pain killers we would be able to create a lot more end user capacity that what systems provide today. The result of this is that systems will last longer and do not have to be replaced by faster ones, it will take a lot less engineers to create, operate and maintain these systems and overall they will present a more stable and reliable platform achieving higher levels of uptime.
+If it could go down to the core algorithms and take another looks at these, innovate at the heart of technology instead of applying patches and pain killers we would be able to create a lot more end user capacity that what systems provide today. The result of this is that systems will last longer and do not have to be replaced by faster ones, it will take a lot less engineers to create, operate and maintain these systems and overall they will present a more stable and reliable platform achieving higher levels of uptime.
 
 Only upsides, right? Well a huge downside of such an approach is that vendors will make less revenue and more importantly less margin as system will run for longer, more stable and requires less updates. Why would vendors innote at the core of their solution…….
 
@@ -37,9 +37,9 @@ Ten times more power efficiency can be achieved in e.g. storage systems
 
 Today global Internet infrastructure requires enormous amounts of energy - well north of the entire annual electricity consumption of the United Kingdom - ranking among the more pollutive industries globally (similar to airlines!)
 
-We believe IT can do a lot better - in fact we believe we can reduce the Internet’s carbon footprint by 10 times compared to other industry standard IT capacity producing solutions.
+ThreeFold believes IT can do a lot better - in fact ThreeFold believes it can reduce the Internet’s carbon footprint by 10 times compared to other industry standard IT capacity producing solutions.
 
-Power consumption is a function of better compute and storage performance requiring more racks and more cooling. Our solutions achieve roughly 3 times the performance per rack (so we use fewer racks) - and our racks require less energy than typical racks in the industry :-)
+Power consumption is a function of better compute and storage performance requiring more racks and more cooling. The solutions achieve roughly 3 times the performance per rack (so it uses fewer racks) - and the racks require less energy than typical racks in the industry :-)
 
 Read more at this blog: [10x times power savings, is this possible?][4]
 
@@ -67,7 +67,7 @@ Getting people involved in fixing infrastructure problems creates the risk of ac
 
 Managing a datacenter that contains solutions for transporting information, for storing information and to process information is not an easy feat and the growth of data volume uploaded, stored and processed has exponentially increased. The number of technologies invented and implemented processing and storing this information has also exploded which as a combination results in a double exponential growth in complexity to architect, build operate and maintain these.
 
-The time has come that we cannot rely on people anymore to do the right thing in case of emergency - the complexity is overwhelming and the dependency on this information being available is huge. Manual deployments and operational responsibility by people is not providing the agility and speed to keep up with the continuous exponential growth of the industry. It is time to take the human element out of Information Technology and let smart systems take over.
+The time has come that we refly on people not anymore to do the right thing in case of emergency - the complexity is overwhelming and the dependency on this information being available is huge. Manual deployments and operational responsibility by people is not providing the agility and speed to keep up with the continuous exponential growth of the industry. It is time to take the human element out of Information Technology and let smart systems take over.
 
 ### internet is growing too fast, we need better solutions
 
