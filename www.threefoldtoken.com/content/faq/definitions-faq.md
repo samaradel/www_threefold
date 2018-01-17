@@ -76,8 +76,9 @@ Although Architects are independent from each other we expect the ThreeFold to p
 
 ### ThreeFold Guardians
 
-A pool of 100 Guardians. Main function is to guard the decentralized organization of Threefold.
+ThreeFold Guardians protect the values and principles of the TF Foundation within the TF Ecosystem. All Foundation activities are transparent, open and visible to all.  The guardians also have the responsibility of how and when to allocate funds from the ThreeFold Token Pool. 
 
+There will be up to 100 Guardians. 
 
 
 ### ThreeFold Foundation: Ecosystem for safeguarding the decentralized functioning of the above ecosystem
