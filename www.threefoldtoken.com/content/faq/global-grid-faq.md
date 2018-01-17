@@ -45,12 +45,12 @@ Our directory service (TF Directory) is a global directory service running on to
 
 ### When will I be able to use the Grid and Directory Service?
 
---- Our Grid is already up and running. At the time of the launch for ThreeFold (March 1st 2018), more than 200 TF Farmers, are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via the TF Directory. All purchases are made with Tokens through an API.
+Our Grid is already up and running. At the time of the launch for ThreeFold (March 1st 2018), more than 200 TF Farmers, are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via the TF Directory. All purchases are made with Tokens through an API.
 
 ### What is the value of our Directory for TF Farmer Miners?
 
---- TF Farmer Farmers who generate Internet IT capacity on their own infrastructure can make their capacity available for sale on the TF Directory.  Farmers who use the Directory (and therefore accept our Tokens as payment) benefit from marketing and distribution for their capacity (at no extra cost) as well as providing certain and seamless transactions without concerns about currency fluctuations or other factors.
+TF Farmer Farmers who generate Internet IT capacity on their own infrastructure can make their capacity available for sale on the TF Directory.  Farmers who use the Directory (and therefore accept our Tokens as payment) benefit from marketing and distribution for their capacity (at no extra cost) as well as providing certain and seamless transactions without concerns about currency fluctuations or other factors.
 
 ### How are IT capacity sales transacted?
 
---- Once a TF Farmer is registered on our Directory, the available capacity becomes visible to users of our grid. All transactions are made "machine to machine" - meaning they are API-driven based on smart contracts. The smart contract specifies the key information such as the capacity or service, duration, price per unit, location, etc.  All transactions on the TF Directory are executed using TF Tokens.  The Tokens are automatically deposited in the TF Farmer’s e-Wallet.
+Once a TF Farmer is registered on our Directory, the available capacity becomes visible to users of our grid. All transactions are made "machine to machine" - meaning they are API-driven based on smart contracts. The smart contract specifies the key information such as the capacity or service, duration, price per unit, location, etc.  All transactions on the TF Directory are executed using TF Tokens.  The Tokens are automatically deposited in the TF Farmer’s e-Wallet.
