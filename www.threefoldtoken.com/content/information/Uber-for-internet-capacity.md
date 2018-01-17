@@ -30,9 +30,9 @@ It is surprising that - despite aleady seeing well known examples of decentraliz
 
 At the moment, it requires tremendous $ investment and massive scale to compete effectively in the Internet IT capacity market. Large companies like Alibaba, Amazon, EMC, Google and Microsoft are dominant.
 
-We, at the ThreeFold foundation, have developed for the last years on distributed datacenter technology. One of the benefits of distributed datacenter technology is that it allows small organizations - even individuals - to participate in the Internet IT capacity market.
+ThreeFold has developed for the last years on distributed datacenter technology. One of the benefits of distributed datacenter technology is that it allows small organizations - even individuals - to participate in the Internet IT capacity market.
 
-With our Zero-OS technology, you can jump into the market even if you have a couple of hundred dollars to invest. We call all such participants ThreeFold Miners (TFM).
+With the Zero-OS technology, you can jump into the market even if you have a couple of hundred dollars to invest. All such participants are called ThreeFold Miners (TFM).
 
 ### How you can join
 
