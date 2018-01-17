@@ -13,15 +13,8 @@ Digital currencies are well on the way to full acceptance as a mainstream curren
 
 However, major problems remain such as:
 
-* Lack of scalability.  The main blockchains today are based on “proof of work” - generating very large and complex prime numbers called “hashes” to record ledger transactions.  These proof of work blockchains can not scale to meet the increasing blockchain transaction volumes.  In fact, Ethereum, one of the most popular and well known blockchains has announced it will change from “proof of work” to “proof of stake” (ie similar to our proof of stake blockchain Rivine.io)  
+* Lack of scalability.  The main blockchains today are based on “proof of work” - generating very large and complex prime numbers called “hashes” to record ledger transactions.  These proof of work blockchains can not scale to meet the increasing blockchain transaction volumes.  In fact, Ethereum, one of the most popular and well known blockchains has announced it will change from “proof of work” to “proof of stake”
 * Impossible energy requirements. Computing complex proof of work hashes requires enormous amounts of processing power.  In fact a large portion of today’s hashrate is produced by very large dedicated $ billion data centers called miners.  It is estimated that the energy consumed by digital currency mining is approximately equivalent to the power consumption of the entire country of Denmark.
-* Certain perceived reputational issues.  Numerous commentators - particularly in the early years of bitcoin - speculated that unregulated digital currencies could be used to fund illicit activities
-* A general absence of intrinsic value.  The major digital currencies today are not backed by  real assets
+* Certain perceived reputational issues.  Numerous commentators - particularly in the early years of bitcoin - speculated that unregulated digital currencies could be used to fund illicit activities.
+* A general absence of intrinsic value.  The major digital currencies today are not backed by real assets
 * Limited utility.  Today digital currencies are predominantly held by miners and investors.  There is very limited use of digital currencies to buy goods and services (utility).
-
-The Foundation seeks to address these issues with the ThreeFold Token by:
-
-* Creating a safe, alternative currency to current digital currencies
-* Giving our Tokens a designated utility by linking the Token to the growth of the Internet
-* Supporting our Tokens - prioritise liquidity, stability, transparency and exchangeability for Token Holders
-* Ensuring the integrity and security of the Tokens for Token Holders
