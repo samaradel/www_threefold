@@ -1057,6 +1057,11 @@ dataCenters p {
 .dropdown-menu {
     border-radius: 0px;
 }
+/* App Page */
+.app {
+    padding: 60px 0;
+    overflow: hidden;
+  }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .navbar {
         border-radius: 0px !important;

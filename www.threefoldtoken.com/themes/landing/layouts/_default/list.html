@@ -21,7 +21,7 @@
       {{ partial "header.html" . }}
       {{end}}
 {{end}}
-      <div class="Site-inner" style="min-height:768px;">
+      <div class="Site-inner">
           <div class="clear-fix">
             {{ range $p := (.Paginate .Data.Pages).Pages }}
             	{{ if eq .Section "faq" }}
@@ -42,8 +42,6 @@
                   <div class="Content-outer">{{ $p.Render "team-test" }}</div>
                   {{ else if eq .Section "403" }}
                   <div class="Content-outer">{{ $p.Render "403" }}</div>
-                  {{ else if eq .Section "ambassador" }}
-                  <div class="Content-outer">{{ $p.Render "ambassador" }}</div>
                   {{ else if eq .Section "how-it-works" }}
                   {{ if eq .Title "challenge" }}
                     <div class="Content-outer">{{ $p.Render "challenge" }}</div>
