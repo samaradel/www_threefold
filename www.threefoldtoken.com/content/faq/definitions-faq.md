@@ -40,9 +40,9 @@ Example: docker container, database, website, blog, archive storage system, ...
 
 The App is a mobile application which integrates an e-wallet.  The App will allow TF Users to securely keep Tokens in their e-Wallet, send and receive Tokens, enter smart contracts, search our Directory for capacity and other administrative functions
 
-## --- ThreeFold Ecosystem for creation of Capacity
+## ThreeFold Ecosystem for creation of Capacity
 
-### --- ThreeFold Farmer (TFF)
+### ThreeFold Farmer (TFF)
 
 TFFs are independent organizations which buy ThreeFold Nodes/Clusters and connect them to the internet.
 
@@ -51,7 +51,7 @@ As a result of farming, i.e. creating additional capacity, TF tokens are automat
 TFFs have NO access to the ThreeFold Nodes or Clusters they have provisioned. They can only use that capacity like any other TFC member would: through the blockchain, in all neutrality, privacy and security.
 
 
-### --- ThreeFold Chefs
+### ThreeFold Chefs
 
 ThreeFold Producer (TFP)
 
@@ -71,26 +71,26 @@ Engineering meetups and roadshows: To spread the knowledge about the platform an
 Wiki-style knowledge platforms.
 
 
-### --- ThreeFold Guardians
+### ThreeFold Guardians
 
---- A pool of 100 Guardians. Main function is to guard the decentralized organization of Threefold. 
-
-
-
-## --- ThreeFold Foundation: Ecosystem for safeguarding the decentralized functioning of the above ecosystem
+A pool of 100 Guardians. Main function is to guard the decentralized organization of Threefold. 
 
 
 
-### --- ThreeFold Founders 
+## ThreeFold Foundation: Ecosystem for safeguarding the decentralized functioning of the above ecosystem
 
 
-### --- ThreeFold Ambassadors
+
+### ThreeFold Founders 
 
 
-### --- ThreeFold Team Members
+### ThreeFold Ambassadors
 
 
-### --- ThreeFold Evengalists 
+### ThreeFold Team Members
+
+
+### ThreeFold Evengalists 
 
 
 (old)
@@ -104,7 +104,7 @@ TFF is 100% independent from any of the further mentioned organizations and aims
 
 ### ThreeFold Community (TFC)
 
---- The Community is everybody committed to the Threefold Values and mission. This means all people involved in our Ecosystem. The Founders, Ambassadors, Evangelists and Team Members. 
+The Community is everybody committed to the Threefold Values and mission. This means all people involved in our Ecosystem. The Founders, Ambassadors, Evangelists and Team Members. 
 
 Members all over the world buying the ThreeFold Token (TFT). By means of these TFTs the TFC can buy capacity available on the ThreeFold Grid (TFG). 
 

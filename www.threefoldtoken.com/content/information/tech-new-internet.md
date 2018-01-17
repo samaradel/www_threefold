@@ -42,7 +42,7 @@ We have developed the open-source components, Zero-OS,for the deployment of bare
 
 ## Self Healing Technology: Self healing and self driving
 
-GIG has developed Jumpscale and At Your Service (AYS) which allows the creation of blueprints to auto-deploy applications within the compute environment.
+GIG has developed Jumpscale framework and At Your Service (AYS) which allows the creation of blueprints to auto-deploy applications within the compute environment.
 
 Our robots are constantly checking the health and uptime of the infrastructure and runtime environments, guaranteeing performance & availability of applications.
 
@@ -50,7 +50,7 @@ Our robots are constantly checking the health and uptime of the infrastructure a
 
 - Self Healing: the platform regenerates when health issues are detected that cause downtime for infrastructure and applications
 - Intelligence: agents capture information from the grid and make intelligent decisions to provide an ideal and optimal host environment for software code and containerized applications
-- Lifecycle Management: the state of the infrastructure and the lifecycle of running applications are constantly checked and recorded
+- Lifecycle Management: the status of the infrastructure and the lifecycle of running applications are constantly checked and recorded
 - Autoscaling: the platform automatically scales to meet application and infrastructure performance.
 
 ## Blockchain Technology: Executing workloads and applications via smart contracts using new consensus algorithms
