@@ -56,7 +56,7 @@ The ThreeFold solution has following main benefits:
 
 ### Secure
 
-- The network is distributed and benefits from our ItsYou.Online identity management platform - making it much more secure
+- The Grid is distributed and benefits from our ItsYou.Online identity management platform - making it much more secure
 
 ### Green
 
@@ -72,16 +72,16 @@ The ThreeFold solution has following main benefits:
 
 ## The ThreeFold Zero-Node
 
-We have built a special box called the ThreeFold Zero-Node.
+A special box is built which is called the ThreeFold Zero-Node.
 
 The Zero-Node provides blockchain, compute & storage capacity to the internet.
 This capacity can be used for any possible workload.
 
-Our nodes are modular - scaling from 8 vCPUs and 3.5 TB of storage (smallest) to clusters with 8000 vCPUs and 2 peta-bytes of storage (large).
+The nodes are modular - scaling from 8 vCPUs and 3.5 TB of storage (smallest) to clusters with 8000 vCPUs and 2 peta-bytes of storage (large).
 
 ### Our Zero-Nodes are green
 
-- For storage our boxes use about 10 times less energy, for other workloads typically about 2 to 3 times less energy.
+- For storage the boxes use about 10 times less energy, for other workloads typically about 2 to 3 times less energy.
 
 ### Our Zero-Nodes are at the edge and save a lot of network traffic.
 
@@ -96,7 +96,7 @@ Our Zero Operating System ("Zero OS") is ideally suited for Edge networking - wh
 
 ### Our Zero-Nodes are Neutral & Private
 
-- We did a lot of work on using the blockchain (technology which powers crypto currency)
+- A lot of work has done on using the blockchain (technology which powers crypto currency)
 	- to guarantee privacy and net neutrality.
 - Easy to use by everyone
 	- no need for complex integration services to deliver complex IT applications
