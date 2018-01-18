@@ -1,32 +1,18 @@
-   {{ partial "head.html" . }}
-    <style>
-      .Main-content {
-        padding: 0px;
-      }
-    </style>
-      {{ partial "body.html" . }}
-          {{ partial "header.html" . }}
-         <div class="Site-inner">
-            <div class="Content-outer">
-               <main class="Main Main--page">
-                  <section class="Main-content">
-                     <div class="sqs-layout" >
-                          {{ partial "home/open-source.html" . }}
-                          <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
-                             <div class="sqs-block-content">&nbsp;</div>
-                          </div>
-                          {{ partial "home/neutral_edge.html" . }}
-                     </div>
-                     {{ partial "home/our_dream.html" . }}
-                     {{ partial "home/map.html" . }}
-                     {{ partial "home/join_our_mission.html" . }}
-                     {{ partial "home/contribute.html" . }}
-                  </section>
-                  {{ partial "footer.html" . }}
-               </main>
-            </div>
-        </div>
+{{ partial "head.html" . }} 
+{{ partial "body.html" . }} 
+  {{ partial "header.html" . }}
+    <div class="Site-inner">
+      <div class="Content-outer">
+        {{ partial "home/open-source.html" . }} 
+        {{ partial "home/neutral_edge.html" . }} 
+        {{ partial "home/our_dream.html" . }} 
+        {{ partial "home/map.html" . }} 
+        {{ partial "home/join_our_mission.html" . }} 
+        {{ partial "home/contribute.html" . }} 
+        {{ partial "footer.html" . }}
       </div>
-      {{ partial "js.html" . }}
-   </body>
+    </div>
+  </div>
+{{ partial "js.html" . }}
+</body>
 </html>

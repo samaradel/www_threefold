@@ -697,14 +697,14 @@ a:focus {
 .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover {
     color: #8cb53c
 }
-.Index-page, .map-page {
+.itWorks-page, .map-page {
     position: relative;
     overflow: hidden;
     background-color: #fff;
     -webkit-font-smoothing: subpixel-antialiased;
     -moz-osx-font-smoothing: auto
 }
-.Index-page--has-image {
+.Index-page--has-image, .header {
     /* background-color: #322f2f; */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -713,7 +713,7 @@ a:focus {
 /* .Index-page--has-image h1 {
     color: rgba(34, 34, 34, .9)
 } */
-.Index-page--has-image h2 {
+.Index-page--has-image h2, .info-header {
     color: #fff
 }
 .Index-page-content, .map-content {
