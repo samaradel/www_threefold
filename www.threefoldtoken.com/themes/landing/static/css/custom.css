@@ -30,7 +30,7 @@ h2 {
 h3 {
     font: normal 600 1.17em/1.2em 'Open Sans', sans-serif;
     text-transform: none;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.05em;
 }
 .left {
     text-align: left
@@ -58,7 +58,7 @@ header,
     /* min-height: 373px; */
     height: auto;
 }
-.tweak-blog-list-style-grid .BlogList-item {
+.tweak-blog-list-style-grid .faq-item, .tweak-blog-list-style-grid .info-item {
     float: none
 }
 .tweak-site-border-show .Site {
@@ -122,7 +122,7 @@ header .nav {
 a {
     text-decoration: none
 }
-.BlogList-item-excerpt {
+.faq-excerpt, .info-excerpt {
     font-size: 15px;
     line-height: 1.2em
 }
@@ -260,7 +260,7 @@ a {
     top: 0;
     margin-top: 0
 }
-.BlogList-item-excerpt p {
+.faq-excerpt p, .info-excerpt p {
     font-weight: 400;
     font-style: normal;
     font-size: 14px;
@@ -268,7 +268,7 @@ a {
     line-height: 1.6em;
     text-transform: none
 }
-.BlogList-item-title {
+.faq-title, .info-title {
     color: #6ca2e7;
     -webkit-transition: color .15s ease-out;
     -moz-transition: color .15s ease-out;
@@ -284,11 +284,11 @@ a {
     -o-transition: border-color .15s ease-out, color .15s ease-out;
     transition: border-color .15s ease-out, color .15s ease-out
 }
-.BlogList-item-title:hover {
+.faq-title:hover, .info-title:hover {
     color: rgba(108, 162, 231, .6);
     border-color: rgba(108, 162, 231, .15)
 }
-.BlogList-item {
+.faq-item, .info-item {
     margin-top: 50px
 }
 /* .BlogList-item a {
@@ -929,7 +929,7 @@ dataCenters p {
     margin-bottom: 40px;
     line-height: 140%;
 }
-.pricing_para2 {
+.block-pricing p {
     font-size: 23px;
     letter-spacing: 0.13em;
     line-height: 140%;
@@ -1057,6 +1057,54 @@ dataCenters p {
 .dropdown-menu {
     border-radius: 0px;
 }
+/* App Page */
+.app, .community {
+    padding: 60px 0;
+    overflow: hidden;
+  }
+/* contribute */
+.contribute {
+    background-color: #619e73;
+    padding: 30px 0;
+    overflow: hidden;
+    color: #fff;
+    text-align: center
+  }
+.contribute-content {
+    height: auto;
+    padding: 17px 0;
+    outline: 0;
+    box-shadow: inset 0 0 0 1px rgba(128, 128, 128, 0);
+    -webkit-transition: box-shadow .2s ease-in-out;
+    transition: box-shadow .2s ease-in-out;
+    margin: 20px auto;
+}
+.contribute a {
+    display: inline-block;
+    padding: 21px 34px;
+    font-size: 12px;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: .24em;
+    border: 2px solid #fff;
+    background-color: transparent;
+    border-radius: 3px;
+    -webkit-transition: 0.1s background-color linear, 0.1s color linear;
+    -moz-transition: 0.1s background-color linear, 0.1s color linear;
+    -o-transition: 0.1s background-color linear, 0.1s color linear;
+    transition: 0.1s background-color linear, 0.1s color linear;
+    margin: 20px auto;
+}
+.contribute a:hover {
+    color: #1d1d1d;
+    background-color: #fff;
+}
+/* privacy page */
+.privacy {
+    padding: 30px 0;
+    overflow: hidden
+  }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .navbar {
         border-radius: 0px !important;
@@ -1067,7 +1115,7 @@ dataCenters p {
     p, .dataCenters h1 {
         font-size: 100%;
     }
-    .pricing_para2 {
+    .block-pricing p {
         font-size: 120%;
     }
     .sqs-block-button .sqs-block-button-element--small {
@@ -1084,6 +1132,9 @@ dataCenters p {
         padding: 0;
         width: 100%;
         overflow: hidden;
+    }
+    .rj-team {
+        padding-bottom: 10rem;
     }
 }
 @media only screen and (min-width: 480px) and (max-width: 767px) {
@@ -1229,7 +1280,7 @@ dataCenters p {
     .navbar .navbar-nav {
         display: block;
     }
-    .BlogList-item-excerpt p, .sqs-block, .our-dream {
+    .faq-excerpt p, .info-excerpt p, .sqs-block, .our-dream {
         padding: 10px;
     }
     h1, h2, .sol-details h1 {
@@ -1249,7 +1300,7 @@ dataCenters p {
         margin: 25px auto;
     }
 
-    .pricing_para2 {
+    .block-pricing p {
         font-size: 100%;
     }
     .main-token {
@@ -1261,6 +1312,13 @@ dataCenters p {
         background-image: none;
         background-color:#EFEFEF;
         color: #4d4d4d;
+    }
+    .member-name {
+        text-align: center
+    }
+    .rj-team {
+        padding-top: 1rem;
+        padding-bottom: 2rem;
     }
 }
 @media (min-width: 768px) {

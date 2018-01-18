@@ -83,7 +83,7 @@ $(function () {
         })
     }
 
-    $("#team-test").append(render(team));
+    $("#team").append(render(team));
     toggleBio();
     unselectDiv();
     activateTeamFilter();

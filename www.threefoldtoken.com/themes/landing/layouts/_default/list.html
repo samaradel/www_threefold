@@ -9,19 +9,9 @@
 {{else}}
 {{ partial "head.html" . }}
    {{ partial "body.html" . }}
-     {{ if eq .Section "pto" }}
-         {{ partial "pto-header.html" . }}
-      {{ else if eq .Section "ito" }}
-          {{ partial "ito-header.html" . }}
-          {{ else if eq .Section "whitepaper" }}
-              {{ partial "whitepaper-header.html" . }}
-      {{ else if eq .Section "gettingstarted" }}
-          {{ partial "gettingstarted-header.html" . }}
-       {{else}}
       {{ partial "header.html" . }}
-      {{end}}
 {{end}}
-      <div class="Site-inner" style="min-height:768px;">
+      <div class="Site-inner">
           <div class="clear-fix">
             {{ range $p := (.Paginate .Data.Pages).Pages }}
             	{{ if eq .Section "faq" }}
@@ -38,12 +28,8 @@
                   <div class="Content-outer">{{ $p.Render "privacy-policy" }}</div>
                   {{ else if eq .Section "community" }}
                   <div class="Content-outer">{{ $p.Render "community" }}</div>
-                  {{ else if eq .Section "team-test" }}
-                  <div class="Content-outer">{{ $p.Render "team-test" }}</div>
                   {{ else if eq .Section "403" }}
                   <div class="Content-outer">{{ $p.Render "403" }}</div>
-                  {{ else if eq .Section "ambassador" }}
-                  <div class="Content-outer">{{ $p.Render "ambassador" }}</div>
                   {{ else if eq .Section "how-it-works" }}
                   {{ if eq .Title "challenge" }}
                     <div class="Content-outer">{{ $p.Render "challenge" }}</div>
@@ -63,40 +49,14 @@
                     <div class="Content-outer">{{ $p.Render "contribute" }}</div>
 
                     {{end}}
-                  {{ else if eq .Section "pto" }}
-                    {{ if eq .Title "pto" }}
-                      <div class="Content-outer">{{ $p.Render "pto" }}</div>
-                    {{ else if eq .Title "contribute" }}
-                      <div class="Content-outer">{{ $p.Render "contribute" }}</div>
-                    {{end}}
-                    {{ else if eq .Section "ito" }}
-                      {{ if eq .Title "ito" }}
-                        <div class="Content-outer">{{ $p.Render "ito" }}</div>
-                      {{ else if eq .Title "contribute" }}
-                        <div class="Content-outer">{{ $p.Render "contribute" }}</div>
-                        {{end}}
-
-                        {{ else if eq .Section "whitepaper" }}
-                          {{ if eq .Title "whitepaper" }}
-                            <div class="Content-outer">{{ $p.Render "whitepaper" }}</div>
-                          {{ else if eq .Title "contribute" }}
-                            <div class="Content-outer">{{ $p.Render "contribute" }}</div>
-                            {{end}}
-
-                    {{ else if eq .Section "gettingstarted" }}
-                      {{ if eq .Title "gettingstarted" }}
-                        <div class="Content-outer">{{ $p.Render "gettingstarted" }}</div>
-                      {{ else if eq .Title "contribute" }}
-                        <div class="Content-outer">{{ $p.Render "contribute" }}</div>
-                        {{end}}
                   {{else}}
     						<div class="Content-outer">{{ $p.Render "summary" }}</div>
           	  {{end}}
             {{ end }}
             {{ range .Data.Pages }}
               {{ if eq .Section "team" }}
-                {{ if eq .Title "new team" }}
-                <section class="rj-section">{{ .Render "new-team" }}</section>
+                {{ if eq .Title "complete cast" }}
+                <section class="rj-section">{{ .Render "complete-cast" }}</section>
                 {{end}}
               {{end}}
             {{end}}
