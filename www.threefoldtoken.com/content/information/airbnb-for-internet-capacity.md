@@ -2,7 +2,7 @@
 
 #Don't remove name!
 title = "AirBnB for Internet Capacity"
-image = "../img/uber-for-internet-capacity.jpg"
+image = "../img/airbnb-for-internet-capacity.jpg"
 author = "Nicolay Babenko"
 subtitle = "Everyone should be able to deliver capacity to the new neutral internet. "
 weight = 4
