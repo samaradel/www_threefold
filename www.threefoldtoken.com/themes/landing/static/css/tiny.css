@@ -86,7 +86,7 @@ td {
     text-align: center;
     padding-bottom: 20px
 }
-.sqs-block {
+.sqs-block, .inter-block {
     position: relative;
     height: auto;
     padding-top: 17px;
@@ -96,7 +96,7 @@ td {
     -webkit-transition: box-shadow .2s ease-in-out;
     transition: box-shadow .2s ease-in-out
 }
-.sqs-block:not(.sqs-block-html):not(.sqs-block-markdown) {
+.sqs-block:not(.sqs-block-html):not(.sqs-block-markdown), .sqs-block:not(.sqs-block-html):not(.inter-markdown) {
     clear: both
 }
 html .sqs-block.sqs-block-html .sqs-block-content {
@@ -403,7 +403,7 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 .social-icons-color-standard.social-icons-style-solid .sqs-svg-icon--list:hover .youtube:not(:hover) {
     background-color: rgba(229, 45, 39, .4)
 }
-.sqs-block-markdown {
+.sqs-block-markdown, .inter-markdown {
     clear: none
 }
 .sqs-block-html {
@@ -533,7 +533,7 @@ a:active,
 a:focus {
     outline: 0
 }
-.sqs-block-markdown p a {
+.sqs-block-markdown p a, .inter-markdown p a {
     color: #6ca2e7;
     text-decoration: none;
     -webkit-transition: color .15s ease-out;
@@ -549,7 +549,7 @@ a:focus {
     -o-transition: border-color .15s ease-out, color .15s ease-out;
     transition: border-color .15s ease-out, color .15s ease-out
 }
-.sqs-block-markdown p a:hover {
+.sqs-block-markdown p a:hover, .inter-markdown p a:hover {
     color: rgba(82, 82, 82, .36);
     border-color: rgba(82, 82, 82, .09)
 }
