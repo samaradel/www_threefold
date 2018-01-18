@@ -2,8 +2,6 @@
 #Don't remove name!
 title = "open source"
 
-
-
 # First column
 header_1 = "The Token is designed to have real utility: they are the payment mechanism for buying and selling Internet IT capacity on our grid."
 image_1_header = "utility"

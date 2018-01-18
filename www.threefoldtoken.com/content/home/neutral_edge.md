@@ -2,10 +2,10 @@
 #Don't remove name!
 title = "neutral_edge"
 
-header = "WHY A NEW NEUTRAL EDGE INTERNET"
-
 weight = 1
 +++
+# WHY A NEW NEUTRAL EDGE INTERNET
+
 The need for internet capacity is growing fast, in both the number of users around the globe and more connected devices in already established regions. Current architecture hyperscale datacenters are not able to cope with this demand as the requirements for power and funding are too big.
 
 The Foundation believes the solution to this trillion dollar problem is the migration of internet infrastructure capacity to the “Edge”, close to where the users of the internet are. Today's infrastructure is heavily centralized: few big corporations in the world own more than 80% of the internet capacity, resulting in inequalities in distribution.

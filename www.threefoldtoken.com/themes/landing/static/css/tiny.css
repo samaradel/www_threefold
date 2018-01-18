@@ -135,7 +135,7 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 .tweak-blog-meta-primary-author .faq-author, .tweak-blog-meta-primary-author .info-author {
     display: inline
 }
-.BlogList-item {
+.BlogList-item, .openSource-item {
     display: block;
     margin-top: 100px;
     margin-bottom: -11px;
@@ -160,7 +160,7 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 .tweak-blog-list-style-grid.tweak-blog-list-item-image-aspect-ratio-grid-11-square .BlogList-item-image:before {
     padding-bottom: 100%
 }
-.BlogList-item-image-link {
+.openSource-link {
     display: block;
     line-height: 0;
     overflow: hidden
@@ -169,12 +169,12 @@ html .sqs-block.sqs-block-html .sqs-block-content {
     max-width: 100%;
     max-height: 100%
 }
-.sqs-block-content-home a {
+.sqs-block-content-home a, .content-home a {
     color: #6ca2e7;
     text-decoration: none;
     border-bottom: 1px solid rgba(108, 162, 231, .3)!important
 }
-.sqs-block-content-home a:hover {
+.sqs-block-content-home a:hover, .content-home a:hover {
     /* color: rgba(108, 162, 231, .6)!important; */
     text-decoration: none;
     border-bottom: 1px solid rgba(108, 162, 231, .15)!important
@@ -482,7 +482,7 @@ body.tweak-site-width-option-constrained-width {
     -moz-osx-font-smoothing: auto
 }
 .Main-content,
-.Index-page-content {
+.Index-page-content, .map-content {
     -webkit-animation: anim-opacity-full 480ms ease-out;
     animation: anim-opacity-full 480ms ease-out
 }
@@ -697,7 +697,7 @@ a:focus {
 .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover {
     color: #8cb53c
 }
-.Index-page {
+.Index-page, .map-page {
     position: relative;
     overflow: hidden;
     background-color: #fff;
@@ -716,14 +716,14 @@ a:focus {
 .Index-page--has-image h2 {
     color: #fff
 }
-.Index-page-content {
+.Index-page-content, .map-content {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     padding: 40px 25px
 }
 @media screen and (max-width: 640px) {
-    .Index-page-content {
+    .Index-page-content, .map-content {
         padding-left: 20px;
         padding-right: 20px
     }

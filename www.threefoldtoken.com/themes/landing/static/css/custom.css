@@ -100,7 +100,8 @@ header,
 .app #error-overlay,
 .text-name,
 .team-name,
-.button {
+.button,
+.content-home {
     text-align: center
 }
 
@@ -108,7 +109,8 @@ body,
 .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover,
 .sqs-block-content-home h1,
 .Main--blog-item .sqs-block-content h2,
-.inter-content {
+.inter-content,
+.content-home h1 {
     color: #757575
 }
 
@@ -154,12 +156,14 @@ a {
     line-height: 1.2em
 }
 
-.sqs-block-content-home h1 {
+.sqs-block-content-home h1,
+.content-home h1 {
     margin: .67em 0
 }
 
 .sqs-block-content h3,
-.inter-content h3 {
+.inter-content h3,
+.map-content h3 {
     text-align: left
 }
 
@@ -439,12 +443,14 @@ a {
 }
 
 .sqs-block-content h1 a,
-.inter-content h1 a {
+.inter-content h1 a,
+.map-content h1 a {
     color: rgba(255, 255, 255, .7)
 }
 
 .sqs-block-content a,
-.inter-content a {
+.inter-content a,
+.map-content a {
     color: #337ab7 !important;
 }
 
@@ -472,7 +478,7 @@ a {
     border-color: rgba(255, 255, 255, .105)
 }
 
-.implementation-activity-map h1,
+.map h1,
 .summary-offering-terms-1 .sqs-block-content h1,
 .summary-offering-terms-1 .sqs-block-content h2,
 .contact-us .sqs-block-content h2 {
@@ -495,7 +501,8 @@ a {
     color: #1d1d1d
 }
 
-.Index-page-content {
+.Index-page-content,
+.map-content {
     padding: 0
 }
 
@@ -1116,7 +1123,7 @@ dataCenters p {
     background-position: right;
     background-color: #f1f1f1;
     height: auto;
-    padding: 60px 0;
+    padding: 44px 0;
     overflow: hidden;
 }
 
@@ -1290,7 +1297,8 @@ dataCenters p {
 /* App Page */
 
 .app,
-.community {
+.community,
+.map {
     padding: 60px 0;
     overflow: hidden;
 }
@@ -1347,6 +1355,10 @@ dataCenters p {
     overflow: hidden
 }
 
+.map {
+    padding-bottom: 30px;
+}
+
 
 /* single pages */
 
@@ -1368,6 +1380,15 @@ dataCenters p {
     width: 100%;
     height: 100%;
     position: relative;
+}
+
+
+/* Open source sec */
+
+.sphere {
+    top: 0px;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
