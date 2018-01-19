@@ -11,10 +11,10 @@ In the spirit of our firm believes in open source technology we are as transpara
 
 
 ### In General
-Overall GIG uses very little user tracking, all user tracking we do is for one purpose only: user experience measurments. We do not track users for any advertising or marketing purposes.
+Overall ThreeFold uses very little user tracking, all user tracking we do is for one purpose only: user experience measurments. We do not track users for any advertising or marketing purposes.
 
 ### Videos
-All videos featured on ThreefoldToken are MP4 and Flash formatted videos hosted on Vimeo using our the www.ind.ie custom video player.
+All videos featured on ThreeFoldToken.com are MP4 and Flash formatted videos hosted on Vimeo using the www.ind.ie custom video player.
 
 ### Analytics
-The only analytics data we gather is done by google analytics for user experience measurements.
+The only analytics data we gather is done by google analytics for user experience tracking.
