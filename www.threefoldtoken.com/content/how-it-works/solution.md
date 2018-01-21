@@ -11,7 +11,7 @@ grid_img_2 = "/img/connection-1.png"
 grid_txt_2 = "Distributed world wide"
 
 grid_img_3 = "/img/internet.png"
-grid_txt_3 = "All connected to eachother"
+grid_txt_3 = "All connected to each other"
 
 grid_img_4 = "/img/home-location-marker.png"
 grid_txt_4 = "Making internet local"
