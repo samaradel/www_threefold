@@ -1,11 +1,11 @@
 {{ range $element :=  .Data.Pages }}
   {{ if eq .Section "home" }}
-    {{ if eq .Title "neutral_edge" }}
+    {{ if or (eq .Title "neutral edge") (eq .Title "digital currency") }} 
+
 
         <div class="col-sm-2"></div>
         <div class="col-sm-8">
              <div class="content-home">
-                <h1 id="we-are-gig-tech">{{ .Params.header }}</h1>
                 <p>{{ .Content }}</p>
              </div>
         </div>

@@ -1,6 +1,6 @@
 +++
 #Don't remove name!
-title = "neutral_edge"
+title = "neutral edge"
 
 weight = 1
 +++

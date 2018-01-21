@@ -1,6 +1,6 @@
 +++
 #Don't remove title!
-title = "contribute"
+title = "whitepaper"
 
 button_name = "VIEW WHITEPAPER"
 button_link = "pdf/tf_whitepaper.pdf"

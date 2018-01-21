@@ -35,6 +35,13 @@ body {
     padding: 0;
 }
 
+.box {
+    padding: 0;
+    -moz-box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 2px 0 15px -4px #ccc, -2px 0 15px -4px #ccc;
+    -webkit-box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 2px 0 15px -4px #ccc, -2px 0 15px -4px #ccc;
+    box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 2px 0 15px -4px #ccc, -2px 0 15px -4px #ccc;
+}
+
 .tweak-site-width-option-constrained-width .Site {
     max-width: 1170px;
     overflow: visible
@@ -637,9 +644,11 @@ a {
     margin: -63vh auto 0 170px;
     z-index: 3
 }
+
 .Main-content {
     padding: 0px;
-  }
+}
+
 #timer {
     position: absolute;
     top: 0;
@@ -1372,6 +1381,8 @@ dataCenters p {
 .content-home {
     padding-bottom: 30px;
 }
+
+
 /* privacy page */
 
 .privacy {
