@@ -1288,7 +1288,9 @@ dataCenters p {
 .team img {
     width: 100%;
 }
-
+.team-test {
+    padding: 60px 0;
+}
 .contribute h1,
 .contribute h2 {
     color: #fff;
