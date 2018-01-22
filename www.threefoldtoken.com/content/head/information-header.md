@@ -4,5 +4,5 @@
 title = "information header"
 
 img = "/img/threefold.svg"
-alt = "Threefold"
+alt = "ThreeFold"
 +++

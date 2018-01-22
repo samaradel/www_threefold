@@ -54,11 +54,11 @@ By tying the release of the vast majority to actual growth of the ThreeFold Grid
 
 #### The ThreeFold Foundation
 
-We have started the Threefold Foundation to support and deploy this technology to build a global ThreeFold Grid delivering IT capacity in a flexible shape: in traditional datacenter architectures where that is required, local and decentralized "edge" architecture where it is possible. The combination of these two factors results in a new global grid that can function as a new Internet.
+We have started the ThreeFold Foundation to support and deploy this technology to build a global ThreeFold Grid delivering IT capacity in a flexible shape: in traditional datacenter architectures where that is required, local and decentralized "edge" architecture where it is possible. The combination of these two factors results in a new global grid that can function as a new Internet.
 
 We will organize the foundation as a not-for profit, having a board of ambassadors coming from all parts of the globe and a diversity of backgrounds. We will practice open bookkeeping, allowing anyone to consult where the revenue flows.
 
 
 ### Conclusion
 
-The Threefold Foundation is building a global grid delivering IT capacity at competitive pricing. The token we issue will both jumpstart the rollout of this ThreeFold Grid and be used as a means of payment within the Grid. In order to increase price stability of the token, we aim to issue tokens whenever new operators join the ThreeFold Grid until the hard cap of 100 million tokens is reached. This results in a token that will remain spendable through the global grid maintained by the ThreeFold Foundation.
+The ThreeFold Foundation is building a global grid delivering IT capacity at competitive pricing. The token we issue will both jumpstart the rollout of this ThreeFold Grid and be used as a means of payment within the Grid. In order to increase price stability of the token, we aim to issue tokens whenever new operators join the ThreeFold Grid until the hard cap of 100 million tokens is reached. This results in a token that will remain spendable through the global grid maintained by the ThreeFold Foundation.

@@ -11,13 +11,13 @@ weight = 10
 
 # Ambassador
 
-## What  does it mean to be a Threefold Ambassador?
+## What  does it mean to be a ThreeFold Ambassador?
 
---- As a Threefold Ambassador, you are one of the faces of our global movement. You are passionate about the values and the vision of the Threefold Foundation, and look for opportunities to share your enthusiasm with others. By doing so, you endorse and promote the goals of the Threefold Foundation, bringing it closer to manifestation, and you help to shape the community. 
+--- As a ThreeFold Ambassador, you are one of the faces of our global movement. You are passionate about the values and the vision of the ThreeFold Foundation, and look for opportunities to share your enthusiasm with others. By doing so, you endorse and promote the goals of the ThreeFold Foundation, bringing it closer to manifestation, and you help to shape the community. 
 
 ## Are there special requirements to become a ThreeFold Ambassador?
 
---- Be true. Truly support the values and goals of the Threefold Foundation. One of your main drives is to do good for the world, and you recognize in the Threefold mission a way to achieve this.
+--- Be true. Truly support the values and goals of the ThreeFold Foundation. One of your main drives is to do good for the world, and you recognize in the ThreeFold mission a way to achieve this.
 
 --- Be an opinion shaper in your particular field, and use your network and reach to inform and inspire the broader public.
 

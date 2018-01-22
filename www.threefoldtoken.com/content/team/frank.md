@@ -18,4 +18,4 @@ telegrem_txt = ""
 weight = 14
 
 +++
-Frank loves supporting innovation and let people grow; he has over 30 years of experience in Strategy, Finance and Analysis within the telecom industry. He helps start-ups and corporates to improve themselves, increase the growth and enjoyment in their work. He has an own company, Bfrank-Analytics, which incorporates the very same values of Threefold. His background is Econometrics.
+Frank loves supporting innovation and let people grow; he has over 30 years of experience in Strategy, Finance and Analysis within the telecom industry. He helps start-ups and corporates to improve themselves, increase the growth and enjoyment in their work. He has an own company, Bfrank-Analytics, which incorporates the very same values of ThreeFold. His background is Econometrics.

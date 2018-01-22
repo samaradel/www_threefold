@@ -3,7 +3,7 @@
 title = "header"
 
 img = "/img/threefold.svg"
-alt = "Threefold"
-header_1 = "Threefold Token"
+alt = "ThreeFold"
+header_1 = "ThreeFold Token"
 header_2 = "a digital currency backed by neutral and sustainable internet capacity"
 +++

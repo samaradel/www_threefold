@@ -1,6 +1,6 @@
 +++
 # Don't remove name!
-title = "Threefold Token"
+title = "ThreeFold Token"
 image = "../img/question2.jpg"
 author = ""
 subtitle = ""
@@ -25,13 +25,13 @@ Decentralized digital currencies are well on the way to full acceptance as a mai
 
 Major problems remain, however, such as scalability issues, impossible energy requirements, certain perceived reputational issues and, most importantly, a general absence of intrinsic value collateralized by real assets.
 
-We designed our Token as a safe, scalable currency with real utility and intrinsic value rooted in real assets.
+We designed our Token as a scalable currency with real utility and intrinsic value rooted in real assets.
 
 ### What are the Foundation’s objectives for the TF Token?
 
 The Foundation’s long term objective is to migrate the ThreeFold Token firmly into the mainstream as a payment instrument used to purchase IT and other services. We seek  to:
 
-* Create a safe, alternative currency with intrinsic value rooted in real assets.
+* Create an alternative currency with intrinsic value rooted in real assets.
 * Give our Tokens a designated utility by linking the Token directly to the growth of the Internet.
 * Support our Tokens - prioritise liquidity, stability, transparency and exchangeability for Token Holders.
 * Ensure the integrity and security of the Tokens for Token Holders.
@@ -121,7 +121,7 @@ Not defined yet. Rules seem to be unclear at this point.
 
 ### KYC and AML Procedures
 
-We take our Know Your Client (KYC) and Anti-Money Laundering (AML) obligations seriously.  We employ robust onboarding protocols and identity management via itsyou.online and our TF app.
+We take our Know Your Client (KYC) and Anti-Money Laundering (AML) obligations seriously.  We employ onboarding protocols and identity management via itsyou.online and our TF app.
 
 
 ### How is the Foundation structured and where is it based?
