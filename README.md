@@ -28,10 +28,6 @@ Staging can be found here:
 
 - https://threefold2.aydo.com/
 
-Test can be found here:
-
-- https://testthreefold.aydo.com/
-
 For any GOGS related questions please contact:
 
 Nickolay Babenko through telegram @nbabenko
