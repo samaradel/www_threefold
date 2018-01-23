@@ -4,7 +4,7 @@
 title = "header"
 
 img = "/img/threefold.svg"
-alt = "Threefold"
+alt = "ThreeFold"
 weight = 1
 +++
 # ThreeFold is building a decentralized, selfhealing, neutral internet infrastructure.

@@ -1,7 +1,7 @@
 +++
 
 #Don't remove name!
-title = "Threefold Token?  What is it?"
+title = "ThreeFold Token?  What is it?"
 image = "../img/threefold_token.jpg"
 author = "Baker Yanicelli"
 subtitle = "What is our ThreeFold Token, how to buy, what is the utility, how safe is it?"
@@ -9,7 +9,7 @@ weight = 11
 
 +++
 
-## Threefold Token?  What is it?
+## ThreeFold Token?  What is it?
 
 A ThreeFold Token is a smart contract digital token that is the exclusive payment instrument or currency for which farmers can sell Internet IT capacity via TF Directory service.   
 

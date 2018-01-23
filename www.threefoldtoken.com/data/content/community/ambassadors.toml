@@ -12,7 +12,7 @@ x=1 # 0 <= X < 4
 y=0 # 0 <= Y < 5
 name="Bart Weijermars"
 nationality="Dutch"
-why="I strongly believe that new technologies can help people to make this world a better place. This requires neutral and equal access to internet infrastructure, all over the world. The Threefold Foundation enables just that."
+why="I strongly believe that new technologies can help people to make this world a better place. This requires neutral and equal access to internet infrastructure, all over the world. The ThreeFold Foundation enables just that."
 bio="Bart Weijermars has extensive international experience in the telecommunications industry. He has over 20 years experience in Board positions of international operators in Europe, including the role of CEO of T-Mobile in the Netherlands. As a Commercial Director for T-Mobile in Macedonia and the Netherlands, Eircom in Ireland and KPN Mobile in the Netherlands, he has successfully introduced new business models for growth and value creation. He currently is the CEO of Artilium plc, a London AIM listed software company that provides (tele)communication, IoT, billing, and identity management solutions to enterprises and telecom operators."
 avatar="bart.jpg"
 
@@ -30,7 +30,7 @@ x=3 # 0 <= X < 4
 y=0 # 0 <= Y < 5
 name="Paolo Piccardo"
 nationality="Italian"
-why="To change is possible, it is always a possible way in front of us, but to change is an opportunity to wisely use. When a change is felt positive, it is because of a new balance between us and the place and time in which we live has increased and this change can be called improvement. Transforming the economy seems impossible, but we made it the way it is today and we are the only element in the universe able to improve it by making it more natural. The Threefold Token project is for me a clear step forward in this direction heading to a more balanced future to be profited by all of us. "
+why="To change is possible, it is always a possible way in front of us, but to change is an opportunity to wisely use. When a change is felt positive, it is because of a new balance between us and the place and time in which we live has increased and this change can be called improvement. Transforming the economy seems impossible, but we made it the way it is today and we are the only element in the universe able to improve it by making it more natural. The ThreeFold Token project is for me a clear step forward in this direction heading to a more balanced future to be profited by all of us. "
 bio="Moved by the passion for the knowledge and for our role in this time, Paolo has constantly been forming and training himself in both natural and human sciences. The professorships gives him the responsibility to talk to the next active generation and to transfer the desire to learn and to make the best use out of what we have. Culture in all forms is for Paolo, actually working in materials for clean energy, a renewable and precious source of power. His main aim is to contribute to reunify art, science, and relationships, because these define our 'being human in a natural world'. Gathering people in special events to communicate and inspire has been something Paolo learned in numerous past experiences."
 avatar="paolo.jpg"
 
@@ -39,7 +39,7 @@ x=4 # 0 <= X < 4
 y=0 # 0 <= Y < 5
 name="Gert De Spiegeleer"
 nationality="Belgian"
-why="I strongly believe that IT can help to create a better world and that is exactly the mission of the Threefold Foundation. Every human being, born on this planet should have acces to good education and equal chances in the pursuit of happiness. We need to create a legacy of a greener, healthier and happier world for our children."
+why="I strongly believe that IT can help to create a better world and that is exactly the mission of the ThreeFold Foundation. Every human being, born on this planet should have acces to good education and equal chances in the pursuit of happiness. We need to create a legacy of a greener, healthier and happier world for our children."
 bio="After a brief period of working in the financial world, Gert fell in love with education. He has been teaching (business) economics and accounting in a secondary school in Flanders for years. Gert became the schoolmanager in 2008 and in 2016 he was elected general manager of his schoolcommunity. Gert is a true believer of life long learning."
 avatar="gert.jpg"
 
@@ -57,7 +57,7 @@ x=1 # 0 <= X < 4
 y=1 # 0 <= Y < 5
 name="Andy Brauer"
 nationality="South African"
-why="The boiling frog is a parable describing a frog being slowly boiled alive. The premise is that if a frog is put suddenly into boiling water, it will jump out, but if the frog is put in tepid water which is then brought to a boil slowly, it will not perceive the danger and will be cooked to death. Threefold is key in helping people and companies think ahead and not end up in hot water."
+why="The boiling frog is a parable describing a frog being slowly boiled alive. The premise is that if a frog is put suddenly into boiling water, it will jump out, but if the frog is put in tepid water which is then brought to a boil slowly, it will not perceive the danger and will be cooked to death. ThreeFold is key in helping people and companies think ahead and not end up in hot water."
 bio="With 40 years of experience in the ICT Industry he covered most areas including Electronics, Telecommunications, Software Development, Business Development, and Innovation and with roles of Executive Director, Technical Director, Chief Information Officer and Chief Technology Officer. He also served on the Meraka Advisory Panel at the Council for Scientific and Industrial research in South Africa and as an advisor to Enterprise Ireland.   Previously Chief Technology Officer of Business Connexion, the largest Information and Communications technology company in Africa. Currently focused on Self Healing Technology, Deep Learning, as well an advance renewable energy. He has received Citation Awards for innovation.  His philosophy is to keep on learning."
 avatar="andy.jpg"
 
@@ -66,7 +66,7 @@ x=2 # 0 <= X < 4
 y=1 # 0 <= Y < 5
 name="Garry Veale"
 nationality="Welsh"
-why="Sometimes in life - it's about making a stand, calling it as it is & doing the right thing. That's what the Threefold Foundation is about - innovation & integrity!"
+why="Sometimes in life - it's about making a stand, calling it as it is & doing the right thing. That's what the ThreeFold Foundation is about - innovation & integrity!"
 bio="Technology veteran & previous EMC EMEA Vice President - who was part of the original/founding EMC EMEA team that was recognised by for both creating a new market category & being the fastest growing technology company of the decade. Expertise around introducing and developing world class, disruptive & game changing technologies – previous experience also includes EMEA Director & VP roles at IBM, HP & Avaya - plus several tech start-ups"
 avatar="garry.jpg"
 
@@ -84,7 +84,7 @@ x=4 # 0 <= X < 4
 y=1 # 0 <= Y < 5
 name="Erik de Rijk"
 nationality="Dutch"
-why="After the software/OS revolution that Linux invoked, we need a similar revolution in compute and storage and the Threefold foundation may be the spark we need to start this."
+why="After the software/OS revolution that Linux invoked, we need a similar revolution in compute and storage and the ThreeFold foundation may be the spark we need to start this."
 bio="Erik fell in love with Unix/Linux/Open Source in 1989 on his Highschool and it never left him. His passion is programming (Shell, php, C and C++) but last few years barely been able to sit behind a Linux terminal to write some proper code (although his hands are itching whenever he sees the crap that is floating out there). Co-founded Unix Support Nederland (USN) with 8 other students and now co-founder and head of a Linux consultancy company (Proxy) with 50 highly qualified Unix/Linux/Open Source technicians in the Netherlands (who call themselves Nerds...)."
 avatar="erik_derijk.jpg"
 
@@ -93,7 +93,7 @@ x=0 # 0 <= X < 4
 y=2 # 0 <= Y < 5
 name="His Excellency Dr. Kanwal Sibal"
 nationality="Indian"
-why="The use of the internet will explode in the years ahead as more and more people across the globe connect to it as countries lagging behind in internet usage catch up with the rest. Energy use will grow commensurately and hence the need for “green” solutions which, I believe, the model proposed by the Threefold foundation will promote through highly efficient energy storage, distributed computing, anti-hacking safeguards, and protecting our rights to privacy through blockchain, and all this through an innovative financial structure."
+why="The use of the internet will explode in the years ahead as more and more people across the globe connect to it as countries lagging behind in internet usage catch up with the rest. Energy use will grow commensurately and hence the need for “green” solutions which, I believe, the model proposed by the ThreeFold foundation will promote through highly efficient energy storage, distributed computing, anti-hacking safeguards, and protecting our rights to privacy through blockchain, and all this through an innovative financial structure."
 bio="Kanwal Sibal, with 41 years of experience in diplomacy, is a former Foreign Secretary to the Government of India. He has served as Ambassador to Turkey, Egypt, France and Russia. He was a member of India's National Security Advisory Board from 2008 to 2010. He is on the Board of the New York based East-West Institute. He has written more than 450 Op-Eds and other articles for major national journals and periodicals on international affairs. He was made a Grand Officier of the Ordre National du Merite by the French President. In 2017 he received the Padam Shree award from the President of India."
 avatar="kanwal.jpg"
 
@@ -102,7 +102,7 @@ x=1 # 0 <= X < 4
 y=2 # 0 <= Y < 5
 name="Tony Henderson"
 nationality="British"
-why="I believe in the Threefold Foundation because it will drive open and widescale investment into cloud infrastructure and empower those at the edge of the network to build new localised and global services and be rewarded for their innovation. In short, it is a gamechanger."
+why="I believe in the ThreeFold Foundation because it will drive open and widescale investment into cloud infrastructure and empower those at the edge of the network to build new localised and global services and be rewarded for their innovation. In short, it is a gamechanger."
 bio="Tony has an extensive commercial background in Telecoms, TV & Entertainment technology and is currently Head of Europe, Media Products & Services for Intertrust Technologies Corporation, the inventor of in Digital Rights Management technology. He has also been a strategic adviser to a number of ventures including web video platforms, a shared payment platform, telecoms service providers and blockchain ventures. Previously Tony held a number of business management roles at Microsoft’s entertainment business helping operators and broadcasters to deliver Pay TV and Over The Top entertainment services. Prior to Microsoft Tony ran a leadership network for CEOs and also held senior technology and business roles with the BBC and the music industry. In 2012 Tony published his first book “The Leopard In A Pinstripe Suit” which is a fun perspective on today’s business world; he continues to write on various topics. In his spare time Tony also runs ultra-marathons, recently completing an 83 mile run along the length of Hadrian’s wall. Tony is a graduate of Edinburgh University."
 avatar="tony.jpg"
 
@@ -111,7 +111,7 @@ x=2 # 0 <= X < 4
 y=2 # 0 <= Y < 5
 name="Kristian Järnefelt"
 nationality="Finnish"
-why="The internet has turned into a centralized mainframe like phenomena dominated by a few global giants and Threefold Foundation’s grid-like distributed & eco-friendly internet is taking it back to its roots providing an alternative. Using this infrastructure to back-up the new Coin Offering brings also a solid alternative to the speculative virtual currencies making it also more tangible."
+why="The internet has turned into a centralized mainframe like phenomena dominated by a few global giants and ThreeFold Foundation’s grid-like distributed & eco-friendly internet is taking it back to its roots providing an alternative. Using this infrastructure to back-up the new Coin Offering brings also a solid alternative to the speculative virtual currencies making it also more tangible."
 bio="Kristian Järnefelt is the Executive Vice President of Consumer security of F-Secure Corporation. He has been a member of the Leadership Team since February 2016, when he joined F-Secure. Prior to joining the Company, Mr. Järnefelt worked for Fujitsu Finland Oy as Sales Director (2014-2015). Previously he has also worked as CEO and partner at Miradore Oy (2010-2014), CEO and partner at Concilio Networks Oy (2006-2009) and in several senior leadership roles at Hewlett Packard (1994-2006). He holds a Master's Degree in Economics and Business Administration. "
 avatar="kristian.jpg"
 
@@ -120,7 +120,7 @@ x=3 # 0 <= X < 4
 y=2 # 0 <= Y < 5
 name="Krish R. Krishnan"
 nationality="Indian"
-why="The ability to deliver positive social, climate change and economic returns carves out an unique position for the Threefold Foundation. Such a mission has the inherent ability to effect transformative changes to Emerging Economies"
+why="The ability to deliver positive social, climate change and economic returns carves out an unique position for the ThreeFold Foundation. Such a mission has the inherent ability to effect transformative changes to Emerging Economies"
 bio="Mr. Krish R. Krishnan is a founder director and CEO of Green Village Ventures (GVV, a rural India oriented, solar off-grid based social venture. GVV has entered in a Public Private Partnership with the Government of India and has installations in 250 village communities. During an Indian Republic day event held in 2016, the Indian Prime Minister Mr. Narendra Modi and French President Mr. Francois Hollande commended GVV through a joint statement. Mr. Krishnan was awarded a Citation by the Government of Nepal for his Climate Change Policy Advisory efforts and in designing, assisting and sponsoring the Nepalese Cabinet Meeting at the Mount Everest Base Camp. He has testified before the US Senate on Environment, Technology & Internet issues. Mr. Krishnan has been a recognized expert in the field of Sustainable Environmental Development, Renewable Energy Development, “Paperless” Compliance and Software Technology."
 avatar="krish.jpg"
 
@@ -129,7 +129,7 @@ x=4# 0 <= X < 4
 y=2 # 0 <= Y < 5
 name="Nisha Grimes"
 nationality="American"
-why="Nisha is honored to serve as an Ambassador for the Threefold Foundation because of its empowering mission and transparant nature. She believes this technology will revolutionize the way the world utilizes capital, does business and unlocks personal and entrepreneurial potential."
+why="Nisha is honored to serve as an Ambassador for the ThreeFold Foundation because of its empowering mission and transparant nature. She believes this technology will revolutionize the way the world utilizes capital, does business and unlocks personal and entrepreneurial potential."
 bio="Nisha Grimes is an explorer, creator and a capacity development professional. She is passionate about building a just and sustainable world where all people have equal access to knowledge and opportunities. She has traveled to almost 50 countries and has designed and facilitated development projects on 5 continents ranging from social business initiatives in Africa, service learning projects in the Middle East and organic farmers markets in rural Latin America. Nisha was a Peace Corps Coverdell Fellow and is an avid volunteer, traveler and outdoor enthusiast. Some of her adventures include trekking across Spain, visiting ancient ruins in Ethiopia and bungee jumping off bridges in Costa Rica."
 avatar="nisha.jpg"
 
@@ -147,7 +147,7 @@ x=1 # 0 <= X < 4
 y=3 # 0 <= Y < 5
 name="Franco Sorgi"
 nationality="Italian/American"
-why="I strongly believe in decentralization, net neutrality, privacy, open source organizations, transparancy, equal distribution, and the freedom to connect to anyone in the world without any filter. But then again... I may be crazy! I believe that the Threefold Foundation falls exactly in the categories I just mentioned, thus I'd love to give my support. "
+why="I strongly believe in decentralization, net neutrality, privacy, open source organizations, transparancy, equal distribution, and the freedom to connect to anyone in the world without any filter. But then again... I may be crazy! I believe that the ThreeFold Foundation falls exactly in the categories I just mentioned, thus I'd love to give my support. "
 bio="Born and raised in Italy, living in the USA, Citizen of the world, let's see what's next. Vice president of Fine Foods Solutions, food and service industry California, USA (currently). Director of operations 'Brandy Melville Canada', woman fashion and apparel, ontario Canada (currently). Blockchain believer, Bitcoin enthousiast, cryptocurrency fanatic."
 avatar="franco.jpg"
 
@@ -156,7 +156,7 @@ x=2 # 0 <= X < 4
 y=3 # 0 <= Y < 5
 name="Philippe Guillemot"
 nationality="French"
-why="Access to the digital world has become as essential as access to water and electricity. Internet and cloud, even though a utility, is today dominated by a few large multinational companies. Threefold Foundation ambition is to build an internet and cloud that is close and belong to its users."
+why="Access to the digital world has become as essential as access to water and electricity. Internet and cloud, even though a utility, is today dominated by a few large multinational companies. ThreeFold Foundation ambition is to build an internet and cloud that is close and belong to its users."
 bio="Philippe Guillemot, 58, is the former Chief Operating Officer at Alcatel-Lucent SA, Boulogne-Billancourt, France, prior to its acquisition by Nokia Oyj at the beginning of 2016. Prior to this tenure with Alcatel-Lucent, Guillemot was Chief Executive Officer and Board Director of Europcar Group from 2010 to 2012, Guyancourt, France; Chairman and CEO of Areva T&D, Paris, from 2004 to 2010; Group Executive Vice President, Faurecia SA, Paris, from 2001 to 2003; Group Vice President, Valeo, Paris, from 1998 to 2000; and he held several global executive positions with Michelin from 1983 to 1998. Guillemot is graduated from Ecole Nationale Supérieure des Mines de Nancy, France; and received an MBA from Harvard Business School. He serves on the board of directors of Constellium a global aluminium products manufacturer, Amsterdam, The Netherlands; Sonoca a global provider of a variety of consumer packaging, Hartsville, S.C. USA and previously served on the Board of Visteon Corporation, an auto parts manufacturer, Detroit, MI USA."
 avatar="philippe.jpg"
 
@@ -165,7 +165,7 @@ x=2 # 0 <= X < 4
 y=5 # 0 <= Y < 5
 name="Brian Bogaerts"
 nationality="Belgian"
-why="The Threefold Foundation is a future path to an accessible and sustainable digital world, for entrepreneurs from around the world to build upon. Unleashing entrepreneurial power of the many, rather than the few."
+why="The ThreeFold Foundation is a future path to an accessible and sustainable digital world, for entrepreneurs from around the world to build upon. Unleashing entrepreneurial power of the many, rather than the few."
 bio="Brian is an internationally well-connected entrepreneur, with a passion for people and technology, at his best launching and building initiatives from scratch. He comes with relentless energy and a solid track record at Alcatel-Lucent, The Boston Consulting Group and KPN, where he held senior management positions in strategy, innovation and business development roles. More recently, Brian launched and sold a few data-driven companies, mainly focusing on cross- and up-sell logic and in the web analytics space.Today, Brian is a co-founder at DataTeam.Services, a pan European go-to-market company focusing on international expansion (and other activities) for its partners. He comes with an MSc in electromechanical engineering, holds an MBA, lives in The Hague and can be reached at +31613934639."
 avatar="Brian Bogaerts.jpg"
 
@@ -174,7 +174,7 @@ x=3 # 0 <= X < 4
 y=0 # 0 <= Y < 5
 name="Ahmed Odeh"
 nationality="Jordanian"
-why="I believe that Threefold token will be the leading digital currency as it has a clear vision to utilise the best of blockchain technology to deliver IT capacity to everyone around the world"
+why="I believe that ThreeFold token will be the leading digital currency as it has a clear vision to utilise the best of blockchain technology to deliver IT capacity to everyone around the world"
 bio="Ahmed is a legal consultant specializing in civil & criminal dispute resolution in the UAE. Areas of practice also include commercial, real estate, arbitration and labour. Ahmed also has showcased proven results in managing legal teams in litigation and corporate services, fostering teamwork for projects such as due diligence and client reporting. He is also the author of knowyourrights.dubizzle.com"
 avatar="Ahmed Odeh.jpg"
 
@@ -183,7 +183,7 @@ x=3 # 0 <= X < 4
 y=1 # 0 <= Y < 5
 name="Olivia Kemp"
 nationality="Austrian, British"
-why="I believe in the Threefold Token Foundation because I am one of the first generations growing up with the internet. However, current developments show, companies are making internet users very dependent on all their technologies. So as I see it, an opportunity to have alternative ways of providing cyber space without contributing to the „vitreous human“, will be a major stepping stone."
+why="I believe in the ThreeFold Token Foundation because I am one of the first generations growing up with the internet. However, current developments show, companies are making internet users very dependent on all their technologies. So as I see it, an opportunity to have alternative ways of providing cyber space without contributing to the „vitreous human“, will be a major stepping stone."
 bio="After completing school and sports education (focus on skiing, swimming, volleyball) I had various international assignments and education (Stanford, South Africa) and am now completing my master studies in economics and law. In addition I work at a law firm in Vienna and have occasional hosting assignments at Red Bull Racing."
 avatar="Olivia Kemp.png"
 
@@ -192,7 +192,7 @@ x=3 # 0 <= X < 4
 y=2 # 0 <= Y < 5
 name="Mikhail Erenburg"
 nationality="Russian"
-why="There is no doubt anymore, that the world wants digital currency.  At the same time, existing solutions, although highly popular already, lack critical attributes to become truly sustainable long term.  I know Kristof good enough to be sure that Threefold token can become the next Big Thing."
+why="There is no doubt anymore, that the world wants digital currency.  At the same time, existing solutions, although highly popular already, lack critical attributes to become truly sustainable long term.  I know Kristof good enough to be sure that ThreeFold token can become the next Big Thing."
 bio="Mikhail Erenburg, 38, is the former Senior Vice President at Sberbank, Eastern Europe's largest bank. Prior to this he was Chief Executive Officer of Asteros, one of top 3 IT system integrators in Russia; COO of Rusal, the worlds largest Aluminum company. Mikhail holds Phd degree from Moscow Aviation Institute and graduated executive programs from Columbia business school and Massachusetts Institute of technology."
 avatar="Mikhail Erenburg.jpg"
 
@@ -201,7 +201,7 @@ x=3 # 0 <= X < 4
 y=3 # 0 <= Y < 5
 name="Mihos Vasilopoulos"
 nationality="Greek"
-why="The world is fast adopting e-currencies (against artificial FIAT); Backed by Capacity and supported by unique disruptive green technology, the TFT Token is a unique IT monetary instrument,  that unlike other cryptocurrencies, has real value. In fact, Threefold Token is the pre-cursor of an exciting IT-created utility."
+why="The world is fast adopting e-currencies (against artificial FIAT); Backed by Capacity and supported by unique disruptive green technology, the TFT Token is a unique IT monetary instrument,  that unlike other cryptocurrencies, has real value. In fact, ThreeFold Token is the pre-cursor of an exciting IT-created utility."
 bio="A serial entrepreuner: Co-Founder and until recently Executive Vice President of NEWAGE ENERGY, presently UK's largest private oil and gas company. Also co-Founder of Global Process Systems the leading Middle East fabricator of process modules, as well as co-Founder of HYDROCYCLONICS, a US based company developing water treatment systems. Previously held numerous Senior positions with KVAERNER (Head of Energy Asia), Executive Vice President of PETROPLUS,  Advisor to the President of HYUNDAI HEAVY INDUSTRIES, Advisor to the Chairman of TRANSCANADA, and Senior Consultant with MARATHON OIL."
 avatar="Michail -Mihos- Vasilopolous.jpg"
 
@@ -220,7 +220,7 @@ x=3 # 0 <= X < 4
 y=5 # 0 <= Y < 5
 name="Michel Coucke"
 nationality="Belgian"
-why="ThreeFold is opening a new chapter. With the Threefold project we are contributing to the construction of a better world not just financially but globally. It is not just about another 'coin', it is a real revolution."
+why="ThreeFold is opening a new chapter. With the ThreeFold project we are contributing to the construction of a better world not just financially but globally. It is not just about another 'coin', it is a real revolution."
 bio="Michel leads the CEO & Board Practice for Lancor, an executive search firm.  Prior to founding Lancor, Michel was Co-Managing Partner of the Global Technology & Media Practice at Whitehead Mann, as well as setting up & managing the European Telecommunications & Internet Infrastructure Practice at Heidrick & Struggles, based in London. In his early career, he was Deputy MD of the Benelux countries for AT&T. Michel has a master’s degree in industrial engineering and biochemistry from Institut Meurice Engineering School Brussels and an executive master’s degree in management from Universite Libre de Bruxelles. He is also an AMP graduate from the IMD, Lausanne."
 avatar="michel.jpg"
 
@@ -230,7 +230,7 @@ x=3 # 0 <= X < 4
 y=6 # 0 <= Y < 5
 name="James Gareth Short"
 nationality="British"
-why="The reason for me believing in Threefold Foundation is first the team who are behind it. Having worked with them for some time now I know their intentions are 100% honorable and over and above that, the skillsets they have to make this successful.  The fundamental reason is the good that this will do for the people who actually need what we are all about to do."
+why="The reason for me believing in ThreeFold Foundation is first the team who are behind it. Having worked with them for some time now I know their intentions are 100% honorable and over and above that, the skillsets they have to make this successful.  The fundamental reason is the good that this will do for the people who actually need what we are all about to do."
 bio="James is a successful entrepreneur with a background in large scale property development. He was the Chairman and Founder of BioGen Power and delivered the UK’s first Gasification EfW plant. He also partnered with Acorn Power and GE to develop a large power station facility. James expertise are anchored around building effective management teams and creating relevant partnerships."
 avatar="james.jpg"
 
@@ -240,7 +240,7 @@ x=3 # 0 <= X < 4
 y=7 # 0 <= Y < 5
 name="Carlos Mario Sánchez Avila"
 nationality="Mexican"
-why="I believe in Kristof 100% , because he is a bright and smart man and that's why I put my faith in the success of Threefold Foundation."
+why="I believe in Kristof 100% , because he is a bright and smart man and that's why I put my faith in the success of ThreeFold Foundation."
 bio="Mario is the Founder of The 5 ELEMENTS Therapy™ and has been sharing his healing gift all over the world for the past 11 years. His passion to travel, charisma and unmatchable energy has brought transforming exceptional results of long-term effect to the patients in more than 35 countries. With his own unique Healing Waves therapy, he now continues to spread his work globally both through private sessions, and teaching with his workshop series.  "
 avatar="mario.jpg"
 
@@ -250,7 +250,7 @@ x=3 # 0 <= X < 4
 y=8 # 0 <= Y < 5
 name="Lieve Vereycken"
 nationality="Belgian"
-why="Thanks to Threefold Foundation robust technology comes available in good organisational design. A design that takes in account that humankind strives for prosperity for all. "
+why="Thanks to ThreeFold Foundation robust technology comes available in good organisational design. A design that takes in account that humankind strives for prosperity for all. "
 bio="In 1999, I started my own business in the market of recruitment, the time internet got introduced in the business world. Wicked problems for matching talent to job opportunities were faced. I realised we could do far better by giving back control over personal data to the individual and start redefining business processes and businesses. Therefore I shared, learned and connected myself. I connected myself to initiatives for knowledge sharing, networking and innovation. Because I do believe it is the responsibility and the opportunity of our generation to get the appropriate digitale infrastructure available to move to our next level of prosperity.  "
 avatar="lieve_vereycken.jpg"
 
@@ -260,7 +260,7 @@ x=3 # 0 <= X < 4
 y=9 # 0 <= Y < 5
 name="Ali Omari"
 nationality="Emirati"
-why="I believe in Threefold Foundation’s dream in helping the world to become a better place. "
+why="I believe in ThreeFold Foundation’s dream in helping the world to become a better place. "
 bio="Ali is the CEO of Safe City Group in Abu Dhabi, United Arab Emirates. 20 years of accumulative experience in the industry with a passion to concentrate on providing the latest technologies and solutions.  "
 avatar="Ali Omari.jpg"
 
@@ -270,8 +270,8 @@ x=4 # 0 <= X < 4
 y=0 # 0 <= Y < 5
 name="Michael Gaffney"
 nationality="American"
-why="What's not to love about a foundation that has the technological skill and know how to build a new Internet and the compassion and heart to give it to the people. I love Threefold's vision and mission and I'm thrilled to be able to be a part of it."
-bio="Michael is extremely grateful to be serving as a Threefold ambassador and fully supports Threefold’s mission of a sustainable internet in the hands of the people.  Michael believes in humanity’s inherent goodness and its willingness to help and lift others up –Threefold holds this view as well and challenges us to believe it can and will be accomplished. Michael is currently an information specialist with an energy policy think tank in Saudi Arabia and in his spare time is a fitness/calisthenics junkie and an avid traveler."
+why="What's not to love about a foundation that has the technological skill and know how to build a new Internet and the compassion and heart to give it to the people. I love ThreeFold's vision and mission and I'm thrilled to be able to be a part of it."
+bio="Michael is extremely grateful to be serving as a ThreeFold ambassador and fully supports ThreeFold’s mission of a sustainable internet in the hands of the people.  Michael believes in humanity’s inherent goodness and its willingness to help and lift others up –ThreeFold holds this view as well and challenges us to believe it can and will be accomplished. Michael is currently an information specialist with an energy policy think tank in Saudi Arabia and in his spare time is a fitness/calisthenics junkie and an avid traveler."
 avatar="Michael Gaffney.jpg"
 
 [[ambassador]]
@@ -279,8 +279,8 @@ x=4 # 0 <= X < 4
 y=0 # 0 <= Y < 5
 name="Marina Achillea"
 nationality="Swedish"
-why="I believe that the internet should be a fundamental right for every person in the world. That belief is shared by the Threefold foundation in it’s quest to expand the reach of the web to every corner of the world."
-bio="My name is Marina Achillea and I am a 36 year old fashion designer from Sweden working and living in London with my husband. I am proud to be reperesenting the Threefold foundatoin and look forward to exciting and changing times ahead"
+why="I believe that the internet should be a fundamental right for every person in the world. That belief is shared by the ThreeFold foundation in it’s quest to expand the reach of the web to every corner of the world."
+bio="My name is Marina Achillea and I am a 36 year old fashion designer from Sweden working and living in London with my husband. I am proud to be reperesenting the ThreeFold foundatoin and look forward to exciting and changing times ahead"
 avatar="Marina Achillea.jpg"
 
 [[ambassador]]
@@ -288,7 +288,7 @@ x=4 # 0 <= X < 4
 y=2 # 0 <= Y < 5
 name="Osama Shihab Fitoria"
 nationality="Nicaraguan/Jordanian"
-why="Threefold's vision is an ambitious one: to create a neutral, efficient and affordable net. Threefold's team has already developed breakthrough technology which can and will enable this"
+why="ThreeFold's vision is an ambitious one: to create a neutral, efficient and affordable net. ThreeFold's team has already developed breakthrough technology which can and will enable this"
 bio="Osama is a cryptoeconomy investor and entrepreneur. He has been based in the Middle East for 3 decades during which he led business expansion roles for global tech firms and founded e-commerce startups. "
 avatar="Osama Shihab Fitoria.jpg"
 
@@ -297,7 +297,7 @@ x=4 # 0 <= X < 4
 y=3 # 0 <= Y < 5
 name="Michael Wellesley-Wesley"
 nationality="British"
-why="I fully support and endorse the the Threefold Foundation vision of a decentralised, sustainable and greener internet that provides lower cost computational power and connectivity to large groups of people who , until today, have been excluded from the benefits and possibilities inherent in the digital revolution."
+why="I fully support and endorse the the ThreeFold Foundation vision of a decentralised, sustainable and greener internet that provides lower cost computational power and connectivity to large groups of people who , until today, have been excluded from the benefits and possibilities inherent in the digital revolution."
 bio="Michael is a seasoned veteran with over 30 years of experience working in both the US and UK. He is a former CEO of public and private media and technology companies, most recently of NASDAQ quoted ChyronHego. He is Director and Founder of Inogesis, a London-based accelerator that enables blue-chip organizations to harness the power of disruptive technology.  He is a Director of Conduce Technology, an innovative pioneer in the field of data visualisation based in California and also an Advisor and Venture Investor in Alpha Venture Partners, a technology-focused venture capital firm based in New York. Michael has served as Managing Director of Wit Soundview Ventures, COO of Data Broadcasting Corporation and Director of Financial News Network. He founded and served as Director of London-based boutique technology investment bank Stephen Rose and Partners."
 avatar="Michael WW.jpg"
 
@@ -306,7 +306,7 @@ x=4 # 0 <= X < 4
 y=4 # 0 <= Y < 5
 name="Wolfgang Wittmer"
 nationality="Austrian"
-why="I believe in the Threefold Foundation, because I have experienced in my former business life the huge complexity of datacenters, cloud infrastructure and services around the globe. This amazing TFF project is addressing today’s challenges of complexity, costs and energy usage.TFF will be at the heart of empowering the internet, generating new mind blowing efficiency and economy."
+why="I believe in the ThreeFold Foundation, because I have experienced in my former business life the huge complexity of datacenters, cloud infrastructure and services around the globe. This amazing TFF project is addressing today’s challenges of complexity, costs and energy usage.TFF will be at the heart of empowering the internet, generating new mind blowing efficiency and economy."
 bio="Wolfgang is an IT Sales and Service veteran with 38 years at Hewlett Packard, Compaq and Digital Equipment, with global VP sales experience in Europe, Asia and the emerging markets. He has a strong track record of making things happen through execution and has completed some of the largest Merger and Spin-of projects in the IT sector."
 avatar="Wolfgang W.jpg"
 
@@ -315,7 +315,7 @@ x=4 # 0 <= X < 4
 y=5 # 0 <= Y < 5
 name="Marchenko Maria"
 nationality="Russian"
-why="I believe in the Threefold Foundation since it provides the innovative solutions to the revolutionary crypto currency technology. It solves challenges of complexity, costs and energy usage."
+why="I believe in the ThreeFold Foundation since it provides the innovative solutions to the revolutionary crypto currency technology. It solves challenges of complexity, costs and energy usage."
 bio="Maria has over 10 years experience on Russian IT market. Now she is the Founder & CEO of Data Frame (www.data-frame.ru). She holds an MBA in Finance from California State University, East Bay, USA and degree in Economics from Moscow StateUniversity of Economics, Statistic and Computer Technologies. Prior to founding Data Frame, Maria spent five years  as a Vice President for Business Development working in DataSpace — the leading data center colocation operator where she managed to sign service contracts with number of domestic and international companies, including leading Russian banks and closed the most important and significant deal with Moscow Exchange. From 2004 to 2010, Maria served as Leasing Account Director at Cisco Capital, the leading vendor finance company owned by Cisco Systems, Inc. She was awarded Best Deal Achiever FY’06 and Sales Achiever Award FY ’08."
 avatar="Maria Marchenko.jpg"
 
@@ -324,6 +324,6 @@ x=4 # 0 <= X < 4
 y=6 # 0 <= Y < 5
 name="Xander van der Heijden"
 nationality="Dutch"
-why="I strongly believe in decentralized infrastructure as the foundation for creating the real Web 3.0 Internet. Empowering us to handle the increasing amounts of data traffic and to respond to the growing need for internet capacity, Blockchain and edge computing are providing the tools and Threefold is how we get to the Web 3.0 world! Contributing to a better place for everybody."
+why="I strongly believe in decentralized infrastructure as the foundation for creating the real Web 3.0 Internet. Empowering us to handle the increasing amounts of data traffic and to respond to the growing need for internet capacity, Blockchain and edge computing are providing the tools and ThreeFold is how we get to the Web 3.0 world! Contributing to a better place for everybody."
 bio="Xander is a serial entrepreneur and venture mentor. He started his first software development / Internet company – Beeyond, back in 1995, where he created and patented InterLingua™ - a pioneering cloud technology in the areas of electronic data communications, database organized, flexible format electronic data message management, client-server and distributed software applications. Currently, Xander is founder and CEO of 2SQRS – a research, development and investment company that grows human-tech concepts to global ventures. He is also a co-founder of Web3 Ventures – an incubator for decentralized autonomous services that enables entrepreneurs and developers in bringing infrastructural innovation to the growing blockchain community."
 avatar="Xander Malta.jpg"

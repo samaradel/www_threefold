@@ -1,6 +1,6 @@
 +++
 # Don't remove name!
-title = "Threefold Foundation"
+title = "ThreeFold Foundation"
 image = "../img/foundation.jpg"
 author = ""
 subtitle = ""

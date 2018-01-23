@@ -24,7 +24,7 @@ grid_txt_6 = "The code of a netural internet"
 
 weight = 4
 +++
-## The Threefold Grid could be the Solution
+## The ThreeFold Grid could be the Solution
 
 # Replace 1 big datacenter with many small nodes
 
