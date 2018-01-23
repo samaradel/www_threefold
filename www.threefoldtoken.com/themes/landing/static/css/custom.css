@@ -863,9 +863,9 @@ a {
     filter: grayscale(0%)
 }
 
-.rj-team {
+/* .rj-team {
     padding-bottom: 20em
-}
+} */
 
 .rj-team .rj-team-member .rj-team-member-info-text {
     background-color: #77aae6
@@ -1484,7 +1484,19 @@ dataCenters p {
     text-decoration: none;
     background-color: transparent;
 }
+.team {
+    padding: 60px 30px 0;
+  }
 
+  .team h1 {
+    color: #699ee3;
+    font-weight: 900;
+    text-transform: none
+  }
+
+  .team .team-member {
+    padding: 0 30px;
+  }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .navbar {
         border-radius: 0px !important;

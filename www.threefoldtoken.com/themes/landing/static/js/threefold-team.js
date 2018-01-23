@@ -20,25 +20,11 @@ $(function () {
     var render = function (dataset) {
         var rjteam = $("<div></div>").addClass('rj-team');
 
-        function compare(a, b) {
-            var nameA = a.name.toUpperCase(); // ignore upper and lowercase
-            var nameB = b.name.toUpperCase(); // ignore upper and lowercase
-            if (nameA < nameB) {
-                return -1;
-            }
-            if (nameA > nameB) {
-                return 1;
-            }
-            // names must be equal
-            return 0;
-        }
-
-        function sortNum(a, b) {
+        function sortRank(a, b) {
             return a.rank - b.rank;
         }
-        var details = dataset.sort(sortNum);
+        var details = dataset.sort(sortRank);
         var added = [];
-        var test = [];
 
         if (details) {
             for (var i = 0; i < details.length; ++i) {
@@ -47,53 +33,32 @@ $(function () {
                 }
                 added.push(details);
                 var parent = $("<div>").addClass("rj-team-member");
+                parent.css({
+                    'paddingRight': '20px',
+                    'paddingBottom': '20px',
+                    'textAlign': 'center',
+                    'textTransform': 'capitalize',
+                    'fontSize': '20px'
+                });
                 var a = $("<div>").addClass('member-photo');
                 var img = $("<img/>").addClass('rj-team-member-photo-rollover');
+                var name = $("<div>").addClass('member-name').text(details[i].name);
+                name.css('paddingTop', '20px');
                 img.prop('src', '../avatars/' + encodeURIComponent(details[i].avatar));
                 a.append(img);
-                parent.append(a);
+                a.append(name);
+                parent.append(a)
                 var div = $("<div>").addClass("rj-team-member-info-text").css('display', 'none');
                 var imgCol = $("<div>").addClass('col-sm-5');
                 var dataCol = $("<div>").addClass('col-sm-7');
                 var close = $('<div>').addClass('close-bio').text('x');
 
-                if (details[i].founder && details[i].rank > 0) {
+                if (details[i].core == "threefold" && details[i].rank > 0) {
                     div.append(imgCol);
                     imgCol.append($("<img/>").prop("src", "../avatars/" + encodeURIComponent(details[i].avatar)));
                     div.append(dataCol);
                     dataCol.append($("<div>").addClass('member-name').text(details[i].name));
                     dataCol.append($("<div>").addClass('bio-excerpt').text(details[i].description));
-                    div.append(close);
-                    parent.append(div);
-                    rjteam.append(parent);
-                }
-            }
-        }
-
-        var sorted = dataset.sort(compare);
-
-        if (sorted) {
-            for (var i = 0; i < sorted.length; ++i) {
-                if (test.length === sorted.length) {
-                    break;
-                }
-                if (sorted[i].founder == false) {
-                    test.push(sorted);
-                    var parent = $("<div>").addClass("rj-team-member");
-                    var a = $("<div>").addClass('member-photo');
-                    var img = $("<img/>").addClass('rj-team-member-photo-rollover');
-                    img.prop('src', '../avatars/' + encodeURIComponent(sorted[i].avatar));
-                    a.append(img);
-                    parent.append(a);
-                    var div = $("<div>").addClass("rj-team-member-info-text").css('display', 'none');
-                    var imgCol = $("<div>").addClass('col-sm-5');
-                    var dataCol = $("<div>").addClass('col-sm-7');
-                    var close = $('<div>').addClass('close-bio').text('x');
-                    div.append(imgCol);
-                    imgCol.append($("<img/>").prop("src", "../avatars/" + encodeURIComponent(sorted[i].avatar)));
-                    div.append(dataCol);
-                    dataCol.append($("<div>").addClass('member-name').text(sorted[i].name));
-                    dataCol.append($("<div>").addClass('bio-excerpt').text(sorted[i].description));
                     div.append(close);
                     parent.append(div);
                     rjteam.append(parent);
@@ -131,7 +96,7 @@ $(function () {
         })
     }
 
-    $("#team-test").append(render(team));
+    $("#threefold").append(render(team));
     toggleBio();
     unselectDiv();
     activateTeamFilter();

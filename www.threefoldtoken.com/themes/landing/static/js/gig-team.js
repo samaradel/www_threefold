@@ -15,43 +15,55 @@
  *
  * @@license_version:1.3@@
  */
+"use strict.";
 $(function () {
     var render = function (dataset) {
         var rjteam = $("<div></div>").addClass('rj-team');
-        var details = dataset;
-        var added = []
+
+        function sortRank(a, b) {
+            return a.rank - b.rank;
+        }
+        var details = dataset.sort(sortRank);
+        var added = [];
         if (details) {
-            while (true) {
+            for (var i = 0; i < details.length; ++i) {
                 if (added.length === details.length) {
                     break;
                 }
-                var index = Math.floor(Math.random() * details.length);
-                if (added.includes(index)) {
-                    continue;
-                }
-                added.push(index);
-                var random_details = details[index];
+                added.push(details);
                 var parent = $("<div>").addClass("rj-team-member");
+                parent.css({
+                    'paddingRight': '20px',
+                    'paddingBottom': '20px',
+                    'textAlign': 'center',
+                    'textTransform': 'capitalize',
+                    'fontSize': '20px'
+                });
                 var a = $("<div>").addClass('member-photo');
                 var img = $("<img/>").addClass('rj-team-member-photo-rollover');
-                img.prop('src', '../avatars/' + encodeURIComponent(random_details.avatar));
+                var name = $("<div>").addClass('member-name').text(details[i].name);
+                name.css('paddingTop', '20px');
+                img.prop('src', '../avatars/' + encodeURIComponent(details[i].avatar));
                 a.append(img);
-                parent.append(a);
+                a.append(name);
+                parent.append(a)
                 var div = $("<div>").addClass("rj-team-member-info-text").css('display', 'none');
-                var imgCol = $("<div>").addClass('col-sm-4');
-                var dataCol = $("<div>").addClass('col-sm-8');
+                var imgCol = $("<div>").addClass('col-sm-5');
+                var dataCol = $("<div>").addClass('col-sm-7');
                 var close = $('<div>').addClass('close-bio').text('x');
-                div.append(imgCol);
-                imgCol.append($("<img/>").prop("src", "../avatars/" + encodeURIComponent(random_details.avatar)));
-                div.append(dataCol);
-                dataCol.append($("<div>").addClass('member-name').text(random_details.name));
-                dataCol.append($("<div>").addClass('bio-excerpt').text(random_details.description));
-                div.append(close);
-                parent.append(div);
-                rjteam.append(parent);
+
+                if (details[i].core == "gig" && details[i].rank > 0) {
+                    div.append(imgCol);
+                    imgCol.append($("<img/>").prop("src", "../avatars/" + encodeURIComponent(details[i].avatar)));
+                    div.append(dataCol);
+                    dataCol.append($("<div>").addClass('member-name').text(details[i].name));
+                    dataCol.append($("<div>").addClass('bio-excerpt').text(details[i].description));
+                    div.append(close);
+                    parent.append(div);
+                    rjteam.append(parent);
+                }
             }
         }
-
         return rjteam;
     };
 
@@ -78,12 +90,12 @@ $(function () {
     }
 
     function unselectDiv() {
-        $(document).click(function(a) {
+        $(document).click(function (a) {
             $(a.target).closest(".rj-team-member .member-photo").length || $(".rj-team-member .member-photo").is(":visible") && ($(".rj-team-member-info-text").hide(), $(".member-photo").removeClass("selected"))
         })
     }
 
-    $("#team").append(render(team));
+    $("#gig").append(render(team));
     toggleBio();
     unselectDiv();
     activateTeamFilter();

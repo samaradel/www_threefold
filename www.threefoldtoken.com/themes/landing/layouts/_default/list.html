@@ -54,13 +54,13 @@
 
     {{ end }}
 
-    {{ range .Data.Pages }} 
+    <!-- {{ range .Data.Pages }} 
       {{ if eq .Section "team" }} 
         {{ if eq .Title "complete cast" }}
           <section class="rj-section">{{ .Render "complete-cast" }}</section>
         {{end}} 
       {{end}} 
-    {{end}}
+    {{end}} -->
   </div>
 </div>
 {{ partial "footer.html" . }}
