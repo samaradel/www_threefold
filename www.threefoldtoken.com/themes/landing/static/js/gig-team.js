@@ -48,8 +48,8 @@ $(function () {
                 a.append(name);
                 parent.append(a)
                 var div = $("<div>").addClass("rj-team-member-info-text").css('display', 'none');
-                var imgCol = $("<div>").addClass('col-sm-5');
-                var dataCol = $("<div>").addClass('col-sm-7');
+                var imgCol = $("<div>").addClass('col-sm-3');
+                var dataCol = $("<div>").addClass('col-sm-9');
                 var close = $('<div>').addClass('close-bio').text('x');
 
                 if (details[i].core == "gig" && details[i].rank > 0) {
