@@ -40,7 +40,7 @@ $(function () {
                     'fontSize': '20px'
                 });
                 var a = $("<div>").addClass('member-photo');
-                var img = $("<img/>").addClass('rj-team-member-photo-rollover');
+                var img = $("<img/>");
                 var name = $("<div>").addClass('member-name').text(details[i].name);
                 name.css('paddingTop', '20px');
                 img.prop('src', '../avatars/' + encodeURIComponent(details[i].avatar));
