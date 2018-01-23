@@ -36,7 +36,6 @@ $(function () {
                 parent.css({
                     'paddingRight': '20px',
                     'paddingBottom': '20px',
-                    'textAlign': 'center',
                     'textTransform': 'capitalize',
                     'fontSize': '20px'
                 });
@@ -97,7 +96,4 @@ $(function () {
     }
 
     $("#threefold").append(render(team));
-    toggleBio();
-    unselectDiv();
-    activateTeamFilter();
 });

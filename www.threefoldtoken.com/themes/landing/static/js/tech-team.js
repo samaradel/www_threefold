@@ -85,21 +85,5 @@ $(function () {
         return false;
     }
 
-    function activateTeamFilter() {
-        $("#teamFilterText").prop("disabled", !1), $("#teamFilterText").on("input", function () {
-            var a = $("#teamFilterText").val();
-            "" == a ? $(".rj-team-member").show() : ($(".rj-team-member").hide(), $(".rj-team-member:Contains('" + a + "')").show())
-        })
-    }
-
-    function unselectDiv() {
-        $(document).click(function (a) {
-            $(a.target).closest(".rj-team-member .member-photo").length || $(".rj-team-member .member-photo").is(":visible") && ($(".rj-team-member-info-text").hide(), $(".member-photo").removeClass("selected"))
-        })
-    }
-
     $("#tech").append(render(team));
-    toggleBio();
-    unselectDiv();
-    activateTeamFilter();
 });
