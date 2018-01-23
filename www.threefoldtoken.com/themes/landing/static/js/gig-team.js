@@ -49,14 +49,17 @@ $(function () {
                 var div = $("<div>").addClass("rj-team-member-info-text").css('display', 'none');
                 var imgCol = $("<div>").addClass('col-sm-3');
                 var dataCol = $("<div>").addClass('col-sm-7');
+                var gab = $("<div>").addClass('col-sm-1');
                 var close = $('<div>').addClass('close-bio').text('x');
 
                 if (details[i].core == "gig" && details[i].rank > 0) {
+                    div.append(gab);
                     div.append(imgCol);
                     imgCol.append($("<img/>").prop("src", "../avatars/" + encodeURIComponent(details[i].avatar)));
                     div.append(dataCol);
                     dataCol.append($("<div>").addClass('member-name').text(details[i].name));
                     dataCol.append($("<div>").addClass('bio-excerpt').text(details[i].description));
+                    div.append(gab);
                     div.append(close);
                     parent.append(div);
                     rjteam.append(parent);
