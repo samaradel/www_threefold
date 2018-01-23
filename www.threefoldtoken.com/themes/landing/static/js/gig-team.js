@@ -67,5 +67,22 @@ $(function () {
         return rjteam;
     };
 
+    function toggle() {
+        $(".rj-team-member .member-photo").click(function (event) {
+            event.preventDefault();
+            event.stopPropagation();
+            $(this).parent().siblings().children(".member-photo").removeClass("selected"), $(this).toggleClass("selected"), $(this).parent().siblings().children(".rj-team-member-info-text").hide(), $(this).siblings(".rj-team-member-info-text").toggle();
+            var a = $(this).siblings(".rj-team-member-info-text").offset();
+            $("body").animate({
+                scrollTop: a
+            }), $(".close-bio").click(function () {
+                $(this).parent().siblings(".member-photo").removeClass("selected"), $(this).parent(".rj-team-member-info-text").hide()
+            })
+        })
+        return false;
+    }
+    toggleBio();
+    unselectDiv();
+    activateTeamFilter();
     $("#gig").append(render(team));
 });
