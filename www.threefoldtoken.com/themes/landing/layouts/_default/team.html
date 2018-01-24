@@ -1,15 +1,39 @@
 <div class="team">
+
+  <!-- threefold sec -->
   <div class="threefold-team">
-    <h1>{{ .Params.threefold }}</h1>
-    <div id="threefold" class="team-member"></div>
+    <div class="col-sm-1"></div>
+    <div class="col-sm-3">
+      <h2>{{ .Params.threefold_header }}</h2>
+      <p>{{ .Params.threefold_sub }}</p>
+    </div>
+
+    <div class="col-sm-8">
+      <div id="threefold" class="team-member"></div>
+    </div>
   </div>
 
+  <!-- gig sec -->
   <div class="gig-team">
-    <h1>{{ .Params.gig }}</h1>
-    <div id="gig" class="team-member"></div>
+    <div class="col-sm-1"></div>
+    <div class="col-sm-3">
+      <h2>{{ .Params.gig_header}}</h2>
+      <p>{{ .Params.gig_sub }}</p>
+    </div>
+    <div class="col-sm-8">
+      <div id="gig" class="team-member"></div>
+    </div>
+  </div>
 
-    <div class="clear-fix"></div>
-    <div id="tech" class="team-member" style="height: calc(100vh + 410px);"></div>
-
+  <!-- tech sec -->
+  <div class="tech">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-3">
+      <h2>{{ .Params.tech_header }}</h2>
+      <p>{{ .Params.tech_sub }}</p>
+    </div>
+    <div class="col-sm-8">
+      <div id="tech" class="team-member" style="height: calc(100vh + 325px);"></div>
+    </div>
   </div>
 </div>

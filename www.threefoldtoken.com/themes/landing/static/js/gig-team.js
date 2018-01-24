@@ -32,34 +32,22 @@ $(function () {
                 }
                 added.push(details);
                 var parent = $("<div>").addClass("rj-team-member");
-                parent.css({
-                    'paddingRight': '20px',
-                    'paddingBottom': '20px',
-                    'textTransform': 'capitalize',
-                    'fontSize': '20px'
-                });
                 var a = $("<div>").addClass('member-photo');
-                var img = $("<img/>");
-                var name = $("<div>").addClass('member-name').text(details[i].name);
-                name.css('paddingTop', '20px');
-                img.prop('src', '../avatars/' + encodeURIComponent(details[i].avatar));
+                var img = $("<img/>").addClass('rj-team-member-photo-rollover');
+                img.prop('src', '../img/Jobs-CTA-inline.png');
                 a.append(img);
-                a.append(name);
                 parent.append(a)
                 var div = $("<div>").addClass("rj-team-member-info-text").css('display', 'none');
                 var imgCol = $("<div>").addClass('col-sm-3');
-                var dataCol = $("<div>").addClass('col-sm-7');
-                var gab = $("<div>").addClass('col-sm-1');
+                var dataCol = $("<div>").addClass('col-sm-9');
                 var close = $('<div>').addClass('close-bio').text('x');
 
                 if (details[i].core == "gig" && details[i].rank > 0) {
-                    div.append(gab);
                     div.append(imgCol);
-                    imgCol.append($("<img/>").prop("src", "../avatars/" + encodeURIComponent(details[i].avatar)));
+                    imgCol.append($("<img/>").prop("src", "../img/Jobs-CTA-inline.png"));
                     div.append(dataCol);
                     dataCol.append($("<div>").addClass('member-name').text(details[i].name));
                     dataCol.append($("<div>").addClass('bio-excerpt').text(details[i].description));
-                    div.append(gab);
                     div.append(close);
                     parent.append(div);
                     rjteam.append(parent);
@@ -69,20 +57,6 @@ $(function () {
         return rjteam;
     };
 
-    function toggle() {
-        $(".rj-team-member .member-photo").click(function (event) {
-            event.preventDefault();
-            event.stopPropagation();
-            $(this).parent().siblings().children(".member-photo").removeClass("selected"), $(this).toggleClass("selected"), $(this).parent().siblings().children(".rj-team-member-info-text").hide(), $(this).siblings(".rj-team-member-info-text").toggle();
-            var a = $(this).siblings(".rj-team-member-info-text").offset();
-            $("body").animate({
-                scrollTop: a
-            }), $(".close-bio").click(function () {
-                $(this).parent().siblings(".member-photo").removeClass("selected"), $(this).parent(".rj-team-member-info-text").hide()
-            })
-        })
-        return false;
-    }
     toggleBio();
     unselectDiv();
     activateTeamFilter();

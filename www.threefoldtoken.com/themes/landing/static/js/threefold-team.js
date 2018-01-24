@@ -33,34 +33,22 @@ $(function () {
                 }
                 added.push(details);
                 var parent = $("<div>").addClass("rj-team-member");
-                parent.css({
-                    'paddingRight': '20px',
-                    'paddingBottom': '20px',
-                    'textTransform': 'capitalize',
-                    'fontSize': '20px'
-                });
                 var a = $("<div>").addClass('member-photo');
-                var img = $("<img/>")
-                var name = $("<div>").addClass('member-name').text(details[i].name);
-                name.css('paddingTop', '20px');
-                img.prop('src', '../avatars/' + encodeURIComponent(details[i].avatar));
+                var img = $("<img/>").addClass('rj-team-member-photo-rollover');
+                img.prop('src', '../img/Jobs-CTA-inline.png');
                 a.append(img);
-                a.append(name);
                 parent.append(a)
                 var div = $("<div>").addClass("rj-team-member-info-text").css('display', 'none');
-                var imgCol = $("<div>").addClass('col-sm-3');
-                var dataCol = $("<div>").addClass('col-sm-7');
-                var gab = $("<div>").addClass('col-sm-1');
+                var imgCol = $("<div>").addClass('col-sm-4');
+                var dataCol = $("<div>").addClass('col-sm-8');
                 var close = $('<div>').addClass('close-bio').text('x');
 
                 if (details[i].core == "threefold" && details[i].rank > 0) {
-                    div.append(gab);
                     div.append(imgCol);
-                    imgCol.append($("<img/>").prop("src", "../avatars/" + encodeURIComponent(details[i].avatar)));
+                    imgCol.append($("<img/>").prop("src", "../img/Jobs-CTA-inline.png"));
                     div.append(dataCol);
                     dataCol.append($("<div>").addClass('member-name').text(details[i].name));
                     dataCol.append($("<div>").addClass('bio-excerpt').text(details[i].description));
-                    div.append(gab);
                     div.append(close);
                     parent.append(div);
                     rjteam.append(parent);
