@@ -1,0 +1,14 @@
+{{ range $element := .Data.Pages }} 
+  {{ if eq .Section "home" }} 
+    {{ if eq .Title "whitepaper" }}
+      <div class="contribute">
+        <div class="col-xs-12">
+          <div class="contribute-content">
+            {{ .Content }}
+            <a href="{{ .Params.button_link }}" target="_blank">{{ .Params.button_name }}</a>
+          </div>
+        </div>
+      </div>
+    {{end}}
+  {{end}}
+{{end}}

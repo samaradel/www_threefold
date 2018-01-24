@@ -1,45 +1,17 @@
-   {{ partial "head.html" . }}
-    <style>
-      .Main-content {
-        padding: 0px;
-      }
-    </style>
-      {{ partial "body.html" . }}
-          {{ partial "header.html" . }}
-         <div class="Site-inner">
-            <div class="Content-outer">
-               <main class="Main Main--page">
-                  <section class="Main-content">
-                     <div class="sqs-layout" >
-                        <!-- <div class="row">
-                           <div class="col-sm-2">
-                              <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
-                                 <div class="sqs-block-content">&nbsp;</div>
-                              </div>
-                           </div>
-                           <!-- <div class="col-sm-8">
-                              {{ partial "home/edge_cloud.html" . }}
-                           </div> -->
-                        <!-- </div> -->
-                          {{ partial "home/open-source.html" . }}
-                          <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1">
-                             <div class="sqs-block-content">&nbsp;</div>
-                          </div>
-                          {{ partial "home/neutral_edge.html" . }}
-                     </div>
-                     {{ partial "home/our_dream.html" . }}
-                     {{ partial "home/map.html" . }}
-                     {{ partial "home/join_our_mission.html" . }}
-                     {{ partial "home/contribute.html" . }}
-                  </section>
-                  {{ partial "footer.html" . }}
-               </main>
-            </div>
-         <!-- </div> -->
-        </div>
+{{ partial "head.html" . }} 
+{{ partial "body.html" . }} 
+  {{ partial "header.html" . }}
+    <div class="Site-inner">
+      <div class="Content-outer">
+        {{ partial "home/open-source.html" . }} 
+        {{ partial "home/neutral_edge.html" . }} 
+        {{ partial "home/our_dream.html" . }} 
+        {{ partial "home/map.html" . }} 
+        {{ partial "home/whitepaper.html" . }} 
+        {{ partial "footer.html" . }}
       </div>
-      <!-- <script src="js/site-bundle.js" type="text/javascript"></script> -->
-      <!-- <script type="text/javascript" data-sqs-type="imageloader-bootstraper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script> -->
-      {{ partial "js.html" . }}
-   </body>
+    </div>
+  </div>
+{{ partial "js.html" . }}
+</body>
 </html>

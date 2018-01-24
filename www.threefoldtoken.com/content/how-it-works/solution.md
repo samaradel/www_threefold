@@ -11,7 +11,7 @@ grid_img_2 = "/img/connection-1.png"
 grid_txt_2 = "Distributed world wide"
 
 grid_img_3 = "/img/internet.png"
-grid_txt_3 = "All connected to eachother"
+grid_txt_3 = "All connected to each other"
 
 grid_img_4 = "/img/home-location-marker.png"
 grid_txt_4 = "Making internet local"
@@ -24,7 +24,7 @@ grid_txt_6 = "The code of a netural internet"
 
 weight = 4
 +++
-## The Threefold Grid could be the Solution
+## The ThreeFold Grid could be the Solution
 
 # Replace 1 big datacenter with many small nodes
 

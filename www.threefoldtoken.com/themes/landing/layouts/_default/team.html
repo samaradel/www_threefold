@@ -1,55 +1,43 @@
-<main class="Main">
-   <section class="Main-content team">
-      <div class="sqs-layout">
-         <div class="row">
-            <div class="col-sm-1 col-xs-12"></div>
-            <div class="col-sm-10 col-xs-12">
-               <div class="sqs-block-content sqs-intrinsic" style="padding-bottom: 1%;">&nbsp;</div>
-               <div class="row">
-                  <div class="col-sm-4 col-xs-12">
-                     <div class="sqs-block image-block sqs-block-image sqs-text-ready">
-                        <div class="sqs-block-content">
-                           <div class="image-block-outer-wrapper layout-caption-below design-layout-inline sqs-narrow-width">
-                              <div class="intrinsic" style="max-width:500.0px;">
-                                 <div class="image-block-wrapper has-aspect-ratio">
-                                    <img class="thumb-image loaded" alt="{{ .Params.name }}" src="{{ .Params.image }}">
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-sm-8 col-xs-12">
-                     <div class="sqs-block markdown-block sqs-block-markdown">
-                        <div class="sqs-block-content">
-                           <h3><strong> {{ .Params.name }} </strong></h3>
-                           <p>{{ .Content }}</p>
-                        </div>
-                     </div>
-                     <div class="row">
-                        <div class="col-xs-12">
-                           <div class="sqs-block button-block sqs-block-button">
-                              <div class="sqs-block-content">
-                                 <div class="buttons">
-                                    {{ if and ( .Params.linkedin ) ( .Params.linkedin_txt ) }}
-                                    <a href="{{ .Params.linkedin }}" class="sqs-block-button-element--small sqs-block-button-element">{{ .Params.linkedin_txt }}</a>
-                                    {{end}}
-                                    {{ if and ( .Params.twitter ) ( .Params.twitter_txt ) }}
-                                    <a href="{{ .Params.twitter }}" class="sqs-block-button-element--small sqs-block-button-element">{{ .Params.twitter_txt }}</a>
-                                    {{end}}
-                                    {{ if and ( .Params.telegram ) ( .Params.telegrem_txt ) }}
-                                    <a href="{{ .Params.telegram }}" class="sqs-block-button-element--small sqs-block-button-element">{{ .Params.telegrem_txt }}</a>
-                                    {{end}}
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-sm-2 col-xs-12"></div>
-         </div>
-       </div>
-     </section>
-   </main>
+<div class="team">
+
+  <!-- threefold sec -->
+  <div class="threefold-team">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-3">
+      <h2>{{ .Params.threefold_header }}</h2>
+      <p>{{ .Params.threefold_sub }}</p>
+    </div>
+
+    <div class="col-sm-8">
+      <div id="threefold" class="team-member"></div>
+    </div>
+  </div>
+
+  <div class="clear-fix"></div>
+
+  <!-- gig sec -->
+  <div class="gig-team">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-3">
+      <h2>{{ .Params.gig_header}}</h2>
+      <p>{{ .Params.gig_sub }}</p>
+    </div>
+    <div class="col-sm-8">
+      <div id="gig" class="team-member"></div>
+    </div>
+  </div>
+
+  <div class="clear-fix"></div>
+
+  <!-- tech sec -->
+  <div class="tech">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-3">
+      <h2>{{ .Params.tech_header }}</h2>
+      <p>{{ .Params.tech_sub }}</p>
+    </div>
+    <div class="col-sm-8">
+      <div id="tech" class="team-member" style="height: calc(100vh + 200px);"></div>
+    </div>
+  </div>
+</div>

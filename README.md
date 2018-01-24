@@ -11,12 +11,12 @@
 * ALL COMMUNICATION is handled through the issues in gogs
 * EVERY ACTIVITY and certainly BLOCKERS are reported in in the gogs issues
 * UI Testing is done each friday by @roelvansabben
-* Sprintplanning is done each thursday
+* Sprint planning is done each thursday
 
 
 ## Information
 
-The new threefold website is being created using hugo/git.
+The new ThreeFold website is being created using hugo/git.
 Input for this site is being collected using issues being creating in git
 
 This repo has the website content:
@@ -27,10 +27,6 @@ This repo has the website content:
 Staging can be found here:
 
 - https://threefold2.aydo.com/
-
-Test can be found here:
-
-- https://testthreefold.aydo.com/
 
 For any GOGS related questions please contact:
 
