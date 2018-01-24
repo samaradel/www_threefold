@@ -49,7 +49,7 @@ $(function () {
                     var parent = $("<div>").addClass("rj-team-member");
                     var a = $("<div>").addClass('member-photo');
                     var img = $("<img/>").addClass('rj-team-member-photo-rollover');
-                    img.prop('src', '../img/Jobs-CTA-inline.png');
+                    img.prop('src', '../avatars/' + encodeURIComponent(details[i].avatar));
                     a.append(img);
                     parent.append(a);
                     var div = $("<div>").addClass("rj-team-member-info-text").css('display', 'none');
@@ -57,7 +57,7 @@ $(function () {
                     var dataCol = $("<div>").addClass('col-sm-9');
                     var close = $('<div>').addClass('close-bio').text('x');
                     div.append(imgCol);
-                    imgCol.append($("<img/>").prop("src", "../img/Jobs-CTA-inline.png"));
+                    imgCol.append($("<img/>").prop("src", "../avatars/" + encodeURIComponent(details[i].avatar)));
                     div.append(dataCol);
                     dataCol.append($("<div>").addClass('member-name').text(details[i].name));
                     dataCol.append($("<div>").addClass('bio-excerpt').text(details[i].description));
