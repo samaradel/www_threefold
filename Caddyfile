@@ -3,15 +3,15 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
     gzip
     root www.threefoldtoken.com/en
 
-    git {
-      repo ssh://git@docs.greenitglobe.com:10022/gig/data_team.git
-      branch master
-      hook /gitea/pull/data_team "zU3687$aJEb6"
-      key ~/.ssh/id_rsa1
-      path ../../../data_team/
-      then python3 scripts/process.py
-      then hugo -s ../www_threefold/www.threefoldtoken.com
-    }
+#   git {
+#     repo ssh://git@docs.greenitglobe.com:10022/gig/data_team.git
+#     branch master
+#     hook /gitea/pull/data_team "zU3687$aJEb6"
+#     key ~/.ssh/id_rsa1
+#     path ../../../data_team/
+#     then python3 scripts/process.py
+#     then hugo -s ../www_threefold/www.threefoldtoken.com
+#   }
 
     git {
       repo ssh://git@docs.grid.tf:7022/threefold/www_threefold.git
