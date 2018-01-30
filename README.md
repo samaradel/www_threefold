@@ -26,7 +26,7 @@ This repo has the website content:
 
 Staging can be found here:
 
-- https://threefold2.aydo.com/
+- [http://threefold2.aydo.com:4040/](http://threefold2.aydo.com:4040/)
 
 For any GOGS related questions please contact:
 

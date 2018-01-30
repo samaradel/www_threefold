@@ -57,8 +57,8 @@ $(function () {
         return rjteam;
     };
 
-    toggleBio();
-    unselectDiv();
-    activateTeamFilter();
+    // toggleBio();
+    // unselectDiv();
+    // activateTeamFilter();
     $("#gig").append(render(team));
 });

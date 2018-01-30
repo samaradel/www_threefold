@@ -87,6 +87,7 @@ header,
     min-height: 133px;
     margin-left: 0;
     margin-right: 0;
+    padding-top: 30px;
     overflow: hidden
 }
 
@@ -271,6 +272,13 @@ a {
     background: url(/img/download.png) no-repeat center;
     height: 345px;
     min-height: calc(50vh - 96px);
+    position: relative
+}
+
+.navbar {
+    position: absolute;
+    z-index: 999;
+    width: 100%;
 }
 
 .logo-container img {
@@ -864,7 +872,7 @@ a {
 }
 
 .rj-team {
-    padding-bottom: 10rem
+    padding-bottom: 5rem
 }
 
 .rj-team .rj-team-member .rj-team-member-info-text {
@@ -1491,6 +1499,8 @@ dataCenters p {
 .team h2 {
     padding-top: 15px;
 }
+
+
 /*  .team h1 {
     color: #699ee3;
     font-weight: 900;
@@ -1742,5 +1752,23 @@ dataCenters p {
 @media (min-width: 768px) {
     .navbar {
         border-radius: 0px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    /*dropdown menu*/
+    .navbar .navbar-nav {
+        text-align: center;
+        display: block;
+        float: none;
+    }
+    .navbar-nav .open .dropdown-menu {
+        background-color: #3b3b3b;
+    }
+    .nav>li.dropdown.open .dropdown-menu {
+        display: inline-grid;
+    }
+    .nav {
+        padding-left: 0px;
     }
 }
