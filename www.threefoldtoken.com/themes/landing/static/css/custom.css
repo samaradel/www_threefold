@@ -1751,11 +1751,17 @@ dataCenters p {
         padding-top: 1rem;
         padding-bottom: 2rem;
     }
+    .video p {
+        font-size: 65%;
+    }
 }
 
 @media (min-width: 768px) {
     .navbar {
         border-radius: 0px;
+    }
+    .video p {
+        font-size: 100%;
     }
 }
 

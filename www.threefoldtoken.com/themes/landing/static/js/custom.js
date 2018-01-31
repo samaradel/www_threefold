@@ -1,5 +1,5 @@
 'use strict';
-(function() {
+(function () {
 
     function makeTimer() {
 
@@ -32,7 +32,7 @@
         $("#seconds").html(seconds + "<span>Seconds</span>");
     }
 
-    setInterval(function() {
+    setInterval(function () {
         makeTimer();
     }, 1000);
 
@@ -40,7 +40,7 @@
 
     // Mailout
 
-    $('#contact-us').submit(function(event) {
+    $('#contact-us').submit(function (event) {
         $.ajax({
                 type: 'POST',
                 url: 'http://www.threefoldtoken.com/www_threefold2.0',
@@ -48,27 +48,25 @@
                 dataType: 'json',
                 encode: true
             })
-            .done(function(data) {
+            .done(function (data) {
                 console.log(data);
                 $('#contactThankYou').show();
                 $('#contact-us').hide();
                 $('#test').hide();
             })
-            .fail(function() {
+            .fail(function () {
                 alert("error");
             });
         event.preventDefault();
     });
 
-    // for (var i = 0; i < decoded.scope.length; i++) {
-    //     if (decoded.scope[i].includes("user:memberof:threefold.ito-gs")) {
-    //         $('.nav>li.hideLink').css("display", "block");
-    //     }
-    // }
-
-    // $('#nav-wrapper').height($("#nav").height());
-    // $('#nav').affix({
-    //     offset: $('#nav').position()
-    // });
+    // Initialize
+    new InitPxVideo({
+        "videoId": "myvid",
+        "captionsOnDefault": true,
+        "seekInterval": 20,
+        "videoTitle": "threeFold",
+        "debug": true
+    });
 
 })();
