@@ -1,8 +1,6 @@
 +++
 #Don't remove name!
 title = "digital currency"
-
-weight = 2
 +++
 # WHY A NEW DIGITAL CURRENCY
 
