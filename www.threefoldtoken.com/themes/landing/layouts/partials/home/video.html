@@ -1,10 +1,14 @@
-{{ range $element := .Data.Pages }} {{ if eq .Section "home" }} {{ if eq .Title "video" }}
-<div class="video">
-    <div class="col-xs-12 center">
-        <a href="#">
-            <i class="fa fa-play fa-3x" aria-hidden="true"></i>
-            <p>{{ .Content }}</p>
-        </a>
-    </div>
-</div>
-{{end}} {{end}} {{end}}
+{{ range $element := .Data.Pages }} 
+    {{ if eq .Section "home" }} 
+        {{ if eq .Title "video" }}
+            <div class="video">
+                <div class="col-xs-12 center">
+                    <a href="{{ .Params.video_link }}" id="myvid">
+                        <i class="fa fa-play fa-3x" aria-hidden="true"></i>
+                        <p>{{ .Content }}</p>
+                    </a>
+                </div>
+            </div>
+        {{end}} 
+    {{end}} 
+{{end}}
