@@ -1521,15 +1521,13 @@ dataCenters p {
 
 #light {
     display: none;
-    position: absolute;
-    top: -7%;
-    left: 20%;
-    max-width: 600px;
-    max-height: 360px;
-    margin-left: -300px;
-    margin-top: -180px;
+    position: fixed;
+    top: 13%;
+    left: 13%;
+    width: 75%;
+    height: auto;
     z-index: 1002;
-    overflow: visible;
+    overflow: hidden
 }
 
 #boxclose {
