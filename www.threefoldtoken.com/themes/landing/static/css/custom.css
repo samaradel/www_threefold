@@ -1522,8 +1522,8 @@ dataCenters p {
 #light {
     display: none;
     position: absolute;
-    top: 0%;
-    left: 50%;
+    top: -7%;
+    left: 20%;
     max-width: 600px;
     max-height: 360px;
     margin-left: -300px;
@@ -1543,8 +1543,8 @@ dataCenters p {
     line-height: 0px;
     padding: 11px 3px;
     position: absolute;
-    right: 2px;
-    top: 2px;
+    right: -120%;
+    top: -27px;
     z-index: 1002;
     opacity: 0.9;
 }
