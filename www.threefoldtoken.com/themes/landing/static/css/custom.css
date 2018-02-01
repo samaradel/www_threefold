@@ -17,14 +17,12 @@ body {
     text-transform: none
 }
 
-
 /* Always set the map height explicitly to define the size of the div
 * element that contains the map. */
 
 #map-canvas {
     height: 100%;
 }
-
 
 /* Optional: Makes the sample page fill the window. */
 
@@ -88,7 +86,7 @@ header,
     margin-left: 0;
     margin-right: 0;
     padding-top: 30px;
-    overflow: hidden
+    /* overflow: hidden */
 }
 
 .Content-outer {
@@ -194,7 +192,7 @@ a {
 }
 
 .sqs-block-team h3 {
-    float: left!important
+    float: left !important
 }
 
 .sqs-block-button .sqs-block-button-element--small {
@@ -398,7 +396,6 @@ a {
     margin-top: 50px
 }
 
-
 /* .BlogList-item a {
     text-transform: uppercase
 } */
@@ -516,7 +513,7 @@ a {
 .summary-offering-terms-1 .sqs-block-content h1,
 .summary-offering-terms-1 .sqs-block-content h2,
 .contact-us .sqs-block-content h2 {
-    color: #757575!important
+    color: #757575 !important
 }
 
 .large-button-shape-rounded .sqs-block-button .sqs-block-button-element--large,
@@ -595,7 +592,6 @@ a {
     padding-bottom: 65px
 }
 
-
 /* .new-page-1 .Index-page-content {
     padding: 75px 25px
 } */
@@ -639,7 +635,7 @@ a {
 .three-objectives .affix,
 .gettingstartedintro,
 .gettingstartedintro .affix {
-    background-color: #bababa!important
+    background-color: #bababa !important
 }
 
 .three-objectives .Index-page h1 {
@@ -691,7 +687,7 @@ a {
 
 .active,
 .ambassador-faq h2 {
-    color: #757575!important;
+    color: #757575 !important;
     font-weight: 600
 }
 
@@ -967,7 +963,6 @@ section {
     line-height: 1.5em
 }
 
-
 /* Challenge */
 
 .main-block1 {
@@ -991,7 +986,6 @@ section {
     margin-left: 15px;
     margin-top: 30px;
 }
-
 
 /* Datacenters */
 
@@ -1048,7 +1042,6 @@ dataCenters p {
     background-color: #436DA3;
 }
 
-
 /* solution */
 
 .solution {
@@ -1087,7 +1080,6 @@ dataCenters p {
 .sol-details img {
     width: 100px;
 }
-
 
 /* token */
 
@@ -1133,7 +1125,6 @@ dataCenters p {
     margin-left: 50px;
 }
 
-
 /* token arround*/
 
 .token-arround {
@@ -1141,7 +1132,6 @@ dataCenters p {
     overflow: hidden;
     height: auto
 }
-
 
 /*slider*/
 
@@ -1153,7 +1143,6 @@ dataCenters p {
 .portfolio-slider {
     padding: 20px 0;
 }
-
 
 /*pricing*/
 
@@ -1183,7 +1172,6 @@ dataCenters p {
     letter-spacing: 0.13em;
     line-height: 140%;
 }
-
 
 /*participate*/
 
@@ -1231,7 +1219,6 @@ dataCenters p {
     line-height: 140%;
 }
 
-
 /* Join */
 
 .how_join {
@@ -1258,7 +1245,6 @@ dataCenters p {
 .how_join .login {
     color: #6eaf70;
 }
-
 
 /*green_part ar login*/
 
@@ -1336,7 +1322,6 @@ dataCenters p {
     border-radius: 0px;
 }
 
-
 /* App Page */
 
 .app,
@@ -1346,7 +1331,6 @@ dataCenters p {
     padding: 60px 0;
     overflow: hidden;
 }
-
 
 /* contribute */
 
@@ -1395,7 +1379,6 @@ dataCenters p {
     padding-bottom: 30px;
 }
 
-
 /* privacy page */
 
 .privacy {
@@ -1406,7 +1389,6 @@ dataCenters p {
 .map {
     padding-bottom: 30px;
 }
-
 
 /* single pages */
 
@@ -1429,7 +1411,6 @@ dataCenters p {
     height: 100%;
     position: relative;
 }
-
 
 /* Open source sec */
 
@@ -1500,6 +1481,79 @@ dataCenters p {
     padding-top: 15px;
 }
 
+.Site-inner {
+    padding-top: 0px;
+}
+
+.video {
+    padding: 20px 0;
+    overflow: hidden;
+    background-color: #E7F1FF;
+}
+
+.video a {
+    cursor: pointer;
+}
+
+.video .fa-play {
+    color: #699EE2;
+    text-shadow: 2px 2px 10px #7D7E7F;
+}
+
+.video p {
+    display: inline;
+    text-transform: uppercase;
+    color: #699EE2;
+    letter-spacing: .1em;
+    margin-left: 10px;
+    vertical-align: super
+}
+
+#fade {
+    display: none;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    z-index: 1001;
+    -moz-opacity: 0.8;
+    opacity: .80;
+    filter: alpha(opacity=80);
+}
+
+#light {
+    display: none;
+    position: fixed;
+    top: 13%;
+    left: 13%;
+    width: 75%;
+    height: auto;
+    z-index: 1002;
+    overflow: hidden
+}
+
+#boxclose {
+    float: right;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 31px;
+    font-weight: bold;
+    display: inline-block;
+    line-height: 0px;
+    padding: 11px 3px;
+    position: absolute;
+    right: -120%;
+    top: -27px;
+    z-index: 1002;
+    opacity: 0.9;
+}
+
+.boxclose:before {
+    content: "×";
+}
 
 /*  .team h1 {
     color: #699ee3;
@@ -1690,7 +1744,7 @@ dataCenters p {
     }
     .sphere {
         left: 14%;
-        max-width: 70%!important
+        max-width: 70% !important
     }
     .container {
         padding: 0;
@@ -1747,11 +1801,17 @@ dataCenters p {
         padding-top: 1rem;
         padding-bottom: 2rem;
     }
+    .video p {
+        font-size: 65%;
+    }
 }
 
 @media (min-width: 768px) {
     .navbar {
         border-radius: 0px;
+    }
+    .video p {
+        font-size: 100%;
     }
 }
 

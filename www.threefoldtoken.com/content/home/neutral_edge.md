@@ -2,7 +2,6 @@
 #Don't remove name!
 title = "neutral edge"
 
-weight = 1
 +++
 # WHY A NEW NEUTRAL EDGE INTERNET
 
