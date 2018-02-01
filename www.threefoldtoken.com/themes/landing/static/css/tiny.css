@@ -86,7 +86,7 @@ td {
     text-align: center;
     padding-bottom: 20px
 }
-.sqs-block {
+.sqs-block, .inter-block {
     position: relative;
     height: auto;
     padding-top: 17px;
@@ -96,7 +96,7 @@ td {
     -webkit-transition: box-shadow .2s ease-in-out;
     transition: box-shadow .2s ease-in-out
 }
-.sqs-block:not(.sqs-block-html):not(.sqs-block-markdown) {
+.sqs-block:not(.sqs-block-html):not(.sqs-block-markdown), .sqs-block:not(.sqs-block-html):not(.inter-markdown) {
     clear: both
 }
 html .sqs-block.sqs-block-html .sqs-block-content {
@@ -132,16 +132,16 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 .Blog-meta a:hover {
     color: rgba(82, 82, 82, .35)
 }
-.tweak-blog-meta-primary-author .Blog-meta-item--author {
+.tweak-blog-meta-primary-author .faq-author, .tweak-blog-meta-primary-author .info-author {
     display: inline
 }
-.BlogList-item {
+.BlogList-item, .openSource-item {
     display: block;
     margin-top: 100px;
     margin-bottom: -11px;
     text-align: center
 }
-.BlogList-item-image {
+.faq-image, .info-image {
     position: relative;
     margin-bottom: 17.798000000000002px;
     -webkit-box-ordinal-group: 1;
@@ -150,7 +150,7 @@ html .sqs-block.sqs-block-html .sqs-block-content {
     -webkit-order: 1;
     order: 1
 }
-.tweak-blog-list-item-image-show .BlogList-item-image {
+.tweak-blog-list-item-image-show .faq-image, .tweak-blog-list-item-image-show .info-image {
     display: block
 }
 .BlogList-item-image:before {
@@ -160,36 +160,36 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 .tweak-blog-list-style-grid.tweak-blog-list-item-image-aspect-ratio-grid-11-square .BlogList-item-image:before {
     padding-bottom: 100%
 }
-.BlogList-item-image-link {
+.openSource-link {
     display: block;
     line-height: 0;
     overflow: hidden
 }
-.BlogList-item-image img {
+.info-image img, .faq-image img {
     max-width: 100%;
     max-height: 100%
 }
-.sqs-block-content-home a {
+.sqs-block-content-home a, .content-home a {
     color: #6ca2e7;
     text-decoration: none;
     border-bottom: 1px solid rgba(108, 162, 231, .3)!important
 }
-.sqs-block-content-home a:hover {
+.sqs-block-content-home a:hover, .content-home a:hover {
     /* color: rgba(108, 162, 231, .6)!important; */
     text-decoration: none;
     border-bottom: 1px solid rgba(108, 162, 231, .15)!important
 }
-.tweak-blog-list-item-title-show .BlogList-item-title {
+.tweak-blog-list-item-title-show .faq-title, .tweak-blog-list-item-title-show .info-title {
     display: block
 }
-.BlogList-item-title, .tweak-blog-list-alignment-center .BlogList-item-title {
+.faq-title, .info-title, .tweak-blog-list-alignment-center .BlogList-item-title {
     text-align: center;
     font: normal 200 16px/1.8em 'Open Sans', sans-serif;
     letter-spacing: .02em;
     /* text-transform: uppercase; */
     text-decoration: none;
 }
-.BlogList-item-excerpt {
+.faq-excerpt, .info-excerpt {
     margin-bottom: 11px;
     letter-spacing: 0;
     font: normal 400 11px/1.6em 'Open Sans';
@@ -203,10 +203,10 @@ html .sqs-block.sqs-block-html .sqs-block-content {
     -webkit-order: 5;
     order: 5
 }
-.BlogList-item-excerpt p:first-of-type {
+.faq-excerpt p:first-of-type, .info-excerpt p:first-of-type {
     margin-top: 0
 }
-.BlogList-item-excerpt p:last-of-type {
+.faq-excerpt p:last-of-type, .info-excerpt p:last-of-type {
     margin-bottom: 0
 }
 .tweak-blog-list-item-excerpt-show .BlogList-item-excerpt {
@@ -215,7 +215,7 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 .tweak-blog-list-alignment-center .BlogList-item-excerpt {
     text-align: center
 }
-.BlogList-item-readmore {
+.faq-readmore, .info-readmore {
     vertical-align: baseline;
     font: normal 400 14px 'din-condensed-web';
     letter-spacing: 0;
@@ -228,7 +228,7 @@ html .sqs-block.sqs-block-html .sqs-block-content {
     transition: color .15s ease-out;
     white-space: nowrap
 }
-.BlogList-item-readmore:hover {
+.faq-readmore:hover, .info-readmore:hover {
     color: rgba(29, 29, 29, .5)
 }
 /* .BlogList-item-readmore:before {
@@ -403,7 +403,7 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 .social-icons-color-standard.social-icons-style-solid .sqs-svg-icon--list:hover .youtube:not(:hover) {
     background-color: rgba(229, 45, 39, .4)
 }
-.sqs-block-markdown {
+.sqs-block-markdown, .inter-markdown {
     clear: none
 }
 .sqs-block-html {
@@ -482,7 +482,7 @@ body.tweak-site-width-option-constrained-width {
     -moz-osx-font-smoothing: auto
 }
 .Main-content,
-.Index-page-content {
+.Index-page-content, .map-content {
     -webkit-animation: anim-opacity-full 480ms ease-out;
     animation: anim-opacity-full 480ms ease-out
 }
@@ -533,7 +533,7 @@ a:active,
 a:focus {
     outline: 0
 }
-.sqs-block-markdown p a {
+.sqs-block-markdown p a, .inter-markdown p a {
     color: #6ca2e7;
     text-decoration: none;
     -webkit-transition: color .15s ease-out;
@@ -549,7 +549,7 @@ a:focus {
     -o-transition: border-color .15s ease-out, color .15s ease-out;
     transition: border-color .15s ease-out, color .15s ease-out
 }
-.sqs-block-markdown p a:hover {
+.sqs-block-markdown p a:hover, .inter-markdown p a:hover {
     color: rgba(82, 82, 82, .36);
     border-color: rgba(82, 82, 82, .09)
 }
@@ -697,14 +697,14 @@ a:focus {
 .tweak-header-primary-nav-hover-style-active .Header-nav .Header-nav-item:hover {
     color: #8cb53c
 }
-.Index-page {
+.itWorks-page, .map-page {
     position: relative;
     overflow: hidden;
     background-color: #fff;
     -webkit-font-smoothing: subpixel-antialiased;
     -moz-osx-font-smoothing: auto
 }
-.Index-page--has-image {
+.Index-page--has-image, .header {
     /* background-color: #322f2f; */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -713,17 +713,17 @@ a:focus {
 /* .Index-page--has-image h1 {
     color: rgba(34, 34, 34, .9)
 } */
-.Index-page--has-image h2 {
+.Index-page--has-image h2, .info-header {
     color: #fff
 }
-.Index-page-content {
+.Index-page-content, .map-content {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     padding: 40px 25px
 }
 @media screen and (max-width: 640px) {
-    .Index-page-content {
+    .Index-page-content, .map-content {
         padding-left: 20px;
         padding-right: 20px
     }

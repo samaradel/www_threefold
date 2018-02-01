@@ -1,7 +1,7 @@
 # Landingpage specs
 
 ## Header
-Needs the General Intro to TFF: a safe digital currency backing a new, neutral green Internet
+Needs the General Intro to TFF: a digital currency backed by neutral and sustainable internet capacity
 
 ## Onboarding / CTA
 Needs to be above the fold at all times: This to cater to returning customers
@@ -21,7 +21,7 @@ The Foundation believes the solution to this trillion dollar problem is the migr
 
 Over the last +10 years we have developed a technology which allows IT to behave much like a real utility, consuming up to 10 times less energy and 100% self healing without involvement of IT specialists.
 
-Threefold wants to deploy capacity in this new paradigm local to the users where needed, managed by smaller clusters, and funded by all of us by means of a new digital currency.
+ThreeFold wants to deploy capacity in this new paradigm local to the users where needed, managed by smaller clusters, and funded by all of us by means of a new digital currency.
 
 ### Important: remove read more links: only links that should be clickable are join/sign up.
 
@@ -44,10 +44,10 @@ by changing the way how the internet is expanding and by building a more efficie
 Education & Equal Chances
 
 by providing internet capacity all over the world close to the users, we improve performance and allow anyone to get access to the required resources for their business or education at affordable prices
-A Safe Utility Currency
+A Utility Token
 
- digital currencies like Bitcoin and Ethereum are super popular, but they are not backed by assets and very speculative, together we want to create the safest, greenest and most stable digital currency in the world.
-We want to empower anyone to become part of the Threefold Foundation and work with us to accomplish our objectives. The Foundation is a 100% transparent tokenized organization driven by a strong set of values. You can join us by buying & using tokens - or become one of our Hosters or Operators.
+ digital currencies like Bitcoin and Ethereum are super popular, but they are not backed by assets and very speculative, together we want to create an alternative digital currency backed by real utility and assets.
+We want to empower anyone to become part of the ThreeFold Foundation and work with us to accomplish our objectives. The Foundation is a 100% transparent tokenized organization driven by a strong set of values. You can join us by buying & using tokens - or become one of our Hosters or Operators.
 
 First Token Holder 
 Kristof De Spiegeleer

@@ -3,12 +3,10 @@
 
 title = "pricing"
 
-
-text1 = "We organize a public token offering in which you can buy tokens."
-
-text2 = "Each operator chooses how many tokens he wants to charge for his internet capacity. Our advanced edge cloud technology makes sure that these internet capacity prices are better than the market prices."
-
-
-
 weight = 7
 +++
+Starting March 1 you can buy ThreeFold Tokens.
+
+Each Token represents Internet capacity.
+
+Independent ThreeFold Farmers connect new capacity to the TF Grid. By doing so they Farm new TF Tokens. Tokens can be used to buy Internet capacity.

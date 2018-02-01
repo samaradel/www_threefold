@@ -10,17 +10,17 @@ weight = 4
 
 ### Myth 1: big data centers are more efficient than small ones.
 
-There are advantages in building large scale data centers like economies of scale and shear bulk buying power compared to small ones but these are not as big as people think. The average cost per rack in a hyper scale data center is 20-35K USD including all energy &amp; safety systems. The cost of the hardware per rack is around the 200-300k USD mark.
+There are advantages in building large scale data centers like economies of scale and shear bulk buying power compared to small ones but these are not as big as people think. The average cost per rack in a hyper scale data center is 20-35K USD including all energy, safety systems. The cost of the hardware per rack is around the 200-300k USD mark.
 
 What is often forgotten is that anything that is of enormous scale and therefore highly concentrated are complex and have a specific set of problems to deal with. Think of resource requirements like investment, operational costs, knowledge and people.
 
-In reality keeping things simple &amp; small is much more cost effective than a big complex environment.
+In reality keeping things simple, small is much more cost effective than a big complex environment.
 
 ### Myth 2: big data center can be made green.
 
-The carbon footprint of a big datacenter is enormous. To improve the PUE (Power Usage Effectiveness) most data center operators have adopted windy, hydro and/or solar power technologies, which indeed does help drop their PUE by an estimated 20%.
+The carbon footprint of a big datacenter is enormous. To improve the PUE (Power Usage Effectiveness) most data center farmers have adopted windy, hydro and/or solar power technologies, which indeed does help drop their PUE by an estimated 20%.
 
-While this 20% looks great on paper and in the operators' corporate social responsibility reports. It is mostly just an improvement on the cooling technology, not the actual energy power consumed by the equipment that runs in their data centers (servers, storage chassis', physical disks, etc) and this equipment is what makes up the 100% of the carbon footprint. While the PUE only speaks about overhead power consumption to cool the facility, open and close doors, power security systems, etc.
+While this 20% looks great on paper and in the farmers' corporate social responsibility reports. It is mostly just an improvement on the cooling technology, not the actual energy power consumed by the equipment that runs in their data centers (servers, storage chassis', physical disks, etc) and this equipment is what makes up the 100% of the carbon footprint. While the PUE only speaks about overhead power consumption to cool the facility, open and close doors, power security systems, etc.
 
 So the real improvement lies in deploying technologies that actually consume less power to deliver the actual Internet IT capacity to run the workloads, real CPU chassis, physical disks and storage cabinets. Working on how hardware is being more effectively used can have an impact of 1000% and lead to 10 times more power efficiency.
 

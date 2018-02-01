@@ -9,13 +9,13 @@ weight = 1
 +++
 
 
-Our technology breaks with the traditional IT model. The Edge internet needs a different approach.
+ThreeFold technology breaks with the traditional IT model. The Edge internet needs a different approach.
 
-Our open-source tech addresses the scalability, security, storage, energy and operating issues - by simplifying architectures and not relying on third party software. This drives down costs and improves efficiencies.
+ThreeFold's open-source tech addresses the scalability, security, storage, energy and operating issues - by simplifying architectures and not relying on third party software. This drives down costs and improves efficiencies.
 
 ### What is our Technology Toolbox?
 
-Our technology is based on three primary building blocks:  Stateless Computing, Self Healing Technology and Blockchain technology - this is the core of our “Technology Toolbox".
+TF technology is based on three primary building blocks:  Stateless Computing, Self Healing Technology and Blockchain technology - this is the core of our “Technology Toolbox".
 
 - Stateless Computing: a stateless operating system, Zero-OS, enabling distributed hardware to form an Edge Internet grid generating IT storage and compute capacity
 
@@ -28,7 +28,7 @@ Our technology is based on three primary building blocks:  Stateless Computing, 
 
 The global Edge internet will be composed of thousands (millions?) of nodes distributed geographically.  This means the Edge internet must be powered by a stateless operating system that can be booted via the Internet (as opposed to living on the node locally). This removes the complexity of upgrades, truck rolls, etc  
 
-We have developed the open-source components, Zero-OS,for the deployment of bare metal machines functioning as Internet nodes and application hosts.  Our Zero-OS platform runs containerized applications and software code on secure and distributed IT infrastructure.  Zero-OS can be deployed on off-the-shelf hardware by anyone that is willing to make server and storage capacity available in their markets and within our network
+Open-source components have been developed, Zero-OS,for the deployment of bare metal machines functioning as Internet nodes and application hosts.  Our Zero-OS platform runs containerized applications and software code on secure and distributed IT infrastructure.  Zero-OS can be deployed on off-the-shelf hardware by anyone that is willing to make server and storage capacity available in their markets and within our network
 
 ### The benefits of Stateless Computing are substantial, including:
 - Performance: lightweight OS without overhead for running bare-metal machines
@@ -42,7 +42,7 @@ We have developed the open-source components, Zero-OS,for the deployment of bare
 
 ## Self Healing Technology: Self healing and self driving
 
-GIG has developed Jumpscale and At Your Service (AYS) which allows the creation of blueprints to auto-deploy applications within the compute environment.
+GIG has developed Jumpscale framework and At Your Service (AYS) which allows the creation of blueprints to auto-deploy applications within the compute environment.
 
 Our robots are constantly checking the health and uptime of the infrastructure and runtime environments, guaranteeing performance & availability of applications.
 
@@ -50,18 +50,18 @@ Our robots are constantly checking the health and uptime of the infrastructure a
 
 - Self Healing: the platform regenerates when health issues are detected that cause downtime for infrastructure and applications
 - Intelligence: agents capture information from the grid and make intelligent decisions to provide an ideal and optimal host environment for software code and containerized applications
-- Lifecycle Management: the state of the infrastructure and the lifecycle of running applications are constantly checked and recorded
+- Lifecycle Management: the status of the infrastructure and the lifecycle of running applications are constantly checked and recorded
 - Autoscaling: the platform automatically scales to meet application and infrastructure performance.
 
 ## Blockchain Technology: Executing workloads and applications via smart contracts using new consensus algorithms
 
-Our engineers developed new blockchain algorithms based on proof of stake for validation purposes and turned this into our Rivine.io open-source blockchain software
+The engineers developed new blockchain algorithms based on proof of stake for validation purposes and turned this into our Rivine.io open-source blockchain software
 
 Unlike the “proof of work” blockchains that currently dominate the space, our Rivine.io blockchain is scalable, green and secure - and does not rely on huge mining resources.  We run our blockchain on approximately 200 dedicated nodes and do not rely on any third party software
 
 In addition to our blockchain technology, we have also developed itsyou.online, identity and access management platform.  Itsyou.online uses three factor authentication to manage access on our network and facilitate execution
 
-### The benefits of our blockchain technology and identity management platform include:
+### The benefits of TF blockchain technology and identity management platform include:
 
 - Green: our algorithms to reach consensus use a minimal amount of energy and electricity compared to other blockchain software and networks
 - Lowest possible cost of transactions make it an efficient and fast payment system
