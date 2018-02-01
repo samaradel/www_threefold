@@ -1,14 +1,27 @@
 {{ range $element := .Data.Pages }} 
     {{ if eq .Section "home" }} 
         {{ if eq .Title "video" }}
-            <div class="video">
-                <div class="col-xs-12 center">
-                    <a href="{{ .Params.video_link }}" id="myvid">
-                        <i class="fa fa-play fa-3x" aria-hidden="true"></i>
-                        <p>{{ .Content }}</p>
-                    </a>
-                </div>
+
+            <div id="light">
+                <a class="boxclose" id="boxclose" onclick="lightbox_close();"></a>
+                <video id="VisaChipCardVideo" width="600" controls />
+                    <source src="{{ .Params.video_link }}" type="video/mp4">
+                    <!--Browser does not support <video> tag -->
+                </video>
             </div>
-        {{end}} 
-    {{end}} 
+
+            <div id="fade" onClick="lightbox_close();"></div>
+
+            <div class="video center">
+                <a href="#" onclick="lightbox_open();">
+
+                    <i class="fa fa-play fa-3x" aria-hidden="true"></i>
+
+                    <p>{{ .Content }}</p>
+
+                </a>
+            </div>
+
+        {{end}}
+    {{end}}
 {{end}}
