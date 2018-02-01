@@ -1491,6 +1491,10 @@ dataCenters p {
     background-color: #E7F1FF;
 }
 
+.video a {
+    cursor: pointer;
+}
+
 .video .fa-play {
     color: #699EE2;
     text-shadow: 2px 2px 10px #7D7E7F;

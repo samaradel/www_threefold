@@ -3,7 +3,6 @@
         {{ if eq .Title "video" }}
 
             <div id="light">
-                <a class="boxclose" id="boxclose" onclick="lightbox_close();"></a>
                 <video id="VisaChipCardVideo" width="100%" controls />
                 <source src="{{ .Params.video_link }}" type="video/mp4">
                 <!--Browser does not support <video> tag -->
@@ -13,7 +12,7 @@
             <div id="fade" onClick="lightbox_close();"></div>
 
             <div class="video center">
-                <a href="#" onclick="lightbox_open();">
+                <a onclick="lightbox_open();">
 
                     <i class="fa fa-play fa-3x" aria-hidden="true"></i>
 
