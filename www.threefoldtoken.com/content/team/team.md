@@ -9,5 +9,5 @@ gig_header = "Our Founders GIG"
 gig_sub = "Green IT Globe (GIG) is the founder of the ThreeFold idea and has made all of this possible. GIG Engineers have created the software for the TreeFold Grid."
 
 tech_header = "Tech Team GIG"
-tech_sub = "The tean who created the opensource technology underpinning our mission."
+tech_sub = "The team who created the opensource technology underpinning our mission."
 +++
