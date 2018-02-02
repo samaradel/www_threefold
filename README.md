@@ -1,18 +1,14 @@
 # New ThreeFold Website
 
 - promotor: Roel
-- guardian: Michael
+- guardian: Son
 
 
 ## Scrum Details for Web Team
 
 * Development team is lead by @hassane and backed by @adelsamar
-* Sprints start at **Sunday** till **Thursday**
 * ALL COMMUNICATION is handled through the issues in gogs
 * EVERY ACTIVITY and certainly BLOCKERS are reported in in the gogs issues
-* UI Testing is done each friday by @roelvansabben
-* Sprint planning is done each thursday
-
 
 ## Information
 
