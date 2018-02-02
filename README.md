@@ -34,6 +34,10 @@ Please make sure before editing you are using the master branch to do so.
 To review your changes please view: [Staging](https://threefold2.aydo.com/).
 (it might take up to a minute for changes to show up)
 
+## Editing Team page
+No changes to text can be pushed to production without the blessing of KDS.
+Changes can be presented to him on staging, and if ok can be merged to production on their turn.
+
 ### PDF
 To add pdf just upload it in [/pdf](https://docs.grid.tf/threefold/www_threefold/src/branch/master/www.threefoldtoken.com/themes/landing/static/pdf) and modify the value of pdf in the markdown file.
 
