@@ -1,18 +1,14 @@
 # New ThreeFold Website
 
 - promotor: Roel
-- guardian: Michael
+- guardian: Son
 
 
 ## Scrum Details for Web Team
 
 * Development team is lead by @hassane and backed by @adelsamar
-* Sprints start at **Sunday** till **Thursday**
 * ALL COMMUNICATION is handled through the issues in gogs
 * EVERY ACTIVITY and certainly BLOCKERS are reported in in the gogs issues
-* UI Testing is done each friday by @roelvansabben
-* Sprint planning is done each thursday
-
 
 ## Information
 
@@ -37,6 +33,10 @@ All webpages are found here [content webpages](https://docs.grid.tf/threefold/ww
 Please make sure before editing you are using the master branch to do so.
 To review your changes please view: [Staging](https://threefold2.aydo.com/).
 (it might take up to a minute for changes to show up)
+
+## Editing Team page
+No changes to text can be pushed to production without the blessing of KDS.
+Changes can be presented to him on staging, and if ok can be merged to production on their turn.
 
 ### PDF
 To add pdf just upload it in [/pdf](https://docs.grid.tf/threefold/www_threefold/src/branch/master/www.threefoldtoken.com/themes/landing/static/pdf) and modify the value of pdf in the markdown file.
