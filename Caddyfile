@@ -16,7 +16,7 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
     git {
     repo ssh://git@docs.grid.tf:7022/threefold/data_team.git
     branch master
-    hook /gitea/pull/data_team "zU3687$aJEb6"
+    hook /gitea/pull/tf_data_team "zU3687$aJEb6"
     key ~/.ssh/id_rsa
     path ../../../threefold/data_team/
     then python3 ../../gig/data_team/process.py
