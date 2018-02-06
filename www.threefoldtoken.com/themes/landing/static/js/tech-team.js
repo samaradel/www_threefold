@@ -44,7 +44,7 @@ $(function () {
                 if (added.length === details.length) {
                     break;
                 }
-                if (details[i].core == null) {
+                if (details[i].core == false || details[i].core == null) {
                     added.push(details);
                     var parent = $("<div>").addClass("rj-team-member");
                     var a = $("<div>").addClass('member-photo');
