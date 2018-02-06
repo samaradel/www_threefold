@@ -20,7 +20,7 @@ grid_img_5 = "/img/piggy-bank.png"
 grid_txt_5 = "Solving a 5 trillion problem"
 
 grid_img_6 = "/img/user.png"
-grid_txt_6 = "The code of a netural internet"
+grid_txt_6 = "The code of a neutral internet"
 
 weight = 4
 +++
