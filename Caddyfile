@@ -10,6 +10,9 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
     key ~/.ssh/id_rsa
     path ../../../gig/data_team/
     then python3 process.py
+    then git reset --hard HEAD
+    then git -C "../../threefold/data_team" reset --hard HEAD
+    then git -C "../../bettertoken/data_team" reset --hard HEAD
     then hugo -s ../../www_threefold/www.threefoldtoken.com
   }
 
@@ -20,6 +23,9 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
     key ~/.ssh/id_rsa
     path ../../../threefold/data_team/
     then python3 ../../gig/data_team/process.py
+    then git reset --hard HEAD
+    then git -C "../../bettertoken/data_team" reset --hard HEAD
+    then git -C "../../gig/data_team" reset --hard HEAD
     then hugo -s ../../www_threefold/www.threefoldtoken.com
   }
 
@@ -30,6 +36,9 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
     key ~/.ssh/id_rsa
     path ../../../bettertoken/data_team/
     then python3 ../../gig/data_team/process.py
+    then git reset --hard HEAD
+    then git -C "../../gig/data_team" reset --hard HEAD
+    then git -C "../../threefold/data_team" reset --hard HEAD
     then hugo -s ../../www_threefold/www.threefoldtoken.com
   }
 
