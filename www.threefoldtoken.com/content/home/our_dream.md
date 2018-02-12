@@ -15,7 +15,7 @@ text_2 = "By providing internet capacity all over the world close to the users, 
 title_3 = "A Utility Currency"
 text_3 = " Digital currencies like Bitcoin and Ethereum are super popular, but they are not backed by assets and are very speculative. We want to create a token with actual utility and purpose."
 
-last_text = "We want to empower anyone to become part of the ThreeFold Foundation and work with us to accomplish our objectives. The Foundation is a 100% transparent tokenized organization driven by a strong set of values. You can join us by buying & using tokens - or become one of our Farmers or Farmers."
+last_text = "We want to empower anyone to become part of the ThreeFold Foundation and work with us to accomplish our objectives. The Foundation is a 100% transparent tokenized organization driven by a strong set of values. You can join us by buying & using tokens - or become one of our Farmers."
 token_holder ="First Token Holder"
 token_holder_name = "Kristof De Spiegeleer"
 
