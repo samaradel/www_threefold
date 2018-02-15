@@ -327,3 +327,12 @@ nationality="Dutch"
 why="I strongly believe in decentralized infrastructure as the foundation for creating the real Web 3.0 Internet. Empowering us to handle the increasing amounts of data traffic and to respond to the growing need for internet capacity, Blockchain and edge computing are providing the tools and ThreeFold is how we get to the Web 3.0 world! Contributing to a better place for everybody."
 bio="Xander is a serial entrepreneur and venture mentor. He started his first software development / Internet company – Beeyond, back in 1995, where he created and patented InterLingua™ - a pioneering cloud technology in the areas of electronic data communications, database organized, flexible format electronic data message management, client-server and distributed software applications. Currently, Xander is founder and CEO of 2SQRS – a research, development and investment company that grows human-tech concepts to global ventures. He is also a co-founder of Web3 Ventures – an incubator for decentralized autonomous services that enables entrepreneurs and developers in bringing infrastructural innovation to the growing blockchain community."
 avatar="Xander Malta.jpg"
+
+[[ambassador]]
+x=5 # 0 <= X < 4
+y=0 # 0 <= Y < 5
+name="Christian Seidl"
+nationality="German"
+why="Christian is a strong believer and early supporter of the TFF dream „…to make the Internet accessible for all people; securely, equally and seamlessly ​through ​environmentally-sustainable ​technology.“ Access to internet capacity will become a basic right and necessity for all humans and existing technology and network infrastructure will not be able to cope with the growing demand. TFF’s vision and solution to tackle these shortcomings is unique and groundbreaking and Christian is proud and exited to be part of the TFF community and support TFF’s great team as an ambassador."
+bio="Christian is the founder and managing partner of Seidl Consult GmbH, which offers to its clients strategy consulting, transaction advisory services and project management support, especially in IT & Compliance related projects.  Prior to starting his own company, Christian worked thirteen years in the financial industry, successfully managing several alternative investment funds. Over the last couple of years, Christian became passionate about digitalization and cryptocurrency and new business models deriving from it. Helping organizations to get smarter and better by adapting this new technology is what he loves doing."
+avatar="christian_seidl.jpg"
