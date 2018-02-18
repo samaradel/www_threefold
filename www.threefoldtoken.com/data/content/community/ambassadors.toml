@@ -342,7 +342,7 @@ x=5 # 0 <= X < 4
 y=1 # 0 <= Y < 5
 name="Alain Andreis"
 nationality="Belgian"
-why="I believe in the great idea of the Threefold Foundation, it nurture my believe we can live in a better world."
+why="I believe in the great idea of the ThreeFold Foundation, it nurture my believe we can live in a better world."
 bio=" Experienced Managing Director with a demonstrated history of working in the information services industry since 1995. Skilled in Negotiation, Coaching, Sales and Management. Strong business development professional with a Post-Graduate, focused in Sales and Marketing Management."
 avatar="Alain Andreis jpg"
 
@@ -351,6 +351,24 @@ x=5 # 0 <= X < 4
 y=2 # 0 <= Y < 5
 name="Jenne Magno"
 nationality="Czech"
-why="There are moments in which our collective awareness shifts, eclipsing old limited beliefs, and a new world-view must emerge. We are now in such a moment, the internet a manifestation of our greater interconnectedness, and it is time that we honor the truth that we are in symbiosis with one another and with the planet that sustains us- it’s lifeforms and resources. I am deeply thankful to Threefold for the offering a de-centralized, green solution that supports our connectivity not only to one another, but to the larger world in which we live."
+why="There are moments in which our collective awareness shifts, eclipsing old limited beliefs, and a new world-view must emerge. We are now in such a moment, the internet a manifestation of our greater interconnectedness, and it is time that we honor the truth that we are in symbiosis with one another and with the planet that sustains us- it’s lifeforms and resources. I am deeply thankful to ThreeFold for the offering a de-centralized, green solution that supports our connectivity not only to one another, but to the larger world in which we live."
 bio="Jenne has had the privilege of working extensively in the developing world, facilitating community-led initiatives that replace top-down, one-directional giving schemes with symbiotic, multi-stakeholder partnerships. She has produced documentary films on education and social justice, as well as major international transformative cultural encounters and events. For decades she has worked in intuitive research and curative coherence (healing, alignment and consensus) via one brain kinesiology, and several related modalities. She has been honored to work with healers and shamans from many wisdom traditions around the world. Jenne specializes in generative emergence, and assists individuals and groups explore how morphic resonance and heart-brain coherence can be applied in healing as well as in creative consensus, community cohesion and manifestation of collective intention. "
 avatar="Jenne Magno jpg"
+
+[[ambassador]]
+x=5 # 0 <= X < 4
+y=3 # 0 <= Y < 5
+name="Bruce Lites"
+nationality="American"
+why="I believe that access to a neutral, efficient, and secure internet is essential to the survival of humanity Planet Earth.  The ThreeFold foundation is a shining example of facing these challenges with pragmatism and conscience."
+bio="Bruce is an internationally recognized astrophysicist specializing in studies of the Sun and its magnetic fields.  He is best known for leading the development of innovative instrumentation for observing solar magnetic fields, both from the ground and in space.  Throughout his career spanning more than 40 years, he has contributed to the advancement of our understanding of the Sun as witnessed by his authorship of over 170 scientific publications in peer-reviewed journals.  He received a PhD in Physics and Astrophysics at the University of Colorado, USA, and in retirement he is a Senior Scientist Emeritus and Distinguished Scholar at the National Center for Atmospheric Research, USA."
+avatar="Bruce Lites jpg"
+
+[[ambassador]]
+x=5 # 0 <= X < 4
+y=4 # 0 <= Y < 5
+name="Jennifer Long"
+nationality="American"
+why="I believe in this endeavor of the ThreeFold Foundation because it equates to actually being the "people's internet" in that it is distributed around the world to share with the population of the planet where we decide who and what can access our information. Additionally, I believe this will be a catalyst for countries lacking in internet capability to motivate those countries to upgrade their IT so that they can utilize this system on Three Fold to generate income for the country as well as to spread the opportunity to individuals in those same countries to use a node, cluster or even join cooperative farming efforts.  "
+bio="Jennifer has dedicated her entire career to helping others. She has worked as a coordinator to the SCIS school in Santa Cruz, Bolivia, an International School (IB) with the IGCSE curriculum from Cambridge, England. Additionally, Jennifer has worked in the United States with attorneys across the nation to assist thousands of immigrants to attain residency, professional employment, and international trade and investment visas into the United States. Jennifer has enjoyed a very rewarding career with both children and adults. She now heads the philanthropic endeavors for the people in the community of Biolley and works to counsel community members, coffee producers, and other farmers and neighbors to collaborate and work together for the betterment as a whole."
+avatar="Jennifer Long jpg"
