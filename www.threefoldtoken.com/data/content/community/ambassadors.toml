@@ -336,3 +336,21 @@ nationality="German"
 why="Christian is a strong believer and early supporter of the TFF dream „…to make the Internet accessible for all people; securely, equally and seamlessly ​through ​environmentally-sustainable ​technology.“ Access to internet capacity will become a basic right and necessity for all humans and existing technology and network infrastructure will not be able to cope with the growing demand. TFF’s vision and solution to tackle these shortcomings is unique and groundbreaking and Christian is proud and exited to be part of the TFF community and support TFF’s great team as an ambassador."
 bio="Christian is the founder and managing partner of Seidl Consult GmbH, which offers to its clients strategy consulting, transaction advisory services and project management support, especially in IT & Compliance related projects.  Prior to starting his own company, Christian worked thirteen years in the financial industry, successfully managing several alternative investment funds. Over the last couple of years, Christian became passionate about digitalization and cryptocurrency and new business models deriving from it. Helping organizations to get smarter and better by adapting this new technology is what he loves doing."
 avatar="christian_seidl.jpg"
+
+[[ambassador]]
+x=5 # 0 <= X < 4
+y=1 # 0 <= Y < 5
+name="Alain Andreis"
+nationality="Belgian"
+why="I believe in the great idea of the Threefold Foundation, it nurture my believe we can live in a better world."
+bio=" Experienced Managing Director with a demonstrated history of working in the information services industry since 1995. Skilled in Negotiation, Coaching, Sales and Management. Strong business development professional with a Post-Graduate, focused in Sales and Marketing Management."
+avatar="Alain Andreis jpg"
+
+[[ambassador]]
+x=5 # 0 <= X < 4
+y=2 # 0 <= Y < 5
+name="Jenne Magno"
+nationality="Czech"
+why="There are moments in which our collective awareness shifts, eclipsing old limited beliefs, and a new world-view must emerge. We are now in such a moment, the internet a manifestation of our greater interconnectedness, and it is time that we honor the truth that we are in symbiosis with one another and with the planet that sustains us- it’s lifeforms and resources. I am deeply thankful to Threefold for the offering a de-centralized, green solution that supports our connectivity not only to one another, but to the larger world in which we live."
+bio="Jenne has had the privilege of working extensively in the developing world, facilitating community-led initiatives that replace top-down, one-directional giving schemes with symbiotic, multi-stakeholder partnerships. She has produced documentary films on education and social justice, as well as major international transformative cultural encounters and events. For decades she has worked in intuitive research and curative coherence (healing, alignment and consensus) via one brain kinesiology, and several related modalities. She has been honored to work with healers and shamans from many wisdom traditions around the world. Jenne specializes in generative emergence, and assists individuals and groups explore how morphic resonance and heart-brain coherence can be applied in healing as well as in creative consensus, community cohesion and manifestation of collective intention. "
+avatar="Jenne Magno jpg"
