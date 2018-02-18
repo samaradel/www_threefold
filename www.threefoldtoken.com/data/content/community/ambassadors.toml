@@ -369,6 +369,15 @@ x=5 # 0 <= X < 4
 y=4 # 0 <= Y < 5
 name="Jennifer Long"
 nationality="American"
-why="I believe in this endeavor of the ThreeFold Foundation because it equates to actually being the "people's internet" in that it is distributed around the world to share with the population of the planet where we decide who and what can access our information. Additionally, I believe this will be a catalyst for countries lacking in internet capability to motivate those countries to upgrade their IT so that they can utilize this system on Three Fold to generate income for the country as well as to spread the opportunity to individuals in those same countries to use a node, cluster or even join cooperative farming efforts.  "
+why="I believe in this endeavor of the ThreeFold Foundation because it equates to actually being the "people's internet" in that it is distributed around the world to share with the population of the planet where we decide who and what can access our information. Additionally, I believe this will be a catalyst for countries lacking in internet capability to motivate those countries to upgrade their IT so that they can utilize this system on ThreeFold to generate income for the country as well as to spread the opportunity to individuals in those same countries to use a node, cluster or even join cooperative farming efforts.  "
 bio="Jennifer has dedicated her entire career to helping others. She has worked as a coordinator to the SCIS school in Santa Cruz, Bolivia, an International School (IB) with the IGCSE curriculum from Cambridge, England. Additionally, Jennifer has worked in the United States with attorneys across the nation to assist thousands of immigrants to attain residency, professional employment, and international trade and investment visas into the United States. Jennifer has enjoyed a very rewarding career with both children and adults. She now heads the philanthropic endeavors for the people in the community of Biolley and works to counsel community members, coffee producers, and other farmers and neighbors to collaborate and work together for the betterment as a whole."
 avatar="Jennifer Long jpg"
+
+[[ambassador]]
+x=5 # 0 <= X < 4
+y=5 # 0 <= Y < 5
+name="Rob Tol"
+nationality="Dutch"
+why="ThreeFold's intention of creating a self-healing, small-scaled but world wide Internet seamlessly fits my idea of 'One world, One mind'. As humans, we are already connected at a deep level. A level before ideas of separation and perceived differences. I see ThreeFold as a physical, real world reflection of this connectedness. A move towards unity and equality."
+bio="Rob is a passionate coach, qigong teacher and former tour professional golfer. He combines several disciplines and different fields of science in his coaching work. People are often touched by his stillness and inner peace or triggered by his sharp observations and straightforward messages that effortlessly uncover the essence of your being. In whatever way you come into contact with Rob, one thing is for sure: it will change your life."
+avatar="Rob Tol jpg"
