@@ -7,7 +7,7 @@ subtitle = ""
 weight = 4
 +++
 
-# Why THREEFOLD Token
+# Why the ThreeFold Token
 
 For a list of definitions used see our [definitions document](https://github.com/threefoldtoken/legal/blob/master/definitions.md).
 
