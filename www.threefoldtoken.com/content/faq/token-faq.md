@@ -5,10 +5,12 @@ image = "../img/question2.jpg"
 author = ""
 subtitle = ""
 weight = 4
-
 +++
 
 # Why THREEFOLD Token
+
+For a list of definitions used see our [definitions document](https://github.com/threefoldtoken/legal/blob/master/definitions.md).
+
 ### Why should I buy Tokens ?
 
 The reasons for people to buy Tokens include the following:
@@ -29,7 +31,7 @@ We designed our Token as a scalable currency with real utility and intrinsic val
 
 ### What are the Foundation’s objectives for the TF Token?
 
-The Foundation’s long term objective is to migrate the ThreeFold Token firmly into the mainstream as a payment instrument used to purchase IT and other services. We seek  to:
+The Foundation’s long term objective is to migrate the ThreeFold Token firmly into the mainstream as a payment instrument used to purchase IT and other services. We seek to:
 
 * Create an alternative currency with intrinsic value rooted in real assets.
 * Give our Tokens a designated utility by linking the Token directly to the growth of the Internet.
@@ -38,23 +40,21 @@ The Foundation’s long term objective is to migrate the ThreeFold Token firmly 
 
 ### Why did we use the word Token vs Coin?
 
-We use the word “Token” because our Tokens are much more than a simple coin.  In our view, coins really only have one function:  to act as simple stores of value. Our Tokens represent an  economic interest in our Foundation and is the exclusive payment instrument or currency for which farmers can sell Internet IT capacity via our Directory service.
+We use the word “Token” because our Tokens are much more than a simple coin. In our view, coins really only have one function:  to act as simple stores of value. Our Tokens represent an economic interest in our Foundation and is the exclusive payment instrument or currency for which farmers can sell Internet IT capacity via our Directory service.
 
 ### Is our Token different from other digital currencies?
 
 We designed our Token to be different from other digital currencies in several respects including the following:
 
-* Utility.  From inception, our Tokens have a specific designated use as the payment currency for buying and selling Internet IT capacity on our Grid.  
-* Neutral.  Our Foundation is mission- and value-based, has no shareholders and is not owned or controlled by any institution or government.  
-* Green.  Our blockchain is different - and enables much greater scalability to millions of transactions without requiring outsize energy consumption
-* Secure.  Also our blockchain is less vulnerable to large miner consortia controlling hashrates or DDOS and other attacks.  All users and nodes are registered on our blockchain-based identity management platform enhancing security and privacy.
-
+* Utility. From inception, our Tokens have a specific designated use as the payment currency for buying and selling Internet IT capacity on our Grid.
+* Neutral. Our Foundation is mission- and value-based, has no shareholders and is not owned or controlled by any institution or government.
+* Green. Our blockchain is different - and enables much greater scalability to millions of transactions without requiring outsize energy consumption
+* Secure. Also our blockchain is less vulnerable to large miner consortia controlling hashrates or DDOS and other attacks. All users and nodes are registered on our blockchain-based identity management platform enhancing security and privacy.
 
 ### Why do we say our Token has “utility” and why is this important?
 
 When we talk about “utility”, we mean that our Token has a designated “use” as the exclusive payment currency for buying and selling Internet capacity via our Directory on our Grid.  
-This utility is important because it generates additional demand, diversification, volumes and liquidity for Token Holders.  This is an important differentiator for our Token - as digital currencies today generally have limited utility.
-
+This utility is important because it generates additional demand, diversification, volumes and liquidity for Token Holders. This is an important differentiator for our Token - as digital currencies today generally have limited utility.
 
 # Tokens
 
@@ -70,7 +70,6 @@ As payment, we currently accept BTC, USD, GBP and EUR.
 
 Today there are 100,000,000,000 Tokens created.
 
-
 ### What is the Token Issuance Mechanism?
 
 There will be no more than 100,000,000,000 TF tokens in existence (Max Supply). No additional TF tokens will ever be generated. Tokens will be tradable on digital currency exchanges subject to applicable regulations by citizenship and/or country of residence. On these exchanges token holders would be free to buy, sell and trade tokens at market prices.
@@ -78,15 +77,13 @@ There will be no more than 100,000,000,000 TF tokens in existence (Max Supply). 
 The distribution of ThreeFold Tokens is as follows:
 
 * ThreeFold Farmers - 98%
-98,000,000,000 (98 billion) Tokens, or 98% of the Max Supply, are issued to Farmers when they connect capacity to the ThreeFold Grid. The Farmer can sell 1/48 of this amount per month. This means by design each Token available to market is  backed by capacity
+  98,000,000,000 (98 billion) Tokens, or 98% of the Max Supply, are issued to Farmers when they connect capacity to the ThreeFold Grid. The Farmer can sell 1/48 of this amount per month. This means by design each Token available to market is backed by capacity
 
 * Foundation = Promotion / Marketing - 1%
-1% of the Max Supply, can be used by the ThreeFold Foundation to sponsor marketing and promotion of the ThreeFold Ecosystem.
+  1% of the Max Supply, can be used by the ThreeFold Foundation to sponsor marketing and promotion of the ThreeFold Ecosystem.
 
 * Technology Creators (gig.tech) & Founders - 0.02% per month
-Is reserved for the technology creators & TF Founders, max 48 months. Max 20% can be sold per month of total amount of transactions.
-
-
+  Is reserved for the technology creators & TF Founders, max 48 months. Max 20% can be sold per month of total amount of transactions.
 
 ### How will we maximize liquidity for Token Holders who wish to sell their Tokens?
 
@@ -94,7 +91,7 @@ Our Token is an ERC20 compatible token and you will be able to exchange the toke
 
 Because the Token is used for selling & buying capacity on the threefold network, we create additional liquidity.
 
-### Can Token holders just send Tokens to other users of the ThreeFold app? 
+### Can Token holders just send Tokens to other users of the ThreeFold app?
 
 Yes.
 
@@ -102,8 +99,7 @@ Yes.
 
 The Tokens will be tradable on multiple Exchanges (anyone supporting ERC20 tokens)
 
-
-###  Can I buy Tokens with bank transfer?
+### Can I buy Tokens with bank transfer?
 
 Yes, you can buy Tokens with bank transfers. USD, GBP, EUR at first, adding YEN, and CHF at a later date.
 We also allow BTC payments at first, adding ETH at a later date.
@@ -111,7 +107,6 @@ We also allow BTC payments at first, adding ETH at a later date.
 ### Can I buy Tokens if I am in US or I am a US citizen?
 
 Yes, if you are an accredited investor.
-
 
 ### Can I buy Tokens if I am in China or I am a Chinese citizen?
 
@@ -121,19 +116,17 @@ Not defined yet. Rules seem to be unclear at this point.
 
 ### KYC and AML Procedures
 
-We take our Know Your Client (KYC) and Anti-Money Laundering (AML) obligations seriously.  We employ onboarding protocols and identity management via itsyou.online and our TF app.
-
+We take our Know Your Client (KYC) and Anti-Money Laundering (AML) obligations seriously. We employ onboarding protocols and identity management via itsyou.online and our TF app.
 
 ### How is the Foundation structured and where is it based?
 
 See our [FOUNDATION FAQ](/faq/foundation-faq).
 
-
 # Technical
 
 ### Which blockchain is used? What is the issuing format for the ThreeFold Token?
 
-Our Tokens will be issued on Ethereum blockchain as ERC20 compliant Tokens.  
+Our Tokens will be issued on Ethereum blockchain as ERC20 compliant Tokens.
 
 ### Where can I find the smart contract code?
 

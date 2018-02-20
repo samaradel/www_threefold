@@ -5,47 +5,32 @@ image = "../img/foundation.jpg"
 author = ""
 subtitle = ""
 weight = 5
-
 +++
 
-## What are the objectives of the Foundation?
+## What are the objectives of the ThreeFold Foundation?
 
-The Foundation’s long term objective is to migrate our Token firmly into the mainstream as a currency used to purchase IT and other services.  
+For a list of definitions used see our [definitions document](https://github.com/threefoldtoken/legal/blob/master/definitions.md).
 
-The ThreeFold Foundation, a transparent tokenized organization with three primary objectives:  
-- Using our Token to build a new, neutral, “Edge” Internet,
-- Creating a digital currency with real utility rooted in real assets and
-- Empowering our Token Holders to work alongside us
+The ThreeFold Foundation’s long term objective is to build an ecosystem that brings online a grid of decentralized, distributed, and neutral IT infrastructure (TF Grid) and drives the adoption of the ThreeFold Token (TFT) as the defacto currency to purchase such services. 
 
-## What is the Corporate Structure of the Foundation?
+The ThreeFold Foundation, a transparent, tokenized organization has three primary objectives:
 
-The Foundation is structured as a Dutch Antilles Stichting based in Curaçao. Our legal & financial structure has been set up by "Orrick, Herrington & Sutcliffe", one of the leading law firms in the world.
+* Create a digital currency with real utility rooted in real assets
+* Use the ThreeFold Token to build a new, neutral, “Edge” Internet
+* Empower Token holders to work alongside us.
 
-The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There are is also a self-governing Board of Ambassadors, which will be consulted on any major decisions.
+## What is the Corporate Structure of the ThreeFold Foundation?
 
-## Who owns the Foundation?
+The Foundation is structured as a Dutch Antilles Stichting based in Curaçao. Our legal and financial structure has been set up by "Orrick, Herrington & Sutcliffe", one of the leading law firms in the world.
 
-The Foundation is mission- and value-based and not “owned” by anyone per se. 
+The Foundation is governed and represented by its Boards of Directors. The board ensures that the Foundation’s activities are aligned with its stated purpose. There are is also a self-governing Board of Ambassadors, which will be consulted on any major decisions.
 
-## How will the Foundation be governed?  How will decisions be made and implemented?
+## Who owns the ThreeFold Foundation?
 
-The Foundation is governed and represented by its Boards of Directors.  The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders.  There is also a separate Ambassador board to keep track of the Boards of Directors.
+The Foundation is not owned by any one person or entity. It is a collective of individuals driving the mission of the Foundation forward.
 
-- [please read  more in our governance document.](/faq/governance-faq).
 
-## Who will manage and operate the Foundation?
+## Who will manage and operate the ThreeFold Foundation?
+ 
+The leadership and management team of the ThreeFold Foundation oversees daily operations and activities of the Foundation.
 
-The Foundation has a management team appointed by the Board.  
-The management team oversees daily operations.
-
-- [please read  more in our governance document.](/faq/governance-faq).
-
-## How experienced are the ThreeFold Foundation Founders and Management team?
-
-Our team is highly experienced across technology, growth businesses and finance.  Members of our team have successfully built and exited numerous technology start-ups and several have extensive C-Level experience in high profile companies.   
-
-- [our team](/team)
-
-## What are the liabilities of the Foundation?  Are there any?
-
-As of today the Foundation does not have any liabilities.
