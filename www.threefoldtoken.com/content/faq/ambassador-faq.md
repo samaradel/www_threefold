@@ -1,4 +1,3 @@
-
 +++
 # Don't remove name!
 title = "Ambassador FAQ"
@@ -6,14 +5,13 @@ image = "../img/ambassador.jpg"
 author = ""
 subtitle = ""
 weight = 10
-
 +++
 
 # Ambassador
 
-## What  does it mean to be a ThreeFold Ambassador?
+## What does it mean to be a ThreeFold Ambassador?
 
---- As a ThreeFold Ambassador, you are one of the faces of our global movement. You are passionate about the values and the vision of the ThreeFold Foundation, and look for opportunities to share your enthusiasm with others. By doing so, you endorse and promote the goals of the ThreeFold Foundation, bringing it closer to manifestation, and you help to shape the community. 
+--- As a ThreeFold Ambassador, you are one of the faces of our global movement. You are passionate about the values and the vision of the ThreeFold Foundation, and look for opportunities to share your enthusiasm with others. By doing so, you endorse and promote the goals of the ThreeFold Foundation, bringing it closer to manifestation, and you help to shape the community.
 
 ## Are there special requirements to become a ThreeFold Ambassador?
 
@@ -42,3 +40,6 @@ If you are able to work more closely with us strategically, or as a media commen
 It would be so absolutely fantastic if you have more time to help us achieve our ambitious goals.
 Please contact us, I am sure we can arrange an appropriate partnership.
 
+## More Info
+
+For a list of definitions used see our [definitions document](https://github.com/threefoldtoken/legal/blob/master/definitions.md).
