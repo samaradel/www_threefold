@@ -53,58 +53,56 @@ To use this IT Capacity, through the TF Grid, people need to own ThreeFold Token
 
 # Tokens
 
-### Where can I buy a Token?
+### Where can I buy TFTs?
 
-ThreeFold Tokens will be available for sale directly through our app.
+TFTs can can only be purchased directly from from either of the first two independent TF Farming Cooperatives Bettertoken BVBA and/or ThreeFold FZC at this time.
 
-One needs only sign up with our [ItsYou.Online](http://itsyou.online) identity management platform and open their e-Wallet on our App.
+You will need sign up with our [ItsYou.Online](http://itsyou.online) identity management platform and open a TF e-Wallet on our App.
 
-As payment, we currently accept BTC, USD, GBP and EUR.
 
 ### How many tokens already exists?
 
-Today there are 100,000,000,000 Tokens created.
+By the end of March 2018 the TF Foundation estimates that less than 0.5% of the total amount of TFTs will have been Farmed. The first Farming has been done by over 100 independent Farmers.
+
+Total Max supply of all availble TTFs is 100,000,000,000.
+
 
 ### What is the Token Issuance Mechanism?
 
-There will be no more than 100,000,000,000 TF tokens in existence (Max Supply). No additional TF tokens will ever be generated. Tokens will be tradable on digital currency exchanges subject to applicable regulations by citizenship and/or country of residence. On these exchanges token holders would be free to buy, sell and trade tokens at market prices.
+There will be a maximum of 100,000,000,000 TF tokens in existence (Max Supply). Tokens will be tradable on digital currency exchanges subject to applicable regulations by citizenship and/or country of residence. On these exchanges token holders would be free to buy, sell and trade tokens at market prices.
 
-The distribution of ThreeFold Tokens is as follows:
+All TFT in existence are and will be Farmed:
 
-* ThreeFold Farmers - 98%
-  98,000,000,000 (98 billion) Tokens, or 98% of the Max Supply, are issued to Farmers when they connect capacity to the ThreeFold Grid. The Farmer can sell 1/48 of this amount per month. This means by design each Token available to market is backed by capacity
+Portions of the 100,000,000,000 (100 billion) Tokens, or 100% of the Max Supply, are issued monthly to Farmers when connecting IT Capacity to the ThreeFold Grid. 
 
-* Foundation = Promotion / Marketing - 1%
-  1% of the Max Supply, can be used by the ThreeFold Foundation to sponsor marketing and promotion of the ThreeFold Ecosystem.
+Monthly Issued Tokens (TFTs) per Farming Pool =  average monthly sales price of connected Farming Pool capacity at connection time expressed in tokens / difficulty level
 
-* Technology Creators (gig.tech) & Founders - 0.02% per month
-  Is reserved for the technology creators & TF Founders, max 48 months. Max 20% can be sold per month of total amount of transactions.
+Difficulty level for 2018 is 6. If required the difficulty level can be adjusted with a 80% majority vote of the ThreeFold Ambassadors, by means of the TF Chain.   
 
 
 ### Can I buy TF Tokens if I am in the US am a US citizen?
 
-Yes, you can purchase directly from from either of the first two independent TF Farming Cooperatives Bettertoken BVBA and/or ThreeFold FZC.
+Yes, as a US citizen you can purchase directly from from either of the first two independent TF Farming Cooperatives Bettertoken BVBA and/or ThreeFold FZC.
 
 This is the only way that TFTs can be purchased at this time. 
 
 ### Can I buy TFTs if I am in China or a Chinese citizen?
 
-Not at this time. Legal precedence and rules surrounding Tokens are to unclear in China today and we have thus chosen to avoid for now. 
+Not at this time. Legal precedence and rules surrounding Crytocurrencies are to unclear in China today and we have thus chosen to avoid for now. 
 
 ### On what exchange will the TFTs be listed?
 
-TFTs will be tradable on multiple Crypto Exchanges (anyone supporting ERC20 tokens)
+TFTs will be tradable on multiple Crypto Exchanges which support ERC20 tokens.
 
-### Can I buy TFT with bank transfer?
+### Can I buy TFT using a bank transfer or Bitcoin?
 
-Yes, you can buy TFTs with bank transfers: USD, GBP, EUR, YEN, and CHF at a later date. You can also transfer BTC and/or Ethereum if you prefer.
-
+Yes, you can buy TFTs with bank transfers: USD, GBP, EUR, YEN, and CHF at a later date. You can also purchase using Bitcoin and/or Ethereum if you prefer.
 
 # Guarantees & Safety
 
 ### KYC and AML Procedures
 
-When purchasing TFT from TF Farmers and/or Cooperatives you might be asked to go through a Know Your Client (KYC) and Anti-Money Laundering (AML) review. This is a process of identifying and verifying your true identity for the protection of both you and TF Farmers.
+When purchasing TFT from TF Farmers and/or Cooperatives you might be asked to go through a Know Your Client (KYC) and Anti-Money Laundering (AML) review. This is a process of identifying and verifying your true identity for the protection of all parties invovled.
 
 ### How is the Foundation structured and where is it based?
 
@@ -114,7 +112,7 @@ See our [FOUNDATION FAQ](/faq/foundation-faq).
 
 ### Which blockchain is used? What is the issuing format for the TFT?
 
-The TFT will be issued on Ethereum blockchain as ERC20 compliant Tokens.
+The TFT will be issued on Ethereum blockchain as a ERC20 compliant Token.
 
 ### Where can I find the smart contract code?
 
