@@ -33,7 +33,7 @@ The Foundation’s long term objective is to promote and market the TFT firmly i
 * Support TFTs - aid in its promotion and marketing.
 * Ensure the integrity and security of the TFT.
 
-### Why did we use the word Token vs Coin?
+### Why did we use Token vs Coin?
 
 We use the word “Token” because the TFT is much more than a simple coin. In our view, coins really only have one function - to act as simple stores of value. The TFT represents an economic interest in the TF Grid and is the exclusive payment instrument or currency for which IT capacity can buy bought and sold it the TF Directory service.
 
