@@ -13,25 +13,24 @@ For a list of definitions used see our [definitions document](https://github.com
 
 ### Why buy ThreeFold Tokens (TFTs)?
 
-* Good cause: purchasers are helping build a new neutral edge Internet.
+To purchase the IT Capacity produced by TF Famers, people need to use TFTs as they are the only possible mechanism to buy this capacity on the TF Grid. As such, TFTs have tangible, intrinsic value as they are backed by the internet capacity produced, thus they represent true utility. 
 
-* Demand of the TF Token should only increase due to the expansion of the TF Grid due to every growing maintream use of Blockchain, Cloud Computing and Self Healing Technologies. As the 
-
-* Downside protection and reduced volatility (i.e. Token price less likely to decrease substantially). Our Tokens are given utility by the grid deployed by the Foundation. Our Technology and Grid are already up and running and we believe our Foundation and its assets represent significant value, including sufficient liquidity
-* High quality team with extensive technology and financial experience
-* Existing technology that is very well positioned for Edge networking and outperforms leading technologies in many categories
 
 ### Why do we need a ThreeFold Token?
 
-Decentralized digital currencies are well on the way to full acceptance as a mainstream currency. Benefits include direct peer to peer transactions (requiring no intermediaries such as banks); greater trust (secured by cryptography and mathematics); lower friction charges; faster transaction times and no single point of failure.
 
-Major problems remain, however, such as scalability issues, impossible energy requirements, certain perceived reputational issues and, most importantly, a general absence of intrinsic value collateralized by real assets.
+
+
+
+Decentralized digital currencies have already gone a long way to solving some of the periphery issues surrounding peer to peer transactions; requiring no intermediaries such as banks, greater trust; secured by cryptography and mathematics, lower friction charges, faster transaction times and no single point of failure.
+
+Even so major problems remain, such as difficulty in scalign the  issues, impossible energy requirements, certain perceived reputational issues and, most importantly, a general absence of intrinsic value collateralized by real assets.
 
 We designed our Token as a scalable currency with real utility and intrinsic value rooted in real assets.
 
-### What are the Foundation’s objectives for the TF Token?
+### What are the Foundation’s objectives for the TFT?
 
-The Foundation’s long term objective is to migrate the ThreeFold Token firmly into the mainstream as a payment instrument used to purchase IT and other services. We seek to:
+The Foundation’s long term objective is to migrate the TFT firmly into the mainstream as a payment instrument used to purchase IT and other services. We seek to:
 
 * Create an alternative currency with intrinsic value rooted in real assets.
 * Give our Tokens a designated utility by linking the Token directly to the growth of the Internet.
@@ -85,38 +84,31 @@ The distribution of ThreeFold Tokens is as follows:
 * Technology Creators (gig.tech) & Founders - 0.02% per month
   Is reserved for the technology creators & TF Founders, max 48 months. Max 20% can be sold per month of total amount of transactions.
 
-### How will we maximize liquidity for Token Holders who wish to sell their Tokens?
 
-Our Token is an ERC20 compatible token and you will be able to exchange the token on most exchanges.
+### Can I buy TF Tokens if I am in the US am a US citizen?
 
-Because the Token is used for selling & buying capacity on the threefold network, we create additional liquidity.
+Yes, you can purchase directly from from either of the first two independent TF Farming Cooperatives Bettertoken BVBA and/or ThreeFold FZC.
 
-### Can Token holders just send Tokens to other users of the ThreeFold app?
+This is the only way that TFTs can be purchased at this time. 
 
-Yes.
+### Can I buy TFTs if I am in China or a Chinese citizen?
 
-### On what exchange will the Tokens be listed?
+Not at this time. Legal precedence and rules surrounding Tokens are to unclear in China today and we have thus chosen to avoid for now. 
 
-The Tokens will be tradable on multiple Exchanges (anyone supporting ERC20 tokens)
+### On what exchange will the TFTs be listed?
 
-### Can I buy Tokens with bank transfer?
+TFTs will be tradable on multiple Cryto Exchanges (anyone supporting ERC20 tokens)
 
-Yes, you can buy Tokens with bank transfers. USD, GBP, EUR at first, adding YEN, and CHF at a later date.
-We also allow BTC payments at first, adding ETH at a later date.
+### Can I buy TFT with bank transfer?
 
-### Can I buy Tokens if I am in US or I am a US citizen?
+Yes, you can buy TFTs with bank transfers: USD, GBP, EUR, YEN, and CHF at a later date. You can also transfer BTC and/or Ethereum if you prefer.
 
-Yes, if you are an accredited investor.
-
-### Can I buy Tokens if I am in China or I am a Chinese citizen?
-
-Not defined yet. Rules seem to be unclear at this point.
 
 # Guarantees & Safety
 
 ### KYC and AML Procedures
 
-We take our Know Your Client (KYC) and Anti-Money Laundering (AML) obligations seriously. We employ onboarding protocols and identity management via itsyou.online and our TF app.
+When purchasing TFT from TF Farmers and/or Coorperatives you might be asked to go through a Know Your Client (KYC) and Anti-Money Laundering (AML) review. This is a process of identifying and verifying your true identity for the protection of both you and TF Farmers.
 
 ### How is the Foundation structured and where is it based?
 
@@ -124,13 +116,13 @@ See our [FOUNDATION FAQ](/faq/foundation-faq).
 
 # Technical
 
-### Which blockchain is used? What is the issuing format for the ThreeFold Token?
+### Which blockchain is used? What is the issuing format for the TFT?
 
-Our Tokens will be issued on Ethereum blockchain as ERC20 compliant Tokens.
+The TFT will be issued on Ethereum blockchain as ERC20 compliant Tokens.
 
 ### Where can I find the smart contract code?
 
-The ThreeFold Token Smart Contract will be publicly available prior to our launch in March 2018.
+The TFT Smart Contract will be publicly available prior to our launch in March 2018.
 
 ### Where can I find more technical information
 
