@@ -11,49 +11,46 @@ weight = 4
 
 For a list of definitions used see our [definitions document](https://github.com/threefoldtoken/legal/blob/master/definitions.md).
 
-### Why buy ThreeFold Tokens (TFTs)?
-
-To purchase the IT Capacity produced by TF Famers, people need to use TFTs as they are the only possible mechanism to buy this capacity on the TF Grid. As such, TFTs have tangible, intrinsic value as they are backed by the internet capacity produced, thus they represent true utility. 
-
 
 ### Why do we need a ThreeFold Token?
 
+To purchase the IT Capacity produced by TF Famers, people need to use TFTs as they are the only possible mechanism to buy this capacity on the TF Grid. As such, TFTs have tangible, intrinsic value as they are backed by the internet capacity produced, thus they represent true utility. 
 
+Demand for internet capacity is far outpacing available supply and current hyperscale data center architecture is unable to support the increasing demand.
 
+Data centers compute and store enormous amounts of data and cannot grow fast enough to keep up with the growth of compute and storage demand amid already significant performance and latency issues. IoT workloads require local compute capacity integrated with lots of fast storage capacity. Hyperscale data centers are physically too remote and/or too expensive to do this. Furthermore, governments prefer Internet infrastructure to be “in country”. For most countries Hyperscale data centers are based overseas. This exposes a country's data to third-party intervention. Finally, data centers consume ever more electricity trying to keep up with demand spreading a massive carbon footprint.
 
+Decentralized digital currencies have already gone a long way to solving some of the periphery issues surrounding peer to peer transaction, security, lowering friction charges and faster transaction times and no single point of failure.
 
-Decentralized digital currencies have already gone a long way to solving some of the periphery issues surrounding peer to peer transactions; requiring no intermediaries such as banks, greater trust; secured by cryptography and mathematics, lower friction charges, faster transaction times and no single point of failure.
+The TFT is the driver to providing a practical greener, cost effective and locally distributed solution.
 
-Even so major problems remain, such as difficulty in scalign the  issues, impossible energy requirements, certain perceived reputational issues and, most importantly, a general absence of intrinsic value collateralized by real assets.
+### What are the ThreeFold Foundation’s objectives for the TFT?
 
-We designed our Token as a scalable currency with real utility and intrinsic value rooted in real assets.
-
-### What are the Foundation’s objectives for the TFT?
-
-The Foundation’s long term objective is to migrate the TFT firmly into the mainstream as a payment instrument used to purchase IT and other services. We seek to:
+The Foundation’s long term objective is to promote and market the TFT firmly into the mainstream as a payment instrument used to purchase IT and other services. We seek to:
 
 * Create an alternative currency with intrinsic value rooted in real assets.
-* Give our Tokens a designated utility by linking the Token directly to the growth of the Internet.
-* Support our Tokens - prioritise liquidity, stability, transparency and exchangeability for Token Holders.
-* Ensure the integrity and security of the Tokens for Token Holders.
+* Give TFTs a designated utility by linking the TFTs directly to the growth of the Internet.
+* Support TFTs - aid in its promotion and marketing.
+* Ensure the integrity and security of the TFT.
 
 ### Why did we use the word Token vs Coin?
 
-We use the word “Token” because our Tokens are much more than a simple coin. In our view, coins really only have one function:  to act as simple stores of value. Our Tokens represent an economic interest in our Foundation and is the exclusive payment instrument or currency for which farmers can sell Internet IT capacity via our Directory service.
+We use the word “Token” because the TFT is much more than a simple coin. In our view, coins really only have one function - to act as simple stores of value. The TFT represents an economic interest in the TF Grid and is the exclusive payment instrument or currency for which IT capacity can buy bought and sold it the TF Directory service.
 
-### Is our Token different from other digital currencies?
+### How is the TFT different from other digital currencies?
 
-We designed our Token to be different from other digital currencies in several respects including the following:
+The TFT is designed to be different in several ways:
 
-* Utility. From inception, our Tokens have a specific designated use as the payment currency for buying and selling Internet IT capacity on our Grid.
-* Neutral. Our Foundation is mission- and value-based, has no shareholders and is not owned or controlled by any institution or government.
-* Green. Our blockchain is different - and enables much greater scalability to millions of transactions without requiring outsize energy consumption
-* Secure. Also our blockchain is less vulnerable to large miner consortia controlling hashrates or DDOS and other attacks. All users and nodes are registered on our blockchain-based identity management platform enhancing security and privacy.
+* Utility - From inception, TFTs have a specific designated use as the payment currency for buying and selling IT capacity on the TF Grid.
+* Neutral - There is no central entity, institution or government controlling the TF Grid or issuing TFTs. All TFTs are exclusively issued (created) by the TF Chain for each active Farming Pool which gets and remains connected to the TF Grid.
+* Green -  The IT Capacity purchased with TFTs has greater scalability and greater energy efficiency than any other IT Capacity produced today.
+* Secure - All users and TF Nodes are registered on the TF Chain identity based management platform enhancing security and privacy.
 
-### Why do we say our Token has “utility” and why is this important?
 
-When we talk about “utility”, we mean that our Token has a designated “use” as the exclusive payment currency for buying and selling Internet capacity via our Directory on our Grid.  
-This utility is important because it generates additional demand, diversification, volumes and liquidity for Token Holders. This is an important differentiator for our Token - as digital currencies today generally have limited utility.
+
+### Why do TFTs have “Utility” and why is this important?
+
+To use this IT Capacity, through the TF Grid, people need to own ThreeFold Tokens (“TFTs”) as they are the only possible mechanism to purchase this capacity on the TF Grid. As such, TFTs represent a true utility.
 
 # Tokens
 
@@ -97,7 +94,7 @@ Not at this time. Legal precedence and rules surrounding Tokens are to unclear i
 
 ### On what exchange will the TFTs be listed?
 
-TFTs will be tradable on multiple Cryto Exchanges (anyone supporting ERC20 tokens)
+TFTs will be tradable on multiple Crypto Exchanges (anyone supporting ERC20 tokens)
 
 ### Can I buy TFT with bank transfer?
 
@@ -108,7 +105,7 @@ Yes, you can buy TFTs with bank transfers: USD, GBP, EUR, YEN, and CHF at a late
 
 ### KYC and AML Procedures
 
-When purchasing TFT from TF Farmers and/or Coorperatives you might be asked to go through a Know Your Client (KYC) and Anti-Money Laundering (AML) review. This is a process of identifying and verifying your true identity for the protection of both you and TF Farmers.
+When purchasing TFT from TF Farmers and/or Cooperatives you might be asked to go through a Know Your Client (KYC) and Anti-Money Laundering (AML) review. This is a process of identifying and verifying your true identity for the protection of both you and TF Farmers.
 
 ### How is the Foundation structured and where is it based?
 
