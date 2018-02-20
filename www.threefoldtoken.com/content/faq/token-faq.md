@@ -26,7 +26,7 @@ The TFT together with the TF ecosystem provides a greener more cost effective an
 
 ### What are the ThreeFold Foundation’s objectives for the TFT?
 
-The Foundation will promote and market the The TF Grid and TFT firmly into the mainstream as a payment instrument used to purchase IT and other services. We seek to:
+The ThreeFold Foundation’s objective is to build an ecosystem that brings online a grid of decentralized, distributed, and neutral IT infrastructure and drives the adoption of the TFT as a main currency when purchase such services. The foundation seeks to:
 
 * Create an alternative currency with intrinsic value rooted in real assets.
 * Give TFTs a designated utility by linking the TFTs directly to the growth of the Internet.
