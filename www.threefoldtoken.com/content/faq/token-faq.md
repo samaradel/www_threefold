@@ -73,7 +73,7 @@ There will be a maximum of 100,000,000,000 TF tokens in existence (Max Supply). 
 
 All TFT in existence are and will be Farmed:
 
-Portions of the 100,000,000,000 (100 billion) Tokens, or 100% of the Max Supply, are issued monthly to Farmers when connecting IT Capacity to the ThreeFold Grid. 
+Portions of the 100,000,000,000 (100 billion max supply) Tokens, are issued monthly to Farmers for connecting IT Capacity to the ThreeFold Grid. 
 
 Monthly Issued Tokens (TFTs) per Farming Pool =  average monthly sales price of connected Farming Pool capacity at connection time expressed in tokens / difficulty level
 
