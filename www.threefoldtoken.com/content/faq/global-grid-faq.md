@@ -33,7 +33,7 @@ In contrast, ThreeFold Nodes are decentralised and located very close to capacit
 
 For more on this see [“Why do we need a new Internet” blog post](/information/need-for-new-neutral-internet/).
 
-### What infrastructure is operating on our Grid?
+### What infrastructure is operating on The ThreeFold Grid?
 
 The TF Grid is built using standard off the shelf hardware running the ThreeFold Zero OS operating system. 
 
@@ -45,13 +45,13 @@ The TF Grid is made up of large racks using off-the-shelf hardware components th
 
 ### What is the ThreeFold Directory (TF Directory) service?
 
-The TF Directory publishes global available capacity, services and pricing on our Grid. It running on top of a private) blockchain that publishes all available capacity, services and pricing on our Grid. All capacity that is sold via our Directory must be purchased using our Tokens.
+The TF Directory publishes global available capacity, services and pricing of the TF Grid and runs on top of the ThreeFold Blockchain. All IT capacity that is sold via our Directory must be purchased using our Tokens.
 
 ### When will I be able to use the Grid and Directory Service?
 
-Our Grid is already up and running. At the time of the launch for ThreeFold (March 1st 2018), more than 200 TF Farmers, are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via the TF Directory. All purchases are made with Tokens through an API.
+Our Grid is already up and running. At the time of the launch for ThreeFold (March 1st 2018), more than 200 TF Farmers, are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via the TF Directory. All purchases are made using ThreeFold Tokens through an API.
 
-### What is the value of our Directory for TF Farmer Farmers?
+### What is the value of the TF Directory for ThreeFold Farmers (TF ThreeFold)?
 
 TF Farmer Farmers who generate Internet IT capacity on their own infrastructure can make their capacity available for sale on the TF Directory. Farmers who use the Directory (and therefore accept our Tokens as payment) benefit from marketing and distribution for their capacity (at no extra cost) as well as providing certain and seamless transactions without concerns about currency fluctuations or other factors.
 
