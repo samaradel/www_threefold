@@ -18,7 +18,7 @@ To purchase the IT Capacity produced by TF Famers, people need to use TFTs as th
 
 Demand for internet capacity is far outpacing available supply and current hyperscale data center architecture is unable to support the increasing demand.
 
-Data centers compute and store enormous amounts of data and cannot grow fast enough to keep up with the growth of compute and storage demand amid already significant performance and latency issues. IoT workloads require local compute capacity integrated with lots of fast storage capacity. Hyperscale data centers are physically too remote and/or too expensive to do this. Furthermore, governments prefer Internet infrastructure to be “in country”. For most countries Hyperscale data centers are based overseas. This exposes a country's data to third-party intervention. Finally, data centers consume ever more electricity trying to keep up with demand spreading a massive carbon footprint.
+Data centers compute and store enormous amounts of data and cannot grow fast enough to keep up with the growth of compute and storage demand amid already significant performance and latency issues. IoT workloads require local compute capacity integrated with lots of fast storage capacity. Hyperscale data centers are physically too remote and/or too expensive to do this. Furthermore, governments prefer Internet infrastructure to be “in country”. For most countries hyperscale data centers are based overseas. This exposes a country's data to third-party intervention. Finally, data centers consume ever more electricity trying to keep up with demand spreading a massive carbon footprint.
 
 Decentralized digital currencies have already gone a long way to solving some of the periphery issues surrounding peer to peer transaction, security, lowering friction charges and faster transaction times and no single point of failure.
 
@@ -30,12 +30,12 @@ The Foundation’s long term objective is to promote and market the TFT firmly i
 
 * Create an alternative currency with intrinsic value rooted in real assets.
 * Give TFTs a designated utility by linking the TFTs directly to the growth of the Internet.
-* Support TFTs - aid in its promotion and marketing.
+* Support TFTs - aid in the promotion and marketing of the TF Grid.
 * Ensure the integrity and security of the TFT.
 
 ### Why did we use Token vs Coin?
 
-We use the word “Token” because the TFT is much more than a simple coin. In our view, coins really only have one function - to act as simple stores of value. The TFT represents an economic interest in the TF Grid and is the exclusive payment instrument or currency for which IT capacity can buy bought and sold it the TF Directory service.
+We use the word “Token” because the TFT is much more than a simple coin. In our view, coins really only have one function - to act as stores of value. The TFT represents an economic interest in the TF Grid and is the exclusive payment instrument or currency for which IT capacity can buy bought and sold in the TF Directory service.
 
 ### How is the TFT different from other digital currencies?
 
