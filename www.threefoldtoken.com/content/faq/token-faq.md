@@ -22,11 +22,11 @@ Data centers compute and store enormous amounts of data and cannot grow fast eno
 
 Decentralized digital currencies have already gone a long way to solving some of the periphery issues surrounding peer to peer transaction, security, lowering friction charges and faster transaction times and no single point of failure.
 
-The TFT is the driver to providing a practical greener, cost effective and locally distributed solution.
+The TFT together with the TF ecosystem provides a greener more cost effective and locally distributed solution.
 
 ### What are the ThreeFold Foundation’s objectives for the TFT?
 
-The Foundation’s long term objective is to promote and market the TFT firmly into the mainstream as a payment instrument used to purchase IT and other services. We seek to:
+The Foundation will promote and market the The TF Grid and TFT firmly into the mainstream as a payment instrument used to purchase IT and other services. We seek to:
 
 * Create an alternative currency with intrinsic value rooted in real assets.
 * Give TFTs a designated utility by linking the TFTs directly to the growth of the Internet.
@@ -45,7 +45,6 @@ The TFT is designed to be different in several ways:
 * Neutral - There is no central entity, institution or government controlling the TF Grid or issuing TFTs. All TFTs are exclusively issued (created) by the TF Chain for each active Farming Pool which gets and remains connected to the TF Grid.
 * Green -  The IT Capacity purchased with TFTs has greater scalability and greater energy efficiency than any other IT Capacity produced today.
 * Secure - All users and TF Nodes are registered on the TF Chain identity based management platform enhancing security and privacy.
-
 
 
 ### Why do TFTs have “Utility” and why is this important?
