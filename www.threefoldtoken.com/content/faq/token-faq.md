@@ -11,14 +11,12 @@ weight = 4
 
 For a list of definitions used see our [definitions document](https://github.com/threefoldtoken/legal/blob/master/definitions.md).
 
-### Why should I buy ThreeFold Tokens (TFTs)?
-
-The reasons for people to buy Tokens include the following:
-
-
+### Why buy ThreeFold Tokens (TFTs)?
 
 * Good cause: purchasers are helping build a new neutral edge Internet.
-* Potential upside: ThreeFold sits at the intersection of three of today’s most important technologies - Blockchain, Cloud Computing and Self Healing Technology, and we believe that as our global Grid expands and the capacity available for sale grows, the demand for our Tokens will increase.
+
+* Demand of the TF Token should only increase due to the expansion of the TF Grid due to every growing maintream use of Blockchain, Cloud Computing and Self Healing Technologies. As the 
+
 * Downside protection and reduced volatility (i.e. Token price less likely to decrease substantially). Our Tokens are given utility by the grid deployed by the Foundation. Our Technology and Grid are already up and running and we believe our Foundation and its assets represent significant value, including sufficient liquidity
 * High quality team with extensive technology and financial experience
 * Existing technology that is very well positioned for Edge networking and outperforms leading technologies in many categories
