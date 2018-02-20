@@ -15,15 +15,17 @@ For a list of definitions used see our [definitions document](https://github.com
 
 The reasons for people to buy Tokens include the following:
 
+
+
 * Good cause: purchasers are helping build a new neutral edge Internet.
 * Potential upside: ThreeFold sits at the intersection of three of today’s most important technologies - Blockchain, Cloud Computing and Self Healing Technology, and we believe that as our global Grid expands and the capacity available for sale grows, the demand for our Tokens will increase.
-* Downside Protection and reduced volatility (i.e. Token price less likely to decrease substantially). Our Tokens are given utility by the grid deployed by the Foundation. Our Technology and Grid are already up and running and we believe our Foundation and its assets represent significant value, including sufficient liquidity
+* Downside protection and reduced volatility (i.e. Token price less likely to decrease substantially). Our Tokens are given utility by the grid deployed by the Foundation. Our Technology and Grid are already up and running and we believe our Foundation and its assets represent significant value, including sufficient liquidity
 * High quality team with extensive technology and financial experience
 * Existing technology that is very well positioned for Edge networking and outperforms leading technologies in many categories
 
 ### Why do we need a ThreeFold Token?
 
-Decentralized digital currencies are well on the way to full acceptance as a mainstream currency in the future. Benefits include direct peer to peer transactions (requiring no intermediaries such as banks); greater trust (secured by cryptography and mathematics); lower friction charges; faster transaction times and no single point of failure.
+Decentralized digital currencies are well on the way to full acceptance as a mainstream currency. Benefits include direct peer to peer transactions (requiring no intermediaries such as banks); greater trust (secured by cryptography and mathematics); lower friction charges; faster transaction times and no single point of failure.
 
 Major problems remain, however, such as scalability issues, impossible energy requirements, certain perceived reputational issues and, most importantly, a general absence of intrinsic value collateralized by real assets.
 
