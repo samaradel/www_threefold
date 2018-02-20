@@ -25,23 +25,27 @@ The TF Grid is a network of all distributed infrastructure capacity that is avai
 
 Please see [homepage](/), for a map showing the availablity of the TF Grid capacity.
 
-### How is our Grid different from existing IT infrastructure?
+### How is the TF Grid different from existing IT infrastructure?
 
-We have a hyper-distributed Edge network - our nodes are located very close to capacity users. Our network is neutral, very green and very secure. We believe the internet should be owned by the people using it - not enormous companies. This is very different from the majority of Internet infrastructure which is centralised and owned by large billion dollar datacenters.
+The TF Grid is a hyper-distributed Edge network - Unlike the majority of Internet infrastructure today, which are located in corporately own centralised, resourse intensive, billion dollar datacenters. We believe the internet should be owned by the people using it - not enormous profit driven companies. 
+
+In contrast, ThreeFold Nodes are decentralised and located very close to capacity users. The TF Grid is neutral, green and secure. 
 
 For more on this see [“Why do we need a new Internet” blog post](/information/need-for-new-neutral-internet/).
 
 ### What infrastructure is operating on our Grid?
 
-Our Grid today is built by standard of the shelf infrastructure and operated our Zero OS operating system. The grid contains a mix of large racks using off-the-shelf components that are typically located in data centers - as well as pre-fabricated smaller / mobile for hyperdistributed Zero-Nodes.
+The TF Grid is built using standard off the shelf hardware running the ThreeFold Zero OS operating system. 
+
+The TF Grid is made up of large racks using off-the-shelf hardware components that are typically located in data centers - as well as pre-fabricated smaller / mobile boxes for hyperdistribution called ThreeFold Zero-Nodes.
 
 [Read more in our Zero-Node blog](/information/magical-zero-node/)
 
-## Our Directory
+## ThreeFold Directory
 
-### What is our Directory service?
+### What is the ThreeFold Directory (TF Directory) service?
 
-Our directory service (TF Directory) is a global directory service running on top of a (private) blockchain that publishes all available capacity, services and pricing on our Grid. All capacity that is sold via our Directory must be purchased using our Tokens.
+The TF Directory publishes global available capacity, services and pricing on our Grid. It running on top of a private) blockchain that publishes all available capacity, services and pricing on our Grid. All capacity that is sold via our Directory must be purchased using our Tokens.
 
 ### When will I be able to use the Grid and Directory Service?
 
