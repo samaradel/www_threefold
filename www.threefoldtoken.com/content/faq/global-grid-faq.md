@@ -13,17 +13,17 @@ For a list of definitions used see our [definitions document](https://github.com
 
 ### Why do we need a new, neutral “Edge” Internet Grid
 
-The Internet has a Trillion Dollar problem. Today the demand for Internet capacity is far outstripping the available infrastructure due to new applications like Big Data, Internet of Things (IoT) and Self Healing Technology.
+The Internet is heading for a trillion dollar problem. Today the demand for Internet capacity is far outstripping the available infrastructure due to new applications like Big Data, Internet of Things (IoT) and Self Healing Technology.
 
-The existing hyperscale cloud infrastructure cannot cope with this outsized demand as the requirements for land, power and funding are just too great. We (and most other experts) believe the solution to these trillion dollar problems is migration of IT capacity to the Edge - ie a “hyper-distributed” network infrastructure.
+Existing hyperscale cloud infrastructure cannot cope with this outsized demand as the requirements for land, power and funding are just too great. We (and most other experts) believe the solution to these trillion dollar problems is migration of IT capacity to the Edge - to a “hyper-distributed” network infrastructure.
 
 For more on this see [“Why do we need a new Internet” blog post](/information/need-for-new-neutral-internet/).
 
-### What is our TF Grid (TFG)?
+### What is the ThreeFold Grid (TF Grid)?
 
-Our Grid is the network of all the distributed infrastructure capacity that is available for sale via our Directory (TF Directory).
+The TF Grid is a network of all distributed infrastructure capacity that is available for purchase on the ThreeFold Directory (TF Directory).
 
-At the bottom of our [homepage](/), you can see a map which shows how much capacity is available.
+Please see [homepage](/), for a map showing the availablity of the TF Grid capacity.
 
 ### How is our Grid different from existing IT infrastructure?
 
