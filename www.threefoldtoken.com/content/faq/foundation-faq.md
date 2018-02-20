@@ -7,23 +7,23 @@ subtitle = ""
 weight = 5
 +++
 
-## What are the objectives of the Foundation?
+## What are the objectives of the ThreeFold Foundation?
 
 For a list of definitions used see our [definitions document](https://github.com/threefoldtoken/legal/blob/master/definitions.md).
 
-The Foundation’s long term objective is to migrate our Token firmly into the mainstream as a currency used to purchase IT and other services.
+The ThreeFold Foundation’s long term objective is to build an ecosystem that brings online a grid of decentralized, distributed, and neutral IT infrastructure (TF Grid) and drives the adoption of the ThreeFold Token (TFT) as the defacto currency to purchase such services. 
 
-The ThreeFold Foundation, a transparent tokenized organization with three primary objectives:
+The ThreeFold Foundation, a transparent, tokenized organization has three primary objectives:
 
-* Using our Token to build a new, neutral, “Edge” Internet,
-* Creating a digital currency with real utility rooted in real assets and
-* Empowering our Token Holders to work alongside us
+* Create a digital currency with real utility rooted in real assets
+* Use the ThreeFold Token to build a new, neutral, “Edge” Internet
+* Empower Token holders to work alongside us.
 
 ## What is the Corporate Structure of the Foundation?
 
-The Foundation is structured as a Dutch Antilles Stichting based in Curaçao. Our legal & financial structure has been set up by "Orrick, Herrington & Sutcliffe", one of the leading law firms in the world.
+The Foundation is structured as a Dutch Antilles Stichting based in Curaçao. Our legal and financial structure has been set up by "Orrick, Herrington & Sutcliffe", one of the leading law firms in the world.
 
-The Foundation is governed and represented by its Boards of Directors. The Boards ensure that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders. There are is also a self-governing Board of Ambassadors, which will be consulted on any major decisions.
+The Foundation is governed and represented by its Boards of Directors. The board ensures that the Foundation’s activities are aligned with its stated purpose and benefit the Token Holders. There are is also a self-governing Board of Ambassadors, which will be consulted on any major decisions.
 
 ## Who owns the Foundation?
 
