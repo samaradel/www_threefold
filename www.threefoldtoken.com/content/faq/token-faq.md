@@ -14,7 +14,7 @@ For a list of definitions used see our [definitions document](https://github.com
 
 ### Why do we need a ThreeFold Token?
 
-To purchase the IT Capacity produced by TF Famers, people need to use TFTs as they are the only possible mechanism to buy this capacity on the TF Grid. As such, TFTs have tangible, intrinsic value as they are backed by the internet capacity produced, thus they represent true utility. 
+To purchase the IT Capacity produced by TF Famers, people need to use TFTs as they are the only possible mechanism to buy this capacity on the TF Grid. As such, TFTs have tangible, intrinsic value as they are backed by the internet capacity produced, thus they represent true utility.
 
 Demand for internet capacity is far outpacing available supply and current hyperscale data center architecture is unable to support the increasing demand.
 
@@ -73,7 +73,7 @@ There will be a maximum of 100,000,000,000 TF tokens in existence (Max Supply). 
 
 All TFT in existence are and will be Farmed:
 
-Portions of the 100,000,000,000 (100 billion max supply) Tokens, are issued monthly to Farmers for connecting IT Capacity to the ThreeFold Grid. 
+Portions of the 100,000,000,000 (100 billion max supply) Tokens, are issued monthly to Farmers for connecting IT Capacity to the ThreeFold Grid.
 
 Monthly Issued Tokens (TFTs) per Farming Pool =  average monthly sales price of connected Farming Pool capacity at connection time expressed in tokens / difficulty level
 
@@ -84,15 +84,15 @@ Difficulty level for 2018 is 6. If required the difficulty level can be adjusted
 
 Yes, as a US citizen you can purchase directly from from either of the first two independent TF Farming Cooperatives Bettertoken BVBA and/or ThreeFold FZC.
 
-This is the only way that TFTs can be purchased at this time. 
+This is the only way that TFTs can be purchased at this time.
 
 ### Can I buy TFTs if I am in China or a Chinese citizen?
 
-Not at this time. Legal precedence and rules surrounding Crytocurrencies are to unclear in China today and we have thus chosen to avoid for now. 
+Not at this time. Legal precedence and rules surrounding Crytocurrencies are to unclear in China today and we have thus chosen to avoid for now.
 
 ### On what exchange will the TFTs be listed?
 
-TFTs will be tradable on multiple Crypto Exchanges which support ERC20 tokens.
+TFTs will be tradable on a fully decentralized exchange where you can trade TFT's for BTC and ETH.
 
 ### Can I buy TFT using a bank transfer or Bitcoin?
 
@@ -112,7 +112,7 @@ See our [FOUNDATION FAQ](/faq/foundation-faq).
 
 ### Which blockchain is used? What is the issuing format for the TFT?
 
-The TFT will be issued on Ethereum blockchain as a ERC20 compliant Token.
+The TFT tokens will be issued on TF-Chain a blockchain setup for the TFT-foundation using the open source technology Rivine.io developed at GIG.tech.
 
 ### Where can I find the smart contract code?
 

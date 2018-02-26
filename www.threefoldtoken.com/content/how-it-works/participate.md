@@ -7,7 +7,7 @@ weight = 8
 +++
 # How To Get Tokens
 
-Buy tokens from public exchanges, our tokens are ERC20 compatible tokens.
+Trading tokens will be done through a fully decentralized exchange which allows trading TFT's for BTC and ETH.
 
 You can become a farmer by hosting TF Nodes to help the network grow fast.
 
