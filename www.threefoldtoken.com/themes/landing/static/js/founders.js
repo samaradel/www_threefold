@@ -43,7 +43,7 @@ $(function () {
                 var dataCol = $("<div>").addClass('col-sm-8');
                 var close = $('<div>').addClass('close-bio').text('x');
 
-                if (details[i].core && details[i].rank > 0) {
+                if (details[i].core == "threefold" && details[i].rank > 0) {
                     div.append(imgCol);
                     imgCol.append($("<img/>").prop("src", "../avatars/" + encodeURIComponent(details[i].avatar)));
                     div.append(dataCol);
@@ -86,7 +86,7 @@ $(function () {
         })
     }
 
-    $("#founders").append(render(team));
+    $("#threefold").append(render(team));
     // toggleBio();
     // unselectDiv();
     // activateTeamFilter();
