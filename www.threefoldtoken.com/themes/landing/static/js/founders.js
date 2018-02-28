@@ -87,7 +87,7 @@ $(function () {
     }
 
     $("#threefold").append(render(team));
-    // toggleBio();
-    // unselectDiv();
-    // activateTeamFilter();
+    toggleBio();
+    unselectDiv();
+    activateTeamFilter();
 });
