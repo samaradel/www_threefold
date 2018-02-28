@@ -45,8 +45,8 @@ To add pdf just upload it in [/pdf](https://docs.grid.tf/threefold/www_threefold
 
 if you need to add person at community page follow this link
 [community](https://docs.grid.tf/threefold/www_threefold/src/branch/master/www.threefoldtoken.com/data/content/community)
-- put the pictures at avatar 
-- update data at ambassadors.toml or hosters.toml, operators.toml
+- put the picture at avatar 
+- update data at ambassadors.toml or hosters.toml, operators.toml (make sure to use the right filename to point to your picture)
 
 update will show up at [Staging](http://threefold2.aydo.com:4040/community/) after 1 minut ,it will appear at production environment after merge master>production.
 

@@ -42,7 +42,7 @@ $(function () {
                 var dataCol = $("<div>").addClass('col-sm-9');
                 var close = $('<div>').addClass('close-bio').text('x');
 
-                if (details[i].core == "gig" && details[i].rank > 0) {
+                if (details[i].core == "gig" && details[i].rank > 0 || details[i].login == "despiegk") {
                     div.append(imgCol);
                     imgCol.append($("<img/>").prop("src", "../avatars/" + encodeURIComponent(details[i].avatar)));
                     div.append(dataCol);

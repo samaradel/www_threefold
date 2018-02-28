@@ -4,10 +4,10 @@
 title = "community"
 ambassadors_header = "ThreeFold Ambassadors."
 ambassadors_sub = "The first Ambassadors are people who are supporting us on the journey to a better world. Each of them believes in the values and mission of TF. They are proud Token holders and have all a value add network."
-ambassadors_sub2 = "Together these 30 people serve on our community board driving the Foundation forward."
+ambassadors_sub2 = "Together these people serve on our community board driving the Foundation forward."
 
 hosters_header = "ThreeFold Individual Farmers."
-hosters_sub = "The TF Farmers are the first 200 individual TF Farmers putting capacity on the Grid. Each of them believes in the TF-mission, and they want to help to make this dream reality."
+hosters_sub = "The TF Farmers are the first individuals TF Farmers putting capacity on the Grid. Each of them believes in the TF-mission, and they want to help to make this dream reality."
 hosters_sub2 = "Each of them put at least 1TB of storage and 4 logical CPU cores of computing capacity onto the Grid."
 
 ops_header = "ThreeFold Commercial Farmers."
