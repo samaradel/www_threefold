@@ -11,29 +11,29 @@ weight = 8
 
 ### How does ThreeFold achieve the efficient power usage in the Zero-OS node
 
-Today global Internet infrastructure requires enormous amounts of energy - well north of the entire annual electricity consumption of the United Kingdom - ranking among the more pollutive industries globally (similar to airlines!)
+Today, global Internet and IT infrastructure requires enormous amounts of energy well north of the entire annual electricity consumption of the United Kingdom and rankes among the more pollutive industries globally (similar to airlines).
 
-We believe IT can do a lot better - in fact we believe we can reduce the Internet’s carbon footprint by 10 times compared to other industry standard IT capacity producing solutions.
+We believe IT can do a lot better. In fact, we believe we can reduce the Internet’s carbon footprint by 10 times compared to other industry standard IT capacity producing solutions.
 
 Power consumption is a function of better compute and storage performance requiring more racks and more cooling.
 
-Our solutions achieve roughly 3 times the performance per rack (so we use fewer racks) - and the racks require less energy than typical racks in the industry :-) for storage upto 10x benefit can be achieved.
+Our solutions achieve roughly 3 times the performance per rack (so we use fewer racks), and the racks require less energy than typical racks in the industry. For storage, we can achieve up to a 10x power saving. 
 
 
 ### Less = More
 
 
-#### Eliminate layers of complexity - Keep it Simple.
+#### Keep it simple by eliminating layers of complexity
 
-Over time integration suites, middleware solutions, enterprise service buses have been invented and implemented to cover integration challenges. This has overly complicated IT architectures and is resulting in loss of actual end user workload performance. By eliminating layers of complexity the resulting cloud stack presents minimal overhead and therefore requires less hardware - resulting in lower heat generation requiring less cooling facility. By producing less power the net results is a factor of 2 to 5 of total energy consumption decrease.
+Over time, integration suites, middleware solutions, enterprise service buses have been invented and implemented to cover integration challenges. This has overly complicated IT architectures and is resulting in loss of actual end user workload performance. By eliminating layers of complexity the resulting cloud stack presents minimal overhead and therefore requires less hardware which results in lower heat generation requiring less cooling. By producing less power, the net results is a total energy consumption decrease by a factor of 2 to 5.
 
-#### Self Healing
+#### Self-Healing
 
-Keeping things up and running is a business model in modern day IT.  Major vendors earn most of their margin by selling maintenance contracts, performance guarantees and professional services. Therefore there is no incentive to make things simple and effective. Creating a self healing environment requires minimal manual intervention to replace broken hardware components. Broken hardware components are inevitable and the Zero-OS distributed node architecture deals with hardware failures by turning off broken components and provisions unused capacity. Not shipping broken parts back and forth with the corresponding installation knowledge (=engineers) means a much smaller carbon emission footprint.
+Keeping things up and running is a business model in modern day IT.  Major vendors earn most of their margin by selling maintenance contracts, performance guarantees, and professional services. Given their business model, there is little to no incentive to make things simple and effective. Creating a self-healing environment requires minimal manual intervention to replace broken hardware components. Broken hardware components are inevitable, and the Zero-OS distributed node architecture deals with hardware failures by turning off broken components and provisioning unused capacity. Not having to ship broken parts back and forth with the corresponding installation knowledge (engineers) means a much smaller carbon emission footprint.
 
 #### “No painkiller” approach
 
-Do not cut corners. If a specific piece of software or hardware is not delivering the required  performance or reliability look at the core design / algorithm and its usage of soft / hard components. Do not follow the path of least resistance and start swapping components for faster ones - look for the root cause and innovate on that. This has been used a lot by storage vendors to improve on performance - if performance is not met letś use a faster component (CPU, Memory, Network card, proprietary acceleration). This eliminates the need to actually look at the core algorithms and innovate on it but make you rely on other companies innovation to achieve higher performance.
+If a specific piece of software or hardware is not delivering the required performance or reliability, we should analyze the core design/algorithm and its usage of soft/hard components. We should not follow the path of least resistance and start swapping components for faster ones. This just perpetuates a cycle of cutting corners, and instead, we should look for the root cause of persistent issues and innovate on that. This has been used a lot by storage vendors to improve on performance - if performance is not met letś use a faster component (CPU, Memory, Network card, proprietary acceleration). This eliminates the need to actually look at the core algorithms and innovate on it but make you rely on other companies innovation to achieve higher performance.
 
 By using these three principles the  Zero-OS node has got a minimal footprint in terms of power consumption. Some key examples how this is achieved:
 
