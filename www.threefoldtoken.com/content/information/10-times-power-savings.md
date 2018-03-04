@@ -43,14 +43,12 @@ Virtualization adds layer of software between the actual end-user workload and p
 
 #### Minimise the use of network connections
 
-Supercomputing delivered the world a large number of new technologies. Not all of them present very usable solutions for everyday workloads. One technology invented to make supercomputers powerful (fast) is the use of Remote Direct Memory Access (RDMA).  RDMA allowed physical CPU boards (containing both CPUs and memory) to access other CPU boards in memory stored data over a dedicated channel. This eliminated the need to transport data between CPU nodes over for network connections (or other mainstream means to exchange data). 
+Supercomputing delivered the world a large number of new technologies. Not all of them present very usable solutions for everyday workloads. One technology invented to make supercomputers powerful (fast) is the use of Remote Direct Memory Access (RDMA).  RDMA allowed physical CPU boards (containing both CPUs and memory) to access other CPU boards in memory stored data over a dedicated channel. This eliminated the need to transport data between CPU nodes over for network connections (or other mainstream means to exchange data). The result of this is that a lot less overhead was created to allow for distributed end user workloads to operate over multiple physical cores. The leading brands of server and storage solution have never considered nor implemented these mechanisms which has increased the need for faster and faster networks - increasing complexity, cost, effort and resources needed to operate the solution.
 
-The result of this is that a lot less overhead was created to allow for distributed end user workloads to operate over multiple physical cores. The leading brands of server and storage solution have never considered nor implemented this mechanisms increasing the need for faster and faster networks - increasing complexity, cost, effort and resources needed to operate the solution.
-
-By using a different, more efficient means to exchange data between physical CPU units does no longer requires forests of switching gear.
+By using a different, more efficient means to exchange data between physical CPU units, we no longer require forests of switching gear.
 
 #### Minimise the use of number of disks
 
-The storage solution uses slow and big - the bigger the better - HDD disks which drive in rack density and as they spin slower they consume less power and need less cooling. But you might say how can you deal with read/write intensive workloads? The storage algorithm uses a SSD cache to acknowledge I/O coming from the application, fills the erasure coded data blocks in large up to 64MB storage containers and writes these big chunks of data on the big and slow HHDs. If you are familiar with what HDD disks you know they like to be streamed on instead of a ton of small bits in scratchy way.
+The storage solution uses slow and big - the bigger the better - HDD disks which drive in rack density and as they spin slower they consume less power and need less cooling. How can you deal with read/write intensive workloads then? The storage algorithm uses a SSD cache to acknowledge I/O coming from the application, fills the erasure coded data blocks in large up to 64MB storage containers and writes these big chunks of data on the big and slow HHDs. If you are familiar with HDD disks, you know they like to be streamed on instead of a ton of small bits in scratchy way.
 
 Continuous innovation in all of these areas have lead to a very efficient technology stack.
