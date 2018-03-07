@@ -5,7 +5,7 @@ title = "pricing"
 
 weight = 7
 +++
-Starting March 1 you can buy ThreeFold Tokens.
+Starting end of March 2018 you can buy ThreeFold Tokens.
 
 Each Token represents Internet capacity.
 
