@@ -6,7 +6,7 @@
 
 ## Scrum Details for Web Team
 
-* Development team is lead by @hassane and backed by @adelsamar
+* Development team is lead by @hassane and backed by @adels
 * ALL COMMUNICATION is handled through the issues in gogs
 * EVERY ACTIVITY and certainly BLOCKERS are reported in in the gogs issues
 
