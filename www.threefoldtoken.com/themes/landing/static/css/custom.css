@@ -216,20 +216,9 @@ a {
     margin-left: 5px;
 }
 
-.fa-telegram-plane,
-.fa-youtube,
-.fa-linkedin-in {
-    background-color: #0088cc;
-    color: #fff;
-    padding: 5px;
-}
-
-.fa-youtube {
-    background-color: #ff0000;
-}
-
-.fa-linkedin-in {
-    background-color: #0077b5;
+.footer .media img a {
+    height: 25px;
+    width: 25px;
 }
 
 .list,
