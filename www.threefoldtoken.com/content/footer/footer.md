@@ -9,4 +9,4 @@ youtube_img = "/img/YT.png"
 linkedin = "https://www.linkedin.com/company/13594159/"
 linkedin_img = "/img/LI.png"
 +++
-All rights reserved © We practice [Ethical Design.](https://ind.ie) [Privacy.](/privacy-policy)
+All rights reserved © - We Practice [Ethical Design](https://ind.ie) - [Privacy Policy](/privacy-policy)
