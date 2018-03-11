@@ -1,5 +1,5 @@
-{{ range $element := $.Site.Pages }} 
-  {{ if eq .Section "header" }} 
+{{ range $element := $.Site.Pages }}
+  {{ if eq .Section "header" }}
     {{ if eq .Title "header" }}
 
       <div class="logo-container">
@@ -51,7 +51,7 @@
               <ul class="nav navbar-nav navbar-right social">
                 <li>
                   <a href="{{ .Params.telegram }}">
-                    <img src="{{ .Params.telegram_img }}" style="height: 25px; width: 25px;" alt="ThreeFoldToken Telegram">
+                    <img src="{{ .Params.telegram_img }}" alt="ThreeFoldToken Telegram">
                   </a>
                 </li>
                 <li>
@@ -77,13 +77,13 @@
         </div>
         <div class="col-xs-12 col-sm-5">
           <div class="my-test">
-            <video class="video-right" width="100%" controls />
+            <video class="video-right" poster="/img/video-image.jpg" width="100%" controls />
             <source src="/video/t_video6292032960136740910.mp4" type="video/mp4">
             <!--Browser does not support <video> tag -->
             </video>
           </div>
         </div>
       </section>
-    {{end}} 
-  {{end}} 
+    {{end}}
+  {{end}}
 {{end}}
