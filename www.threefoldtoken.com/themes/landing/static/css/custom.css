@@ -144,7 +144,7 @@ header .nav {
 
 .nav {
 
-    padding-right:77px;
+    padding-right:49px;
 }
 
 .nav>li>a:hover {
@@ -1388,6 +1388,29 @@ dataCenters p {
 }
 
 .contribute a:hover {
+    color: #1d1d1d;
+    background-color: #fff;
+}
+
+.more-video a {
+    display: inline-block;
+    padding: 14px 34px;
+    font-size: 12px;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: .24em;
+    border: 2px solid #fff;
+    background-color: transparent;
+    border-radius: 3px;
+    -webkit-transition: 0.1s background-color linear, 0.1s color linear;
+    -moz-transition: 0.1s background-color linear, 0.1s color linear;
+    -o-transition: 0.1s background-color linear, 0.1s color linear;
+    transition: 0.1s background-color linear, 0.1s color linear;
+    margin: 20px auto;
+}
+
+.more-video a:hover {
     color: #1d1d1d;
     background-color: #fff;
 }
