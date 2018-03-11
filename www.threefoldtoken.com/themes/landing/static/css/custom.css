@@ -277,8 +277,13 @@ a {
     font-weight: bold
 }
 
+.my-test{
+  margin-top: 70px;
+  padding-top:10px;
+
+}
 .header {
-    background: url(/img/download.png) no-repeat center;
+
     height: 345px;
     min-height: calc(50vh - 96px);
     position: relative
