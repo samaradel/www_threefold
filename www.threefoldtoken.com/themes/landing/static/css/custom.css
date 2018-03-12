@@ -82,7 +82,7 @@ header,
 }
 
 .Site-inner {
-    min-height: 133px;
+    min-height: 827px;
     margin-left: 0;
     margin-right: 0;
     padding-top: 30px;
@@ -143,8 +143,7 @@ header .nav {
 }
 
 .nav {
-
-    padding-right:49px;
+    padding-right: 49px;
 }
 
 .nav>li>a:hover {
@@ -278,13 +277,11 @@ a {
     font-weight: bold
 }
 
-.my-test{
-  margin-top: 80px;
-
-
+.my-test {
+    margin-top: 80px;
 }
-.header {
 
+.header {
     height: 345px;
     min-height: calc(50vh - 96px);
     position: relative
@@ -1305,8 +1302,8 @@ dataCenters p {
     padding: 60px 0;
 }
 
-.social-li{
-  margin-right:-14px;
+.social-li {
+    margin-right: -14px;
 }
 
 .contribute h1,
@@ -1354,6 +1351,10 @@ dataCenters p {
     overflow: hidden;
 }
 
+.app {
+    padding: 125px 0;
+}
+
 /* contribute */
 
 .contribute {
@@ -1374,7 +1375,8 @@ dataCenters p {
     margin: 20px auto;
 }
 
-.contribute a, .cooperative a {
+.contribute a,
+.cooperative a {
     display: inline-block;
     padding: 21px 34px;
     font-size: 12px;
@@ -1392,7 +1394,8 @@ dataCenters p {
     margin: 20px auto;
 }
 
-.contribute a:hover, .cooperative a:hover {
+.contribute a:hover,
+.cooperative a:hover {
     color: #1d1d1d;
     background-color: #fff;
 }
