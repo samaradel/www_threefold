@@ -1822,7 +1822,7 @@ dataCenters p {
     h1,
     h2,
     .sol-details h1 {
-        font-size: 100%;
+        /* font-size: 100%; */
         font-weight: 600;
     }
     .sqs-block-button-element--medium {
@@ -1875,7 +1875,7 @@ dataCenters p {
     }
 
     .header{
-         height: 480px;
+         height: 510px;
     }
     .open-source{
           overflow: visible;
