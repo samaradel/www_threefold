@@ -279,7 +279,7 @@ a {
 }
 
 .my-test{
-  margin-top: 70px;
+  margin-top: 80px;
 
 
 }
@@ -326,7 +326,7 @@ a {
 }
 
 .header .introWords {
-    margin-top: 70px;
+    margin-top: 80px;
     float: left
 }
 
@@ -427,7 +427,8 @@ a {
 #nav.affix {
     left: 0;
     z-index: 999;
-    padding-right: 0;
+    padding-right: 21%;
+    padding-left: 17%;
     box-shadow: 0 7px 7px 0 rgba(0, 0, 0, .15);
     position: fixed;
     top: 0;
@@ -1304,6 +1305,10 @@ dataCenters p {
     padding: 60px 0;
 }
 
+.social-li{
+  margin-right:-14px;
+}
+
 .contribute h1,
 .contribute h2 {
     color: #fff;
@@ -1415,6 +1420,10 @@ dataCenters p {
     background-color: #fff;
 }
 
+.navbar-right social{
+
+
+}
 .content-home {
     padding-bottom: 30px;
 }

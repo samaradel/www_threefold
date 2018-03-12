@@ -49,22 +49,22 @@
               </ul>
 
               <ul class="nav navbar-nav navbar-right social">
-                <li>
+                <li class="social-li">
                   <a href="{{ .Params.telegram }}">
                     <img src="{{ .Params.telegram_img }}" alt="ThreeFoldToken Telegram">
                   </a>
                 </li>
-                <li>
+                <li class="social-li">
                   <a href="{{ .Params.youtube }}">
                     <img src="{{ .Params.youtube_img }}" alt="ThreeFoldToken Youtube">
                   </a>
                 </li>
-                <li>
+                <li class="social-li">
                   <a href="{{ .Params.linkedin }}">
                     <img src="{{ .Params.linkedin_img }}" alt="ThreeFoldToken LinkedIn">
                   </a>
                 </li>
-                <li>
+                <li class="social-li">
                   <a href="{{ .Params.facebook }}">
                     <img src="{{ .Params.facebook_img }}" alt="ThreeFoldToken facebook">
                   </a>
@@ -86,12 +86,13 @@
         </div>
         <div class="col-xs-12 col-sm-5">
           <div class="my-test">
-            <video class="video-right" poster="/img/video-image.jpg" width="100%" controls />
+            <video class="video-right" poster="/img/video-image.jpg" width="100%" controls>
             <source src="/video/t_video6292032960136740910.mp4" type="video/mp4">
             <!--Browser does not support <video> tag -->
             </video>
           </div>
         </div>
+        <div class="col-xs-12 col-sm-1"></div>
       </section>
     {{end}}
   {{end}}
