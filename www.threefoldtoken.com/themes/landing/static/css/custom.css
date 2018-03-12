@@ -82,7 +82,7 @@ header,
 }
 
 .Site-inner {
-    min-height: 827px;
+    min-height: 133px;
     margin-left: 0;
     margin-right: 0;
     padding-top: 30px;
@@ -143,7 +143,8 @@ header .nav {
 }
 
 .nav {
-    padding-right: 49px;
+
+    padding-right:49px;
 }
 
 .nav>li>a:hover {
@@ -277,11 +278,13 @@ a {
     font-weight: bold
 }
 
-.my-test {
-    margin-top: 80px;
-}
+.my-test{
+  margin-top: 80px;
 
+
+}
 .header {
+
     height: 345px;
     min-height: calc(50vh - 96px);
     position: relative
@@ -421,6 +424,9 @@ a {
     background-color: #699ee2
 }
 
+.social{
+  padding-left: 20px;
+}
 #nav.affix {
     left: 0;
     z-index: 999;
@@ -1302,8 +1308,8 @@ dataCenters p {
     padding: 60px 0;
 }
 
-.social-li {
-    margin-right: -14px;
+.social-li{
+  margin-right:-14px;
 }
 
 .contribute h1,
@@ -1351,10 +1357,6 @@ dataCenters p {
     overflow: hidden;
 }
 
-.app {
-    padding: 125px 0;
-}
-
 /* contribute */
 
 .contribute {
@@ -1375,8 +1377,7 @@ dataCenters p {
     margin: 20px auto;
 }
 
-.contribute a,
-.cooperative a {
+.contribute a {
     display: inline-block;
     padding: 21px 34px;
     font-size: 12px;
@@ -1394,8 +1395,7 @@ dataCenters p {
     margin: 20px auto;
 }
 
-.contribute a:hover,
-.cooperative a:hover {
+.contribute a:hover {
     color: #1d1d1d;
     background-color: #fff;
 }
@@ -1423,6 +1423,10 @@ dataCenters p {
     background-color: #fff;
 }
 
+.navbar-right social{
+
+
+}
 .content-home {
     padding-bottom: 30px;
 }
@@ -1869,6 +1873,23 @@ dataCenters p {
         margin: 10px 5px;
         text-align: center;
     }
+
+    .header{
+         height: 480px;
+    }
+    .open-source{
+          overflow: visible;
+    }
+    .my-test{
+          margin-top:auto;
+    }
+    .nav{
+      padding-right:0px;
+    }
+    #nav.affix{
+      padding-right: 0;
+      padding-left: 0;
+    }
 }
 
 @media (min-width: 768px) {
@@ -1878,6 +1899,12 @@ dataCenters p {
     .video p {
         font-size: 100%;
     }
+    .my-test {
+    margin-top: 123px;
+  }
+  .header .introWords {
+    margin-top: 85px;
+  }
 }
 
 @media only screen and (max-width: 767px) {
