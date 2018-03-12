@@ -1890,6 +1890,15 @@ dataCenters p {
       padding-right: 0;
       padding-left: 0;
     }
+    .social li {
+      display: inline-block;
+    }
+    .header .introWords h1 {
+    text-align: center;
+    }
+    .header .introWords h2 {
+    text-align: center;
+    }
 }
 
 @media (min-width: 768px) {
