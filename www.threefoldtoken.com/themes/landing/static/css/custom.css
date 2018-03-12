@@ -1374,7 +1374,7 @@ dataCenters p {
     margin: 20px auto;
 }
 
-.contribute a {
+.contribute a, .cooperative a {
     display: inline-block;
     padding: 21px 34px;
     font-size: 12px;
@@ -1392,7 +1392,7 @@ dataCenters p {
     margin: 20px auto;
 }
 
-.contribute a:hover {
+.contribute a:hover, .cooperative a:hover {
     color: #1d1d1d;
     background-color: #fff;
 }
@@ -1420,10 +1420,6 @@ dataCenters p {
     background-color: #fff;
 }
 
-.navbar-right social{
-
-
-}
 .content-home {
     padding-bottom: 30px;
 }
