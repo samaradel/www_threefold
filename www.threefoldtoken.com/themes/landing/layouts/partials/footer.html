@@ -3,6 +3,7 @@
   <div class="Footer-inner">
     <div class="row">
       <div class="col-sm-12">
+<<<<<<< HEAD
         <div class="col-xs-12 col-sm-4">
           <div class="row">
             <div class="col-xs-12 col-sm-6 mediaa">{{ .Params.text }}</div>
@@ -18,6 +19,23 @@
               </a>
             </div>
           </div>
+=======
+        <div class="col-sm-4">
+          <p class="media">{{ .Params.text }}
+            <a href="{{ .Params.telegram }}">
+              <img src="{{ .Params.telegram_img }}" alt="ThreeFoldToken Telegram">
+            </a>
+            <a href="{{ .Params.youtube }}">
+              <img src="{{ .Params.youtube_img }}" alt="ThreeFoldToken Youtube">
+            </a>
+            <a href="{{ .Params.linkedin }}">
+              <img src="{{ .Params.linkedin_img }}" alt="ThreeFoldToken LinkedIn">
+            </a>
+            <a href="{{ .Params.facebook }}">
+              <img src="{{ .Params.facebook_img }}" alt="ThreeFoldToken facebook">
+            </a>
+          </p>
+>>>>>>> master
         </div>
         <div class="col-xs-12 col-sm-8">
           {{ .Content }}

@@ -1,27 +1,30 @@
-{{ range $element := .Data.Pages }} 
-    {{ if eq .Section "home" }} 
+{{ range $element := .Data.Pages }}
+    {{ if eq .Section "home" }}
         {{ if eq .Title "video" }}
 
-            <div id="light">
+            <!-- <div id="light">
+
+              <h2>threefoldcvvc</h2>
+
                 <video id="VisaChipCardVideo" width="100%" controls />
-                <source src="{{ .Params.video_link }}" type="video/mp4">
+                <source src="{{ .Params.video_link }}" type="video/mp4"> -->
                 <!--Browser does not support <video> tag -->
-                </video>
-            </div>
+                <!-- </video>
+            </div> -->
 
-            <div id="fade" onClick="lightbox_close();"></div>
+            <!-- <div id="fade" onClick="lightbox_close();"></div> -->
 
-            <div class="video center">
-                <a onclick="lightbox_open();">
+            <!-- <div class="video center">
+                <a onclick="lightbox_open();"> -->
 
-                    <i class="fa fa-play fa-3x" aria-hidden="true"></i>
+                    <!-- <i class="fa fa-play fa-3x" aria-hidden="true"></i> -->
 
-                    <p>{{ .Content }}</p>
+                    <!-- <p>{{ .Content }}</p>
 
                 </a>
-            </div>
+            </div> -->
 
-            <script>
+            <!-- <script>
                 window.document.onkeydown = function (e) {
                     if (!e) {
                         e = event;
@@ -45,8 +48,8 @@
                     document.getElementById('fade').style.display = 'none';
                     lightBoxVideo.pause();
                 }
-            </script>
+            </script> -->
 
-        {{end}} 
-    {{end}} 
+        {{end}}
+    {{end}}
 {{end}}

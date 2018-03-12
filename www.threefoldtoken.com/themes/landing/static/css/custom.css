@@ -82,7 +82,7 @@ header,
 }
 
 .Site-inner {
-    min-height: 133px;
+    min-height: 827px;
     margin-left: 0;
     margin-right: 0;
     padding-top: 30px;
@@ -143,7 +143,7 @@ header .nav {
 }
 
 .nav {
-    padding-left: 10px
+    padding-right: 49px;
 }
 
 .nav>li>a:hover {
@@ -277,8 +277,11 @@ a {
     font-weight: bold
 }
 
+.my-test {
+    margin-top: 80px;
+}
+
 .header {
-    background: url(/img/download.png) no-repeat center;
     height: 345px;
     min-height: calc(50vh - 96px);
     position: relative
@@ -320,7 +323,7 @@ a {
 }
 
 .header .introWords {
-    margin-top: 70px;
+    margin-top: 80px;
     float: left
 }
 
@@ -421,7 +424,8 @@ a {
 #nav.affix {
     left: 0;
     z-index: 999;
-    padding-right: 0;
+    padding-right: 21%;
+    padding-left: 17%;
     box-shadow: 0 7px 7px 0 rgba(0, 0, 0, .15);
     position: fixed;
     top: 0;
@@ -1298,6 +1302,10 @@ dataCenters p {
     padding: 60px 0;
 }
 
+.social-li {
+    margin-right: -14px;
+}
+
 .contribute h1,
 .contribute h2 {
     color: #fff;
@@ -1343,6 +1351,10 @@ dataCenters p {
     overflow: hidden;
 }
 
+.app {
+    padding: 125px 0;
+}
+
 /* contribute */
 
 .contribute {
@@ -1363,7 +1375,8 @@ dataCenters p {
     margin: 20px auto;
 }
 
-.contribute a {
+.contribute a,
+.cooperative a {
     display: inline-block;
     padding: 21px 34px;
     font-size: 12px;
@@ -1381,7 +1394,31 @@ dataCenters p {
     margin: 20px auto;
 }
 
-.contribute a:hover {
+.contribute a:hover,
+.cooperative a:hover {
+    color: #1d1d1d;
+    background-color: #fff;
+}
+
+.more-video a {
+    display: inline-block;
+    padding: 14px 34px;
+    font-size: 12px;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: .24em;
+    border: 2px solid #fff;
+    background-color: transparent;
+    border-radius: 3px;
+    -webkit-transition: 0.1s background-color linear, 0.1s color linear;
+    -moz-transition: 0.1s background-color linear, 0.1s color linear;
+    -o-transition: 0.1s background-color linear, 0.1s color linear;
+    transition: 0.1s background-color linear, 0.1s color linear;
+    margin: 20px auto;
+}
+
+.more-video a:hover {
     color: #1d1d1d;
     background-color: #fff;
 }
