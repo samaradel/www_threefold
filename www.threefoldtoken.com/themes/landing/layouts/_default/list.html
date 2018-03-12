@@ -1,20 +1,20 @@
- {{ partial "head.html" . }} 
- {{ partial "body.html" . }} 
- {{ if eq .Section "how-it-works" }} 
- {{ partial "how-it-works_header.html" . }} 
- {{ else if or (eq .Section "information") (eq .Section "faq") (eq .Section "team") (eq .Section "community") }} 
- {{ partial "information-header.html" . }} 
-   {{else}} 
-   {{ partial "header.html" . }} 
+ {{ partial "head.html" . }}
+ {{ partial "body.html" . }}
+ {{ if eq .Section "how-it-works" }}
+ {{ partial "how-it-works_header.html" . }}
+ {{ else if or (eq .Section "information") (eq .Section "faq") (eq .Section "team") (eq .Section "community") (eq .Section "app") }} 
+ {{ partial "information-header.html" . }}
+   {{else}}
+   {{ partial "header.html" . }}
    {{end}}
 <div class="Site-inner">
   <div class="clear-fix">
-    {{ range $p := (.Paginate .Data.Pages).Pages }} 
+    {{ range $p := (.Paginate .Data.Pages).Pages }}
       {{ if eq .Section "faq" }}
       <div class="col-sm-4 col-xs-12">{{ $p.Render "faq" }}</div>
       {{else if eq .Section "information" }}
       <div class="col-sm-4 col-xs-12">{{ $p.Render "information" }}</div>
-      {{ else if eq .Section "team" }} 
+      {{ else if eq .Section "team" }}
           <div class="Content-outer">{{ $p.Render "team" }}</div>
       {{ else if eq .Section "app" }}
         <div class="Content-outer">{{ $p.Render "app" }}</div>
@@ -26,7 +26,7 @@
         <div class="Content-outer">{{ $p.Render "403" }}</div>
         {{ else if eq .Section "team-test" }}
         <div class="Content-outer">{{ $p.Render "team-test" }}</div>
-      {{ else if eq .Section "how-it-works" }} 
+      {{ else if eq .Section "how-it-works" }}
         {{ if eq .Title "challenge" }}
           <div class="Content-outer">{{ $p.Render "challenge" }}</div>
         {{ else if eq .Title "datacenters"}}
@@ -44,20 +44,20 @@
         {{ else if eq .Title "whitepaper" }}
           <div class="Content-outer">{{ $p.Render "whitepaper" }}</div>
 
-        {{end}} 
-    
+        {{end}}
+
     {{else}}
       <div class="Content-outer">{{ $p.Render "summary" }}</div>
     {{end}}
 
     {{ end }}
 
-    <!-- {{ range .Data.Pages }} 
-      {{ if eq .Section "team" }} 
+    <!-- {{ range .Data.Pages }}
+      {{ if eq .Section "team" }}
         {{ if eq .Title "complete cast" }}
           <section class="rj-section">{{ .Render "complete-cast" }}</section>
-        {{end}} 
-      {{end}} 
+        {{end}}
+      {{end}}
     {{end}} -->
   </div>
 </div>
