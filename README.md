@@ -1,7 +1,7 @@
 # New ThreeFold Website
 
-- promotor: Roel
-- guardian: Son
+- owner: Roel
+- guardian: Stela
 
 
 ## Scrum Details for Web Team
