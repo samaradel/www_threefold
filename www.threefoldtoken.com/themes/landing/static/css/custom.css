@@ -82,7 +82,7 @@ header,
 }
 
 .Site-inner {
-    min-height: 133px;
+    min-height: 827px;
     margin-left: 0;
     margin-right: 0;
     padding-top: 30px;
@@ -555,7 +555,7 @@ a {
 
 .Index-page-content,
 .map-content {
-    padding: 0
+    padding: 6px 0 ;
 }
 
 .col-sm-4:nth-child(3n+1) {
@@ -1351,12 +1351,14 @@ dataCenters p {
 
 .app,
 .community,
-.map,
 .team {
     padding: 60px 0;
     overflow: hidden;
 }
 
+.map{
+  padding: 20px 0;
+}
 /* contribute */
 
 .contribute {
@@ -1469,6 +1471,11 @@ dataCenters p {
 .open-source {
     padding: 10px 0 60px;
     overflow: hidden;
+}
+
+.registration{
+  padding: 10px 0 60px;
+  overflow: hidden;
 }
 
 .sphere {

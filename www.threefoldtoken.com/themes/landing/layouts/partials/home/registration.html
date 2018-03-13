@@ -1,0 +1,71 @@
+{{ range $element := .Data.Pages }} {{ if eq .Section "home" }} {{ if eq .Title "registration" }}
+<style>
+    .participate {
+        margin-top: 20px;
+    }
+    .participate a {
+        border: 2px solid #699ee2;
+        background-color: #699ee2;
+        color: #fff;
+        margin: 20px;
+        padding: 15px 35px;
+    }
+    .participate a:hover {
+        border: 2px solid #757575;
+        background-color: #fff;
+        color: #757575;
+    }
+</style>
+<div class="registration">
+<div class="col-sm-2"></div>
+<div class="col-sm-8">
+    <div class="content-home cooperative">
+        <h1>Participate in ThreeFold</h1>
+    </div>
+    <form>
+      <div class="form-group">
+        <label for="usr">Name:</label>
+        <input type="text" class="form-control" id="usr" placeholder="Enter name">
+      </div>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+    <!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
+  </div>
+  <!-- <div class="form-group">
+    <label for="exampleInputPassword1">Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+  </div> -->
+  <div class="form-group">
+    <label for="exampleSelect1">Interested in</label>
+    <select class="form-control" id="exampleSelect1">
+      <option>Purchasing tokens</option>
+      <option>Small farming (<20k $)</option>
+      <option>Medium farming (20k $ - 300k $ farming)</option>
+      <option>Large farming (>300k $)</option>
+      <option>Develop solutions using ThreeFold technology</option>
+      <option>Join the team / collaborate</option>
+      <option>Other (specify)</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label for="exampleTextarea">Comments (optional)</label>
+    <textarea class="form-control" id="exampleTextarea" rows="3"></textarea>
+  </div>
+  <div class="form-check">
+    <label class="form-check-label">
+      <input type="checkbox" class="form-check-input">
+      Add me to your newsletter to receive the latest TreeFold news.
+    </label>
+  </div>
+  <div class="participate">
+
+    <a href="/">PARTICIPATE</a>
+  </div>
+
+  <!-- <button type="submit" class="btn btn-primary">Submit</button> -->
+</form>
+</div>
+</div>
+<div class="clear-fix"></div>
+{{end}} {{end}} {{end}}
