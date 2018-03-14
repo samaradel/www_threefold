@@ -40,19 +40,30 @@
         </div>
       </div>
 
-      <div class="form-group">
-        <select class="form-control" name="select" required>
-          <option selected disabled value=''>Interested in:</option>
-          <option>Purchasing tokens</option>
-          <option>Small farming (
-            <20k $)</option>
-              <option>Medium farming (20k $ - 300k $ farming)</option>
-              <option>Large farming (>300k $)</option>
-              <option>Develop solutions using ThreeFold technology</option>
-              <option>Join the team / collaborate</option>
-              <option>Other (specify)</option>
-        </select>
-        <p class="help-block text-danger"></p>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="form-group">
+            <select class="form-control" name="select" required>
+              <option selected disabled value=''>Interested in:</option>
+              <option>Purchasing tokens</option>
+              <option>Small farming (
+                <20k $)</option>
+                  <option>Medium farming (20k $ - 300k $ farming)</option>
+                  <option>Large farming (>300k $)</option>
+                  <option>Develop solutions using ThreeFold technology</option>
+                  <option>Join the team / collaborate</option>
+                  <option>Other (specify)</option>
+            </select>
+            <p class="help-block text-danger"></p>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="form-group">
+            <input type="text" name="country" id="country" class="form-control" placeholder="Country" required="required">
+            <p class="help-block text-danger"></p>
+          </div>
+        </div>
       </div>
       <div class="form-group">
         <textarea class="form-control" name="message" id="exampleTextarea" placeholder="Comment (optional)" rows="3"></textarea>
