@@ -9,6 +9,7 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
     hook /gitea/pull/data_team "zU3687$aJEb6"
     key ~/.ssh/id_rsa
     path ../../../gig/data_team/
+    then rm -rf ../../www_threefold/www.threefoldtoken.com/en/
     then python3 process.py
     then git reset --hard HEAD
     then git -C "../../threefold/data_team" reset --hard HEAD
@@ -54,6 +55,18 @@ http://threefold2.aydo.com:4040, http://members.threefold.aydo.com:4040 {
 
   errors {
     404 404.html # Not Found
-    403 403/index.html # Forbidden
+  }
+
+  mailout /www_threefold {
+  to register@threefoldtoken.com
+  subject "Text Email from {{.Form.Get \"name\" }}"
+  body template.txt
+
+  username "register@threefoldtoken.com"
+  password "dJjy59>Ux"
+  host "smtp.gmail.com"
+  port 465
+  ratelimit_capacity 3
+  ratelimit_interval 6s
   }
 }

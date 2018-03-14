@@ -1,0 +1,14 @@
+Hello,
+
+please find below a new contact:
+
+Name            {{.Form.Get "name"}}
+Email           {{.Form.Get "email"}}
+Interested in:   {{.Form.Get "select"}}
+
+Comment:
+{{.Form.Get "message"}}
+
+Best Regards,
+
+ThreeFoldToken Support 
