@@ -43,7 +43,7 @@
     $('#contactForm').submit(function (event) {
         $.ajax({
                 type: 'POST',
-                url: 'http://threefoldtoken.com:88/www_threefold',
+                url: '/www_threefold',
                 data: $('#contactForm').serialize(),
                 dataType: 'json',
                 encode: true
