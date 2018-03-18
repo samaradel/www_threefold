@@ -1,4 +1,4 @@
-http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.threefoldtoken.com:88, http://www.member.threefoldtoken.com:88 {
+:88 {
     bind 0.0.0.0
     gzip
     root www.threefoldtoken.com/en
@@ -57,15 +57,15 @@ http://threefoldtoken.com:88, http://www.threefoldtoken.com:88, http://member.th
   }
 
   mailout /www_threefold {
-  to register@threefoldtoken.com
-  subject "Text Email from {{.Form.Get \"name\" }}"
-  body template.txt
+    to register@threefoldtoken.com
+    subject "Text Email from {{.Form.Get \"name\" }}"
+    body template.txt
 
-  username "register@threefoldtoken.com"
-  password "dJjy59>Ux"
-  host "smtp.gmail.com"
-  port 465
-  ratelimit_capacity 3
-  ratelimit_interval 6s
+    username "register@threefoldtoken.com"
+    password "dJjy59>Ux"
+    host "smtp.gmail.com"
+    port 465
+    ratelimit_capacity 3
+    ratelimit_interval 6s
   }
 }
