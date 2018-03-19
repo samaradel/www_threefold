@@ -1354,6 +1354,9 @@ dataCenters p {
     overflow: hidden;
 }
 
+.app-content{
+  margin-top: 30px;
+}
 .map {
     padding: 20px 0;
 }
@@ -1915,7 +1918,7 @@ dataCenters p {
         font-size: 100%;
     }
     .my-test {
-        margin-top: 105px;
+        margin-top: 70px;
     }
     .header .introWords {
         margin-top: 85px;
