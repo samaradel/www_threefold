@@ -408,3 +408,12 @@ nationality="Italian"
 why="I firmly believe that TFF fills at the best the huge mid-long term gap between availability and demand for one of the key resources: IT capacity. I share the vision of granting whoever and wherever a fair priced, nature friendly and close-by internet capacity. TFF is backed not only with assets but with the right core human values."
 bio="Federico,46, holds a Bachelor in Economy and an Executive Management certificate at SDA Bocconi. After having spent 10+ in IT, Federico served for several years a multinational company active in machines industry where he’s been engaged in different executive management positions. Actually, Federico is COO of an innovative Swiss Biomedical company and actively engaged in other innovative and edge-technology initiatives."
 avatar="Federico Fumagalli.jpg"
+
+[[ambassador]]
+x=5 # 0 <= X < 4
+y=9 # 0 <= Y < 5
+name="Olivia Jurado"
+nationality="Global Citizen"
+why="As an ambassador, I am happy to support the ThreeFold Foundation because I believe in their mission to cultivate the infrastructure for a new, secure, green & neutral internet for all. It is evident that the Threefold mission is galvanized by dedication and a true love of people and our planet.  "
+bio="Olivia is passionate about getting back to a manner of living that is more harmonious with nature by embracing the principles of a regenerative and slow lifestyle. It is vitally important that we make conscious decisions in our everyday life - all of our actions and choices impact the environment and fellow earthlings. We are part of nature and that is why it is our duty now to stop harming ourselves and help our planet Earth heal."
+avatar="Olivia Jurado.jpg"
