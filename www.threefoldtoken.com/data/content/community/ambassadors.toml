@@ -381,3 +381,39 @@ nationality="Dutch"
 why="ThreeFold's intention of creating a self-healing, small-scaled but world wide Internet seamlessly fits my idea of 'One world, One mind'. As humans, we are already connected at a deep level. A level before ideas of separation and perceived differences. I see ThreeFold as a physical, real world reflection of this connectedness. A move towards unity and equality."
 bio="Rob is a passionate coach, qigong teacher and former tour professional golfer. He combines several disciplines and different fields of science in his coaching work. People are often touched by his stillness and inner peace or triggered by his sharp observations and straightforward messages that effortlessly uncover the essence of your being. In whatever way you come into contact with Rob, one thing is for sure: it will change your life."
 avatar="Rob Tol.jpg"
+
+[[ambassador]]
+x=5 # 0 <= X < 4
+y=6 # 0 <= Y < 5
+name="George Gesek"
+nationality="Austrian"
+why="I see the ThreeFold Foundation as the first comprehensive attempt to create a fail-safe and non-manipulable algorithmic transaction system, which will be capable of distributing fundamental resources, like compute power or food, equally and suitably to all humans.  "
+bio="George Gesek is the founder and CEO of NOVARION.systems, the high performance computer maker, who wants to create the first commercially successful Quantum Computer. After his studies of physics at the Technical University of Vienna, Gesek entered the ICT industry to foster the beginning merge of computer and quantum science. This milestone of humanity seems to be reached now with the state of the art production techniques in the nanometer realm."
+avatar="George Gesek.jpg"
+
+[[ambassador]]
+x=5 # 0 <= X < 4
+y=7 # 0 <= Y < 5
+name="Chris Hurd"
+nationality="British"
+why="ThreeFold Foundation offers new channels of access and investment to a very diverse audience and so deserves to succeed. It is a step into the future whose potential for good knows no boundaries"
+bio="A graduate of Cambridge University, Chris has spent most of his career to date in the financial services sector, with the last 20 years spent in senior banking roles in London, Singapore and Moscow. These and other previous positions have contributed to a rich and varied set of skills and experience which he is now deploying in the non-executive and advisory spheres. In this context, the aims of ThreeFold Foundation are both close to his heart and offer the opportunity for him to make a strong contribution and impact. Chris is married with 3 children and currently resides in the UK, but travels widely and maintains strong ties with Asia in particular. He greatly enjoys working with people and exploring new interests and cultures."
+avatar="Chris Hurd.jpg"
+
+[[ambassador]]
+x=5 # 0 <= X < 4
+y=8 # 0 <= Y < 5
+name="Federico Fumagalli"
+nationality="Italian"
+why="I firmly believe that TFF fills at the best the huge mid-long term gap between availability and demand for one of the key resources: IT capacity. I share the vision of granting whoever and wherever a fair priced, nature friendly and close-by internet capacity. TFF is backed not only with assets but with the right core human values."
+bio="Federico,46, holds a Bachelor in Economy and an Executive Management certificate at SDA Bocconi. After having spent 10+ in IT, Federico served for several years a multinational company active in machines industry where he’s been engaged in different executive management positions. Actually, Federico is COO of an innovative Swiss Biomedical company and actively engaged in other innovative and edge-technology initiatives."
+avatar="Federico Fumagalli.jpg"
+
+[[ambassador]]
+x=5 # 0 <= X < 4
+y=9 # 0 <= Y < 5
+name="Olivia Jurado"
+nationality="Global Citizen"
+why="As an ambassador, I am happy to support the ThreeFold Foundation because I believe in their mission to cultivate the infrastructure for a new, secure, green & neutral internet for all. It is evident that the Threefold mission is galvanized by dedication and a true love of people and our planet.  "
+bio="Olivia is passionate about getting back to a manner of living that is more harmonious with nature by embracing the principles of a regenerative and slow lifestyle. It is vitally important that we make conscious decisions in our everyday life - all of our actions and choices impact the environment and fellow earthlings. We are part of nature and that is why it is our duty now to stop harming ourselves and help our planet Earth heal."
+avatar="Olivia Jurado.jpg"

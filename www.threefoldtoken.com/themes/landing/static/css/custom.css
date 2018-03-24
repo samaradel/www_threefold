@@ -143,8 +143,7 @@ header .nav {
 }
 
 .nav {
-
-    padding-right:49px;
+    padding-right: 49px;
 }
 
 .nav>li>a:hover {
@@ -278,13 +277,11 @@ a {
     font-weight: bold
 }
 
-.my-test{
-  margin-top: 80px;
-
-
+.my-test {
+    margin-top: 80px;
 }
-.header {
 
+.header {
     height: 345px;
     min-height: calc(50vh - 96px);
     position: relative
@@ -424,9 +421,10 @@ a {
     background-color: #699ee2
 }
 
-.social{
-  padding-left: 20px;
+.social {
+    padding-left: 20px;
 }
+
 #nav.affix {
     left: 0;
     z-index: 999;
@@ -555,7 +553,7 @@ a {
 
 .Index-page-content,
 .map-content {
-    padding: 6px 0 ;
+    padding: 6px 0;
 }
 
 .col-sm-4:nth-child(3n+1) {
@@ -1308,8 +1306,8 @@ dataCenters p {
     padding: 60px 0;
 }
 
-.social-li{
-  margin-right:-14px;
+.social-li {
+    margin-right: -14px;
 }
 
 .contribute h1,
@@ -1356,9 +1354,13 @@ dataCenters p {
     overflow: hidden;
 }
 
-.map{
-  padding: 20px 0;
+.app-content{
+  margin-top: 30px;
 }
+.map {
+    padding: 20px 0;
+}
+
 /* contribute */
 
 .contribute {
@@ -1425,10 +1427,8 @@ dataCenters p {
     background-color: #fff;
 }
 
-.navbar-right social{
+.navbar-right social {}
 
-
-}
 .content-home {
     padding-bottom: 30px;
 }
@@ -1473,9 +1473,9 @@ dataCenters p {
     overflow: hidden;
 }
 
-.registration{
-  padding: 10px 0 60px;
-  overflow: hidden;
+.registration {
+    padding: 10px 0 60px;
+    overflow: hidden;
 }
 
 .sphere {
@@ -1659,6 +1659,9 @@ dataCenters p {
     .Footer img {
         height: 20px;
         width: 20px;
+    }
+    .Header-nav {
+        font-size: 10px;
     }
 }
 
@@ -1880,31 +1883,30 @@ dataCenters p {
         margin: 10px 5px;
         text-align: center;
     }
-
-    .header{
-         height: 510px;
+    .header {
+        height: 510px;
     }
-    .open-source{
-          overflow: visible;
+    .open-source {
+        overflow: visible;
     }
-    .my-test{
-          margin-top:auto;
+    .my-test {
+        margin-top: auto;
     }
-    .nav{
-      padding-right:0px;
+    .nav {
+        padding-right: 0px;
     }
-    #nav.affix{
-      padding-right: 0;
-      padding-left: 0;
+    #nav.affix {
+        padding-right: 0;
+        padding-left: 0;
     }
     .social li {
-      display: inline-block;
+        display: inline-block;
     }
     .header .introWords h1 {
-    text-align: center;
+        text-align: center;
     }
     .header .introWords h2 {
-    text-align: center;
+        text-align: center;
     }
 }
 
@@ -1916,11 +1918,15 @@ dataCenters p {
         font-size: 100%;
     }
     .my-test {
-    margin-top: 80px;
-  }
-  .header .introWords {
-    margin-top: 85px;
-  }
+        margin-top: 70px;
+    }
+    .header .introWords {
+        margin-top: 85px;
+    }
+    #nav.affix {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
 }
 
 @media only screen and (max-width: 767px) {
