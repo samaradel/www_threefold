@@ -3,7 +3,7 @@
 
 title = "investors"
 
-co_header = "Our cooperatives"
+co_header = "cooperatives"
 bancadati_link = "http://www.bancadati.ch/en/"
 bancadati_img = "/img/bancadati-logo.png"
 
@@ -15,7 +15,4 @@ gigEu_img = "/img/gig-europe.png"
 
 maz_link = "https://www.mazraa.io/"
 maz_img = "/img/mazraa.png" 
-
-safeCi_link = "#"
-safeCi_img = "/img/Safe-city.png" 
 +++

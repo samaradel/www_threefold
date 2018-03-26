@@ -2,9 +2,9 @@
   {{ if eq .Section "home" }} 
     {{ if eq .Title "investors" }}
 <div class="investors">
-    <div class="col-sm-1"></div>
+    <div class="col-sm-2"></div>
 
-    <div class="col-sm-10 content-wrapper">
+    <div class="col-sm-8 content-wrapper" style="margin: 10px auto;">
         <div class="content-home center">
             <h1>{{ .Params.co_header }}</h1>
         </div>
@@ -27,14 +27,9 @@
                 <img src="{{ .Params.maz_img }}" style="width:70%;" alt="Mazraa">
             </a>
         </div>
-        <div class="col-sm-2 investors-logo">
-            <a href="{{ .Params.safeCi_link }}" target="_blank">
-                <img src="{{ .Params.safeCi_img }}" style="width:70%;" alt="Safe City">
-            </a>
-        </div>
     </div>
 
-    <div class="col-sm-1"></div>
+    <div class="col-sm-2"></div>
 </div>
 <div class="clear-fix"></div>
 {{end}}{{end}}{{end}}
