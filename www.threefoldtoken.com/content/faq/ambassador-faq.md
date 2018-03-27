@@ -5,6 +5,7 @@ image = "../img/ambassador.jpg"
 author = ""
 subtitle = ""
 weight = 10
+draft = true
 +++
 
 # Ambassador

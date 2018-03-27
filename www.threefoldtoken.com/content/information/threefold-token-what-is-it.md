@@ -19,9 +19,10 @@ We designed our Token as a scalable currency with real utility.  The Token Holde
 
 * Real Utility.  From inception, the Tokens have a specific designated use as the payment mechanism for buying and selling Internet IT capacity on our Grid.  The Token’s utility - in particular its use by IT companies and other buyers of capacity who are not traditional digital coin investors - facilitates liquidity by supporting daily trading volumes and exchangeability
 * Neutrality.  ThreeFold is mission- and value-based, has no shareholders and is not owned or controlled by any institution or government.  
-* Green.  Our blockchain is different - and enables much greater scalability to millions  of transactions without requiring outsize energy consumption
+* Green.  Our blockchain is different - and enables much greater scalability to millions of transactions without requiring outsize energy consumption
 * Security.  Also TF blockchain is less vulnerable to large miner consortia controlling hashrates or DDOS and other attacks.  All users and nodes are registered on our blockchain-based identity management platform enhancing security and privacy.
 
++++
 
 ### Real Utility - TF Tokens Are Designated Payment Mechanism for Internet IT capacity
 
