@@ -9,9 +9,9 @@ weight = 5
 
 ## What are the objectives of the ThreeFold Foundation?
 
-For a list of definitions used see our [definitions document](https://github.com/threefoldtoken/legal/blob/master/definitions.md).
+For a list of definitions used see our [definitions document](https://docs.grid.tf/threefold/info).
 
-The ThreeFold Foundation’s long term objective is to build an ecosystem that brings online a grid of decentralized, distributed, and neutral IT infrastructure (TF Grid) and drives the adoption of the ThreeFold Token (TFT) as the defacto currency to purchase such services. 
+The ThreeFold Foundation’s long term objective is to build an ecosystem that brings online a grid of decentralized, distributed, and neutral IT infrastructure (TF Grid) and drives the adoption of the ThreeFold Token (TFT) as the defacto currency to purchase such services.
 
 The ThreeFold Foundation, a transparent, tokenized organization has three primary objectives:
 
@@ -31,6 +31,5 @@ The Foundation is not owned by any one person or entity. It is a collective of i
 
 
 ## Who will manage and operate the ThreeFold Foundation?
- 
-The leadership and management team of the ThreeFold Foundation oversees daily operations and activities of the Foundation.
 
+The leadership and management team of the ThreeFold Foundation oversees daily operations and activities of the Foundation.
