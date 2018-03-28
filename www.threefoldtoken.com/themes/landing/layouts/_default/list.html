@@ -21,11 +21,7 @@
       {{ else if eq .Section "privacy-policy" }}
         <div class="Content-outer">{{ $p.Render "privacy-policy" }}</div>
       {{ else if eq .Section "community" }}
-      {{ if eq .Title "community" }}
         <div class="Content-outer">{{ $p.Render "community" }}</div>
-        {{ else if eq .Title "investors" }}
-        <div class="Content-outer">{{ $p.Render "investors" }}</div>
-        {{end}}
       {{ else if eq .Section "403" }}
         <div class="Content-outer">{{ $p.Render "403" }}</div>
         {{ else if eq .Section "team-test" }}
