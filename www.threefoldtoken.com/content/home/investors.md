@@ -11,7 +11,7 @@ bt_link = "https://bettertoken.com/"
 bt_img = "/img/better-token-logo.png"
 
 gigEU_link = "https://www.gigeurope.tech"
-gigEu_img = "/img/gig-europe.png"
+gigEu_img = "/img/gig-europ.png"
 
 maz_link = "https://www.mazraa.io/"
 maz_img = "/img/mazraa.png" 
