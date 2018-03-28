@@ -58,4 +58,4 @@ The key differentiators of our blockchain include:
 
 [our technology blogs](/information/)
 
-For a list of definitions used see our [definitions document](https://github.com/threefoldtoken/legal/blob/master/definitions.md).
+For a list of definitions used see our [definitions document](https://docs.grid.tf/threefold/info/src/branch/master/legal/definitions.md).
