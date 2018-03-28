@@ -84,7 +84,7 @@ $(function () {
                 var random_details = details[index];
                 var parent = $("<div>").addClass("rj-team-member");
                 var photoDiv = $("<div>").addClass('farmer-photo');
-                var a = $('<a>').prop('href', random_details.link);
+                var a = $('<a>').prop('href', random_details.link).prop('target', '_blank');
                 var img = $("<img/>").addClass('rj-team-member-photo-rollover');
                 img.prop('src', '../avatars/' + encodeURIComponent(random_details.avatar));
                 photoDiv.append(img);
