@@ -9,7 +9,7 @@ weight = 4
 
 # Why the ThreeFold Token
 
-For a list of definitions used see our [definitions document](https://github.com/threefoldtoken/legal/blob/master/definitions.md).
+For a list of definitions used see our [definitions document](https://docs.grid.tf/threefold/info/src/branch/master/legal/definitions.md).
 
 
 ### Why do we need a ThreeFold Token?
