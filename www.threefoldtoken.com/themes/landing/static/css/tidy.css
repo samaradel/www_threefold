@@ -164,14 +164,13 @@ a:hover {
     right: 0;
     width: 19px
 }
-.rj-team .member-photo:hover {
+.rj-team .member-photo:hover, .rj-team .farmer-photo:hover {
     z-index: 2
 }
-.rj-team .member-photo:hover .rj-team-member-photo {
+.rj-team .member-photo:hover .rj-team-member-photo, .rj-team .farmer-photo:hover {
     opacity: 0;
-    opacity: 0
 }
-.rj-team .member-photo:hover .rj-team-member-label {
+.rj-team .member-photo:hover .rj-team-member-label, .rj-team .farmer-photo:hover {
     filter: alpha(Opacity=66);
     opacity: .66;
     display: block
