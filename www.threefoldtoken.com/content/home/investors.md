@@ -17,4 +17,6 @@ maz_link = "https://www.mazraa.io/"
 maz_img = "/img/mazraa.png"
 +++
 
-Farming Cooperatives need a small description here.
+ThreeFold Foundation is proud to announce the first 4 Farming Cooperatives.
+Farming Cooperatives are here to make farming accessible to anybody, anywhere in the world.
+You can purchase your own pre-installed hardware through them if you like to farm at home, but there are is also the option to let them get their hands dirty cultivating your hardware in a datacenter for you. 0 tech knowledge needed, but still contributing to the ThreeFold Grid and Farming Tokens.

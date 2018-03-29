@@ -47,7 +47,7 @@ The TF Directory publishes global available capacity, services and pricing of th
 
 ### When will I be able to use the TF Grid and TF Directory Service?
 
-Our Grid is already up and running. At the time of the launch for ThreeFold (March 1st 2018), more than 200 TF Farmers, are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via the TF Directory. All purchases are made using ThreeFold Tokens through an API.
+Our Grid is already up and running with over 200 TF Farmers operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via the TF Directory. All purchases are made using ThreeFold Tokens through an API.
 
 ### What is the value of the TF Directory for a ThreeFold Farmer (TF Farmer)?
 
