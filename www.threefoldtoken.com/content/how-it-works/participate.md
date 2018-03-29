@@ -7,7 +7,7 @@ weight = 8
 +++
 # How To Get Tokens
 
-[BUY YOUR TFTs AT TFTOKENS.COM](http://www.tftokens.com)
+## [BUY YOUR TFTs AT TFTOKENS.COM](http://www.tftokens.com) ##
 
 You can become a farmer by hosting TF Nodes to help the network grow fast.
 
