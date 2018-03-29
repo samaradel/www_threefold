@@ -3,7 +3,7 @@
 
 title = "investors"
 
-co_header = "cooperatives"
+co_header = "farming cooperatives"
 bancadati_link = "http://www.bancadati.ch/en/"
 bancadati_img = "/img/bancadati-logo.png"
 
@@ -14,5 +14,7 @@ gigEU_link = "https://www.gigeurope.tech"
 gigEu_img = "/img/gig-europ.png"
 
 maz_link = "https://www.mazraa.io/"
-maz_img = "/img/mazraa.png" 
+maz_img = "/img/mazraa.png"
 +++
+
+Farming Cooperatives need a small description here.
