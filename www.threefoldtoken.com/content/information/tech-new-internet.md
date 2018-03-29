@@ -42,7 +42,7 @@ Open-source components have been developed, Zero-OS,for the deployment of bare m
 
 ## Self-Healing Technology: self-healing and self driving
 
-GIG has developed Jumpscale framework and At Your Service (AYS) which allows the creation of blueprints to auto-deploy applications within the compute environment.
+Jumpscale framework and ZeroRobot allow the creation of blueprints to auto-deploy applications within the compute environment.
 
 Our robots are constantly checking the health and uptime of the infrastructure and runtime environments, guaranteeing performance & availability of applications.
 

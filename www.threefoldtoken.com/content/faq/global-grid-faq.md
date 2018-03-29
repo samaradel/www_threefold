@@ -23,8 +23,6 @@ For more on this see [“Why do we need a new Internet” blog post](/informatio
 
 The TF Grid is a network of all distributed infrastructure capacity that is available for purchase on the ThreeFold Directory (TF Directory).
 
-Please see [homepage](/), for a map showing the availablity of the TF Grid capacity.
-
 ### How is the TF Grid different from existing IT infrastructure?
 
 The TF Grid is a hyper-distributed Edge network - Unlike the majority of Internet infrastructure today, which are located in corporately own centralised, resourse intensive, billion dollar datacenters. We believe the internet should be owned by the people using it - not enormous profit driven companies.

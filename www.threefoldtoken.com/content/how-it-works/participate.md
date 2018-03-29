@@ -7,7 +7,7 @@ weight = 8
 +++
 # How To Get Tokens
 
-Trading tokens will be done through a fully decentralized exchange which allows trading TFT's for BTC and ETH.
+Buying tokens can be done here: [buy tokens](http://www.tftokens.com)
 
 You can become a farmer by hosting TF Nodes to help the network grow fast.
 
