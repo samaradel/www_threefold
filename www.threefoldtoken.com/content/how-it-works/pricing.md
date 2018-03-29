@@ -5,7 +5,7 @@ title = "pricing"
 
 weight = 7
 +++
-YOU CAN NOW BUY THREEFOLD TOKENS [BUY TOKENS](HTTPS://WWW.TFTOKENS.COM)
+YOU CAN NOW BUY THREEFOLD TOKENS AT [WWW.TFTOKENS.COM](HTTPS://WWW.TFTOKENS.COM)
 
 Each Token represents Internet capacity.
 
