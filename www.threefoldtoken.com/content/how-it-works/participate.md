@@ -5,12 +5,13 @@ title = "participate"
 
 weight = 8
 +++
-# How To Get Tokens
+# How To Obtain ThreeFold Tokens?
 
-## [BUY YOUR TFTs AT TFTOKENS.COM](http://www.tftokens.com) ##
+There is more than one answer to this question.
+If you are interested in only buying tokens you can do this at [TFTOKENS.COM](http://www.tftokens.com).
 
-You can become a farmer by hosting TF Nodes to help the network grow fast.
+Another option is becoming a farmer by hosting a ThreeFold Node or Cluster. You can buy these through a [Farming Cooperative](/community)  
 
-You can invest in an independent Farming Cooperative which will deploy capacity globally.
+These Farming Cooperatives have several ways for you to contribute to the Threefold Grid. 
 
 Please contact us through the chat widget on the website or the live chat in the smartphone app for more information on becoming a TF Farmer.
