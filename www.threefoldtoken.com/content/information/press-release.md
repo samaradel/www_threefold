@@ -58,11 +58,11 @@ We believe that individuals and companies will be empowered by a token designed 
 Please 
 
 * Visit our token website: [http://www.tftokens.com/](http://www.tftokens.com/). <br>
-
+<br>
 * Visit our foundation website: [https://threefoldtoken.com](https://threefoldtoken.com). <br>
-
+<br>
 * Connect with us at [https://t.me/threefoldtoken_chat](https://t.me/threefoldtoken_chat). <br>
-
+<br>
 
 <br>
 <br>
