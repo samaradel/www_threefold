@@ -4,7 +4,7 @@ title = "Technology for a New Internet"
 image = "../img/technology-for-internet.jpg"
 author = "Andreas Hartl"
 subtitle = "Our technology breaks with the traditional IT model. The Edge internet needs a different approach."
-weight = 1
+weight = 12
 
 +++
 
@@ -42,7 +42,7 @@ Open-source components have been developed, Zero-OS,for the deployment of bare m
 
 ## Self-Healing Technology: self-healing and self driving
 
-GIG has developed Jumpscale framework and At Your Service (AYS) which allows the creation of blueprints to auto-deploy applications within the compute environment.
+Jumpscale framework and ZeroRobot allow the creation of blueprints to auto-deploy applications within the compute environment.
 
 Our robots are constantly checking the health and uptime of the infrastructure and runtime environments, guaranteeing performance & availability of applications.
 

@@ -5,7 +5,7 @@ title = "pricing"
 
 weight = 7
 +++
-Starting end of March 2018 you can buy ThreeFold Tokens.
+YOU CAN NOW BUY THREEFOLD TOKENS AT [WWW.TFTOKENS.COM](HTTPS://WWW.TFTOKENS.COM)
 
 Each Token represents Internet capacity.
 

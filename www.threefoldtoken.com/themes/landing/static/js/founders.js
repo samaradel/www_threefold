@@ -1,5 +1,5 @@
 /*
- * Copyright 2017 GIG Technology NV
+ * Copyright 2017 ThreeFold Foundation
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -43,7 +43,7 @@ $(function () {
                 var dataCol = $("<div>").addClass('col-sm-8');
                 var close = $('<div>').addClass('close-bio').text('x');
 
-                if (details[i].core == "threefold" || details[i].core == "bettertoken" && details[i].rank > 0) {
+                if (details[i].core == "threefold" || details[i].core == "bettertoken" || details[i].core == "gig" && details[i].rank > 0) {
                     div.append(imgCol);
                     imgCol.append($("<img/>").prop("src", "../avatars/" + encodeURIComponent(details[i].avatar)));
                     div.append(dataCol);
@@ -87,7 +87,7 @@ $(function () {
     }
 
     $("#threefold").append(render(team));
-    toggleBio();
-    unselectDiv();
-    activateTeamFilter();
+    // toggleBio();
+    // unselectDiv();
+    // activateTeamFilter();
 });

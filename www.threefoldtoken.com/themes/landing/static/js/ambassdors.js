@@ -1,5 +1,5 @@
 /*
- * Copyright 2017 GIG Technology NV
+ * Copyright 2017 ThreeFold Foundation
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -15,8 +15,9 @@
  *
  * @@license_version:1.3@@
  */
-$(function() {
-    var render = function(dataset) {
+"use strict";
+$(function () {
+    var render = function (dataset) {
         var amp = $("<div></div>").addClass('rj-team');
         var details = dataset;
         var added = []
@@ -66,21 +67,52 @@ $(function() {
         return amp;
     };
 
+    var renderOps = function (dataset) {
+        var amp = $("<div></div>").addClass('rj-team');
+
+        function sortWeight(a, b) {
+            return a.weight - b.weight;
+        }
+        var details = dataset.sort(sortWeight);
+        var added = [];
+
+        if (details) {
+            for (var i = 0; i < details.length; ++i) {
+                if (added.length === details.length) {
+                    break;
+                }
+                added.push(details);
+                var parent = $("<div>").addClass("rj-team-member");
+                var photoDiv = $("<div>").addClass('farmer-photo');
+                var a = $('<a>').prop('href', details[i].link).prop('target', '_blank');
+                var img = $("<img/>").addClass('rj-team-member-photo-rollover');
+                if (details[i].weight > 0) {
+                    img.prop('src', '../avatars/' + encodeURIComponent(details[i].avatar));
+                    photoDiv.append(img);
+                    a.append(photoDiv);
+                    parent.append(a);
+                    amp.append(parent);
+                }
+            }
+        }
+        return amp;
+    };
+
     function toggleBio() {
-        $(".rj-team-member .member-photo").click(function(event) {
+        $(".rj-team-member .member-photo").click(function (event) {
             event.preventDefault();
             $(this).parent().siblings().children(".member-photo").removeClass("selected"), $(this).toggleClass("selected"), $(this).parent().siblings().children(".rj-team-member-info-text").hide(), $(this).siblings(".rj-team-member-info-text").toggle();
             var a = $(this).siblings(".rj-team-member-info-text").offset();
             $("body").animate({
                 scrollTop: a
-            }), $(".close-bio").click(function() {
+            }), $(".close-bio").click(function () {
                 $(this).parent().siblings(".member-photo").removeClass("selected"), $(this).parent(".rj-team-member-info-text").hide()
             })
         })
     }
 
     function activateTeamFilter() {
-        $("#teamFilterText").prop("disabled", !1), $("#teamFilterText").on("input", function() {
+        $("#teamFilterText").prop("disabled", !1), $("#teamFilterText").on("input", function () {
             var a = $("#teamFilterText").val();
             "" == a ? $(".rj-team-member").show() : ($(".rj-team-member").hide(), $(".rj-team-member:Contains('" + a + "')").show())
         })
@@ -94,5 +126,5 @@ $(function() {
     // }
     $("#ambassadors").append(render(ambassadors));
     $("#hosters").append(render(hosters));
-    $("#operators").append(render(operators));
+    $("#operators").append(renderOps(operators));
 });

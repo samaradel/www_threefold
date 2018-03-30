@@ -30,11 +30,13 @@ for filename in os.listdir(source):
             nationality = person.get('nationality')
             why = person.get('why')
             bio = person.get('bio')
+            link= person.get('link')
+            weight= person.get ('weight')
             # x = person.get('x')
             # y = person.get('y')
             avatar = person.get('avatar')
-            if None in (name, bio, nationality, why):
-                raise ValueError("%s/%s contains invalid person entry with following data fields:\nname: %s\nnationality: %s\nwhy: %s\nbio: %s\navatar: %s\n\nNOT ALL FIELDS ARE FILLED!" % (source, filename, name, nationality, why, bio, avatar))            # try:
+            if None in (name, bio, nationality, why, link):
+                raise ValueError("%s/%s contains invalid person entry with following data fields:\nname: %s\nnationality: %s\nwhy: %s\nbio: %s\nlink: %s\navatar: %s\n\nNOT ALL FIELDS ARE FILLED!" % (source, filename, name, nationality, why, bio, avatar, link))            # try:
             #     x = int(x)
             #     y = int(y)
             # except ValueError:
@@ -42,7 +44,7 @@ for filename in os.listdir(source):
             # if x < 0 or y < 0:
             #     raise ValueError("%s/%s contains invalid person entry with following data fields:\nname: %s\nbio: %s\nx: %s\ny: %s\navatar: %s\n\nX & Y SHOULD BE POSITIVE INTEGERS!" % (source, filename, name, bio, x, y, avatar))
             if not os.path.exists(os.path.join(source, 'avatars', avatar)):
-                raise ValueError("%s/%s contains invalid person entry with following data fields:\nname: %s\nbio: %s\navatar: %s\n\nAVATAR DOES NOT EXIST!" % (source, filename, name, bio, avatar))
+                raise ValueError("%s/%s contains invalid person entry with following data fields:\nname: %s\nbio: %s\nlink: %s\nweight: %s\navatar: %s\n\nAVATAR DOES NOT EXIST!" % (source, filename, name, bio, avatar, link, weight))
             # coords = "%sx%s" % (x,y)
             # if section.get(coords):
             #     raise ValueError("%s/%s contains invalid person entry with following data fields:\nname: %s\nbio: %s\nx: %s\ny: %s\navatar: %s\n\nCOORDINATES ARE ALREADY IN USE!" % (source, filename, name, bio, x, y, avatar))
@@ -61,7 +63,7 @@ for filename in os.listdir(source):
             avatar_filename = os.path.join(source, 'avatars', "processed_"+avatar)
             img.save(avatar_filename)
 
-            section.append(dict(name=name, nationality=nationality, why=why, bio=bio, avatar="processed_"+avatar))
+            section.append(dict(name=name, nationality=nationality, why=why, bio=bio, avatar="processed_"+avatar, link=link, weight=weight))
 
     output[filename.replace(".toml","")] = section
 

@@ -8,6 +8,6 @@ threefold_sub = "We are a nonprofit and international collaboration of individua
 gig_header = "GIG Technology"
 gig_sub = "GIG.tech has founded the ThreeFold idea and has made all of this possible. GIG Engineers have created the software for the ThreeFold Grid."
 
-tech_header = "Tech Team GIG"
-tech_sub = "The team who created the opensource technology underpinning our mission."
+tech_header = "Developers community"
+tech_sub = "The team that created the open source technology underpinning our mission."
 +++

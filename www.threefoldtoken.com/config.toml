@@ -8,7 +8,7 @@ publishdir = "en"
 # relativeURLs = true
 pluralizeListTitles = false
 uglyURLs = false
-copyright = "(c) COPYRIGHT GIG TECHNOLOGY N.V"
+copyright = "(c) COPYRIGHT ThreeFound Foundation"
 paginate = 20
 enableRobotsTXT = true
 ignorefiles = [ "pto/.*", "login/.*", "whitepaper/.*" ]
@@ -21,32 +21,3 @@ ignorefiles = [ "pto/.*", "login/.*", "whitepaper/.*" ]
   filename = "sitemap.xml"
 [permalinks]
     post = "/:filename"
-    # Navigation Links
-    #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-    #   desired widget in your `content/header/` folder.
-    #   The weight parameter defines the order that the links will appear in.
-
-    # [[menu.main]]
-    #   name = "Home"
-    #   url = ""
-    #   weight = 1
-    #
-    # [[menu.main]]
-    #   name = "TECH"
-    #   url = "tech/tech"
-    #   weight = 2
-    #
-    # [[menu.main]]
-    #   name = "Blog"
-    #   url = "blog"
-    #   weight = 3
-    #
-    # [[menu.main]]
-    #   name = "GIG People"
-    #   url = "gig-people"
-    #   weight = 4
-    #
-    # [[menu.main]]
-    #   name = "Contact"
-    #   url = "contact-foster"
-    #   weight = 5

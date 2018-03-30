@@ -4,6 +4,7 @@
  avatar="bruno_acar.jpg"
  nationality=""
  why= ""
+link=""
 
  [[hoster]]
  name="Erwin Raets"
@@ -11,6 +12,7 @@
  avatar="Erwin_Raets.jpg"
  nationality=""
  why= ""
+link=""
 
  [[hoster]]
  name="Adnan Fatayerji"
@@ -18,6 +20,7 @@
  avatar="adnan_fatayerji.jpg"
  nationality=""
  why= ""
+link=""
 
   [[hoster]]
  name="Christian Seidl"
@@ -25,6 +28,7 @@
  avatar="christian_seidl.jpg"
  nationality=""
  why= ""
+link=""
 
    [[hoster]]
  name="Herbert Teibler"
@@ -32,6 +36,7 @@
  avatar="herbert_teiblr.jpg"
  nationality=""
  why= ""
+link=""
 
    [[hoster]]
  name="Laurent Alloo"
@@ -39,6 +44,7 @@
  avatar="laurent_alloo.jpg"
  nationality=""
  why= ""
+link=""
 
   [[hoster]]
  name="Patrick Van Beek"
@@ -46,6 +52,7 @@
  avatar="patrick_van_beek.jpg"
  nationality=""
  why= ""
+link=""
 
    [[hoster]]
  name="Weynand Kuijpers"
@@ -53,6 +60,7 @@
  avatar="weynand_kuypers.jpg"
  nationality=""
  why= ""
+link=""
 
 
    [[hoster]]
@@ -61,73 +69,84 @@
  avatar="peter.jpg"
  nationality=""
  why= ""
- 
+link=""
+
     [[hoster]]
  name="Tom Casaer"
  bio=""
  avatar="tom_casaer.jpg"
  nationality=""
  why= ""
- 
+link=""
+
     [[hoster]]
  name="Owen Kemp"
  bio=""
  avatar="Owen Kemp.jpg"
  nationality=""
  why= ""
- 
+link=""
+
      [[hoster]]
  name="Joris Vermeulen"
  bio=""
  avatar="joris.jpg"
  nationality=""
  why= ""
- 
+link=""
+
       [[hoster]]
  name="Alain Andries"
  bio=""
  avatar="alain.jpg"
  nationality=""
  why= ""
- 
+link=""
+
       [[hoster]]
  name="Sacha Vekeman"
  bio=""
  avatar="sacha.jpg"
  nationality=""
  why= ""
- 
+link=""
+
       [[hoster]]
  name="Chris Hoerée"
  bio=""
  avatar="chris.jpg"
  nationality=""
  why= ""
- 
+link=""
+
        [[hoster]]
  name="Arne van Balgoijen"
  bio=""
  avatar="arne.jpg"
  nationality=""
  why= ""
- 
+link=""
+
        [[hoster]]
  name="Lesley Zonnekein"
  bio=""
  avatar="lesley.jpg"
  nationality=""
  why= ""
- 
+link=""
+
         [[hoster]]
  name="Brian Bogaerts"
  bio=""
  avatar="Brian Bogaerts.jpg"
  nationality=""
  why= ""
- 
+link=""
+
          [[hoster]]
  name="Frank Vuijsters"
  bio=""
  avatar="frank.jpg"
  nationality=""
  why= ""
+ link=""

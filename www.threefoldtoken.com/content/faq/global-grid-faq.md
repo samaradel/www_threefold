@@ -9,7 +9,7 @@ weight = 2
 
 ## Our Grid
 
-For a list of definitions used see our [definitions document](https://github.com/threefoldtoken/legal/blob/master/definitions.md).
+For a list of definitions used see our [definitions document](https://docs.grid.tf/threefold/info/src/branch/master/legal/definitions.md).
 
 ### Why do we need a new, neutral “Edge” Internet Grid
 
@@ -23,19 +23,17 @@ For more on this see [“Why do we need a new Internet” blog post](/informatio
 
 The TF Grid is a network of all distributed infrastructure capacity that is available for purchase on the ThreeFold Directory (TF Directory).
 
-Please see [homepage](/), for a map showing the availablity of the TF Grid capacity.
-
 ### How is the TF Grid different from existing IT infrastructure?
 
-The TF Grid is a hyper-distributed Edge network - Unlike the majority of Internet infrastructure today, which are located in corporately own centralised, resourse intensive, billion dollar datacenters. We believe the internet should be owned by the people using it - not enormous profit driven companies. 
+The TF Grid is a hyper-distributed Edge network - Unlike the majority of Internet infrastructure today, which are located in corporately own centralised, resourse intensive, billion dollar datacenters. We believe the internet should be owned by the people using it - not enormous profit driven companies.
 
-In contrast, ThreeFold Nodes are decentralised and located very close to capacity users. The TF Grid is neutral, green and secure. 
+In contrast, ThreeFold Nodes are decentralised and located very close to capacity users. The TF Grid is neutral, green and secure.
 
 For more on this see [“Why do we need a new Internet” blog post](/information/need-for-new-neutral-internet/).
 
 ### What infrastructure is operating on The ThreeFold Grid?
 
-The TF Grid is built using standard off the shelf hardware running the ThreeFold Zero OS operating system. 
+The TF Grid is built using standard off the shelf hardware running the ThreeFold Zero OS operating system.
 
 The TF Grid is made up of large racks using off-the-shelf hardware components that are typically located in data centers - as well as pre-fabricated smaller / mobile boxes for hyperdistribution called ThreeFold Zero-Nodes.
 
@@ -49,11 +47,11 @@ The TF Directory publishes global available capacity, services and pricing of th
 
 ### When will I be able to use the TF Grid and TF Directory Service?
 
-Our Grid is already up and running. At the time of the launch for ThreeFold (March 1st 2018), more than 200 TF Farmers, are members - operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via the TF Directory. All purchases are made using ThreeFold Tokens through an API.
+Our Grid is already up and running with over 200 TF Farmers operating their own infrastructure and generating capacity. All available capacity on the Grid is registered for sale via the TF Directory. All purchases are made using ThreeFold Tokens through an API.
 
 ### What is the value of the TF Directory for a ThreeFold Farmer (TF Farmer)?
 
-TF Farmers who produce Internet IT capacity, using their own hardware, can make this capacity available for sale by placing it on the TF Directory. Farmers use the TF Directory to publish (market) available IT Capacity for sale and accept TF Tokens as payment. 
+TF Farmers who produce Internet IT capacity, using their own hardware, can make this capacity available for sale by placing it on the TF Directory. Farmers use the TF Directory to publish (market) available IT Capacity for sale and accept TF Tokens as payment.
 
 
 ### How are IT capacity sales transacted?

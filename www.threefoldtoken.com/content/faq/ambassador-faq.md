@@ -5,6 +5,7 @@ image = "../img/ambassador.jpg"
 author = ""
 subtitle = ""
 weight = 10
+draft = true
 +++
 
 # Ambassador
@@ -42,4 +43,4 @@ Please contact us, I am sure we can arrange an appropriate partnership.
 
 ## More Info
 
-For a list of definitions used see our [definitions document](https://github.com/threefoldtoken/legal/blob/master/definitions.md).
+For a list of definitions used see our [definitions document](https://docs.grid.tf/threefold/info/src/branch/master/legal/definitions.md).

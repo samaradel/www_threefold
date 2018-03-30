@@ -125,7 +125,8 @@ header,
 .text-name,
 .team-name,
 .button,
-.content-home {
+.content-home,
+.investors {
     text-align: center
 }
 
@@ -1170,7 +1171,7 @@ dataCenters p {
     background-position: right;
     background-color: #f1f1f1;
     height: auto;
-    padding: 44px 0;
+    padding: 65px 0;
     overflow: hidden;
 }
 
@@ -1354,9 +1355,10 @@ dataCenters p {
     overflow: hidden;
 }
 
-.app-content{
-  margin-top: 30px;
+.app-content {
+    margin-top: 30px;
 }
+
 .map {
     padding: 20px 0;
 }
@@ -1365,7 +1367,7 @@ dataCenters p {
 
 .contribute {
     background-color: #619e73;
-    padding: 30px 0;
+    padding:43px 0;
     overflow: hidden;
     color: #fff;
     text-align: center
@@ -1468,7 +1470,8 @@ dataCenters p {
 
 /* Open source sec */
 
-.open-source {
+.open-source,
+.investors {
     padding: 10px 0 60px;
     overflow: hidden;
 }
@@ -1623,6 +1626,71 @@ dataCenters p {
   .team .team-member {
     padding: 0 30px;
   } */
+
+.investors {
+    background-color: #fff;
+}
+
+.Content-outer {
+    min-height: 373px;
+}
+
+.investors-logo {
+    display: inline-block;
+    height: 150px;
+    width: 185px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+.investors-logo img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.investors-logo a {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding: 1rem;
+    width: 155px;
+    height: 150px;
+    background-color: #fff;
+    border: 1px solid #e5e9ee;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(173, 182, 188, .2);
+    box-shadow: 0 1px 4px 0 rgba(173, 182, 188, .2);
+    -webkit-transition: -webkit-transform .2s ease;
+    transition: -webkit-transform .2s ease;
+    -o-transition: transform .2s ease;
+    transition: transform .2s ease;
+    transition: transform .2s ease, -webkit-transform .2s ease;
+}
+
+.investors-logo a:hover {
+    -webkit-transform: translateY(-5px);
+    -ms-transform: translateY(-5px);
+    transform: translateY(-5px);
+}
+
+.investors .content-home h1 {
+    margin: .67em 0;
+}
+
+/* Fix slider imgs */
+
+.sy-slide {
+    left: 0;
+}
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .navbar {

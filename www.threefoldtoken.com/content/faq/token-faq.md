@@ -9,7 +9,7 @@ weight = 4
 
 # Why the ThreeFold Token
 
-For a list of definitions used see our [definitions document](https://github.com/threefoldtoken/legal/blob/master/definitions.md).
+For a list of definitions used see our [definitions document](https://docs.grid.tf/threefold/info/src/branch/master/legal/definitions.md).
 
 
 ### Why do we need a ThreeFold Token?
@@ -116,7 +116,7 @@ The TFT tokens will be issued on TF-Chain a blockchain setup for the TFT-foundat
 
 ### Where can I find the smart contract code?
 
-The TFT Smart Contract will be publicly available prior to our launch in March 2018.
+The TFT Smart Contract will be publicly available soon.
 
 ### Where can I find more technical information
 
