@@ -37,7 +37,7 @@ The technology behind ThreeFold Token is unique and open source:
 
 * A secure, scalable, and green blockchain built using a proof of stake consensus.
 
-*De Spiegeleer continues: "We already have more than 100 farmers that are producing capacity worth more than US $50 million, and more are connecting every day."*
+We already have more than 100 farmers that are producing capacity worth more than US $50 million, and more are connecting every day."
 
 Everybody is welcome to join the following cooperatives and become a TF Farmer:
 
@@ -53,7 +53,7 @@ Everybody is welcome to join the following cooperatives and become a TF Farmer:
 <br>
 **Alto Farm - Africa (Mauritius)**:[www.alto.farm](http://www.alto.farm/)
 
-*"We believe that individuals and companies will be empowered by a token designed as neutral cryptocurrency, backed by real assets and intended to last for generations," ends De Spiegeleer.*
+* We believe that individuals and companies will be empowered by a token designed as neutral cryptocurrency, backed by real assets and intended to last for generations.
 
 
 Please visit and [https://threefoldtoken.com](https://threefoldtoken.com) and connect with us at [https://t.me/threefoldtoken_chat](https://t.me/threefoldtoken_chat).
