@@ -1470,7 +1470,8 @@ dataCenters p {
 
 /* Open source sec */
 
-.open-source, .investors {
+.open-source,
+.investors {
     padding: 10px 0 60px;
     overflow: hidden;
 }
@@ -1683,6 +1684,12 @@ ul li {
 
 .investors .content-home h1 {
     margin: .67em 0;
+}
+
+/* Fix slider imgs */
+
+.sy-slide {
+    left: 0;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
