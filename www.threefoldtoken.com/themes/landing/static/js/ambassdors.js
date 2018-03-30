@@ -92,7 +92,6 @@ $(function () {
                     a.append(photoDiv);
                     parent.append(a);
                     amp.append(parent);
-                    console.log(details);
                 }
             }
         }
