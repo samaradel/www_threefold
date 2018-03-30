@@ -2,8 +2,8 @@
 
 #Don't remove name!
 title = "ThreeFold Press Release"
-image = "../img/10x-times-power.jpg"
-author = "Kristof de Spiegeleer"
+image = "../img/unbranded.jpg"
+author = "Stela Suils Cuesta"
 subtitle = "ThreeFold Grid Launch"
 weight = 1
 
@@ -60,7 +60,6 @@ Please visit and [https://threefoldtoken.com](https://threefoldtoken.com) and co
 
 
 
-<br>
 <br>
 <br>
 <br>
