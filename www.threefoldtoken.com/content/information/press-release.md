@@ -11,7 +11,7 @@ weight = 1
 
 ### THREEFOLD IS BUILDING A NEW INTERNET & LAUNCHES TOKEN
 
-*DUBAI - March 30, 2018 *- The ThreeFold Foundation, a nonprofit organization, is thrilled to announce the launch of the **ThreeFold Token** (TFT) and the **ThreeFold Grid**, a new and neutral internet.
+DUBAI - March 30, 2018 - The ThreeFold Foundation, a nonprofit organization, is thrilled to announce the launch of the **ThreeFold Token** (TFT) and the **ThreeFold Grid**, a new and neutral internet.
 
 ThreeFold is creating a new internet, based on innovative technologies and powered by millions of people, and is launching a unique digital currency backed by internet infrastructure.
 
