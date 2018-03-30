@@ -1171,7 +1171,7 @@ dataCenters p {
     background-position: right;
     background-color: #f1f1f1;
     height: auto;
-    padding: 44px 0;
+    padding: 65px 0;
     overflow: hidden;
 }
 
@@ -1367,7 +1367,7 @@ dataCenters p {
 
 .contribute {
     background-color: #619e73;
-    padding: 30px 0;
+    padding:43px 0;
     overflow: hidden;
     color: #fff;
     text-align: center
