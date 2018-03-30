@@ -39,17 +39,17 @@ We already have more than 100 farmers that are producing capacity worth more tha
 
 Everybody is welcome to join the following cooperatives and become a TF Farmer:
 
-**BetterToken - Western Europe (Belgium)**:[www.bettertoken.com](http://www.bettertoken.com/)
+**BetterToken - Western Europe (Belgium)**: [www.bettertoken.com](http://www.bettertoken.com/)
 <br>
-**Mazraa - Middle East (Dubai, UAE)**:[www.mazraa.io](http://www.mazraa.io/)
+**Mazraa - Middle East (Dubai, UAE)**: [www.mazraa.io](http://www.mazraa.io/)
 <br>
-**Safe City - Middle East (Abu Dhabi, UAE)**:[www.safecityfarm.com](http://www.safecityfarm.com/)
+**Safe City - Middle East (Abu Dhabi, UAE)**: [www.safecityfarm.com](http://www.safecityfarm.com/)
 <br>
-**Bancadati - Central/Southern Europe (Switzerland)**:[www.bancadati.farm](http://www.bancadati.farm/)
+**Bancadati - Central/Southern Europe (Switzerland)**: [www.bancadati.farm](http://www.bancadati.farm/)
 <br>
-**Future Capacity - Western Europe (United Kingdom)**:[thefuturecapacity.com](http://thefuturecapacity.com/)
+**Future Capacity - Western Europe (United Kingdom)**: [www.thefuturecapacity.com](http://www.thefuturecapacity.com/)
 <br>
-**Alto Farm - Africa (Mauritius)**:[www.alto.farm](http://www.alto.farm/)
+**Alto Farm - Africa (Mauritius)**: [www.alto.farm](http://www.alto.farm/)
 
 
 We believe that individuals and companies will be empowered by a token designed as neutral cryptocurrency, backed by real assets and intended to last for generations.
