@@ -15,7 +15,7 @@ DUBAI - March 30, 2018 - The ThreeFold Foundation, a nonprofit organization, is 
 
 ThreeFold is creating a new Internet, based on innovative technologies and powered by millions of people, and is launching a unique digital currency backed by Internet infrastructure.
 
-*"The Internet today is not neutral; it’s mostly delivered and controlled by a few tech giants. It’s time to take it back," says Kristof De Spiegeleer, Founder at the Threefold Foundation*
+*"The Internet today is not neutral; it’s mostly delivered and controlled by a few tech giants.
 
 The TFT is a very different type of token:
 
