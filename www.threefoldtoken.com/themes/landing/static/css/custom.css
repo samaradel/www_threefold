@@ -1367,7 +1367,7 @@ dataCenters p {
 
 .contribute {
     background-color: #619e73;
-    padding:43px 0;
+    padding: 43px 0;
     overflow: hidden;
     color: #fff;
     text-align: center
@@ -1383,7 +1383,8 @@ dataCenters p {
     margin: 20px auto;
 }
 
-.contribute a {
+.contribute a,
+.dive .content a {
     display: inline-block;
     padding: 21px 34px;
     font-size: 12px;
@@ -1472,7 +1473,7 @@ dataCenters p {
 
 .open-source,
 .investors {
-    padding: 10px 0 60px;
+    padding: 10px 0 20px;
     overflow: hidden;
 }
 
@@ -1692,6 +1693,54 @@ ul li {
     left: 0;
 }
 
+.dive {
+    background: url('../img/ref.jpg') no-repeat;
+    height: 182px;
+}
+
+.dive .content {
+    margin: 30px 0 14px;
+    text-align: center;
+}
+
+.dive .content h1 {
+    color: #fff;
+    font-weight: 300;
+}
+
+.dive .content a {
+    padding: 10px 30px;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.more-video a {
+    animation: shake 0.82s cubic-bezier(.36, .07, .19, .97) both;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+}
+
+@keyframes shake {
+    10%,
+    90% {
+        transform: translate3d(-1px, 0, 0);
+    }
+    20%,
+    80% {
+        transform: translate3d(2px, 0, 0);
+    }
+    30%,
+    50%,
+    70% {
+        transform: translate3d(-4px, 0, 0);
+    }
+    40%,
+    60% {
+        transform: translate3d(4px, 0, 0);
+    }
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .navbar {
         border-radius: 0px !important;
@@ -1730,6 +1779,9 @@ ul li {
     }
     .Header-nav {
         font-size: 10px;
+    }
+    .dive .content h1 {
+        font-size: 160%;
     }
 }
 
@@ -1975,6 +2027,14 @@ ul li {
     }
     .header .introWords h2 {
         text-align: center;
+    }
+    .dive {
+        background-position: 35% 100%;
+    }
+    .dive .content {
+        margin: 0px;
+        padding: 10px;
+        font-size: 80%;
     }
 }
 
