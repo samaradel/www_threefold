@@ -11,13 +11,12 @@ weight = 1
 
 ### THREEFOLD IS BUILDING A NEW INTERNET & LAUNCHES TOKEN
 
-DUBAI - March 30, 2018 - The ThreeFold Foundation, a nonprofit organization, is thrilled to announce the launch of the **ThreeFold Token** (TFT) and the **ThreeFold Grid**, a new and neutral Internet.
+DUBAI - March 30, 2018 - The ThreeFold Foundation, a nonprofit organization, is thrilled to announce the launch of the **ThreeFold Toke** (TFT) and the **ThreeFold Grid**, a new and neutral Internet.
 
-ThreeFold is creating a new Internet, based on innovative technologies and powered by millions of people, and is launching a unique digital currency backed by Internet infrastructure.
+The Internet today is not neutral; it’s mostly delivered and controlled by a few tech giants. We have a dream to create a new Internet, an Internet which is funded by all of us, based on unique technology and giving birth to a new exciting digital currency which is backed by value = the Internet Capacity that we are providing together.
 
-*"The Internet today is not neutral; it’s mostly delivered and controlled by a few tech giants.
 
-The TFT is a very different type of token:
+Our Digital Currency called TFT is a very different type of token:
 
 * TFT is a real crypto asset, backed by globally decentralized Internet capacity = the ThreeFold Grid;
 
@@ -37,7 +36,7 @@ The technology behind ThreeFold Token is unique and open source:
 
 * A secure, scalable, and green blockchain built using a proof of stake consensus.
 
-We already have more than 100 farmers that are producing capacity worth more than US $50 million, and more are connecting every day."
+We already have more than 100 farmers that are producing capacity worth more than US $50 million, and more are connecting every day.
 
 Everybody is welcome to join the following cooperatives and become a TF Farmer:
 
