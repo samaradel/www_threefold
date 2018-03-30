@@ -1,7 +1,7 @@
 +++
 
 #Don't remove name!
-title = "We Are Live!"
+title = "ThreeFold Press Release!"
 image = "../img/10x-times-power.jpg"
 author = "Kristof de Spiegeleer"
 subtitle = "ThreeFold Grid Launch"
@@ -55,7 +55,6 @@ Everybody is welcome to join the following cooperatives and become a TF Farmer:
 
 "We believe that individuals and companies will be empowered by a token designed as neutral cryptocurrency, backed by real assets and intended to last for generations," ends De Spiegeleer.
 
-*/end*
 
 Please visit and [https://threefoldtoken.com](https://threefoldtoken.com) and connect with us at [https://t.me/threefoldtoken_chat](https://t.me/threefoldtoken_chat).
 
