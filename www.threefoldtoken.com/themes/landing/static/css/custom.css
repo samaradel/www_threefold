@@ -1753,6 +1753,9 @@ ul li {
     .Header-nav {
         font-size: 10px;
     }
+    .dive .content h1 {
+        font-size: 160%;
+    }
 }
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
@@ -1997,6 +2000,14 @@ ul li {
     }
     .header .introWords h2 {
         text-align: center;
+    }
+    .dive {
+        background-position: 35% 100%;
+    }
+    .dive .content {
+        margin: 0px;
+        padding: 10px;
+        font-size: 80%;
     }
 }
 
