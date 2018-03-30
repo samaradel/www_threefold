@@ -19,23 +19,23 @@ ThreeFold is creating a new Internet, based on innovative technologies and power
 
 The TFT is a very different type of token:
 
-* - TFT is a real crypto asset, backed by globally decentralized Internet capacity = the ThreeFold Grid;
+* TFT is a real crypto asset, backed by globally decentralized Internet capacity = the ThreeFold Grid;
 
-* - There has been no ICO (Initial Coin Offering); every token created is the result of connecting computer and storage hardware to the Internet;
+* There has been no ICO (Initial Coin Offering); every token created is the result of connecting computer and storage hardware to the Internet;
 
-* - TFTs are mined like Bitcoin but the mining is green and delivers useful Internet capacity: storage and computing capacity for any kind of IT workload = farming;
+* TFTs are mined like Bitcoin but the mining is green and delivers useful Internet capacity: storage and computing capacity for any kind of IT workload = farming;
 
-* - Six farmer cooperatives are active and helping Threefold to onboard new farmers;
+* Six farmer cooperatives are active and helping Threefold to onboard new farmers;
 
-* - Our token has implemented *atomic swaps* (atomic cross-chain trading), an exciting new blockchain technology that enables the exchange of one cryptocurrency for another without a centralized exchange. Over ten cryptocurrencies will be supported at launch.
+* Our token has implemented *atomic swaps* (atomic cross-chain trading), an exciting new blockchain technology that enables the exchange of one cryptocurrency for another without a centralized exchange. Over ten cryptocurrencies will be supported at launch.
 
 The technology behind ThreeFold Token is unique and open source:
 
-* - A new operating system that delivers Internet capacity at up to 10 times less power use than today’s datacenters;
+* A new operating system that delivers Internet capacity at up to 10 times less power use than today’s datacenters;
 
-* - A distributed self-healing system that can manage millions of Internet nodes;
+* A distributed self-healing system that can manage millions of Internet nodes;
 
-* - A secure, scalable, and green blockchain built using a proof of stake consensus.
+* A secure, scalable, and green blockchain built using a proof of stake consensus.
 
 *De Spiegeleer continues: "We already have more than 100 farmers that are producing capacity worth more than US $50 million, and more are connecting every day."*
 
@@ -60,7 +60,10 @@ Please visit and [https://threefoldtoken.com](https://threefoldtoken.com) and co
 
 
 
-
+<br>
+<br>
+<br>
+<br>
 **Media Contact:**
 
 Stela S. Cuesta
