@@ -1367,7 +1367,7 @@ dataCenters p {
 
 .contribute {
     background-color: #619e73;
-    padding:43px 0;
+    padding: 43px 0;
     overflow: hidden;
     color: #fff;
     text-align: center
@@ -1383,7 +1383,8 @@ dataCenters p {
     margin: 20px auto;
 }
 
-.contribute a {
+.contribute a,
+.dive .content a {
     display: inline-block;
     padding: 21px 34px;
     font-size: 12px;
@@ -1690,6 +1691,27 @@ ul li {
 
 .sy-slide {
     left: 0;
+}
+
+.dive {
+    background: url('../img/ref.jpg') no-repeat;
+    height: 182px;
+}
+
+.dive .content {
+    margin: 30px 0 14px;
+    text-align: center;
+}
+
+.dive .content h1 {
+    color: #fff;
+    font-weight: 300;
+}
+
+.dive .content a {
+    padding: 10px 30px;
+    color: #fff;
+    border: 1px solid #fff;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
