@@ -5,7 +5,7 @@ title = "The need for a new, neutral Internet"
 image = "../img/neutral-internet.jpg"
 author = "Kristof De Spiegeleer"
 subtitle = "The internet is growing like crazy. This is a Trillion Dollar problem. Together we can build a new internet."
-weight = 1
+weight = 13
 
 +++
 
