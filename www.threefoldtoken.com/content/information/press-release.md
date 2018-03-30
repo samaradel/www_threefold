@@ -9,21 +9,21 @@ weight = 1
 
 +++
 
-### THREEFOLD IS BUILDING A NEW INTERNET & LAUNCHES TOKEN
+### THREEFOLD IS BUILDING A NEW Internet & LAUNCHES TOKEN
 
-DUBAI - March 30, 2018 - The ThreeFold Foundation, a nonprofit organization, is thrilled to announce the launch of the **ThreeFold Token** (TFT) and the **ThreeFold Grid**, a new and neutral internet.
+DUBAI - March 30, 2018 - The ThreeFold Foundation, a nonprofit organization, is thrilled to announce the launch of the **ThreeFold Token** (TFT) and the **ThreeFold Grid**, a new and neutral Internet.
 
-ThreeFold is creating a new internet, based on innovative technologies and powered by millions of people, and is launching a unique digital currency backed by internet infrastructure.
+ThreeFold is creating a new Internet, based on innovative technologies and powered by millions of people, and is launching a unique digital currency backed by Internet infrastructure.
 
-*"The Internet today is not neutral; it’s mostly delivered and controlled by a few tech giants. It’s time to take it back," says Kristof De Spiegeleer, **Founder at the Threefold Foundation**.*
+**"The Internet today is not neutral; it’s mostly delivered and controlled by a few tech giants. It’s time to take it back," says Kristof De Spiegeleer,** Founder at the Threefold Foundation
 
 The TFT is a very different type of token:
 
-* TFT is a real crypto asset, backed by globally decentralized internet capacity = the ThreeFold Grid;
+* TFT is a real crypto asset, backed by globally decentralized Internet capacity = the ThreeFold Grid;
 
-* There has been no ICO (Initial Coin Offering); every token created is the result of connecting computer and storage hardware to the internet;
+* There has been no ICO (Initial Coin Offering); every token created is the result of connecting computer and storage hardware to the Internet;
 
-* TFTs are mined like Bitcoin but the mining is green and delivers useful internet capacity: storage and computing capacity for any kind of IT workload = farming;
+* TFTs are mined like Bitcoin but the mining is green and delivers useful Internet capacity: storage and computing capacity for any kind of IT workload = farming;
 
 * Six farmer cooperatives are active and helping Threefold to onboard new farmers;
 
@@ -31,9 +31,9 @@ The TFT is a very different type of token:
 
 The technology behind ThreeFold Token is unique and open source:
 
-* A new operating system that delivers internet capacity at up to 10 times less power use than today’s datacenters;
+* A new operating system that delivers Internet capacity at up to 10 times less power use than today’s datacenters;
 
-* A distributed self-healing system that can manage millions of internet nodes;
+* A distributed self-healing system that can manage millions of Internet nodes;
 
 * A secure, scalable, and green blockchain built using a proof of stake consensus.
 
