@@ -15,7 +15,7 @@ DUBAI - March 30, 2018 - The ThreeFold Foundation, a nonprofit organization, is 
 
 ThreeFold is creating a new Internet, based on innovative technologies and powered by millions of people, and is launching a unique digital currency backed by Internet infrastructure.
 
-*"The Internet today is not neutral; it’s mostly delivered and controlled by a few tech giants.
+*"The Internet today is not neutral; it’s mostly delivered and controlled by a few tech giants."*
 
 The TFT is a very different type of token:
 
@@ -37,7 +37,7 @@ The technology behind ThreeFold Token is unique and open source:
 
 * A secure, scalable, and green blockchain built using a proof of stake consensus.
 
-*De Spiegeleer continues: "We already have more than 100 farmers that are producing capacity worth more than US $50 million, and more are connecting every day."*
+*"De Spiegeleer continues: "We already have more than 100 farmers that are producing capacity worth more than US $50 million, and more are connecting every day."*
 
 Everybody is welcome to join the following cooperatives and become a TF Farmer:
 
@@ -53,7 +53,7 @@ Everybody is welcome to join the following cooperatives and become a TF Farmer:
 <br>
 **Alto Farm - Africa (Mauritius)**: [www.alto.farm](http://www.alto.farm/)
 
-*"We believe that individuals and companies will be empowered by a token designed as neutral cryptocurrency, backed by real assets and intended to last for generations," ends De Spiegeleer.*
+*"We believe that individuals and companies will be empowered by a token designed as neutral cryptocurrency, backed by real assets and intended to last for generations," ends De Spiegeleer."*
 
 
 Please visit and [https://threefoldtoken.com](https://threefoldtoken.com) and connect with us at [https://t.me/threefoldtoken_chat](https://t.me/threefoldtoken_chat).
