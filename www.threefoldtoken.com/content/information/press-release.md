@@ -13,10 +13,9 @@ weight = 1
 
 DUBAI - March 30, 2018 - The ThreeFold Foundation, a nonprofit organization, is thrilled to announce the launch of the **ThreeFold Toke** (TFT) and the **ThreeFold Grid**, a new and neutral Internet.
 
-The Internet today is not neutral; it’s mostly delivered and controlled by a few tech giants. We have a dream to create a new Internet, an Internet which is funded by all of us, based on unique technology and giving birth to a new exciting digital currency which is backed by value = the Internet Capacity that we are providing together.
+The Internet today is not neutral, it’s delivered and controlled by a few tech giants. We have a dream to create a new Internet, an Internet which is funded by all of us. To fund and promote the growth of this new neutral Internet we have created a new exciting digital currency called TFT. 
 
-
-Our Digital Currency called TFT is a very different type of token:
+This Digital Currency called TFT is a very different type of token:
 
 * TFT is a real crypto asset, backed by globally decentralized Internet capacity = the ThreeFold Grid;
 
