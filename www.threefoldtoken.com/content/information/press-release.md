@@ -41,17 +41,17 @@ The technology behind ThreeFold Token is unique and open source:
 
 Everybody is welcome to join the following cooperatives and become a TF Farmer:
 
-**BetterToken - Western Europe (Belgium):[ www.bettertoken.com](http://www.bettertoken.com/)
+**BetterToken - Western Europe (Belgium)**:[ www.bettertoken.com](http://www.bettertoken.com/)
 
-Mazraa - Middle East (Dubai, UAE):[ www.mazraa.io](http://www.mazraa.io/)
+**Mazraa - Middle East (Dubai, UAE)**:[ www.mazraa.io](http://www.mazraa.io/)
 
-Safe City - Middle East (Abu Dhabi, UAE):[ www.safecityfarm.com](http://www.safecityfarm.com/)
+**Safe City - Middle East (Abu Dhabi, UAE)**:[ www.safecityfarm.com](http://www.safecityfarm.com/)
 
-Bancadati - Central/Southern Europe (Switzerland):[ www.bancadati.farm](http://www.bancadati.farm/)
+**Bancadati - Central/Southern Europe (Switzerland)**:[ www.bancadati.farm](http://www.bancadati.farm/)
 
-Future Capacity - Western Europe (United Kingdom):[ www.](http://www.futurecapacity.com/)[futurecapacity.com](http://www.futurecapacity.com/)
+**Future Capacity - Western Europe (United Kingdom)**:[ www.](http://www.futurecapacity.com/)[futurecapacity.com](http://www.futurecapacity.com/)
 
-Alto Farm - Africa (Mauritius):[ www.alto.farm](http://www.alto.farm/)**
+**Alto Farm - Africa (Mauritius)**:[ www.alto.farm](http://www.alto.farm/)**
 
 *"We believe that individuals and companies will be empowered by a token designed as neutral cryptocurrency, backed by real assets and intended to last for generations," ends De Spiegeleer.*
 
@@ -65,6 +65,6 @@ Please visit and [https://threefoldtoken.com](https://threefoldtoken.com) and co
 
 Stela S. Cuesta
 +971 50 9273907  
-stela@threefoldtoken.com
+[Stela@ThreeFoldToken.com](mailto:stela@threefoldtoken.com)
 
 * * *
