@@ -55,12 +55,11 @@ Everybody is welcome to join the following cooperatives and become a TF Farmer:
 We believe that individuals and companies will be empowered by a token designed as neutral cryptocurrency, backed by real assets and intended to last for generations.
 
 
-Please visit [threefoldtoken.com](https://threefoldtoken.com) and connect with us at [threefoldtoken chat](https://t.me/threefoldtoken_chat).
+-- Visit our token website: [tftokens.com](http://www.tftokens.com/)
 
+-- Visit our foundation website: [threefoldtoken.com](https://threefoldtoken.com)
 
-* Visit our token website: [www.tftokens.com/](http://www.tftokens.com/).
-* Visit our foundation website: [threefoldtoken.com](https://threefoldtoken.com).
-* Connect with us at [t.me/threefoldtoken_chat](https://t.me/threefoldtoken_chat).
+-- Connect with us at [threefoldtoken chat](https://t.me/threefoldtoken_chat)
 
 <br>
 <br>
