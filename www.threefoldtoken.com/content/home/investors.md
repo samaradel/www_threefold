@@ -4,7 +4,7 @@
 title = "investors"
 
 co_header = "farming cooperatives"
-bancadati_link = "http://www.bancadati.ch/en/"
+bancadati_link = "http://www.bancadati.farm"
 bancadati_img = "/img/bancadati-logo.png"
 
 bt_link = "https://bettertoken.com/"
