@@ -42,3 +42,21 @@ bio=""
 nationality=""
 why= ""
 weight=4
+
+[[operator]]
+name="TheFutureCapacity"
+avatar="theFutureCapacity.png"
+link="http://www.thefuturecapacity.com/"
+bio=""
+nationality=""
+why= ""
+weight=6
+
+[[operator]]
+name="SafeCity"
+avatar="safe-city.png"
+link="http://www.safecity.com/"
+bio=""
+nationality=""
+why= ""
+weight=7
