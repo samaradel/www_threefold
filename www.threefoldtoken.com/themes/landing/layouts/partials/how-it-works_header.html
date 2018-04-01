@@ -1,72 +1,110 @@
-{{ range $element :=  $.Site.Pages }}
-  {{ if eq .Section "how-it-works" }}
+{{ range $element := $.Site.Pages }} 
+  {{ if eq .Section "how-it-works" }} 
     {{ if eq .Title "header" }}
-        <div class="logo-container">
-           <a href="/"> <img src="{{ .Params.img }}" alt="{{ .Params.alt }}"></a>
+      <style>
+        .navbar-collapse.collapse {
+          padding-left: 10%;
+        }
+
+        .affix .navbar-collapse.collapse {
+          padding-left: 25%;
+        }
+      </style>
+      <div class="logo-container">
+        <a href="/">
+          <img src="{{ .Params.img }}" alt="{{ .Params.alt }}">
+        </a>
+      </div>
+      <section class="itWorks-page howWorks-header">
+        <nav class="navbar Header-nav" role="navigation" id="nav" data-spy="affix" data-offset-top="133">
+          <div class="col-xs-12 col-sm-12">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header navbar-inner">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div id="navbar" class="collapse navbar-collapse">
+              <ul class="nav navbar-nav navbar-left">
+                <li>
+                  <a href="/" class="Header-nav-item">Idea
+                    <span class="sr-only">(current)</span>
+                  </a>
+                </li>
+                <li class="dropdown open">
+                  <a href="/how-it-works" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="true">how it works</a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <a href="/how-it-works/#challenge">Challenge</a>
+                    </li>
+                    <li>
+                      <a href="/how-it-works/#solution">Solution</a>
+                    </li>
+                    <li>
+                      <a href="/how-it-works/#token">Token</a>
+                    </li>
+                    <li>
+                      <a href="/how-it-works/#pricing">Pricing</a>
+                    </li>
+                    <li>
+                      <a href="/how-it-works/#participate">Participate</a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="/information" class="Header-nav-item">Information</a>
+                </li>
+                <li>
+                  <a href="/faq" class="Header-nav-item">FAQ</a>
+                </li>
+                <li>
+                  <a href="/community" class="Header-nav-item">Community</a>
+                </li>
+                <li>
+                  <a href="/team" class="Header-nav-item">Team</a>
+                </li>
+                <li>
+                  <a href="/app" class="Header-nav-item">app</a>
+                </li>
+              </ul>
+
+              <ul class="nav navbar-nav navbar-right social">
+                <li class="social-li">
+                  <a href="{{ .Params.telegram }}">
+                    <img src="{{ .Params.telegram_img }}" alt="ThreeFoldToken Telegram">
+                  </a>
+                </li>
+                <li class="social-li">
+                  <a href="{{ .Params.youtube }}">
+                    <img src="{{ .Params.youtube_img }}" alt="ThreeFoldToken Youtube">
+                  </a>
+                </li>
+                <li class="social-li">
+                  <a href="{{ .Params.linkedin }}">
+                    <img src="{{ .Params.linkedin_img }}" alt="ThreeFoldToken LinkedIn">
+                  </a>
+                </li>
+                <li class="social-li">
+                  <a href="{{ .Params.facebook }}">
+                    <img src="{{ .Params.facebook_img }}" alt="ThreeFoldToken facebook">
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+        <div class="col-xs-12">
+          <div class="row">
+            <div class="col-sm-1"></div>
+            <div class="col-sm-10 introTxt">{{ .Content }}</div>
+            <div class="col-sm-1"></div>
+          </div>
         </div>
-        <section class="itWorks-page howWorks-header">
-              <nav class="navbar Header-nav center" role="navigation" id="nav" data-spy="affix" data-offset-top="133">
-                <!-- Brand and toggle get grouped for better mobile display -->
-                <div class="navbar-header navbar-inner">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    </button>
-                </div>
-                <!-- Collect the nav links, forms, and other content for toggling -->
-                <div id="navbar" class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav left">
-                      <li><a href="/" class="Header-nav-item">Idea <span class="sr-only">(current)</span></a></li>
-                      <li class="dropdown open">
-                         <a href="/how-it-works" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="true">how it works</a>
-                         <ul class="dropdown-menu">
-                           <li><a href="/how-it-works/#challenge">Challenge</a></li>
-                           <li><a href="/how-it-works/#solution">Solution</a></li>
-                           <li><a href="/how-it-works/#token">Token</a></li>
-                           <li><a href="/how-it-works/#pricing">Pricing</a></li>
-                           <li><a href="/how-it-works/#participate">Participate</a></li>
-                         </ul>
-                       </li>
-                      <li><a href="/information" class="Header-nav-item">Information</a></li>
-                      <li><a href="/faq" class="Header-nav-item">FAQ</a></li>
-                      <li><a href="/community" class="Header-nav-item">Community</a></li>
-                      <li><a href="/team" class="Header-nav-item">Team</a></li>
-                      <li><a href="/app" class="Header-nav-item">app</a></li>
-                    </ul>
-                    <ul class="nav navbar-nav navbar-right social">
-                      <li class="social-li">
-                        <a href="https://t.me/threefoldtoken">
-                          <img src="/img/telegram.png" alt="ThreeFoldToken Telegram">
-                        </a>
-                      </li>
-                      <li class="social-li">
-                        <a href="https://www.youtube.com/channel/UCKMNPuhs-8tHYfGd92krC8w">
-                          <img src="/img/youtube.png" alt="ThreeFoldToken Youtube">
-                        </a>
-                      </li>
-                      <li class="social-li">
-                        <a href="https://www.linkedin.com/company/13594159/">
-                          <img src="/img/linkedin.png" alt="ThreeFoldToken LinkedIn">
-                        </a>
-                      </li>
-                      <li class="social-li">
-                        <a href="https://www.facebook.com/ThreeFoldCommunity">
-                          <img src="/img/facebook-white.png" alt="ThreeFoldToken facebook">
-                        </a>
-                      </li>
-                    </ul>
-                </div>
-              </nav>
-               <div class="col-xs-12">
-                 <div class="row">
-                   <div class="col-sm-1"></div>
-                   <div class="col-sm-10 introTxt">{{ .Content }}</div>
-                   <div class="col-sm-1"></div>
-                 </div>
-               </div>
-        </section>
-    {{end}}
-  {{end}}
+      </section>
+    {{end}} 
+  {{end}} 
 {{end}}
