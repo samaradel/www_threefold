@@ -1,11 +1,11 @@
 [[operator]]
 name="Bancadati"
 avatar="banc.png"
-link="http://www.bancadati.ch/en/"
+link="http://www.bancadati.farm"
 bio=""
 nationality=""
 why= ""
-
+weight=3
 
 [[operator]]
 name="Bettertoken"
@@ -14,6 +14,7 @@ link="https://bettertoken.com/"
 bio=""
 nationality=""
 why= ""
+weight=1
 
 [[operator]]
 name="Gig Europe"
@@ -22,6 +23,7 @@ link="https://www.gigeurope.tech"
 bio=""
 nationality=""
 why= ""
+weight=5
 
 [[operator]]
 name="Mazraa"
@@ -30,6 +32,7 @@ link="https://www.mazraa.io/"
 bio=""
 nationality=""
 why= ""
+weight=2
 
 [[operator]]
 name="Alto"
@@ -38,3 +41,22 @@ link="http://www.alto.mu"
 bio=""
 nationality=""
 why= ""
+weight=4
+
+[[operator]]
+name="TheFutureCapacity"
+avatar="theFutureCapacity.png"
+link="http://www.thefuturecapacity.com/"
+bio=""
+nationality=""
+why= ""
+weight=6
+
+[[operator]]
+name="SafeCity"
+avatar="safe-city.png"
+link="http://www.safecityfarm.com/"
+bio=""
+nationality=""
+why= ""
+weight=7

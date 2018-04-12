@@ -116,7 +116,7 @@ The TFT tokens will be issued on TF-Chain a blockchain setup for the TFT-foundat
 
 ### Where can I find the smart contract code?
 
-The TFT Smart Contract will be publicly available prior to our launch in March 2018.
+The TFT Smart Contract will be publicly available soon.
 
 ### Where can I find more technical information
 

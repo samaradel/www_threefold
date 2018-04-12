@@ -5,7 +5,7 @@ title = "The need for a new, green utility digital currency"
 image = "../img/the_need_for_new.jpg"
 author = "Baker Yanicelli"
 subtitle = "The world needs a new stable & green utility digital currency, which is usable globally."
-weight = 1
+weight = 3
 
 +++
 

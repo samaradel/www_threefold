@@ -69,28 +69,30 @@ $(function () {
 
     var renderOps = function (dataset) {
         var amp = $("<div></div>").addClass('rj-team');
-        var details = dataset;
-        var added = []
+
+        function sortWeight(a, b) {
+            return a.weight - b.weight;
+        }
+        var details = dataset.sort(sortWeight);
+        var added = [];
+
         if (details) {
-            while (true) {
+            for (var i = 0; i < details.length; ++i) {
                 if (added.length === details.length) {
                     break;
                 }
-                var index = Math.floor(Math.random() * details.length);
-                if (added.includes(index)) {
-                    continue;
-                }
-                added.push(index);
-                var random_details = details[index];
+                added.push(details);
                 var parent = $("<div>").addClass("rj-team-member");
                 var photoDiv = $("<div>").addClass('farmer-photo');
-                var a = $('<a>').prop('href', random_details.link).prop('target', '_blank');
+                var a = $('<a>').prop('href', details[i].link).prop('target', '_blank');
                 var img = $("<img/>").addClass('rj-team-member-photo-rollover');
-                img.prop('src', '../avatars/' + encodeURIComponent(random_details.avatar));
-                photoDiv.append(img);
-                a.append(photoDiv);
-                parent.append(a);
-                amp.append(parent);
+                if (details[i].weight > 0) {
+                    img.prop('src', '../avatars/' + encodeURIComponent(details[i].avatar));
+                    photoDiv.append(img);
+                    a.append(photoDiv);
+                    parent.append(a);
+                    amp.append(parent);
+                }
             }
         }
         return amp;
