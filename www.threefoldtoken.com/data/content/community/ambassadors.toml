@@ -503,3 +503,13 @@ why="Internet capacity is the fastest growing commodity in the world and the cre
 bio="Nino has 25+ years of experience in the ICT market, building and leading winning teams and partnerships. Always in Sales and Marketing roles, he has an international career's path and a proven ability to create world-class organizations, nurture enduring client and partners relationships and win new business. He held senior/executive roles at firms like Digital Equipment, Compaq, EMC, Riverbed and Ericsson, he was the CEO of an Italian System Integrator and he is an expert in new business development, merge and acquisition, partnerships and complex opportunities management. He has been one of the pioneers of the Cloud wave, working on big Cloud transformation projects together with Service Providers and consulting firms. He has a degree in Business Economics from the University of Pavia, Italy. He is a relentless supporter of Inter Football Club."
 avatar="Nino D'Auria.jpg"
 link=""
+
+[[ambassador]]
+x=6 # 0 <= X < 4
+y=4 # 0 <= Y < 5
+name="Milind Sathe"
+nationality="Indian"
+why="I believe ThreeFold Foundation’s idea holds great promise to empower local communities, develop much needed skills to face the challenges of the impending fourth industrial revolution and make businesses more competitive by making available low cost affordable digital resources."
+bio="Extensive international experience in senior management positions with The Coca-Cola Company in managing operations in diverse emerging markets across continents. Proven track record in building organizational culture, multi-national leadership teams, coaching, mentoring and change management. Passionate about traveling, making friends, experiencing new cultures and cuisines."
+avatar="Milind Sathe.jpg"
+link=""
