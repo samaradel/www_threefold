@@ -1643,7 +1643,7 @@ dataCenters p {
 }
 
 ul li {
-    display: inline-block;
+    display: block;
 }
 
 .investors-logo img {
