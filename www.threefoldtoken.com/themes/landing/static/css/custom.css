@@ -95,7 +95,8 @@ header,
 }
 
 .tweak-blog-list-style-grid .faq-item,
-.tweak-blog-list-style-grid .info-item {
+.tweak-blog-list-style-grid .info-item,
+.navbar-nav>li {
     float: none
 }
 
@@ -423,13 +424,15 @@ a {
 }
 
 .social {
-    padding-left: 20px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }
 
 #nav.affix {
     left: 0;
     z-index: 999;
-    padding-right: 21%;
     padding-left: 17%;
     box-shadow: 0 7px 7px 0 rgba(0, 0, 0, .15);
     position: fixed;
@@ -1741,12 +1744,69 @@ ul li {
     }
 }
 
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 10px;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+#main {
+    transition: margin-left .5s;
+    padding: 16px;
+    margin-left: -100px;
+}
+
+.social li {
+    display: inline-block;
+    text-align: center
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+    .sidenav a {
+        font-size: 18px;
+    }
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .navbar {
         border-radius: 0px !important;
     }
     .navbar-nav {
         float: none
+    }
+    .navbar-nav>li {
+        float: none;
     }
     p,
     .dataCenters h1 {
@@ -2015,10 +2075,6 @@ ul li {
     .nav {
         padding-right: 0px;
     }
-    #nav.affix {
-        padding-right: 0;
-        padding-left: 0;
-    }
     .social li {
         display: inline-block;
     }
@@ -2050,10 +2106,6 @@ ul li {
     }
     .header .introWords {
         margin-top: 85px;
-    }
-    #nav.affix {
-        padding-left: 0px;
-        padding-right: 0px;
     }
 }
 
