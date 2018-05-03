@@ -91,7 +91,7 @@ video.addEventListener('click', () => {
 });
 
 function openNav() {
-    document.getElementById("mySidenav").style.width = "335px";
+    document.getElementById("mySidenav").style.width = "20%";
     document.getElementById("main").style.display = 'none';
 }
 
