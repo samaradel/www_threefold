@@ -513,3 +513,13 @@ why="I believe ThreeFold Foundation’s idea holds great promise to empower loca
 bio="Extensive international experience in senior management positions with The Coca-Cola Company in managing operations in diverse emerging markets across continents. Proven track record in building organizational culture, multi-national leadership teams, coaching, mentoring and change management. Passionate about traveling, making friends, experiencing new cultures and cuisines."
 avatar="Milind Sathe.jpg"
 link=""
+
+[[ambassador]]
+x=6 # 0 <= X < 4
+y=5 # 0 <= Y < 5
+name="Kevin Louis Obeegadoo"
+nationality="British and Mauritian"
+why="With a unique, realistic, and achievable solution to building a green, decentralised, distributed, and neutral IT infrastructure globally, committed to true values and charity, how can anyone not believe in the ThreeFold Foundation vision ?  "
+bio="Kevin enjoys 20+ years’ consulting across private and government sectors, on strategy, value creation, and assisting in structuring for international business, and is based in Mauritius since 2001. Having consulted across various business sectors including Automobile, Financial Services, FMCG, IT and Telecommunications, Media, Property Development & Management, he enjoys team‐working on game-changing projects, creating value, and moving businesses to new levels, while being committed to charitable and social endeavours."
+avatar="Kevin Obeegadoo.jpg"
+link=""
