@@ -1799,12 +1799,19 @@ ul li {
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
+    cursor: pointer;
 }
 
 #main {
     transition: margin-left .5s;
     padding: 16px;
     margin-left: -100px;
+    cursor: pointer;
+}
+
+#main span {
+    font-size: 15px;
+    text-transform: uppercase;
 }
 
 .social li {
