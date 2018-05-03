@@ -110,7 +110,8 @@ header,
 
 .navbar .navbar-nav {
     display: inline-block;
-    float: none
+    float: none;
+    margin-top: 45px;
 }
 
 header,
@@ -149,7 +150,11 @@ header .nav {
 }
 
 .nav>li>a:hover {
-    background-color: transparent
+    background-color: initial;
+}
+
+.nav>li:hover {
+    text-decoration: underline;
 }
 
 .Header-nav {
@@ -425,9 +430,13 @@ a {
 
 .social {
     padding-right: 25px;
-    position: absolute;
-    bottom: 0;
-    right: 0;
+    color: #818181;
+    margin-left: 15px;
+}
+
+.social span {
+    display: block;
+    float: left;
 }
 
 #nav.affix {
@@ -1314,6 +1323,11 @@ dataCenters p {
     margin-right: -14px;
 }
 
+.social-li img {
+    height: 25px;
+    width: 25px;
+}
+
 .contribute h1,
 .contribute h2 {
     color: #fff;
@@ -1647,6 +1661,10 @@ dataCenters p {
 
 ul li {
     display: block;
+    -webkit-transition: -webkit-transform .2s ease;
+    transition: -webkit-transform .2s ease;
+    -o-transition: transform .2s ease;
+    transition: transform .2s ease;
 }
 
 .investors-logo img {
@@ -1751,10 +1769,16 @@ ul li {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #111;
+    background-color: #fff;
     overflow-x: hidden;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
     transition: 0.5s;
     padding-top: 60px;
+    -moz-box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 2px 0 15px -4px #ccc, -2px 0 15px -4px #ccc;
+    -webkit-box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 2px 0 15px -4px #ccc, -2px 0 15px -4px #ccc;
+    box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 2px 0 15px -4px #ccc, -2px 0 15px -4px #ccc;
 }
 
 .sidenav a {
@@ -1763,16 +1787,15 @@ ul li {
     font-size: 15px;
     color: #818181;
     display: block;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
     transition: 0.3s;
-}
-
-.sidenav a:hover {
-    color: #f1f1f1;
 }
 
 .sidenav .closebtn {
     position: absolute;
-    top: 10px;
+    top: 115px;
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
@@ -2091,6 +2114,9 @@ ul li {
         margin: 0px;
         padding: 10px;
         font-size: 80%;
+    }
+    .social span {
+        text-align: center;
     }
 }
 
