@@ -503,3 +503,33 @@ why="Internet capacity is the fastest growing commodity in the world and the cre
 bio="Nino has 25+ years of experience in the ICT market, building and leading winning teams and partnerships. Always in Sales and Marketing roles, he has an international career's path and a proven ability to create world-class organizations, nurture enduring client and partners relationships and win new business. He held senior/executive roles at firms like Digital Equipment, Compaq, EMC, Riverbed and Ericsson, he was the CEO of an Italian System Integrator and he is an expert in new business development, merge and acquisition, partnerships and complex opportunities management. He has been one of the pioneers of the Cloud wave, working on big Cloud transformation projects together with Service Providers and consulting firms. He has a degree in Business Economics from the University of Pavia, Italy. He is a relentless supporter of Inter Football Club."
 avatar="Nino D'Auria.jpg"
 link=""
+
+[[ambassador]]
+x=6 # 0 <= X < 4
+y=4 # 0 <= Y < 5
+name="Milind Sathe"
+nationality="Indian"
+why="I believe ThreeFold Foundation’s idea holds great promise to empower local communities, develop much needed skills to face the challenges of the impending fourth industrial revolution and make businesses more competitive by making available low cost affordable digital resources."
+bio="Extensive international experience in senior management positions with The Coca-Cola Company in managing operations in diverse emerging markets across continents. Proven track record in building organizational culture, multi-national leadership teams, coaching, mentoring and change management. Passionate about traveling, making friends, experiencing new cultures and cuisines."
+avatar="Milind Sathe.jpg"
+link=""
+
+[[ambassador]]
+x=6 # 0 <= X < 4
+y=5 # 0 <= Y < 5
+name="Kevin Louis Obeegadoo"
+nationality="British and Mauritian"
+why="With a unique, realistic, and achievable solution to building a green, decentralised, distributed, and neutral IT infrastructure globally, committed to true values and charity, how can anyone not believe in the ThreeFold Foundation vision ?  "
+bio="Kevin enjoys 20+ years’ consulting across private and government sectors, on strategy, value creation, and assisting in structuring for international business, and is based in Mauritius since 2001. Having consulted across various business sectors including Automobile, Financial Services, FMCG, IT and Telecommunications, Media, Property Development & Management, he enjoys team‐working on game-changing projects, creating value, and moving businesses to new levels, while being committed to charitable and social endeavours."
+avatar="Kevin Obeegadoo.jpg"
+link=""
+
+[[ambassador]]
+x=6 # 0 <= X < 4
+y=6 # 0 <= Y < 5
+name="Richard Sutton"
+nationality="British"
+why="I am thrilled by everything ThreeFold Foundation stands for and promises to be. The bright-eyed skills and gravitas of its creators and executors; the neatness and purity of its vision and form; its sustainability and neutrality; and its foundational mission to contribute. ThreeFold Foundation is a trail-blazing example of a higher state of consciousness in business.  It’s a shaft of light in a tortured, still descending world and a manifestation of something genius."
+bio="Richard is a business-builder, creative and an esoteric cosmologist. He has a 30-year career founded in the automobile business, first as writer and publisher, then as electronic media entrepreneur, and moreover as an international event promoter, showman and brand-builder. He has worked with a wide variety of heritage brands, mostly in the high-end and auto sectors, but does so as an ardent protector of our environment and nurturer of right-action. "
+avatar="Richard Sutton.jpeg"
+link=""
