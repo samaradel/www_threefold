@@ -533,3 +533,13 @@ why="I am thrilled by everything ThreeFold Foundation stands for and promises to
 bio="Richard is a business-builder, creative and an esoteric cosmologist. He has a 30-year career founded in the automobile business, first as writer and publisher, then as electronic media entrepreneur, and moreover as an international event promoter, showman and brand-builder. He has worked with a wide variety of heritage brands, mostly in the high-end and auto sectors, but does so as an ardent protector of our environment and nurturer of right-action. "
 avatar="Richard Sutton.jpeg"
 link=""
+
+[[ambassador]]
+x=6 # 0 <= X < 4
+y=7 # 0 <= Y < 5
+name="Kyle Weber"
+nationality="American"
+why="I believe in ThreeFold Foundation because I believe in the people behind the movement."
+bio="Kyle has spent the last 10 years working in/on sustainability projects ranging from large scale commercial solar farms to rural NGO tuberculosis control programs. He has worked on a number of startups and founder of EVERA, a Dubai-based organization trying to make mobility more sustainable. Everyday he tries very hard not to be an idiot, or take himself too seriously. Sometimes he is successful."
+avatar="Kyle Weber.jpeg"
+link=""
