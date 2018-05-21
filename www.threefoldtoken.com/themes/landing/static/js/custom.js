@@ -81,6 +81,7 @@ $("a[data-toggle=\"tab\"]").click(function (e) {
 
 // video handler
 const video = document.getElementById('video');
+const menu = document.getElementById('main');
 video.addEventListener('click', () => {
     if (video.paused) {
         video.play();
@@ -90,12 +91,20 @@ video.addEventListener('click', () => {
     return false;
 });
 
-function openNav() {
+menu.addEventListener('click', () => {
     document.getElementById("mySidenav").style.width = "20%";
     document.getElementById("main").style.display = 'none';
-}
+});
 
-function closeNav() {
+function closeBtn() {
     document.getElementById("mySidenav").style.width = "0";
     document.getElementById("main").style.display = 'block';
+
 }
+
+$(document).on("click", function (event) {
+    var $trigger = $(menu);
+    if ($trigger !== event.target && !$trigger.has(event.target).length) {
+        closeBtn();
+    }
+});
