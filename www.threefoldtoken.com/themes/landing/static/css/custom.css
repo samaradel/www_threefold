@@ -95,8 +95,7 @@ header,
 }
 
 .tweak-blog-list-style-grid .faq-item,
-.tweak-blog-list-style-grid .info-item,
-.navbar-nav>li {
+.tweak-blog-list-style-grid .info-item {
     float: none
 }
 
@@ -110,8 +109,7 @@ header,
 
 .navbar .navbar-nav {
     display: inline-block;
-    float: none;
-    margin-top: 45px;
+    float: none
 }
 
 header,
@@ -146,15 +144,11 @@ header .nav {
 }
 
 .nav {
-    padding: 0 35px;
+    padding-right: 49px;
 }
 
 .nav>li>a:hover {
-    background-color: initial;
-}
-
-.nav>li:hover {
-    text-decoration: underline;
+    background-color: transparent
 }
 
 .Header-nav {
@@ -429,19 +423,13 @@ a {
 }
 
 .social {
-    padding-right: 25px;
-    color: #818181;
-    margin-left: 15px;
-}
-
-.social span {
-    display: block;
-    float: left;
+    padding-left: 20px;
 }
 
 #nav.affix {
     left: 0;
     z-index: 999;
+    padding-right: 21%;
     padding-left: 17%;
     box-shadow: 0 7px 7px 0 rgba(0, 0, 0, .15);
     position: fixed;
@@ -1323,11 +1311,6 @@ dataCenters p {
     margin-right: -14px;
 }
 
-.social-li img {
-    height: 25px;
-    width: 25px;
-}
-
 .contribute h1,
 .contribute h2 {
     color: #fff;
@@ -1660,11 +1643,7 @@ dataCenters p {
 }
 
 ul li {
-    display: block;
-    -webkit-transition: -webkit-transform .2s ease;
-    transition: -webkit-transform .2s ease;
-    -o-transition: transform .2s ease;
-    transition: transform .2s ease;
+    display: inline-block;
 }
 
 .investors-logo img {
@@ -1715,7 +1694,7 @@ ul li {
 }
 
 .dive {
-    background: url('../img/original2.jpg') no-repeat;
+    background: url('../img/ref.jpg') no-repeat;
     height: 182px;
 }
 
@@ -1762,81 +1741,12 @@ ul li {
     }
 }
 
-.sidenav {
-    height: 100%;
-    width: 0;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: #fff;
-    overflow-x: hidden;
-    -webkit-transition: 0.5s;
-    -moz-transition: 0.5s;
-    -o-transition: 0.5s;
-    transition: 0.5s;
-    padding-top: 60px;
-    -moz-box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 2px 0 15px -4px #ccc, -2px 0 15px -4px #ccc;
-    -webkit-box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 2px 0 15px -4px #ccc, -2px 0 15px -4px #ccc;
-    box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 2px 0 15px -4px #ccc, -2px 0 15px -4px #ccc;
-}
-
-.sidenav a {
-    padding: 8px 8px 8px 32px;
-    text-decoration: none;
-    font-size: 15px;
-    color: #818181;
-    display: block;
-    -webkit-transition: 0.3s;
-    -moz-transition: 0.3s;
-    -o-transition: 0.3s;
-    transition: 0.3s;
-}
-
-.sidenav .closebtn {
-    position: absolute;
-    top: 115px;
-    right: 25px;
-    font-size: 36px;
-    margin-left: 50px;
-    cursor: pointer;
-}
-
-#main {
-    transition: margin-left .5s;
-    padding: 16px;
-    margin-left: -100px;
-    cursor: pointer;
-}
-
-#main span {
-    font-size: 15px;
-    text-transform: uppercase;
-}
-
-.social li {
-    display: inline-block;
-    text-align: center
-}
-
-@media screen and (max-height: 450px) {
-    .sidenav {
-        padding-top: 15px;
-    }
-    .sidenav a {
-        font-size: 18px;
-    }
-}
-
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .navbar {
         border-radius: 0px !important;
     }
     .navbar-nav {
         float: none
-    }
-    .navbar-nav>li {
-        float: none;
     }
     p,
     .dataCenters h1 {
@@ -2105,6 +2015,10 @@ ul li {
     .nav {
         padding-right: 0px;
     }
+    #nav.affix {
+        padding-right: 0;
+        padding-left: 0;
+    }
     .social li {
         display: inline-block;
     }
@@ -2122,9 +2036,6 @@ ul li {
         padding: 10px;
         font-size: 80%;
     }
-    .social span {
-        text-align: center;
-    }
 }
 
 @media (min-width: 768px) {
@@ -2139,6 +2050,10 @@ ul li {
     }
     .header .introWords {
         margin-top: 85px;
+    }
+    #nav.affix {
+        padding-left: 0px;
+        padding-right: 0px;
     }
 }
 

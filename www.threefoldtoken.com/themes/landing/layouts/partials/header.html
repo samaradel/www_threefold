@@ -1,5 +1,35 @@
 {{ range $element := $.Site.Pages }} {{ if eq .Section "header" }} {{ if eq .Title "header" }}
 
+<style>
+  .more-video a {
+    animation: shake 0.82s cubic-bezier(.36, .07, .19, .97) both;
+    transform: translate3d(0, 0, 0);
+  }
+
+  @keyframes shake {
+    10%,
+    90% {
+      transform: translate3d(-1px, 0, 0);
+    }
+
+    20%,
+    80% {
+      transform: translate3d(2px, 0, 0);
+    }
+
+    30%,
+    50%,
+    70% {
+      transform: translate3d(-4px, 0, 0);
+    }
+
+    40%,
+    60% {
+      transform: translate3d(4px, 0, 0);
+    }
+  }
+</style>
+
 <div class="logo-container">
   <a href="/">
     <img src="{{ .Params.img }}" alt="{{ .Params.alt }}">
@@ -9,12 +39,18 @@
   <nav class="navbar Header-nav" role="navigation" id="nav" data-spy="affix" data-offset-top="133">
     <div class="col-xs-12 col-sm-1"></div>
     <div class="col-xs-12 col-sm-11">
-      <div id="mySidenav" class="sidenav">
-        <a class="closebtn">&times;</a>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header navbar-inner">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav navbar-left">
-          <li>
-            <a style="color:#699ee3;text-decoration: none;">Menu</a>
-          </li>
           <li>
             <a href="/" class="Header-nav-item">Idea
               <span class="sr-only">(current)</span>
@@ -40,11 +76,7 @@
           </li>
         </ul>
 
-        <div class="clear-fix"></div>
-
-        <ul class="nav navbar-nav navbar-left social">
-          <span>follow us on</span>
-          <div class="clear-fix"></div>
+        <ul class="nav navbar-nav navbar-right social">
           <li class="social-li">
             <a href="{{ .Params.telegram }}">
               <img src="{{ .Params.telegram_img }}" alt="ThreeFoldToken Telegram">
@@ -67,12 +99,6 @@
           </li>
         </ul>
       </div>
-
-      <div id="main">
-        <span style="font-size:20px;font-weight:bold;">&#9776;</span>
-        <span>menu</span>
-      </div>
-
     </div>
   </nav>
   <div class="col-xs-12 col-sm-1"></div>
@@ -95,5 +121,4 @@
   </div>
   <div class="col-xs-12 col-sm-1"></div>
 </section>
-
 {{end}} {{end}} {{end}}
