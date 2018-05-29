@@ -1,16 +1,16 @@
-{{ range $element := .Data.Pages }} 
-    {{ if eq .Section "home" }} 
+{{ range $element := .Data.Pages }}
+    {{ if eq .Section "home" }}
         {{ if eq .Title "join us" }}
             <div class="col-sm-2"></div>
             <div class="dive">
                 <div class="col-sm-8">
                     <div class="content">
-                        <h1>{{ .Params.header }}</h1>
+                        <h2 style="color:#fff;">{{ .Params.header }} </h2>
                         <a href="{{ .Params.link_link }}">{{ .Params.link_txt }}</a>
                     </div>
                 </div>
             </div>
             <div class="clear-fix"></div>
-        {{end}} 
-    {{end}} 
+        {{end}}
+    {{end}}
 {{end}}

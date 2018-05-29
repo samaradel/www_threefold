@@ -1,7 +1,7 @@
 +++
 #Don't remove name!
 title = "join us"
-header = "Join Us As We Dive Into The Deep"
-link_link = "/information/press-release/"
+header = "WE HAVE LAUNCHED 3 NEW WEBSITES!"
+link_link = "/information/four-new-websites/"
 link_txt = "Read more"
 +++

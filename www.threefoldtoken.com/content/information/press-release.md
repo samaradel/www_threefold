@@ -13,7 +13,7 @@ weight = 1
 
 DUBAI - March 30, 2018 - The ThreeFold Foundation, a nonprofit organization, is thrilled to announce the launch of the **ThreeFold Token** (TFT) and the **ThreeFold Grid**, a new and neutral Internet.
 
-The Internet today is not neutral, it’s delivered and controlled by a few tech giants. We have a dream to create a new Internet, an Internet which is funded by all of us. To fund and promote the growth of this new neutral Internet we have created a new exciting digital currency called TFT. 
+The Internet today is not neutral, it’s delivered and controlled by a few tech giants. We have a dream to create a new Internet, an Internet which is funded by all of us. To fund and promote the growth of this new neutral Internet we have created a new exciting digital currency called TFT.
 
 This Digital Currency called TFT is a very different type of token:
 
@@ -55,7 +55,7 @@ Everybody is welcome to join the following cooperatives and become a TF Farmer:
 We believe that individuals and companies will be empowered by a token designed as neutral cryptocurrency, backed by real assets and intended to last for generations.
 
 
--- Visit our token website: [tftokens.com](http://www.tftokens.com/)
+-- Visit our token website: [tftokens.com](http://tftokens.com/)
 
 -- Visit our foundation website: [threefoldtoken.com](https://threefoldtoken.com)
 

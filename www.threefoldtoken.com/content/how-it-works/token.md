@@ -5,7 +5,7 @@ title = "token"
 
 weight = 5
 +++
-## To make it happen seamlessly across the world we have created the ThreeFold Token (TFF)!
+## To make it happen seamlessly across the world we have created the ThreeFold Token (TFT)!
 
 ## **So what is this token?**
 
