@@ -25,7 +25,7 @@ Everything you need to know is on here.
 Or less of a techie but still want to add capacity to our grid through a Farming Cooperative?
 This is the website you want to keep an eye out for!
 
-**ThreeFold Radar**: [threefoldradar.info](http://threefoldradar.com/)
+**ThreeFold Radar**: [threefoldradar.info](http://threefoldradar.info)
 <br> All the latest info on trade volumes, farmed blocks, tokens pricing, and more can be found here in a quick overview.
 Please note that the maps in the bottom are not yet a true representation of the current state of our grid; this will be updated soon!
 
