@@ -25,20 +25,15 @@ Are you a techie looking to build your own DIY farm and add it to our grid?
 Or less of a techie but still want to add capacity to our grid through a Farming Cooperative?
 This is the website you want to keep an eye out for!
 
-**ThreeFold Radar **: [threefoldradar.info](http://threefoldradar.com/)
+**ThreeFold Radar**: [threefoldradar.info](http://threefoldradar.com/)
 All the latest info on trade volumes, farmed blocks, tokens pricing, and more can be found here in a quick overview.
 Please note that the maps in the bottom are not yet a true representation of the current state of our grid; this will be updated soon!
 
-**ThreeFold Radar **: [threefoldradar.info](http://threefoldradar.info/)
-All the latest info on trade volumes, farmed blocks, tokens pricing, and more can be found here in a quick overview.
-Please note that the maps in the bottom are not yet a true representation of the current state of our grid; this will be updated soon!
-
-
-**ThreeFold Impact **: [threefoldimpact.com](http://threefolimpact.com/)
+**ThreeFold Impact**: [threefoldimpact.com](http://threefolimpact.com/)
 ThreeFold Impact is a socially responsible development vehicle seeded by the threefold foundation to accelerate adoption of the threefold cloud technology in emerging markets.
 
 
-**ThreeFold Foundation **: [threefoldtoken.com](http://threefoldtoken.com/)
+**ThreeFold Foundation**: [threefoldtoken.com](http://threefoldtoken.com/)
 Will soon get an overhaul as well to get all of our websites in the same line and look & feel.
 We will keep you posted on our social media channels and weekly updates.. 
 
