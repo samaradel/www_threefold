@@ -2,7 +2,7 @@
 
 #Don't remove name!
 title = "Four New Websites"
-image = "../img/four-new-sites.jpg"
+image = "../img/four-new-sites.png"
 author = "Roel van Sabben"
 subtitle = "Our ever moving Foundation"
 weight = 1
